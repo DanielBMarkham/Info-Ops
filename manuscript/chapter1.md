@@ -136,7 +136,7 @@ It's only been 90 seconds.
 
 "We've totally lost control of the plane. We don't understand at all...We've tried everything."
 
-##
+## -
 
 ![](images/air-france-447-wing-recovery.png)
 
@@ -163,5 +163,3 @@ Some small teams and large companies take this information and consistently make
 I'm not going to tell you what to do with information. It's an unsolved problem and there are tons of management theories and books out there that will do a much better job than this one ever could. I'm going to tell you how to categorize and manage your information flow so that the people that produce and consume the information are getting the maximum value for the minimum amount of work.
 
 That's this book.
-
-
