@@ -6,7 +6,11 @@ People die.
 
 ![](images/a330-flight-deck-forward.png)
 
-But Marc Dubois wasn't thinking that as he walked out on the Rio de Janeiro airport tarmac on May 31, 2009. It was a beautiful evening, light winds and unlimited visibility. Dubois looked up at the Airbus 330 that he was going to fly from Rio to Paris. There was nothing to be worried about. Just the usual convection storms around the equator.
+But Marc Dubois wasn't thinking that as he walked out on the Rio de Janeiro airport tarmac on May 31, 2009. It was a beautiful evening, light winds and unlimited visibility[^1-1]. Dubois looked up at the Airbus 330 that he was going to fly from Rio to Paris. There was nothing to be worried about. Just the usual convection storms around the equator[^1-2].
+
+[^1-1]: Weather history for Rio de Janeiro was sourced from the Weather Underground. https://www.wunderground.com/history/airport/SBRJ/2009/5/31/DailyHistory.html?req_city=&req_state=&req_statename=&reqdb.zip=&reqdb.magic=&reqdb.wmo=
+
+[^1-2]: The overall outline of what happened on flight 447 is taken from the Wikipedia entry on the crash. https://en.wikipedia.org/wiki/Air_France_Flight_447
 
 The flight was mostly full. There was a relatively new junior co-pilot on board, but even he had hundreds of hours in the plane and in the region. There was nothing to suggest anything was amiss. We don't know for sure, but in all likelihood, Dubois's mind was dwelling on his beautiful Brazillian mistress and the evening they had spent together the night before. He had only gotten about an hour of sleep. 
 
@@ -24,7 +28,9 @@ But that's not what happened. Instead, the two junior pilots at the controls now
 
 They enter a cloud bank. They switch on some heating systems to protect against icing. Everything is going as planned. They leave the cloud bank.
 
-"We seem to be out of the cloud layer," the senior copilot says, "It might be okay."
+"We seem to be out of the cloud layer," the senior copilot says, "It might be okay."[^1-3]
+
+[^1-3]: Specific quotes from the flight were taken from the English translation provided by Popular Mechanics. [http://www.popularmechanics.com/flight/a3115/what-really-happened-aboard-air-france-447-6611877/](http://www.popularmechanics.com/flight/a3115/what-really-happened-aboard-air-france-447-6611877/)
 
 Meanwhile the junior copilot has realized he has set the radar wrong. Instead of going between the worst of the storms, they're heading for the worst of them. His attention is directed to fixing the radar.
 
@@ -42,7 +48,9 @@ They're back in the storm. There's hail or ice hitting the front of the plane. T
 
 An alarm sounds. The plane is announcing that it is switching modes. Both pitot tubes have iced up. The pitot tubes provide direct information on how fast the airplane is flying by measuring how much pressure the incoming air has. Without the pitot tubes, the plane's autopilot is unable to directly determine the speed of the plane.
 
-Things like this happen all the time in aviation. Pilots train for it. The autpilot switches off. The plane's electronics switch from "normal law" to "alternate law 2" This means that the copilot is now flying the plane by hand -- and the plane's controls are responding in a different way than they used to. The electronics of the cockpit are working slightly different.
+Things like this happen all the time in aviation. Pilots train for it. The autpilot switches off. The plane's electronics switch from "normal law" to "alternate law 2" This means that the copilot is now flying the plane by hand -- and the plane's controls are responding in a different way than they used to. The electronics of the cockpit are working slightly different.[^1-4]
+
+[^1-4]: Wikipedia provides an overview of various flight modes. [https://en.wikipedia.org/wiki/Flight_control_modes#Alternate_law](https://en.wikipedia.org/wiki/Flight_control_modes#Alternate_law)
 
 Now they are truly in manual mode, the controls are operating differently, and the warnings and alerts are different.
 
@@ -56,7 +64,9 @@ The plane continues wobbling a bit as the pilots gets it level.
 
 As the senior copilot is doing this, he pulls back on the stick bringing the plane into a climb. There's no reason to do this, but it's human nature when in a plane to want to go slower and/or higher when you're uncertain what to do. The plane begins to climb, steeply. 
 
-Right away an alarm sounds that they are leaving their assigned altitude. Then the stall warning sounds, telling the pilots that they are pulling too hard back on the stick. It is believed that the flight director, however, shows that the plane is heading down, towards the ocean. More power is needed and the thrust must be increased.
+Right away an alarm sounds that they are leaving their assigned altitude. Then the stall warning sounds, telling the pilots that they are pulling too hard back on the stick. It is believed that the flight director, however, shows that the plane is heading down, towards the ocean. More power is needed and the thrust must be increased.[^1-5]
+
+[^1-5]: The theory that the copilot was actually following the flight director instead of figuring out on his own what was going on was advanced by the final report and Aviation International News, a publication focused on profesisonal aviation. (It's my uninformed belief that the crash was caused as much by the flight director as it was by the confusion in the cockpit) [https://www.ainonline.com/aviation-news/2012-07-08/final-af447-report-suggests-pilot-slavishly-followed-flight-director-pitch-commands](https://www.ainonline.com/aviation-news/2012-07-08/final-af447-report-suggests-pilot-slavishly-followed-flight-director-pitch-commands)
 
 The stall warning on an A330 is designed to be loud and impossible to ignore. It will sound 75 times over the next few minutes. The copilots make no mention of hearing it or respond to what it's telling them.
 
