@@ -14,7 +14,7 @@ But Marc Dubois wasn't thinking that as he walked out on the Rio de Janeiro airp
 
 [^1-2]: The overall outline of what happened on flight 447 is taken from the Wikipedia entry on the crash. https://en.wikipedia.org/wiki/Air_France_Flight_447
 
-The flight was mostly full. There was a relatively new junior co-pilot on board, but even he had hundreds of hours in the plane and in the region. There was nothing to suggest anything was amiss. We don't know for sure, but in all likelihood, Dubois's mind was dwelling on his beautiful Brazillian mistress and the evening they had spent together the night before. He had only gotten about an hour of sleep. 
+The flight was mostly full. There was a relatively new junior co-pilot on board, but even he had hundreds of hours in the plane and in the region. There was nothing to suggest anything was amiss. We don't know for sure, but in all likelihood, Dubois's mind was dwelling on his beautiful Brazilian mistress and the evening they had spent together the night before. He had only gotten about an hour of sleep. 
 
 Yawning, he watched a few light clouds blow in from the sea. As the sun slowly sank in the tropical sky, the plane loaded up and excitement was in the air. Soon they would be in Paris.
 
@@ -26,7 +26,7 @@ He reminds them that they're entering the normal thunderstorm area and to be car
 
 They will all be dead within 15 minutes. Experts agree that had the pilot gotten more sleep the night before, had he stayed in the cockpit just a little longer, nothing would have ever happened.
 
-But that's not what happened. Instead, the two junior pilots at the controls now call the flight attendents in the back and let them know there will be some turbulence ahead. No need to worry the passengers, but you flight attendents probably should grab a seat.
+But that's not what happened. Instead, the two junior pilots at the controls now call the flight attendants in the back and let them know there will be some turbulence ahead. No need to worry the passengers, but you flight attendants probably should grab a seat.
 
 They enter a cloud bank. They switch on some heating systems to protect against icing. Everything is going as planned. They leave the cloud bank.
 
@@ -44,7 +44,7 @@ Due to the turbulence, the plane had started banking a bit to the right.
 
 "You can possibly pull it a little to the left. We're agreed that we're in manual, yeah?"
 
-The plane has the autpilot on, but the copilot is "helping" by fixing the tilt.
+The plane has the autopilot on, but the copilot is "helping" by fixing the tilt.
 
 They're back in the storm. There's hail or ice hitting the front of the plane. The junior copilot slows the plane to the correct speed for entering areas of turbulence. 
 
@@ -68,7 +68,7 @@ As the senior copilot is doing this, he pulls back on the stick bringing the pla
 
 Right away an alarm sounds that they are leaving their assigned altitude. Then the stall warning sounds, telling the pilots that they are pulling too hard back on the stick. It is believed that the flight director, however, shows that the plane is heading down, towards the ocean. More power is needed and the thrust must be increased.[^1-5]
 
-[^1-5]: The theory that the copilot was actually following the flight director instead of figuring out on his own what was going on was advanced by the final report and Aviation International News, a publication focused on profesisonal aviation. (It's my uninformed belief that the crash was caused as much by the flight director as it was by the confusion in the cockpit) [https://www.ainonline.com/aviation-news/2012-07-08/final-af447-report-suggests-pilot-slavishly-followed-flight-director-pitch-commands](https://www.ainonline.com/aviation-news/2012-07-08/final-af447-report-suggests-pilot-slavishly-followed-flight-director-pitch-commands)
+[^1-5]: The theory that the copilot was actually following the flight director instead of figuring out on his own what was going on was advanced by the final report and Aviation International News, a publication focused on professional aviation. (It's my uninformed belief that the crash was caused as much by the flight director as it was by the confusion in the cockpit) [https://www.ainonline.com/aviation-news/2012-07-08/final-af447-report-suggests-pilot-slavishly-followed-flight-director-pitch-commands](https://www.ainonline.com/aviation-news/2012-07-08/final-af447-report-suggests-pilot-slavishly-followed-flight-director-pitch-commands)
 
 The stall warning on an A330 is designed to be loud and impossible to ignore. It will sound 75 times over the next few minutes. The copilots make no mention of hearing it or respond to what it's telling them.
 
@@ -84,7 +84,7 @@ The senior copilot looks around at the controls. "What's this?"
 
 "We've lost the speeds, then?"
 
-The plane is now zooming as fast as it can directly up into the top of the storm it is in, moving vertically at 7,000 feet-per-minute. As the nose points up, the forward speed drops, eventually going as low as 60mph.
+The plane is now zooming as fast as it can directly up into the top of the storm it is in, moving vertically at 7,000 feet-per-minute. As the nose points up, the forward speed drops, eventually going as low as 60 mph.
 
 The junior pilot, the new guy, notes the error and tries to correct the copilot flying.
 
@@ -130,7 +130,7 @@ Now both pitot tubes have unfroze. Everything is coming back to normal.
 
 "It'm in TOGA, huh?"
 
-Now we get a view into the senior copilot's thinking. TOGA is takeoff configuration: slow airspeed, nose up, full takeoff power. He wants to get the hell out of Dodge. But that configuation only works at ground level. At the highest the plane can fly, if you point the nose up like that, no matter how much power you have, the plane is coming down out of the sky.
+Now we get a view into the senior copilot's thinking. TOGA is takeoff configuration: slow airspeed, nose up, full takeoff power. He wants to get the hell out of Dodge. But that configuration only works at ground level. At the highest the plane can fly, if you point the nose up like that, no matter how much power you have, the plane is coming down out of the sky.
 
 They call this area of flight "coffin corner", and for good reason. You are very limited on the things you can do that work. Turning the engines completely back to idle and pointing the nose down a bit is probably the best move, but even then you have to be really careful you don't overspeed the airframe.
 
@@ -146,15 +146,19 @@ It's only been 90 seconds.
 
 "We've lost control of the plane!"
 
-"We've totally lost control of the plane. We don't understand at all...We've tried everything."
+"We've totally lost control of the plane. We don't understand at all...We've tried everything."[^1-6]
+
+[^1-6]: For the record, there is a procedure called "unreliable airspeed" in the A330 which involves disconnecting the flight director. The problem here, of course, is that the pitot tubes were only frozen up for a couple of minutes -- and some parts iced over, unfroze, then iced over again. In a busy cockpit, with a lot going on, I for one don't understand how you could diagnose an intermittent condition. Pilots train on partial instruments all the time, but the bear of the thing is that instruments rarely are just bad or good. Instead they can fluctuate back and forth, working fine one minute and giving you bad information the next.
 
 ## -
 
 ![](images/air-france-447-wing-recovery.png)
 
-It was a dark and stormy night in the tropic Atlantic on the morning of June 1st, 2009. Aside from the storm and waves, nothing else was happening. There were no fishermen or transport ships. It was totally empty when Air France 447 came plumetting down through the clouds and impacted the ocean at over 120mph.
+It was a dark and stormy night in the tropic Atlantic on the morning of June 1st, 2009. Aside from the storm and waves, nothing else was happening. There were no fishermen or transport ships. It was totally empty when Air France 447 came plummeting down through the clouds and impacted the ocean at over 120mph.
 
 One of the last phrases heard on the cockpit voice recorder was this: "But what's happening?"
+
+And that's how a highly-trained crew flew a perfectly functioning airplane into the Atlantic ocean, killing everybody on board.
 
 As a pilot, programmer, and technical coach, when I read the final reports of the crash of Air France 447, I got angry. There was nothing wrong with the plane, it was a state-of-the-art machine that had a wonderful track record. There was nothing wrong with the pilots. Sure, everybody blames the pilots in these things. Sure it would have been nice if the senior pilot had gotten more sleep, or taken longer to leave the cockpit. But everybody was well-trained. I wouldn't have any problem at all flying with any of these guys.
 
@@ -170,7 +174,7 @@ No. What happened here happened sometime before first A330 ever flew. The plane 
 
 I've worked with technology teams in many different industries and in organizations of all sizes. Over 35 years, I've seen a ton of information flow: specs, requirements, backlogs, manuals, bug reports, marketing plans, CMM/CMMI plans, quality stats, statistical process control, and so on. Like the pilots in Air France 447, organizations are awash in information and data flowing every which way.
 
-Some small teams and large companies take this information and consistently make things people want with it. Some small teams and companies take this information and consistently underperform, having wonderful reports and presentations, but failing to deliver where it really matters. When the bad news finally hits, they're left saying "But what's happening?"
+Some small teams and large companies take this information and consistently make things people want with it. Some small teams and companies take this information and consistently under-perform, having wonderful reports and presentations, but failing to deliver where it really matters. When the bad news finally hits, they're left saying "But what's happening?"
 
 I'm not going to tell you what to do with information. It's an unsolved problem and there are tons of management theories and books out there that will do a much better job than this one ever could. I'm going to tell you how to categorize and manage your information flow so that the people that produce and consume the information are getting the maximum value for the minimum amount of work.
 
