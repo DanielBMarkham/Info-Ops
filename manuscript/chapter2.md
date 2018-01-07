@@ -138,5 +138,6 @@ Let's say this a little differently: *We want to make sure people have as much a
 
 On Air France 447, the key question was this: which was is the plane pointed? The pilots in that cockpit did not have the information they needed to know that they should have been asking that question. Sadder still, the people who designed, built, and trained the pilots did not have a shared mental model with the pilots in the cockpit that night enough to understand that what they thought they understood was not what the plane was telling them.
 
-Information doesn't get to the right people at the right time. People die.
+Many times we build things right -- they have quality, they conform to specs, they're easy-to-use and own. We just don't build the right things. The information flow is inadequate. Our models are different. Critical dialectics never happen.
 
+Information doesn't get to the right people at the right time. People die.
