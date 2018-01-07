@@ -20,7 +20,7 @@ Yawning, he watched a few light clouds blow in from the sea. As the sun slowly s
 
 They would all be dead within four hours.
 
-As the huge, 150+ ton airplane went nosewheel-up and began climbing into the sky, Dubois was at the controls. As senior pilot, he always took the controls on the first part of the flight. But the flight was too long for any one person to fly, so around 3.5 hours into the flight, he turned the controls over to the new guy, the junior copilot.
+As the huge, 150-ton airplane went nosewheel-up and began climbing into the sky, Dubois was at the controls. As senior pilot, he always took the controls on the first part of the flight. But the flight was too long for any one person to fly, so around 3.5 hours into the flight, he turned the controls over to the new guy, the junior copilot.
 
 He reminds them that they're entering the normal thunderstorm area and to be careful.
 
@@ -50,7 +50,7 @@ They're back in the storm. There's hail or ice hitting the front of the plane. T
 
 An alarm sounds. The plane is announcing that it is switching modes. Both pitot tubes have iced up. The pitot tubes provide direct information on how fast the airplane is flying by measuring how much pressure the incoming air has. Without the pitot tubes, the plane's autopilot is unable to directly determine the speed of the plane.
 
-Things like this happen all the time in aviation. Pilots train for it. The autpilot switches off. The plane's electronics switch from "normal law" to "alternate law 2" This means that the copilot is now flying the plane by hand -- and the plane's controls are responding in a different way than they used to. The electronics of the cockpit are working slightly different.[^1-4]
+Things like this happen all the time in aviation. Pilots train for it. The autopilot switches off. The plane's electronics switch from "normal law" to "alternate law 2" This means that the copilot is now flying the plane by hand -- and the plane's controls are responding in a different way than they used to. The electronics of the cockpit are working slightly different.[^1-4]
 
 [^1-4]: Wikipedia provides an overview of various flight modes. [https://en.wikipedia.org/wiki/Flight_control_modes#Alternate_law](https://en.wikipedia.org/wiki/Flight_control_modes#Alternate_law)
 
@@ -128,7 +128,7 @@ At this point, the plane is in an odd situation, but nothing is broken, aside fr
 
 Now both pitot tubes have unfroze. Everything is coming back to normal.
 
-"It'm in TOGA, huh?"
+"I'm in TOGA, huh?"
 
 Now we get a view into the senior copilot's thinking. TOGA is takeoff configuration: slow airspeed, nose up, full takeoff power. He wants to get the hell out of Dodge. But that configuration only works at ground level. At the highest the plane can fly, if you point the nose up like that, no matter how much power you have, the plane is coming down out of the sky.
 

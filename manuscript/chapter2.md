@@ -136,8 +136,8 @@ So that's our end-state. When we talk about optimizing information flow, we mean
 
 Let's say this a little differently: *We want to make sure people have as much and only as much information needed to ask the best questions possible to get their job done.* No extra information. No digging around for information that's hard to get. No missing information. No waiting around. No misleading information. Just enough and exactly at the right time for productive dialectic to occur. And when dialectics occur, the results of those dialectics should go back into the system.
 
-On Air France 447, the key, simple question was this: which was is the plane's nose pointed? The pilots in that cockpit did not have the information they needed to know that they should have been asking that question. Sadder still, the people who designed, built, and trained the pilots did not have a shared mental model with the pilots in the cockpit that night enough to understand that what they thought they understood was not what the plane was telling them.
+On Air France 447, the key, simple question was this: which way is the plane's nose pointed? The pilots in that cockpit did not have the information they needed to know that they should have been asking that question. Sadder still, the people who designed, built, and trained the pilots did not have a shared mental model with the pilots in the cockpit that night enough to understand that what they thought they understood was not what the plane was telling them.
 
-Many times we build things right -- they have quality, they conform to specs, they're easy-to-use and own. We just don't build the right things. The information flow is inadequate. Our models are different. Critical dialectics never happen.
+Many times we *build things right* -- they have quality, they conform to specs, they're easy-to-use and own. We just don't *build the right things*. The information flow is inadequate. Our models are different. Critical dialectics never happen.
 
 Information doesn't get to the right people at the right time. People die.
