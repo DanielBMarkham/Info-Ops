@@ -150,7 +150,7 @@ It's only been 90 seconds.
 
 [^1-6]: For the record, there is a procedure called "unreliable airspeed" in the A330 which involves disconnecting the flight director. The problem here, of course, is that the pitot tubes were only frozen up for a couple of minutes -- and some parts iced over, unfroze, then iced over again. In a busy cockpit, with a lot going on, I for one don't understand how you could diagnose an intermittent condition. Pilots train on partial instruments all the time, but the bear of the thing is that instruments rarely are just bad or good. Instead they can fluctuate back and forth, working fine one minute and giving you bad information the next.
 
-## -
+## Night
 
 ![](images/air-france-447-wing-recovery.png)
 
