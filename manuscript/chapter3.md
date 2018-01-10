@@ -110,7 +110,7 @@ The Meta genre is the universe of people making products, our system for doing o
 
 Let's recap. Good information flow and management supports analysis (dialectics) around our job. To make these analysis conversations as easy, quick, and thorough as possible, we have to narrow our scope of engagement. Every conversation can't be about life, the universe, and everything. To narrow our analysis conversations, we're going to use a tagging system. Our first set of tags is called the genre tags. They are Business, System, and Meta. Every piece of information has one and only one of these three tags.
 
-We only have about a dozen tags we need to learn in three different sets. This is what we'll go over in the next chapters. Once have our tagging system,  we'll move to application.
+We only have about a dozen tags we need to learn in four different sets. This is what we'll go over in the next chapters. Once have our tagging system,  we'll move to application.
 
 This process, having a fixed way of organizing information in order to make it more useful wo that everything goes into one and only one spot is called **Structured Analysis**. Once you understand Structured Analysis, you'll find that a bunch of things that used to be difficult suddenly become very easy.
 

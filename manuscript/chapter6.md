@@ -1,4 +1,6 @@
 #Chapter 6
 
-## Model Synchronization
+## Temporal Indicators
+
+
 
