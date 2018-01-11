@@ -62,7 +62,17 @@ The more education we get, the more we realize that our entire life, while true 
 
 It's a short story, but one with a profound impact on how we view our lives. Are we going to continue to be concerned with the shadows of things, the things we experience everyday? Or are we able to move beyond the simple things we see on the cave wall and begin talking about reality how it actually exists?
 
-Like many important lessons, however, it works in multiple ways. One of the things that occured to people reading plato was that there was something we might best call *levels of abstraction*. The shadow of a duck is a duck in some way. The stuffed duck? Also a duck. Outside, the live duck? We might call it the "real duck" Then there's our idea of what a duck is. It exists only in our mind. For Plato, that would be the "true duck" The most ducky of ducks. The ultimate reality. Any kind of duck you could experience would simply be a version of the True Duck.
+Like many important lessons, however, it works in multiple ways. Plato, continuing in a long line of great thinkers coming up with a good idea and taking it too far, is on a roll about how education is difficult, painful, scary, and not appreciated by those without an education. But once you've seen the truth, you'll never want to go back. You can't.
+
+Just like the questioning/thesis/counter-thesis dialect thing of Socrates's, it's impossible to overstate what a huge impact this idea had on all of modern thought. Maybe you weren't finally understanding all of truth and beauty as you intellectually moved out of that cave, but there definitely was something God-like going on.
+
+And one of the immediate impacts the Allegory of the Cave had was religion. A lot of religion before the cave was story/allegory based. The gods were like us, they had feelings like us, relationships like us, and so on.
+
+Once people uderstood and started talking and thinking with Plato about how concepts worked like they did in the cave, they started asking questions and demanding answers about whether or not the things they believed in were represestations of reality in its purest form. When the New Testament's Gospel of John begins with "ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος." - "In the beginning was the Word, and the Word was with God, and the Word was God."? This is a philsophical, Platonic statement. Being able to talk about what we believe like this is something we owe to the Greeks.[^4-5]
+
+[^4-5] One of the catchphrases to use if you love learning history is "Athens, Rome, and Jerusalem", the point being that most all of modern western thought is a result of the intersection of important things that happened in those cities.
+
+Another of the things that occured to people reading Plato was that there was something we might best call *levels of abstraction*. The shadow of a duck is a duck in some way. The stuffed duck? Also a duck. Outside, the live duck? We might call it the "real duck" Then there's our idea of what a duck is. It exists only in our mind. For Plato, that would be the "true duck" The most ducky of ducks. The ultimate reality. Any kind of duck you could experience would simply be a version of the True Duck.
 
 For people who know object-oriented programming, this should sound familiar. In OO programming, we have templated classes, abstract classes, base classes, concrete classes. They all represent the same thing, but some of these are more abstract than others.
 
