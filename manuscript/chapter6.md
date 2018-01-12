@@ -40,4 +40,15 @@ I'm going to use pyrmids from here on out. The purpose of our grid is to show th
 
 ![](images/bucket-pyramids.png)
 
+The project with the DoD went very well. The customer was concerned that our super user group would disagree on critical components of the new system. That was a valid concern. They did disagree. But what we did was first talk about the "as-is" situation, outlining all the various ways the different units went through their job without respect for technology -- the **Business Applied As-is** Behaviors, Structures, and Supplementals.
+
+Everybody had a say in describing what world they came from and what was important in that world. Once I had all of the **Business Applied As-Is** items in place, I asked a simple question: "What sort of generic things are true across all of these instances?"
+
+The group was then able to describe generic behaviors, structures, and supplementals that would have to be true in the upcoming system. We were able to work at the **Business Abstract To-Be** level without any problems. From there, we took that agreement and did all kinds of other cool things we'll talk about later.
+
+What was the agency? What was the mission?
+
+I was working for the Defense Commissary Agency. They run a series of grocery stores all over the world supporting the troops. As part of our work back then, I had to sign a non-disclosure agreement, of course. We also created something called a "Business Object Model", or "BOM"
+
+Yep, I worked on a secret bom for the Defense Department. The bom involved green beans.
 
