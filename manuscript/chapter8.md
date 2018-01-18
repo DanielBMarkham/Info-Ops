@@ -1,4 +1,14 @@
+-#Foundation
+
 # Chapter 8
 
-## Adding detail to behavior
+## Behavior Titles 
+
+## Behavior Details 
+
+
+
+
+
+
 

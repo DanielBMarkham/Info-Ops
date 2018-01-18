@@ -1,4 +1,7 @@
 # Chapter 9
 
-## Adding detail to supplementals
+## Structure Titles
+
+## Structure Details 
+
 

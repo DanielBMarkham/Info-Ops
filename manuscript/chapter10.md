@@ -1,5 +1,15 @@
 # Chapter 10
 
 
-## Adding detail to structure
+## Synchronizing the Model
+
+*Rare Political Post*
+
+
+# Chapter 10
+
+## Supplemental Titles
+
+## Supplemental Details 
+
 
