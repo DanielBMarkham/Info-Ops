@@ -10,7 +10,7 @@ Even though we've labeled our conversation as **Structure**, in actuality once y
 
 ### Dental Franchise
 
-You've picked up a new job! A local dentist has invented the perfect system for running dental office. He wants to create a franchise, a system where other dentists pay him money and he provides them with the training and tools to run a dental office just like his. It's like McDonalds, only for dentists.
+You've picked up a new job! Your first day out of the hospital from your coma, and you land a new job. A local dentist has invented the perfect system for running dental office. He wants to create a franchise, a system where other dentists pay him money and he provides them with the training and tools to run a dental office just like his. It's like McDonalds, only for dentists.
 
 The only problem? He needs somebody to take down all of the things his office does and how they do them. Create an "Operations Manual" for running the best dental shop possible. How do you do that?
 
@@ -32,7 +32,7 @@ Human conversations are naturally unstructured. It's impossible to talk about si
 
 ## Movie Special Effects
 
-You have been hired to created a giant plastic model of a land-attack ship for an upcoming science fiction movie. You all about creating giant plastic models, but what should this thing look like?
+After the Dentist job, you were hired to created a giant plastic model of a land-attack ship for an upcoming science fiction movie. You're all about creating giant plastic models, but what should this thing look like?
 
 How a particular implemented solution should be constructed. You have a **System Realized Structure** problem.
 

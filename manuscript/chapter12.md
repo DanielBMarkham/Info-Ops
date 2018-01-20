@@ -1,4 +1,6 @@
 # Chapter 12
 
-## Examples with detail 
+## Synchronizing the model
+
+
 
