@@ -12,6 +12,8 @@ Whoa.
 
 It's a most excellent question. It's such a good question it's the next set of tags we have to talk about in our journey to master information tagging.
 
+![From Wikipedia, Plato's Cave](images/plato-allegory-of-the-cave.png)
+
 ## Plato's Cave
 
 Plato did not live in a cave, but a cave is one of the things he's best known for. He told a story in 500 BCE that introduced a concept that tens of thousands of programmers are using as you read this.[^4-2]
@@ -20,7 +22,7 @@ Plato did not live in a cave, but a cave is one of the things he's best known fo
 
 Plato asks us to imagine a group of prisoners held in a cave since birth. They're shackled to the ground and can't move. All they can see is the wall in front of them. Back behind their heads is a half-high wall like you would use in a puppet show. Behind that wall is a fire.
 
-So Plato has created a 500BC home theater system. There's a fire, which the prisoners can't see. The fire shines a light on the puppet stage, which the prisoners also can't see. People start carrying objects across the stage. Some of the people are talking. Some aren't.
+So Plato has created an imaginary 500 BC home theater system. There's a fire, which the prisoners can't see. The fire shines a light on the puppet stage, which the prisoners also can't see. People start carrying objects across the stage. Some of the people are talking. Some aren't.
 
 In front of them shadows cast by the light of the fire shines on things on the puppet stage and then hits the wall.
 
@@ -28,7 +30,7 @@ From where the prisoners are sitting, all they can see are shadows of things mov
 
 Hey, it's not NetFlix, but I guess it beats getting eaten by a wooly mammoth.
 
-Plato's first question was: what do these people experience in terms of reality? To them, the shadows on the wall are the only reality they know. If somebody says "here's a chicken", or "here's a duck", on the wall there would be a shadow of a chicken or duck. To them the shadows of the chicken and duck *was* the chicken and the duck. That's all there was. They would understand how things move by looking at how the shadows move. The voices they heard, to them, would sound like they were coming from the shadows. Over the years they would create their entire lives around the shadows and sounds in the cave.
+Plato's first question was: what do these people experience in terms of reality? To them, the shadows on the wall are the only reality they know. If somebody says "here's a chicken", or "here's a duck", on the wall there would be a shadow of a chicken or duck. To them the shadows of the chicken and duck *were* the chicken and the duck. That's all there were. They would understand how things move by looking at how the two-dimensional shadows move on the wall. The voices they heard, to them, would sound like they were coming from the shadows. Over the years they would create their entire lives around the shadows and sounds in the cave.
 
 Now imagine they break their chains. Getting up, they look back at the fire. It's bright! Ferocious! Painful to look at! How difficult it is to see the truth!
 
@@ -36,7 +38,7 @@ Now imagine one of these other people walking around notice our friends have esc
 
 Could the prisoners who had only seen the shadows of ducks and chickens recognize a real 3-D stuffed duck or chicken if it were shown to them? Probably not -- not without a lot of thought and reflection.
 
-Many prisoners would not want to look at the firelight. It's too painful. There are too many new strange and unfamiliar experiences.
+Many prisoners would not want to look at the firelight which had been behind them and the half-wall all this time. It's too painful. There are too many new strange and unfamiliar experiences.
 
 Their new friend drags some of them up out of the cave into the daylight. As they emerge from the cave, they see the sun. Would this not be extremely painful and irritating? It would be impossible to bear, even for those who wanted to be there. It would take time to even be able to *see*. For a long time, they would be effectively blind.
 
@@ -72,11 +74,11 @@ Just like the questioning/thesis/counter-thesis dialect thing of Socrates's, it'
 
 And one of the immediate impacts the Allegory of the Cave had was in religion. A lot of religion before the cave was story/allegory based. The gods were like us, they had feelings like us, relationships like us, and so on.
 
-Once people understood and started talking and thinking with Plato about how concepts worked like they did in the cave, they started asking questions and demanding answers about whether or not the things they believed in were represestations of reality in its purest form. When the Christian New Testament's Gospel of John begins with "ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος." - "In the beginning was the Word, and the Word was with God, and the Word was God."? This is a philsophical, Platonic statement about truth and purity. Being able to talk about what we believe like this is something we owe to the Greeks.[^4-5]
+Once people understood and started talking and thinking with Plato about how concepts worked like they did in the cave, they started asking questions and demanding answers about whether or not the things they believed in were representations of reality in its purest form. When the Christian New Testament's Gospel of John begins with "ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος." - "In the beginning was the Word, and the Word was with God, and the Word was God."? This is a philosophical, Platonic statement about truth and purity. Being able to talk about what we believe like this is something we owe to the Greeks.[^4-5]
 
 [^4-5]: One of the catchphrases to use if you love learning history is "Athens, Rome, and Jerusalem", the point being that most all of modern western thought is a result of the intersection of important things that happened in those cities.
 
-Another of the things that occured to people reading Plato was that there was something we might best call *levels of abstraction*. The shadow of a duck is a duck in some way. The stuffed duck? Also a duck in some way. Outside, the live duck? We might call it the "real duck" Then there's our idea of what a duck is. It exists only in our mind. For Plato, that would be the "true duck" The most ducky of ducks. The ultimate reality. Any kind of duck you could ever experience is simply a poor version of the True Duck.
+Another of the things that occured to people reading Plato was that there was something we might best call *levels of abstraction*. The shadow of a duck is a duck in some way. The stuffed duck? Also a duck in some way. Outside, the live duck? We might call it the "real duck" Then there's our idea of what a duck is. It exists only in our mind. For Plato, that would be the "true duck." The most ducky of ducks. The ultimate reality. Any kind of duck you could ever experience is simply a poor version of the True Duck.
 
 For people who know object-oriented programming, this should sound familiar. In OO programming, we have templated classes, abstract classes, base classes, concrete classes. They all represent the same thing, but some of these are more abstract than others. OO programming can trace its roots all the way back to Plato.
 
@@ -166,9 +168,9 @@ Note: now that you understand the life of weasel farmers, you can start thinking
 
 In fact, it's still too early. Next up would be trying to go work on a weasel farm. That's about as **realized** an experience in the **Business** genre as you can get. You want the best way to have a successful weasel farm? Go work on a successful weasel farm and then branch out slowly on your own, using the lessons you've learned as you do the work.
 
-Most weasel farmers will not allow you to do that, however. Weasel farmers can be a viscous, selfish bunch, sadly.
+Most weasel farmers will not allow you to do that, however. Weasel farmers can be a vicious, selfish bunch, sadly.
 
-(Note to all you guys out there wanting to form your own startup: this is mostly the steps you would go through to do that as well. Find somebody you'd like to help, then learn as much as you can at the **Business Abstract** level. Once you've exhausted that book work, get out in the field and connect yourself at the hip to people who are actually living in that world. During this time you will learn as much as you can at the **Business Realized** level, directly from the real people doing it. Most of what you learn will be non-verbal. Finally, when you feel you've exhausted that level, you're ready to move to the **System** genre and begin thinking about what you might want to build to help the people you've been attached to.)
+(Note to all you guys out there wanting to form your own startup: these are mostly the steps you would go through to do that as well. Find somebody you'd like to help, then learn as much as you can at the **Business Abstract** level. Once you've exhausted that book work, get out in the field and connect yourself at the hip to people who are actually living in that world. During this time you will learn as much as you can at the **Business Realized** level, directly from the real people doing it. Most of what you learn will be non-verbal. Finally, when you feel you've exhausted that level, you're ready to move to the **System** genre and begin thinking about what you might want to build to help the people you've been attached to.)
 
 Sadly, since no weasel farmers will help you, you go back to the college. What sorts of tools do weasel farmers use? You don't want the brand names or feature lists. You just want to know what sorts of tools you'll need. Do you need a tractor? A weasel catapult?
 
@@ -217,13 +219,13 @@ The abstraction flow works like this: **Business Abstract -> Businss Realized ->
 
 *Parent-Child relationships are a generic type of abstraction and exist everywhere. There are two specific types of abstractions we care about right now: **Abstract** and **Realized***
 
-This two part pyramid that you see in the diagram above can be used all kinds of places. Places you wouldn't expect.
+The two part pyramid that you see in the diagram above can be used all kinds of places. Places you wouldn't expect.
 
-The four things to learn in this chapter are these:
+The four things to learn in this chapter are:
 
 1. Some things are naturally the parent of other things. That is, some things are abstract versions of other things. Plato taught us this. We use it in computer programming every time we use templates, virtual classes, or inheritance.
 2. After you tag genre, tag abstraction level. The two values are **abstract** and **realized**. Things inside each abstraction level can be the parent of other things in the same or a lower level.
-3. There is a natural pyramid at work here where you can capture things at a high level and never have to repeat yourself later. It goes like this: **Business Abstract -> Businss Realized -> System Abstract -> System Realized**
+3. There is a natural pyramid at work here where you can capture things at a high level and never have to repeat yourself later. It goes like this: **Business Abstract -> Business Realized -> System Abstract -> System Realized**
 4. Just the five tags we have so far, along with the parent-child thing, and we can already create a zillion different categories. Whoa horsey! Remember that the entire purpose of this tagging system is to minimize work. Never think that you need to fill out the pyramid. You'll end up spending all your time drawing little diagrams instead of getting any work done.
 
 The next set we'll talk about contains three different tags that connect up what we've been talking about with whatever your job is. There's one more set after them, but they're the real last important set of tags.

@@ -14,7 +14,7 @@ And it's not math. Instead you end up using ideas kicked around by some guys nam
 
 Sapir, Whorf, and Chomsky were linguists. These are people who study languages. It's a relatively new science. The general study of languages, of course, has been going on forver. Studying how all the different languages have similarities and differences started happening only in the last 150 years or so. 
 
-There are a ton of interesting debates going on in linguistics, but big one in the movie concerns the Sapir-Whorf hypothesis and linguistic structuralism, probably best-expressed in Chomsky's "Syntactic Structures"[^3-2]
+There are a ton of interesting debates going on in linguistics, but the big one in the movie concerns the Sapir-Whorf hypothesis and linguistic structuralism, probably best-expressed in Chomsky's "Syntactic Structures"[^3-2]
 
 [^3-2]: I thought about using the phrases "linguistic relativism" and "universal grammar" but by using the names of the linguists I hope to personalize the story. Here's a nice discussion of the two ideas bounced up against one another. [https://linguistics.stackexchange.com/questions/14673/sapir-whorf-vs-chomsky](https://linguistics.stackexchange.com/questions/14673/sapir-whorf-vs-chomsky)
 
@@ -28,7 +28,7 @@ On the other hand, the Chomsky/structural guys felt that language is simply a ty
 
 Let's say you were solving a problem, perhaps creating a new product for weasel farmers. The Sapir-Whorf school would advise you to become part of the weasel-farming world. Live and breathe the life of a weasel farmer! Of course they would also tell you to understand the formal science needed to make the product. The Chomsky guys would tell you to gather as much information as possible about weasel farming, tagging the information and how it's structured into a formal system, a "language of the weasel farmer". Of course they would also tell you to understand the formal science needed to make the product. They might even suggest that there is a mapping between the information you learned and the product you're building.
 
-If you've been around computer programming for any length of time, some of might should sound familiar. The SW folks are the ones telling you how important it is to be as close as you can with the user of the product. Nothing can take the place of that! The structuralist folks are the ones telling you how programming is just a matter of mapping the language of the user into the language of the computer.
+If you've been around computer programming for any length of time, this might should sound familiar. The SW folks are the ones telling you how important it is to be as close as you can with the user of the product. Nothing can take the place of that! The structuralist folks are the ones telling you how programming is just a matter of mapping the language of the user into the language of the computer.
 
 Anybody remember Model-Driven Development?[^3-3] The idea was that using the Unified Modeling Language, we could construct a model of how concepts existed in the mind of the people we were trying to help. Then? There was a somewhat magical transform that happened that mapped the symbols and structures from the user to the computer. Everything was about symbols, grammar, and mappings.
 
@@ -110,7 +110,7 @@ The Meta genre is the universe of people making products, our system for doing o
 
 Let's recap. Good information flow and management supports analysis (dialectics) around our job. To make these analysis conversations as easy, quick, and thorough as possible, we have to narrow our scope of engagement. Every conversation can't be about life, the universe, and everything. To narrow our analysis conversations, we're going to use a tagging system. Our first set of tags is called the genre tags. They are Business, System, and Meta. Every piece of information has one and only one of these three tags.
 
-We only have about a dozen tags we need to learn in four different sets. This is what we'll go over in the next chapters. Once have our tagging system,  we'll move to application.
+We only have about a dozen tags we need to learn in four different sets. This is what we'll go over in the next chapters. Once we have our tagging system,  we'll move to application.
 
-This process, having a fixed way of organizing information in order to make it more useful wo that everything goes into one and only one spot is called **Structured Analysis**. Once you understand Structured Analysis, you'll find that a bunch of things that used to be difficult suddenly become very easy.
+This process, having a fixed way of organizing information in order to make it more useful so that everything goes into one and only one spot is called **Structured Analysis**. Once you understand Structured Analysis, you'll find that a bunch of things that used to be difficult suddenly become very easy.
 

@@ -2,7 +2,7 @@
 
 We diagram things differently depending on which bucket they're in. Behaviors are all about doing things, so we diagram behaviors using Activity Diagrams. Supplementals are all about general statements. We haven't gotten to those yet. Structure is all about how little pieces fit into bigger pieces.
 
-Whatever you're talking about, there are little pieces that fit into bigger pieces. Ususally there are a bunch of them. Working to do something for some company? Trying to learn as much you need to about them, do the required analysis, before you start work? Talking at the **Business Realized** level?
+Whatever you're talking about, there are little pieces that fit into bigger pieces. Usually there are a bunch of them. Working to do something for some company? Trying to learn as much you need to about them, do the required analysis, before you start work? Talking at the **Business Realized** level?
 
 Let's see, for any large company, talking about **Business Realized** stuff, there could be a bunch of Structure information.
 
@@ -12,7 +12,7 @@ Let's see, for any large company, talking about **Business Realized** stuff, the
 - Market segments
 - Contractor/Subcontractor organization
 
-The first structural item, "important terms" is found everywhere. Really, all the other structural items are just variations on that. Org charts? They consist of important terms (names of people, job titles, heirarchies) and how little pieces fit into bigger pieces. Market segments? Important terms around marketing.
+The first structural item, "important terms" is found everywhere. Really, all the other structural items are just variations on that. Org charts? They consist of important terms (names of people, job titles, hierarchies) and how little pieces fit into bigger pieces. Market segments? Important terms around marketing.
 
 Let's say you're building a computer system for some group. You've done the initial effort in figuring out how this type of organization works in general, the **Business Abstract** work. (You always do that work, even if it's just a few items in three lists.) You've skipped how this particular business works -- you can figure that out as you actually do the work. But you need to understand how in general they'd like their computer systems to operate. You move to the **System Abstract** level. Without diagramming classes and methods, without creating detailed network diagrams with DMZs, load balancers, and jump boxes, how in general do they want their computers to help them?
 
@@ -36,7 +36,7 @@ So as you start talking, list all the important words people are using. Woo! Wit
 
 ## Structure Titles
 
-Structure Titles should be a list of nouns or noun phrases in singular (not plural) tense. Dog, cat, pig, aardvark, ferret, mouse, hampster, rat, chicken, rabbit, fish, and bird might be great structure titles if you're working with something involving family pets.
+Structure Titles should be a list of nouns or noun phrases in singular (not plural) tense. Dog, cat, pig, aardvark, ferret, mouse, hamster, rat, chicken, rabbit, fish, and bird might be great structure titles if you're working with something involving family pets.
 
 When I teach Domain Modeling, usually we spend some time asking one another questions while making a list of important terms on the whiteboard (or in our notes). 
 
@@ -44,7 +44,7 @@ Usually the first thing we'll do is have a conversation where no questions are a
 
 Then we'll have a conversations where one person asks all the questions. Everybody keeps separate notes. Still, there's a lot of differences. We'll have a conversation where everybody gets to ask questions and everybody keeps separate notes. At this point it feels like we're getting somewhere. As the entire group participates in questions, they start creating that shared mental model we were talking about.
 
-From here we can have a second session where all the lists are compared and one master list of strcture titles is created -- or we can try it a final way. In the final way everybody asks questions, but one person makes a list of important nouns on the whiteboard or flipchart while the conversation is occurring. Everybody agrees this is the best way because looking at the nouns (or noun phrases) as they're added makes everybody wonder if they all have the same understanding of those terms or not. Most times not! (Although it may take a while for that to come out.)
+From here we can have a second session where all the lists are compared and one master list of structure titles is created -- or we can try it a final way. In the final way everybody asks questions, but one person makes a list of important nouns on the whiteboard or flipchart while the conversation is occurring. Everybody agrees this is the best way because looking at the nouns (or noun phrases) as they're added makes everybody wonder if they all have the same understanding of those terms or not. Most times not! (Although it may take a while for that to come out.)
 
 Remember Socrates! The work is in getting the shared mental model. The structure titles are just a list of noun/noun-phrases. Without doing the work the list is worse than useless.
 
@@ -60,7 +60,7 @@ Just like with Behavior, where I took UML's Activity Diagram and stripped out ev
 
 **Lines with arrows on the end** Since we're talking about how little pieces fit into bigger pieces, draw lines with arrows to show which boxes have other boxes.
 
-Write "Has a" on the line to show that one thing has antoher thing.
+Write "Has a" on the line to show that one thing has another thing.
 
 **Other nouns inside the boxes** Sometimes you'll hear a noun phrase in conversation and it sounds kind of important -- but you're just not sure yet. In that case, make your box into two parts. On the top put your main noun. In the bottom part, put other nouns that it "has" that might get their own boxes one day if they're good and behave themselves. (We call these "attributes" in the world of UML, but we really don't need to live in the world of UML right now. Maybe if we were designing databases or something. They don't have good cookies.)
 
@@ -70,9 +70,9 @@ Nerdy talk time: What we're talking about is a **Directed Acyclic Graph**, or DA
 
 You'll thank me later. Meanwhile, if you're following along at home, you should be getting a lot of new words for your upcoming status reports and job applications! "Last week we executed a precision dialectic with the customer that allowed us to rough-out a Directed Acyclic Graph in support of a Domain Modeling maneuver"
 
-Heck, that sounds like a bunch of people in that room got advanced degrees! Maybe they all wear lab coats. Probably drive around in fancy cars. Sure beats "We met the guy at a Seven-11 and wrote 'cat', 'horse', 'pig', and and 'turnip' on the back of the napkin we used for our Giant Jumbo Dog. The slurpee machine was out of order. Bozos." 
+Heck, that sounds like a bunch of people in that room got advanced degrees! Maybe they all wear lab coats. Probably drive around in fancy cars. Sure beats "We met the guy at a Seven-11 and wrote 'cat', 'horse', 'pig', and 'turnip' on the back of the napkin we used for our Giant Jumbo Dog. The slurpee machine was out of order. Bozos." 
 
-Trust me, you need these big words if you're going to impress dates and custoemrs. I do this all the time. Oh boy, yeah. It's scary the kind of popularity you get with the right terms. (Looks sadly around an empty room.)
+Trust me, you need these big words if you're going to impress dates and customers. I do this all the time. Oh boy, yeah. It's scary the kind of popularity you get with the right terms. (Looks sadly around an empty room. Continues writing.)
 
 ## A Word About Domain Model Ambiguity
 
@@ -80,7 +80,7 @@ Let's say you've got five important nouns so far: dog, cat, pet outfit, name, an
 
 Five boxes. The dog and cat boxes each have arrows pointing to the leg and collar boxes. Now you've got your final noun, "name".
 
-Does a dog have a name? Sure. A cat? Sure? Legs? No. You might want to give the legs of your pets names. If you were a veternarian, maybe each leg has a separate name? But let's say you're not a vetrinarian. So no. No names for legs.
+Does a dog have a name? Sure. A cat? Sure? Legs? No. You might want to give the legs of your pets names. If you were a veterinarian, maybe each leg has a separate name? But let's say you're not a veterinarian. So no. No names for legs.
 
 How about pet outfits? Do they have names? Well yeah, they could. "Let's get skippy in his little sailor suit for the dance" seems like a reasonable thing for a pet owner to say. But maybe "sailor suit" isn't a name. Maybe it's a type of outfit? 
 
@@ -102,16 +102,9 @@ So it is expected and necessary that any two groups of people doing analysis on 
 
 When I'm using sketches and models for analysis, I'm looking at people in the room, watching their eyes, looking for signs in their body language that they're uncomfortable. Many crappy people doing this work take the opportunity to diagram and use it as a way to dominate the discussion. This is a complete and total fail, If it continues this person needs to find another job. That's not how analysis works.
 
+This gets us to another rule about analysis: Analysis is completely dependent on the people doing the analysis. You really take analysis models created by one group and "plug them into" another group. The entire point is shared mental models. Unless you've mastered mind control, it takes dozens and dozens of dialectics to get that model, not a book report or long email (Of course they might help. Anything might help prompt good conversations, right?)
+
 Ambiguity is a necessary part of analysis. All of the things we do in analysis are to identify ambiguity and resolve it somehow. Domain Models are a funny duck. They so simple-looking that people think they're trivial. Some of the teams I teach learn domain modeling and then never use them. It doesn't feel connected to the work as much as the Behavior Models (Activity Diagrams) do. 
 
 Fortunately you're reading this book, so as we move from theory to application, you're going to see a bunch of different ways domain models can help you plan and understand what the work is.
-
-
-
-
-
-
-
-
-
 

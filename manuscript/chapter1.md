@@ -8,7 +8,7 @@ People die.
 
 ![](images/a330-flight-deck-forward.png)
 
-Marc Dubois wasn't thinking that as he walked out on the Rio de Janeiro airport tarmac on May 31, 2009. It was a beautiful evening, light winds and unlimited visibility[^1-1]. Dubois looked up at the Airbus 330 that he was going to fly them from Rio to Paris. Nothing to be worried about. Just the usual convection storms around the equator[^1-2].
+Marc Dubois wasn't thinking that as he walked out on the Rio de Janeiro airport tarmac on May 31, 2009. It was a beautiful evening, light winds and unlimited visibility[^1-1]. Dubois looked up at the Airbus 330 that he was going to fly from Rio to Paris. Nothing to be worried about. Just the usual convection storms around the equator[^1-2].
 
 [^1-1]: Weather history for Rio de Janeiro was sourced from the Weather Underground. https://www.wunderground.com/history/airport/SBRJ/2009/5/31/DailyHistory.html?req_city=&req_state=&req_statename=&reqdb.zip=&reqdb.magic=&reqdb.wmo=
 
@@ -46,21 +46,21 @@ Due to the turbulence, the plane had started banking a bit to the right.
 
 "You can possibly pull it a little to the left. We're agreed that we're in manual, yeah?"
 
-The plane has the autopilot on. The copilot is helps by fixing the tilt.
+The plane has the autopilot on. The copilot helps by fixing the tilt.
 
 Now they're back in the storm. Hail or ice begins hitting the front of the plane. The junior copilot slows the plane to the correct speed for entering areas of turbulence. 
 
-An alarm sounds. The alarm is the plane is announcing that it is switching modes. Both of its pitot tubes have iced up. Pitot tubes provide direct information on how fast the airplane is flying by measuring how much pressure the incoming air has. Without the pitot tubes, the plane's autopilot is unable to directly determine the speed of the plane through the air.
+An alarm sounds. The alarm is the plane announcing that it is switching modes. Both of its pitot tubes have iced up. Pitot tubes provide direct information on how fast the airplane is flying by measuring how much pressure the incoming air has. Without the pitot tubes, the plane's autopilot is unable to directly determine the speed of the plane through the air.
 
-Things like this happen all the time in aviation. Pilots train for it. The autopilot switches off. The plane's computer system switches from "normal law" to "alternate law 2" This means that the copilot is now flying the plane by hand -- and the plane's controls are responding in a different way than they used to. The electronics of the cockpit are working slightly different.[^1-4]
+Things like this happen all the time in aviation. Pilots train for it. The autopilot switches off. The plane's computer system switches from "normal law" to "alternate law 2" This means that the copilot is now flying the plane by hand -- and the plane's controls are responding in a different way than they used to. The electronics of the cockpit are working slightly differently.[^1-4]
 
 [^1-4]: Wikipedia provides a great overview of various flight modes. [https://en.wikipedia.org/wiki/Flight_control_modes#Alternate_law](https://en.wikipedia.org/wiki/Flight_control_modes#Alternate_law)
 
 Now they are truly in manual mode, the controls are operating differently, the warnings and alerts are different.
 
-The junior copilot corrects to the left, but the in the new mode, the stick has more control, so the plane over-corrects the other way, to the right. He is now probably spending his time looking at something called the flight director (Remember, it's midnight and they are flying through clouds. The only thing pilots have in this situation is the instruments inside the plane. The flight director is supposed to tell them where they are, how they're moving, and which way the plane is tilted.) He over-corrects one way then the other, struggling a bit to bring the plane back to level.
+The junior copilot corrects to the left, but in the new mode, the stick has more control, so the plane over-corrects the other way, to the right. He is now probably spending his time looking at something called the flight director (Remember, it's midnight and they are flying through clouds. The only thing pilots have in this situation is the instruments inside the plane. The flight director is supposed to tell them where they are, how they're moving, and which way the plane is tilted.) He over-corrects one way then the other, struggling a bit to bring the plane back to level.
 
-"I have the controls," the senior copilot says.
+"I have the controls," the Senior Copilot says.
 
 "Okay"
 
@@ -80,7 +80,7 @@ In normal conditions, the stall warning can go off and safely be ignored. Happen
 
 It's quite likely that both copilots had always flown the plane in this mode. They had never flown with the stall protection electronics turned off.
 
-But now the plane was in a new mode. Safety protections no longer worked. One an A330 enters Alternate Law 2, it has to be manually flown from that point until landing, when the systems can be rebooted. It's not something that happens very frequently at all.
+But now the plane was in a new mode. Safety protections no longer worked. Once an A330 enters Alternate Law 2, it has to be manually flown from that point until landing, when the systems can be rebooted. It's not something that happens very frequently at all.
 
 The senior copilot looks around at the controls. "What's this?"
 
@@ -160,7 +160,7 @@ It's only been 90 seconds.
 
 It was a dark and stormy night in the Atlantic in the early morning hours of June 1st, 2009. Aside from the storm and waves, nothing else happened. There were no fishermen or transport ships. The scene was totally empty when Air France 447 plummeted through the clouds and impacted the ocean falling at over 120mph.
 
-One of the last phrases hear on the cockpit voice recorder is this: "But what's happening?" Then silence.
+One of the last phrases heard on the cockpit voice recorder is this: "But what's happening?" Then silence.
 
 And that's how one night in June a highly-trained crew flew a perfectly functioning airplane into the Atlantic ocean, killing everybody on board.
 

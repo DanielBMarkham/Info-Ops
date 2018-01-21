@@ -69,7 +69,7 @@ Things do not always work as planned, and when you're actually building things, 
 
 All of the possible endings to the test are called "Outcomes".[^8-4]
 
-[^8-4]: I used to call them "Goals", but "Oucomes" describes things better.
+[^8-4]: I used to call them "Goals", but "Outcomes" describes things better, especially for certain types of functional decomposition.
 
 Once an actor starts using the target system to do something, if you're responsible for that system, you have to understand and plan all the possible endings that could occur.
 
@@ -81,7 +81,7 @@ If you're only talking about the "Happy Path", the way things work out when ever
 
 In fact, we've got kind of a pattern here. Ever play mad-libs? Mad-libs is a game where you fill in the blanks to make a story. One person asks you for a noun, verb, or some other part of speech. You provide it and they put it in the middle of some story. You don't know what the story is. After asking you a bunch of these, they read back the newly-created story with all of your answers in them. It's a lot of fun on long road trips.
 
-Because our titles are kind of fill-in-the-blank suff, it's similar situation here. The **Actors** part can be prefixed with "As a". The **Test** part can be prefixed with "I need to", and the **Outcomes** part, for happy path can be prefixed with "So that" For the other paths, "Alternate outcomes are". Or just use "Outcomes" and list all of them.
+Because our titles are kind of fill-in-the-blank stuff, it's similar situation here. The **Actors** part can be prefixed with "As a". The **Test** part can be prefixed with "I need to", and the **Outcomes** part, for happy path can be prefixed with "So that" For the other paths, "Alternate outcomes are". Or just use "Outcomes" and list all of them.
 
 So it works like this: **As a** astronaut, **I need to**land on Mars **So that** I can live there for five years. **Alternate outcomes are** heading home before landing if the lander fails, leaving early if there are problems on the way down, and dying on the surface if there is a fire.
 
@@ -103,11 +103,11 @@ If you are working special effects and write something like that, I will come to
 
 Let's do one to show how you can have multiple entries.
 
-**When** a burgulary happens, a quarterly report is due, or there's a surprise audit, **As a** warehouse supervisor or inventory clerk, **I need to** perform a spot inventory of the warehouse **So that** we'll be sure that our recorded inventory is actually how much we have on the premises and accounting is updated with the current value of product on hand. **Alternate outcomes are** an incomplete inventory, an inventory that doesn't match on a second count, or an inventory rejected by Quality Control.
+**When** a burglary happens, a quarterly report is due, or there's a surprise audit, **As a** warehouse supervisor or inventory clerk, **I need to** perform a spot inventory of the warehouse **So that** we'll be sure that our recorded inventory is actually how much we have on the premises and accounting is updated with the current value of product on hand. **Alternate outcomes are** an incomplete inventory, an inventory that doesn't match on a second count, or an inventory rejected by Quality Control.
 
 If we're using index cards, that's getting to be a bunch of stuff to put on there! Personally I just use **Actor**(s) and **Test** for the cards. Put the rest of the stuff somewhere else like a notepad or text file. But I know plenty of teams that use larger cards and put the full titles on there. Whatever works for you -- and as little as possible to get your work done.
 
-Our Behavior Title mab-libs looks like this:
+Our Behavior Title mad-libs looks like this:
 
 |Title Part|Prefix|
 |--------|------------------------|
@@ -144,7 +144,7 @@ It can also go off the rails.
 
 The problem with doodling and diagramming -- the problem with any form of permanent record, whether it's video or a collection of reports, is that it's quite easy for the record to take the place of the dialectic, at least in people's minds. 
 
-The dialectic is all about questions, theses and antitheses in the mninds of a particular group. There are four parts to that sentence: questions, theses, antitheses, and "parictular group". All of those parts are critical to the dialectic, and the dialectic is critical to the advancement of our species. None of that has anything to do with diagramming or writing things down.
+The dialectic is all about questions, theses and antitheses in the minds of a particular group. There are four parts to that sentence: questions, theses, antitheses, and "particular group". All of those parts are critical to the dialectic, and the dialectic is critical to the advancement of our species. None of that has anything to do with diagramming or writing things down.
 
 What are the purpose of books, then? Surely I'm not saying that all forms of writing are useless. That's crazy!
 
@@ -166,9 +166,9 @@ Wow, you forgot a lot. One of the major things was that the people in western to
 
 All of that media you consumed, no matter what it was or at what level of detail, only provided you with a crude mock-up to get started. In some cases the mock-up was useful. Many times it was not. In fact, the general rule is the more material you consume to get started *aside from the bare minimum required*, the more you're going to spend time and effort doing the wrong thing.
 
-Same goes for diagrams and other forms of permenent writing. These tools exist so that groups of us in separate locations can create huge mock-up models of how things might look and work before we get together for the actual work. They're critical and required, but they're not the work itself. The work itself happens when the dialectics begins. Good permanent information has the sole purpose of supporting analysis. (Really good books can support various kinds of analysis the you'll use the rest of your life. Poor books may take up your time and never be used to actually understand anything. Note that fiction can also be a great form of written record, as it teaches us how we might act in imaginary situations -- allows us to sort out our feelings and values without being engaged in "real work" at all. For that reason, good fiction, in fact, can be more useful than a lot of textbooks that teach things you never use.)
+Same goes for diagrams and other forms of permanent writing. These tools exist so that groups of us in separate locations can create huge mock-up models of how things might look and work before we get together for the actual work. They're critical and required, but they're not the work itself. The work itself happens when the dialectics begins. Good permanent information has the sole purpose of supporting analysis. (Really good books can support various kinds of analysis the you'll use the rest of your life. Poor books may take up your time and never be used to actually understand anything. Note that fiction can also be a great form of written record, as it teaches us how we might act in imaginary situations -- allows us to sort out our feelings and values without being engaged in "real work" at all. For that reason, good fiction, in fact, can be more useful than a lot of textbooks that teach things you never use.)
 
-If you want to use diagramming or some other formal system of permenent recording, be sure you use the minimal amount for the job in front of you. To continue our previous example, great fiction prepares you for life, the universe, and everything. It can be long and extended. Good textbooks give you templates for hundreds of different work/life situations in your future. They can be quite big. If you're building a doghouse, you do not need to write "War and Peace" or beging constructing an architectural diagram for the Sistine Chapel. You might need a sketch or two so you don't forget stuff, but that's about it.
+If you want to use diagramming or some other formal system of permanent recording, be sure you use the minimal amount for the job in front of you. To continue our previous example, great fiction prepares you for life, the universe, and everything. It can be long and extended. Good textbooks give you templates for hundreds of different work/life situations in your future. They can be quite big. If you're building a doghouse, you do not need to write "War and Peace" or beging constructing an architectural diagram for the Sistine Chapel. You might need a sketch or two so you don't forget stuff, but that's about it.
 
 It's also important that new people are able to consume whatever you're writing down. Many times I've seen teams create documentation that they themselves can't (or won't) consume just a week later. That's a fail.
 
@@ -188,7 +188,7 @@ There are five pieces that I use to diagram Behaviors in a rough **Activity Diag
 
 **Vertical and Horizontal Bars** I think these are called synchronization bars. Beats me. The idea is that one thing can kick off many things that all happen simultaneously. So one line forms a "T" with a long line, then a bunch of lines come off of that line showing that all of this starts happening at once.
 
-This probably sounds more complicated in writing than it actually is. In practice, just about anybpody off the street can walk up and look at one of my Activity Diagrams and see what's going on. That's the whole point. I've done over a hundred of these easy, and I don't think I've ever made a diagram that had more than 30 or 40 elements or that I couldn't show to the average person I meet every day.
+This probably sounds more complicated in writing than it actually is. In practice, just about anybody off the street can walk up and look at one of my Activity Diagrams and see what's going on. That's the whole point. I've done over a hundred of these easy, and I don't think I've ever made a diagram that had more than 30 or 40 elements or that I couldn't show to the average person I meet every day.
 
 Just to be clear, the "real" Activity Diagrams that are part of the Unified Modeling Language have all kinds of parts and do all kinds of wondrous things. I've never needed them. Many times, especially earlier in my career, I've used a lot of the more technical diagramming skills, but they've never been useful, mainly because back then I didn't understand what the purpose was. I thought the actual job was diagramming.
 

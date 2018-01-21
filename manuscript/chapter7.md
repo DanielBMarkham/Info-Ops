@@ -48,7 +48,7 @@ Okay, what's our first question?
 
 "It should have this cool laser on the front where it shoots people on the ground. It also needs a hatch on top our hero can climb out of. And it should look like a giant wooden badger."
 
-Ok. We started with **Business Abstract Behavior**. It's at the top and a good place to start with questions. In reply, we got back **System Realized Structure** (laser on the front), **System Abstract Behavior** (laser somehow shoots people on the ground. Laser shots? Continuous light? We don't know. That's System Reazlied Behavior. Save that question for later.) We got **System Realized Structure** (needs a hatch on top). Cool, so our director is designing the ship for us. We'll remember to put that in there. And it needs to look like a giant wooden badger. That would be both structure and behavior, and it's talking in general terms about how it looks, so that's a **System Abstract Supplemental**
+Ok. We started with **Business Abstract Behavior**. It's at the top and a good place to start with questions. In reply, we got back **System Realized Structure** (laser on the front), **System Abstract Behavior** (laser somehow shoots people on the ground. Laser shots? Continuous light? We don't know. That's System Realized Behavior. Save that question for later.) We got **System Realized Structure** (needs a hatch on top). Cool, so our director is designing the ship for us. We'll remember to put that in there. And it needs to look like a giant wooden badger. That would be both structure and behavior, and it's talking in general terms about how it looks, so that's a **System Abstract Supplemental**
 
 Do we need to tediously go through each of our boxes in Analysis Bingo? Of course not. But we could spend a few minutes making a couple of lists at the highest level. It would give us some context to talk about the answers we do need.
 
@@ -102,7 +102,7 @@ Books, presentations, teachers, students. What the heck does that have to do wit
 
 Well, that's why I picked this example. The tags are about creating shared mental models. You can use those models to build stuff -- or to do other things. Remember Socrates! Everything we talk about in life goes back to those old Greek guys.
 
-So the first quesion is this: what do we need a shared mental model about? That is, what system are we changing?
+So the first question is this: what do we need a shared mental model about? That is, what system are we changing?
 
 The immediate answer is that we're creating a schedule, sending out RFPs, installing an LMS, and doing other day-to-day operations. But if we did all of that, could we still fail? 
 
@@ -142,7 +142,7 @@ How about pieces of stuff? What general pieces of stuff do we have to implement 
 4. Lectures
 5. Brown Bags
 
-No. Wait. No. Some of that is stuff we'd use to actually get the job done. Some of that is stuff we'd use to understand the job. We've mixed up Business Abstract and System Abstract. These are all types of applied solutions, that is, a survey is a type of thing to measure what habits people have. It's a tool. "Habit measurment", on the other hand, is a piece of something we need, whether it's done by survey, interview, hidden cameras, installed tools, or whatever. We've jumped down from Business Abstract to System Abstract, just like last time, but we're not in a hurry to prototype. This thing is going to take years to work through. Surely we should stay absract longer. We don't have to order classes tomorrow. (Even then we could spend a few hours at the Business Abstract level. It's not going to do anything but help us.)
+No. Wait. No. Some of that is stuff we'd use to actually get the job done. Some of that is stuff we'd use to understand the job. We've mixed up Business Abstract and System Abstract. These are all types of applied solutions, that is, a survey is a type of thing to measure what habits people have. It's a tool. "Habit measurement", on the other hand, is a piece of something we need, whether it's done by survey, interview, hidden cameras, installed tools, or whatever. We've jumped down from Business Abstract to System Abstract, just like last time, but we're not in a hurry to prototype. This thing is going to take years to work through. Surely we should stay absract longer. We don't have to order classes tomorrow. (Even then we could spend a few hours at the Business Abstract level. It's not going to do anything but help us.)
 
 Let's try this again. What high-level pieces of stuff do we need to talk about changing people's habits? We have:
 
@@ -247,7 +247,7 @@ Ok, that's probably not complete, but it's good enough for a five-minute first-p
 4. Astronauts should travel in groups of no less than five at a time 
 5. We will accept risk as part of our operating model 
 
-That's a not a bad supplemental list. Take a look at #5. Everything else looks like **Business Abstract Supplemental**. It looks more like **Meta Abstract Supplemental**. Doh! We're the people responsible for all that meta stuff! And at this level, it's important. Once we finish creating our first draft of a shared mental model of what we're doing, our **Business Abstract** stuff, we're going to need to move immediately over to the **Meta Abstract** stuff. Working in those two areas is going to be critical for everybody else to do thier job.
+That's a not a bad supplemental list. Take a look at #5. Everything else looks like **Business Abstract Supplemental**. It looks more like **Meta Abstract Supplemental**. Doh! We're the people responsible for all that meta stuff! And at this level, it's important. Once we finish creating our first draft of a shared mental model of what we're doing, our **Business Abstract** stuff, we're going to need to move immediately over to the **Meta Abstract** stuff. Working in those two areas is going to be critical for everybody else to do their job.
 
 So how about structure? What's our **Business Abstract Structure** list look like? Our target system has:
 
@@ -267,9 +267,4 @@ Also a good enough job for five minutes.
 Now that we have our lists, what next? You can't build a Mars Colony using a few lists of stuff. And we've already established that we're not going to be turning lug wrenches. Our job is at the Business and Meta Abstract levels. So what do we do?
 
 What we do is develop out the detail in our lists until we're ready to spin off some **Business Realized** chunks of work to other groups. And to do that, we have to talk about adding and working with details in our three buckets: Behavior, Structure, and Supplementals.
-
-
-
-
-
 

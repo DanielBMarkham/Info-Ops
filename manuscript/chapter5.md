@@ -16,7 +16,7 @@ Take a break from reading. Stand up. Walk outside. Look around.
 
 There are all kinds of things out there! Sky, clouds, birds, squirrels. Who the heck named all this stuff? Sure, for as long as people could speak, they had words for the things around them. But languages were different, environments were different. What was needed was some kind of system for organizing all the stuff around us so everything goes into a category. Then we can start studying the things in different categories.
 
-Today we go online and find out what things are. Didn't you ever wonder how everything got organized?
+Today we go online and find out what things are. Didn't you ever wonder how everything got organized? Who came up with a system for organizing all the stuff we see?
 
 Aristotle.[^5-1]
 
@@ -24,7 +24,7 @@ Aristotle.[^5-1]
 
 Aristotle was Plato's student. Plato was Socrates's student. From Scorates we have no written record. Plato gave us some text. We know a lot about the things he taught. Aristotle took that even further, generating a ton of texts, establishing a high-quality royal academy, teaching all the great leaders of his day.
 
-Remember Alexander the Great, played by Colin Farrell in the 2004 movie "Alexander"?[^5-2] Alexander conquered over 90% of the known world, devouring entire empires and ending up in India years later. His men had faught so long and hard that they basically decided they weren't going to fight anymore. (Especially with the elephants. Fighting elelphants ain't no fun.) Ever wonder why over 20 cities are named in some way around "Alexander"? That's Alexander the Great.
+Remember Alexander the Great, played by Colin Farrell in the 2004 movie "Alexander"?[^5-2] Alexander conquered over 90% of the known world, devouring entire empires and ending up in India years later. His men had fought so long and hard that they basically decided they weren't going to fight anymore. (Especially with the elephants. Fighting elephants ain't no fun.) Ever wonder why over 20 cities are named in some way around "Alexander"? That's Alexander the Great.
 
 [^5-2]: Not really the greatest movie in the word. The general rule about movies that cover something in history is this: they suck. They might be good movies, but they almost always suck at describing what actually happened. Add Oliver Stone to that mix and you get commentary more than anything else. It was a train wreck. Still, I liked watching it. I'm a sucker like that. [http://amzn.to/2CSSbUX](http://amzn.to/2CSSbUX)
 
@@ -38,7 +38,7 @@ Aristotle's advice to Alexander was "to treat the Greeks as if he were their lea
 
 [^5-4]:This is from Plutarch, I believe. I had read it several times in various places. Found it again here: [http://www.perseus.tufts.edu/hopper/text?doc=Perseus:abo:tlg,0007,087:1](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:abo:tlg,0007,087:1)
 
-Thankfully Alexader did not follow Aristotle's advice. But far from the days of Socrates sitting out by the city gates annoying all the rich and powerful people, by now they were sitting with kings and advising them on how to conquer the world.
+Thankfully Alexander did not follow Aristotle's advice. But far from the days of Socrates sitting out by the city gates annoying all the rich and powerful people. Now they were sitting with kings and advising them on how to conquer the world.
 
 You know, once they got some of the initial bugs worked out, this philosophy thing was really taking off.
 
@@ -46,13 +46,13 @@ You know, once they got some of the initial bugs worked out, this philosophy thi
 
 Aristotle stayed with Plato for over 20 years, learning as much as he could and sticking with the "in the heavens is the actuality and pure form of everything. Our world is merely a shadow" schtick that Plato was really on about during that time. But eventually he left, and his thoughts, like many students, took an almost opposite turn from has master's. (I'm looking at you, Anakin Skywalker.)
 
-Aristotle became more concerned with the here and now, the things we could see, feel, hear, touch, or smell. The world around us. So instead imagining a pure version of everything he talked about, he started wondering jsut how many types of things there were. Every duck is an individual, of course, but they're all ducks. The green ducks we call Mallards are obviously both ducks and not the same as white domestic ducks you see on ponds everywhere.
+Aristotle became more concerned with the here and now, the things we could see, feel, hear, touch, or smell. The world around us. So instead imagining a pure version of everything he talked about, he started wondering just how many types of things there were. Every duck is an individual, of course, but they're all ducks. The green ducks we call Mallards are obviously ducks but not the same as white domestic ducks you see on ponds everywhere.
 
-Given a bunch of stimulae, how do you sort it all out?
+Given a bunch of stimuli, how do you sort it all out?
 
 There's a ton of reading here if you want to do it. By answering this question, Aristotle answered the question of how some people can become specialists in one area but not another. This is the beginning of biology, zoology, natural sciences. There were many books he wrote. Natural Philosophy exploded.
 
-For our purposes, however, Aristotle taught to use our senses and sort things out into how they are structured and how they behave.
+For our purposes, however, Aristotle taught us to use our senses and sort things out into how they are structured and how they behave.
 
 Birds fly. Cows don't. That's a big difference in how they behave. Birds have two legs. Cows have four. That's a big difference in how they are structured.
 
@@ -96,7 +96,7 @@ Then as Product Owner I walk in one day and say "You know, guys. This system has
 
 It could mean anything. It could mean all the screens have to display a language the Lithuanians can read. It could mean we use Lithuanian currency. It could mean we have to use parts that the Lithuanian government approves. Heck, for all we know, Lithuanians have their own unique way of counting and using money. There could be some cultural differences nobody has considered.
 
-What kind of statement was that, anyway? The statement the product onwer made: "This system has to work seamlessly with Lithuanians"? Was it behavior or structure?
+What kind of statement was that, anyway? The statement the product owner made: "This system has to work seamlessly with Lithuanians"? Was it behavior or structure?
 
 The answer is: Yes! It's behavior **and** structure. It's an abstract statement that covers both.
 
@@ -108,11 +108,11 @@ Many times people will say and ask for things that are generic or fuzzy enough n
 
 Does he mean everything? Are we going to rewire the CPUs? No, he can't literally mean *everything*. It's just a generic statement that needs to be true once we actually start working.
 
-It's a **System Abstract Supplemental**, an abstract rule about how the the solution is going happen. Once we start making it happen. The "This sytem has to work seamlessly with Lithuanians" statement? It's a **Business Abstract Supplemental**, because it describes at an abstract level that any kind of business interaction we have, including answering the phone or doing it all by hand, has work seamlessly with Lithuanians, whatever that means.
+It's a **System Abstract Supplemental**, an abstract rule about how the the solution is going happen. Once we start making it happen. The "This sytem has to work seamlessly with Lithuanians" statement? It's a **Business Abstract Supplemental**, because it describes at an abstract level that any kind of business interaction we have, including answering the phone or doing it all by hand, has to work seamlessly with Lithuanians, whatever that means.
 
-**Supplementals** are abstract statements, general rules that have to hold true, than can relate to both structure and behavior. We really don't exactly how they apply until we start doing the work.
+**Supplementals** are abstract statements, general rules that have to hold true, than can relate to both structure and behavior. We really don't exactly know how they apply until we start doing the work.
 
-The reason Aristotle didn't run into this problem was because he was always concerend with the reality in front of him. Reality was created. He was simply categorizing and organizing it. Plato didn't have that problem because he was always concerned with the hidden, true meaning of things. He didn't worry about sorting things out the way Aristotle did.
+The reason Aristotle didn't run into this problem was because he was always concerned with the reality in front of him. Reality was created. He was simply categorizing and organizing it. Plato didn't have that problem because he was always concerned with the hidden, true meaning of things. He didn't worry about sorting things out the way Aristotle did.
 
 If we're moving information around, we have to do both, generalize using abstraction levels and sort things into finer pieces using behavior structure. So when somebody gives us an abstract piece of information that can cover both structure and behavior, we have to keep track of it and make sure we remember it when we're actually doing the work.
 
@@ -126,7 +126,7 @@ So there are three, and only three **"Buckets"**[^5-5] **Behavior, Structure, an
 
 **Structure** is how little pieces fit into bigger pieces.
 
-**Supplementals** are broad statements about both behavior and structure that cannot be resolved until you actually talking about specific structural pieces and behavior.
+**Supplementals** are broad statements about both behavior and structure that cannot be resolved until you are actually talking about specific structural pieces and behavior.
 
 Of course, there's always the parent-child relationship that we need to remember.
 
@@ -134,7 +134,7 @@ So we end up with a kind of "Analysis Bingo" sheet, where everything in our info
 
 Did I just say that everything in your organization, all of the information it gathers, creates, and processes? It all fits into one of these 18 boxes? Really? That's crazy!
 
-I did. And it does. One of the reasons we've spent time meeting all these old Greek dudes is because I don't want you thinking that these categories are arbitrary. They are not. They're not just something I made up. They're result of hundreds of years of really smart people thinking really smart thoughts. (I was not one of those people) If you want a different categorization system you'll need to go back and reinvent western thought. I'll wait here.
+I did. And it does. One of the reasons we've spent time meeting all these old Greek dudes is because I don't want you thinking that these categories are arbitrary. They are not. They're not just something I made up. They're the result of hundreds of years of really smart people thinking really smart thoughts. (I was not one of those people) If you want a different categorization system you'll need to go back and reinvent western thought. I'll wait here.
 
 There are a couple of more curveballs that we'll go over in this first section of the book, but these tags are at the heart of any effective information stream. And there isn't a lot of them.
 

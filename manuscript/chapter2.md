@@ -118,7 +118,7 @@ This is one of those things which sounds completely facile. Why of course they w
 
 Well, if they argued, instead of asking honest, humble, and probing questions, they would continue to have different models. They might even get quite emotional about it. If they met in smaller groups, each group would have the same model but the overall group would be split. In fact, if they had different sub-groups, the different sub-groups would coalesce more or less depending on how good their questions were of each other.
 
-This process that held true no matter what the topic. It was magic. You could pick anything you could express in words, put a group of people together, and they would form a common mental model around those things. Simply by using good questioning of one another.
+This process held true no matter what the topic. It was magic. You could pick anything you could express in words, put a group of people together, and they would form a common mental model around those things. Simply by using good questioning of one another.
 
 People had been accidentally doing this for thousands of years before the Greeks, of course, but it was Socrates and his buds that figured out that this was a generic process you could apply to anything.
 
@@ -126,7 +126,7 @@ You paid good money for this book. Let's toss in some complicated-sounding words
 
 [^2-6]: Plato tells us it was Zeno of Elea that invented the dialectic. As you can imagine, in order to make this book work I have chosen to eliminate and skip huge, important parts of history. Zeno is also the one who came up with several paradoxes that you'll still see people talking about today.
 
-The Greeks, starting a tradition that has lived proudly with every philosopher since them, took their discovery too far. In their minds, the dialectic was what people used to determine truth. After all, if you had a bunch of the smartest people in the world in a room, and they all engaged as passionately and intelligently as they could with a topic through thesis and antithesis, what else could you come up with besides the truth?
+The Greeks, starting a tradition that has lived proudly with every philosopher since then, took their discovery too far. In their minds, the dialectic was what people used to determine truth. After all, if you had a bunch of the smartest people in the world in a room, and they all engaged as passionately and intelligently as they could with a topic through thesis and antithesis, what else could you come up with besides the truth?
 
 (Later on, of course, other smarter people came along and took the same subjects, went through the same process, and came up with different answers. They also thought they knew the truth, but then still *smarter* people came along, and so on.)
 
@@ -146,7 +146,7 @@ Let's say this a little differently: *We want to make sure people have as much a
 
 I know this sounds fuzzy. Bear with me.
 
-On Air France 447, the key, simple question was this: which way is the plane's nose pointed? The pilots in that cockpit did not have the information they needed to know that this was the critical question. Sadder still, the people who designed, built, and trained the pilots did not have a shared mental model with the pilots in the cockpit that night enough to understand that what the pilots was going on was not what the plane was telling them.
+On Air France 447, the key, simple question was this: which way is the plane's nose pointed? The pilots in that cockpit did not have the information they needed to know that this was the critical question. [Sadder still, the people who designed, built, and trained the pilots did not have a shared mental model with the pilots in the cockpit that night, enough to understand that what the pilots thought was going on was not what the plane was telling them.]
 
 Many times we *build things right* -- they have quality, they conform to specs, they're rugged, they're easy-to-use and own. We just don't *build the right things*. The people making stuff and the people using stuff don't live in the same world. The information flow is inadequate. The dialectics are faulty or missing. The models are different.
 

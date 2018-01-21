@@ -22,13 +22,13 @@ I looked around. All of these people were staring at me. So we blocked off a lit
 
 The next two months consisted of all of us in that room asking questions of one another and writing down the conclusions we reached. We also brought in folks from other parts of the agency and asked them questions.
 
-Initially, our quesions focused around what the current various systems did, but we also had to talk about what the new system would do.
+Initially, our questions focused around what the current various systems did, but we also had to talk about what the new system would do.
 
 But wait, that's two completely different things, right?
 
 ## Temporal Indicators
 
-Our last group of tags are called **Temporal Indicators**. I build software for people. Most of the time our discussions are around what they want in the future. But a few times in my career I've had to spend time talking about how things \were in the past -- or how they are currently.
+Our last group of tags are called **Temporal Indicators**. I build software for people. Most of the time our discussions are around what they want in the future. But a few times in my career I've had to spend time talking about how things were in the past -- or how they are currently.
 
 The Temporal Indicators I've used for those situations are **Was, As-Is, and To-Be**
 
@@ -48,13 +48,13 @@ The project with the DoD went very well. The customer was concerned that our sup
 
 They all got to talk about how their experience was unique and the values they had with one another. It was a great group. People listened. Once we had all of the **Business Realized As-Is** items in place, I asked a simple question: "What sort of generic things are true across all of these instances? You guys are doing some awesome work, and each unit is different, but what parts are the same?"
 
-The group was then able to describe generic behaviors, structures, and supplementals that would have to be true in the upcoming system no matter exactly how it was implemented. We moved up an abstracdtion level and changed temporal indicators, to the **Business Abstract To-Be** level without any problems. We put off decisions about how each individual unit would work until later. As long as the new system supported all the generic desires, it could be configured differently for different users. That was a problem for another day. Remember: work as high as you can for as long as you can.
+The group was then able to describe generic behaviors, structures, and supplementals that would have to be true in the upcoming system no matter exactly how it was implemented. We moved up an abstraction level and changed temporal indicators, to the **Business Abstract To-Be** level without any problems. We put off decisions about how each individual unit would work until later. As long as the new system supported all the generic desires, it could be configured differently for different users. That was a problem for another day. Remember: work as high as you can for as long as you can.
 
 Now that we had agreement on the general way things had to be, the **Business Abstract To-Be** stuff, we took that agreement and did all kinds of other cool things that we'll talk about later.
 
 Temporal indicators combined with abstraction levels can be a very powerful way to move forward in a large group with tons of diverse interests. It's always my "go-to" place when starting a large, tricky, project.
 
-In the move "Arrival", temporal indicators played a huge role in the plot as well, the entire idea of things occuring in the past, present, or future was foreign to our new friends, and that caused all sorts of other things to happen. (I don't want to spoil it.)
+In the movie "Arrival", temporal indicators played a huge role in the plot as well, the entire idea of things occurring in the past, present, or future was foreign to our new friends, and that caused all sorts of other things to happen. (I don't want to spoil it.)
 
 How about my story? What was the agency? What was the mission? What happened?
 
