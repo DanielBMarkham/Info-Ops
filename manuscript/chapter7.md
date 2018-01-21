@@ -2,27 +2,31 @@
 
 ## Application
 
-Our tagging system is now complete. Woo hoo! If you bail out now, if you're hit by a oxcart hauling dog sweaters barreling down a country lane, end up in a coma, and wake years from now not remembering anything but this book, your time has been well-spent. You can use these tags anywhere. These same tags will be useful a thousand years from now.
+Our tagging system is now complete. Woo hoo! If you bail out now, if you're hit by an oxcart hauling dog sweaters barreling down a country lane one dark night heading to the nearest laundromat, end up in a coma, and wake years from now not remembering anything but this book, your time has been well-spent. You can use these tags anywhere. These same tags will be useful today or a thousand years from now.
 
 Taking notes on how your organization is going to do a re-org next year? Let's see, that's information about the people that make things happen. That's in the **Meta** Genre. If we're talking about how the people relate to one another, how people and little groups relate to other people and groups, how things fit together, we're talking about **Structure**. It's happening in the future, so it's **To-Be**. Finally we'll probably be talking about things in the **Abstract** at first, what kinds of principles we want to use to do the work. Then we'll move on to the concrete (Always stay as high as possible for as long as possible)
 
-Even though we've labeled our conversation as **Structure**, in actuality once you start talking about any of the buckets, stuff from the other buckets shows up. Why does Joe need to report to Sue? Because Joe does the inventory, and Sue is responsible for property. Here we have **Behavior** (Joe doing the inventory) and **Supplementals** (Sue being responsible for property, whatever that means). That information is just as important as the org chart stuff. After all, you'll probably need to know that later. "Jim takes care of the coffee supplies. Where should he report. Well, let's see, we said a couple of days ago that Sue is responsible for property..."
+Even though we've labeled our conversation as **Structure**, in actuality once you start talking about any of the buckets, things from the other buckets show up. Why does Joe need to report to Sue? Because Joe does the inventory, and Sue is responsible for property. We asked about **Structure**. In return, here we have **Behavior** (Joe doing the inventory) and **Supplementals** (Sue being responsible for property, whatever that means). Even though it's from another bucket, that information is just as important as the org chart stuff. After all, you'll probably need to know that later. "Jim takes care of the coffee supplies. Where should he report. Well, let's see, we said a couple of days ago that Sue is responsible for property..."
+
+The three buckets always travel together. You can never just single one bucket out. You always get the three.
 
 ### Dental Franchise
 
-You've picked up a new job! Your first day out of the hospital from your coma, and you land a new job. A local dentist has invented the perfect system for running dental office. He wants to create a franchise, a system where other dentists pay him money and he provides them with the training and tools to run a dental office just like his. It's like McDonalds, only for dentists.
+You've picked up a new job! It's the first day out of the hospital from your coma (they never found that oxcart driver), and you land a new job. A local dentist has invented the perfect system for running a dental office. He wants to create a franchise, a system where other dentists pay him money and he provides them with the training and tools to run a dental office just like his. Like McDonalds, only for dentists.
 
-The only problem? He needs somebody to take down all of the things his office does and how they do them. Create an "Operations Manual" for running the best dental shop possible. How do you do that?
+The only problem? He needs an instruction book. He needs somebody to take down all of the things his office does and how they do them. Create an "Operations Manual" for running the best dental shop possible. Okay. How do you do that?
 
-First you separate out the tools and mechanical part of running the dental office from the business side of things. He wants an operations manual. Whenever I hear "operations manual" I think of **Business Realized Behavior** Business Behavior Realized is the actual way a certain business is ran.
+First you separate out the tools and mechanical part of running the dental office from the business side of things. He wants an operations manual. Whenever I hear "operations manual" I think of **Business Realized Behavior** Business Realized Behavior is the actual way a certain business is ran.
 
-But wait, some things are probably part of the franchise and some things aren't. Some things probably don't matter and some things the people are free to make various choices. So you'll need to start at the abstract level, find out how dental offices are ran no matter who runs them. Once you take enough notes at the **Business Abstract Behavior** level that you think you understand most of the generic parts of running a dental office, you'll interview and take a bunch of notes at the **Business Realized Behavior** level.
+But wait, some things are probably part of the franchise and some things aren't. Some things probably don't matter and some things the people are free to make various choices. So you'll need to start at the abstract level, find out how dental offices are ran no matter who runs them. Once you take enough notes at the **Business Abstract Behavior** level that you think you understand most of the generic parts of running a dental office, you'll interview and take a bunch of notes at the **Business Realized Behavior** level.[^7-0]
 
-As always, once you start asking about Behavior, you'll start hearing about Structure and Supplementals. So you've really got six kinds of things to talk about, the three buckets at the Business Abstract and Business Realized levels. That's **Business Abstract Behavior, Business Abstract Structure, Business Abstract Supplementals, Business Realized Behavior, Business Realized Structure, and Business Realized Supplementals**.
+[^7-0]: There's some ambiguity here. If this guy is teaching a universal way to run dental offices, is that **Abstract**, because it's universal? Or is it **Realized**, because since no matter what his system is, it is one of many ways to run a dental office? I'll talk about this later, but you can pick either one. Just be clear on which one you pick and why. In this case, we have one **Abstract** level, the pure form. Then two **Realized** levels, the one he teaches and the one customers instantiate (which we're not modeling.) Remember that there are tons of levels of abstraction, all covered by the parent-child "Is A" relationships. So we can have one layer in Abstract and a couple of layers in Realized. 
 
-Expect people to pop all over the place. You'll have finished talking about how dental businesses work in the abstract (Business Abstract) and you'll start talking about exactly how this franchise wants to teach things. "How does teeth cleaning happen?" you might ask. "Well, you never do teeth cleaning without checking insurance first", "Wait a minute. Is that true for this franchise, or true for all dental offices?", "It's true for all offices. Nobody will do a cleaning without validating insurance."
+As always, once you start asking about Behavior, you'll start hearing about Structure and Supplementals. So you've really got six kinds of things to talk about, the three buckets at the Business Abstract level and three buckets at the Business Realized levels. If you're keeping track, that's **Business Abstract Behavior, Business Abstract Structure, Business Abstract Supplementals, Business Realized Behavior, Business Realized Structure, and Business Realized Supplementals**.
 
-So you ask a **Business Realized Behavior** question (How does teeth cleaning happen), and you get a **Business Abstract Supplemental** (Nobody will do a cleaning without validating insurance.) What does it mean to "validate insurance"? You file away the information you got, then either chase down the new Supplemental or continue with what you were talking about before.
+During your conversation, expect people to pop all over the place. You'll have finished talking about how dental businesses work in the abstract (Business Abstract.) Then you'll start talking about exactly how this franchise wants to teach things. "How does teeth cleaning happen?" you might ask. "Well, you never do teeth cleaning without checking insurance first", "Wait a minute. Is that true for this franchise, or true for all dental offices?", "It's true for all offices. Nobody will do a cleaning without validating insurance."
+
+So you ask a **Business Realized Behavior** question (How does teeth cleaning happen), and you get a **Business Abstract Supplemental** (Nobody will do a cleaning without validating insurance.) What does it mean to "validate insurance"? Beats me. You file away the information you got, then either chase down the new Supplemental or continue with what you were talking about before.
 
 Almost every time you ask a question about one thing, you'll get information for somewhere else. You'll probably have new questions too. Remember Socrates! Questions are where it's at.
 
@@ -32,37 +36,39 @@ Human conversations are naturally unstructured. It's impossible to talk about si
 
 ## Movie Special Effects
 
-After the Dentist job, you were hired to created a giant plastic model of a land-attack ship for an upcoming science fiction movie. You're all about creating giant plastic models, but what should this thing look like?
+The Dentist job was fun, but you got fired. You hurt the dentist's fillings.
 
-How a particular implemented solution should be constructed. You have a **System Realized Structure** problem.
+After the Dentist job, you were hired to created a giant plastic model of a land-attack ship for an upcoming science fiction movie. You're all about creating giant plastic models, but what should this thing look like? (Aside from "really cool!")
 
-Above the System Realized level there's the Business Abstract level, the Business Realized level, and the System Abstract level. That's nine other buckets aside from the three in the level you're on. Do you really have to sit down and talk about all that crap just to make a cool plastic model?
+Hmm. How a particular implemented solution should be constructed. You have a **System Realized Structure** problem.
 
-Of course not. But you need to know those levels exist. That's all.
+Above the System Realized level there's the Business Abstract level, the Business Realized level, and the System Abstract level. That's nine other buckets aside from the three in the level you're on. Nine! Do you really have to sit down and talk about all that crap just to make a cool plastic model?
+
+Of course not. But you need to know those levels exist. That's all. Do as little as you need, as late as possible, and only what you need.
 
 You stay as high as you can as long as you can. In our case, the real point of this is that it looks good in the movie and works for the shot. So as long as we do that, we're fine.
 
-Okay, what's our first question?
+Okay, what's our first question? Here's the Director. What do we ask him?
 
 "So what kind of things do you want this land attack ship to *do*?"
 
 "It should have this cool laser on the front where it shoots people on the ground. It also needs a hatch on top our hero can climb out of. And it should look like a giant wooden badger."
 
-Ok. We started with **Business Abstract Behavior**. It's at the top and a good place to start with questions. In reply, we got back **System Realized Structure** (laser on the front), **System Abstract Behavior** (laser somehow shoots people on the ground. Laser shots? Continuous light? We don't know. That's System Realized Behavior. Save that question for later.) We got **System Realized Structure** (needs a hatch on top). Cool, so our director is designing the ship for us. We'll remember to put that in there. And it needs to look like a giant wooden badger. That would be both structure and behavior, and it's talking in general terms about how it looks, so that's a **System Abstract Supplemental**
+Ok. We started with **Business Abstract Behavior**. It's the top level of our pyramid and a good place to start with questions. In reply, we got back **System Realized Structure** (laser on the front), **System Abstract Behavior** (laser somehow shoots people on the ground. Laser shots? Continuous light? We don't know. That's System Realized Behavior. Save that question for later.) We got **System Realized Structure** (needs a hatch on top). Cool, so our director is designing the ship for us. We'll remember to put that in there. And it needs to look like a giant wooden badger. That would be both structure and behavior, and it's talking in general terms about how it looks, so that's a **System Abstract Supplemental**
 
-Do we need to tediously go through each of our boxes in Analysis Bingo? Of course not. But we could spend a few minutes making a couple of lists at the highest level. It would give us some context to talk about the answers we do need.
+Do we need to tediously go through each of our boxes in Analysis Bingo? Of course not. But we could spend a few minutes making the three lists at the highest level, even if it's just among ourselves without the Director present. It would give us some context to talk about the answers we do need.
 
-So all of us artists sit and ask ourselves, if we were the Evil Empire designing a land attack craft, what kind of things would it do? After ten minutes of brainstorming, we have a list. Our land attack ship will:
+So all the artists sit and ask ourselves, if we were the Evil Empire designing a land attack craft, what kind of things would it do? After ten minutes of brainstorming, we have a list. Our land attack ship will:
 
 1. Walk across open ground like a camel
 2. Jump over hills and fortifications like a rabbit
 3. Turn it's "head" left and right in a sinister way
 4. Crouch down and make a cool growling sound
 5. Shoot lasers at stuff. (Right?)
-6. Make hissing sounds as steam or something shoots out the back every now and then
+6. Make hissing sounds as steam or something shoots out the back every now and then (We discussed loud farting sounds before a big attack, but sadly the guys didn't like that.)
 7. Glow green or blue when it gets angry
 
-Cool. Some of that stuff we'll need to show in the movie. Some of that stuff we just made up for fun. So that's our **Business Abstract Behavior** list, stuff that it has to do no matter how we make the model. Do we know anything about structure? We quickly sketch out a list there too. Our land attack ship must have:
+Cool. Some of that stuff we'll need to show in the movie. Some maybe just for us. Some of that stuff we just made up for fun. So that's our **Business Abstract Behavior** list, stuff that it has to do no matter how we make the model. Do we know anything about structure? We quickly sketch out a list there too. Our land attack ship must have:
 
 1. Laser turret
 2. Legs with knees
@@ -70,23 +76,26 @@ Cool. Some of that stuff we'll need to show in the movie. Some of that stuff we 
 4. Neck
 5. Head 
 6. Windows
+7. Entry hatch
 
-Neat. We're actually talking about physical parts of the ship, we asked for structure and we came up with **System Abstract Structure**. That's fine. We probably don't need Business Structure stuff. We'll skip it if we can. We've sketched out what it has to do and the necessary pieces we'll have to model. Are there any supplementals? Stuff that's true no matter what?
+Neat. We're actually talking about physical parts of the ship, we asked for **Business Abstract Structure** and we came up with **System Abstract Structure**. That's fine. We probably don't need Business Abstract Structure stuff. Let's try skipping it. We've sketched out what it has to do and the necessary pieces we'll have to model. Are there any supplementals? Stuff that's true no matter what?
 
 After a bit we came up with a couple. It must always be true that:
-1. The ship does some kind of thing before it shoots: crouches, glows, hisses
+1. The ship does some kind of thing before it shoots: crouches, glows, or hisses
 2. The ship looks like it might fall down at any minute, but quickly adapts, like that robot on those YouTube videos. Done right, this will convince the audience that it's actually super-stable
 3. Maybe we should have different colors for different stuff. Red lasers, blue feet, etc.
 
-That got kind of vague at the end, but it's better than nothing. Ten, twenty minutes later, you've finished kicking around questions with one another (Anybody remember the dialectic?) and you're ready to play with some models. Yay!
+Wait! Forgot the most important one! 4. Must look like a giant wooden badger.
 
-The gang spends the next few days making sketches, throwing some pieces together to make something to look at. During that time, you'll probably refine the items in your three lists. (If not, you're probably doing something wrong) During all of those conversations and playing around with models, while it looks like nothing is happening but fun modeling stuff, you're doing something much more important: *You're creating a shared mental model*
+That got kind of vague at the end, but it's better than nothing. Ten, twenty minutes later, you've finished kicking around questions with one another (Anybody remember the dialectic? Nailed it.) and you're ready to play with some models. Yay!
 
-The director's not in the room, however, so you're probably far away from what he wants (and heading farther away with each passing day!) so you call him back to show him what you've got. As you get out the sketches and hand him the prototypes, you read the items on the behavior list "Check this out. We thought it would walk like a camel, crouching and jumping over stuff" you say as you play with the model.
+The gang spends the next few days making sketches, throwing some pieces together to make something to look at. During that time, you'll probably refine the items in your three lists. (If not, you're probably doing something wrong.) You'll have a lot more conversations/dialectics. (Sorry, I meant you'll be performing a lot more analysis.) During all of those conversations and playing around with models, while it looks like nothing is happening but fun modeling stuff, you're doing something much more important: *You're creating a shared mental model* Analysis For The Win!
 
-Now the director is building a mental model. He doesn't know as much as you do, so he's doing it the old-fashioned way: in his head. He asks some questions. Changes some things on your list. After an hour or so you have a new set of three lists (Behavior, Structure, and Supplementals) and some models you pieced together while talking to him.
+The director's not in the room, however, so you're probably far away from what he wants (and heading farther away with each passing day.) so you call him back to show him what you've got. As you get out the sketches and hand him the prototypes, you read the items on the behavior list "Check this out. We thought it would walk like a camel, crouching and jumping over stuff" you say as you play with the model.
 
-The gang gets back together for a few days and riffs on this new list. Then the director comes back and you repeat the process. After a few times, everybody in the room has the same mental model of how these land ships are supposed to look and work. Double bonus points for you because you've been keeping notes with all the stuff tagged. When the team hires a new guy, you can all walk through the notes and he can get up to speed very quickly. 
+Now the director is building a mental model. He doesn't know as much as you do, so he's doing it the old-fashioned way: in his head. He asks some questions. Changes some things on your list. After an hour or so you have a new set of three lists (Behavior, Structure, and Supplementals) and some models you pieced together while talking to him. More analysis.
+
+The gang gets back together for a few days and riffs on this new list. Then the Director comes back and you repeat the process. After a few times, everybody in the room has the same mental model of how these land ships are supposed to look and work. Double bonus points for you because you've been keeping notes with all the stuff tagged. When the team hires a new guy, you can all walk through the notes and he can get up to speed very quickly. 
 
 You can't push a shared mental model into his head with notes, of course! This book isn't about *documentation*. The new guy will still have a bunch of questions he'll want to ask, and you'll have a bunch of questions to ask him. He'll go through the same process you did with the director with reading and understanding the lists, asking questions, answering questions, and playing around with solutions. He will have to do that to join the shared mental model with the rest of you. Guess what? The gang will end up changing their model with the addition of the new guy. The dialectic is about groups of people asking each other questions around theses and antitheses to form a shared mental model. New people? New model. 
 
@@ -94,21 +103,23 @@ The only thing the tagged notes and prototypes do is drastically speed up the ti
 
 ## Corporate Training Department
 
+That was a cool job, wasn't it? But, alas, that job ended in tears as well. The studio cut the budget.
+
 The Dentist and special effects gigs were fun, but this next one? Who couldn't get excited about planning Corporate Training for the upcoming year? All those classes and books, Powerpoints and lectures. It gets me crazy agitated just thinking about it.
 
-But you gotta do it, and here you are. You're working at BigCorp and your team has a budget and is supposed to fund training for the upcoming year.
+But it's work; you gotta do it, and here you are. You're working at BigCorp and your team has a large budget and is supposed to fund training for the upcoming year.
 
 Books, presentations, teachers, students. What the heck does that have to do with our tags? I thought the tags were about building stuff, right?
 
-Well, that's why I picked this example. The tags are about creating shared mental models. You can use those models to build stuff -- or to do other things. Remember Socrates! Everything we talk about in life goes back to those old Greek guys.
+Well, that's why I picked this example. The tags are about creating shared mental models. You can use those models to build stuff -- or to do other things. Remember Socrates! Everything we talk about in life goes back to those old Greek guys. Including planning training.
 
-So the first question is this: what do we need a shared mental model about? That is, what system are we changing?
+So the first question is this: what do we need a shared mental model about? That is, what target system are we changing?
 
 The immediate answer is that we're creating a schedule, sending out RFPs, installing an LMS, and doing other day-to-day operations. But if we did all of that, could we still fail? 
 
 Sure.
 
-So thinking about doing all of that stuff should be *secondary*. All of that stuff is the actual way we end up going about our jobs. It's not the nature of the job itself. The nature of the job itself is probably something like "make poeple better and stuff" The budgets, schedules, classes, notes? All of that is the final product. It's the **System Realized** level stuff.
+So that's not it. Thinking about doing all of that stuff should be *secondary*. All of that stuff is the actual way we end up going about our jobs. It's not the nature of the job itself. The nature of the job itself is probably something like "make poeple better and stuff" The budgets, schedules, classes, notes? All of that is the final product. It's the **System Realized** level stuff.
 
 What we need to know is the reason why we're doing things. The overall nature of where we are and how we define success. We gotta talk about the **Business Abstract** stuff.
 
@@ -116,13 +127,15 @@ What we need to know is the reason why we're doing things. The overall nature of
 
 So what's the goal of a corporate training department? To provide training? That's like saying the goal of a water spigot is to provide water. True, but circular. What do we need the water for? What do we need the training for? *Why is somebody paying for this?*
 
+One of the saddest and most common mistakes is that they don't understand analysis, so they confuse the tools for the job with the job itself. Need to dig a ditch? Go buy a $15-million-dollar bulldozer and then start reading the instruction book. It sounds insane, but people do this with software all the time.
+
 After much sitting around and scratching your heads, you finally hit on it: corporate training exists to change the habits of people in the organization from poor habits to productive ones.
 
 It doesn't exist for simple knowledge. It doesn't exist to enforce policy. (Policy probably plays a role here, but only because some policies represent habits you'd like folks to have. There are a lot of other habits you'd like folks to have that aren't polices, nor should they be.)
 
-So we are trying to understand and deploy a system that changes the habits of folks in the corporation. That's what they pay us for, that's what we have to focus on. We should not get side-tracked by whatever our existing beliefs are about training departments. If buying a fleet of clown cars will help us change habits more than anything else? We're buying a fleet of clown cars. By understanding our mission, we're able to judge success or failure.
+So we are trying to understand and deploy a system that changes the habits of folks in the corporation. That's what they pay us for, that's what we have to focus on. We should not get side-tracked by whatever our preexisting beliefs are about training departments and how they work. If buying a fleet of clown cars will help us change habits more than anything else? We're buying a fleet of clown cars. By understanding our mission, we're able to judge success or failure.
 
-So back to our three lists, just like last time. What kinds of behaviors in general do people have that want to change other folks' habits? What's our **Business Abstract Behavior**? They:
+So back to our three lists, just like last time. What kinds of behaviors in general do people have that want to change other folks' habits? What's our **Business Abstract Behavior**? They are:
 
 1. Make an ordered list of habits they'd like to change (from most important to least important)
 2.  Select and implement some way of determining which habits people have 
@@ -157,7 +170,7 @@ Let's try this again. What high-level pieces of stuff do we need to talk about c
 
 There we go. That's all the high-level abstract things we've talked about so far.
 
-This high level list of items that go together at the most abstract level, the **Business Abstract Structure** list, is an interesting thing. It almost looks like a glossary.
+This high level list of items that go together at the most abstract level, the **Business Abstract Structure** list, is an interesting thing. It almost looks like a glossary, doesn't it?
 
 So how about Supplementals? Are there any Business Abstract Supplementals we need to remember?
 
@@ -188,7 +201,7 @@ It's the same pattern as we had with the director and the model. It's the same p
 
 That job didn't last, sadly. You did such a great job training people that they hired robots and now everything is being done in a warehouse in Toledo. 
 
-Oh well. The next gig eventually comes through, and it's a dog house.
+Oh well. The next gig eventually comes through, and it's for the dogs. Literally. It's a doghouse.
 
 By this time you've got the hang of things. You know how to tag and organize stuff. Fortunately you also know how to build dog houses.
 
@@ -200,7 +213,7 @@ You sketch out a house on your pad and show the guy. He likes it! So then you gr
 
 When you're done, the dog walks over, gets in the house, and goes to sleep. The doghouse did what it was supposed to do.
 
-You get paid, the guy gets a doghouse. Life is good.
+You get paid, the guy gets a doghouse. The dog takes a nap. Life is good.
 
 What if you were worried about getting paid? Well, you'd take those same lists and sketches and make it into a quick contract, a "Memo of Understanding". You'd both sign it. Then you'd build the house. Maybe you'd get a down-payment first if you were really concerned about the job.
 
@@ -208,9 +221,9 @@ It's the same process as the other examples.
 
 ## Mars Colony Project Manager
 
-The doghouse gig was going like gangbusters for several years, but you got kind of tired of that after a while, took a mail order course, and got accepted as humanity's first Project Manager to oversee our new Mars Colony! (It was a pretty good mail-order course.)
+The doghouse gig was going like gangbusters for several years, but you got kind of tired of that after a while, took a mail order course, and got accepted as humanity's first Project Manager to oversee our new Mars Colony! (It was a pretty good mail-order course.) Wow! Hope they need some doghouses up there.
 
-Your first day on the job, you arrive at a huge, glass building. A robot parks your car. As you enter your glass-panel-wrapped control room, a team of 15 of the smartest people alive meet you. You're informed that whatever budget you desire will be yours, just ask. The doors automatically slide shut in the room and now it's just you and your team. The future awaits!
+Your first day on the job, you arrive at a huge, glass building. A robot parks your car. As you enter your glass-panel-wrapped control room, a team of 15 of the smartest people alive meet you. You're informed that whatever budget you desire will be yours, just ask. The doors automatically slide shut in the room and now it's just you and your team. There's this giant executive desk in at the end of the room with your name on it. The future awaits!
 
 Ok, where to start?
 
@@ -218,13 +231,13 @@ Same place as always. With your three lists.
 
 First, though, there is an interesting question that occurs to you.
 
-With this huge of a budget, an enormous staff, a multi-year plan? Will you be doing anything at all that's not on the top level? (The **Business Abstract** level.) I'm not saying that all your work will be theory. You might start launching rockets next week. My question is for such a large project with so many moving pieces, is it a good use of your time to be spending any time working through technology application? Not that you couldn't help, or that you couldn't learn from participating and watching. Walking the shop floor is a critical skill. But to control everything, to plan and understand the big picture, do you need to know everything all at once?
+With this huge of a budget, an enormous staff, a multi-year plan? Will you be doing anything at all that's not on the top level? (The **Business Abstract** level.) I'm not saying that all your work will be theory. You might start launching rockets next week. My question is for such a large project with so many moving pieces, is it a good use of your time to be spending any time working through technology application? Not that you couldn't help, or that you couldn't learn from participating and watching. Walking the shop floor is a critical skill. But to control everything, to plan and understand the big picture, do you need to know everything all at once? Is it even possible to know everything all at once?
 
-You do not. In fact, you can't know everything at once. There's simply too much detail. Computer programmers run into this all of the time. There's simply too many levels of technology for them to learn, master, and worry about managing everything all the time. Levels of abstraction save them, and levels of abstraction along with our genres and buckets will save us, too.
+It is not. There's simply too much detail. Computer programmers run into this all of the time. There's simply too many levels of technology for them to learn, master, and worry about managing everything all the time. Levels of abstraction save them, and levels of abstraction along with our genres and buckets will save us, too.
 
 We've used our tagging system so far just to organize what we're doing and increase our ability to reach a shared mental model. It's been an effectiveness tool. Now we're finding out that it's required for sanity as well. If you worry about too much stuff all at once, you'll end up being crappy at everything. Just like Aristotle's system of organizing all the animal life allowed natural science to come along, our tagging system will allow us to scope out little areas that we can become experts in.
 
-So the answer is no, you don't need to leave the **Business Abstract** level. Your job is to set direction, implement the values and culture you need, and set the rest of the organization up for success. You need to define what "done" looks like. You don't need to be polishing rocket nose cones. Even when it comes to the tactical details, your job is to work at and ensure the abstract culture and goals are used to create and execute tactics.
+So the answer is no, you don't need to leave the **Business Abstract** level. Your job is to set direction, implement the values and culture you need, and set the rest of the organization up for success. You need to define what "done" looks like. You don't need to be polishing rocket nose cones. Even when it comes to the tactical details, your job is to work at and ensure the abstract culture and goals are used to create and execute tactics. Somebody has to see the forest and not just the trees.
 
 You know the drill. What sorts of behaviors do we want to see in our target system that will define success for us? (Our **Business Abstract Behaviors**) The system needs to:
 
@@ -247,7 +260,9 @@ Ok, that's probably not complete, but it's good enough for a five-minute first-p
 4. Astronauts should travel in groups of no less than five at a time 
 5. We will accept risk as part of our operating model 
 
-That's a not a bad supplemental list. Take a look at #5. Everything else looks like **Business Abstract Supplemental**. It looks more like **Meta Abstract Supplemental**. Doh! We're the people responsible for all that meta stuff! And at this level, it's important. Once we finish creating our first draft of a shared mental model of what we're doing, our **Business Abstract** stuff, we're going to need to move immediately over to the **Meta Abstract** stuff. Working in those two areas is going to be critical for everybody else to do their job.
+That's a not a bad supplemental list. Take a look at #5. Everything else looks like **Business Abstract Supplemental**. It looks more like **Meta Abstract Supplemental**. Doh! We're also the people responsible for all that meta stuff! And at this level, it's important. Once we finish creating our first draft of a shared mental model of what we're doing, our **Business Abstract** stuff, we're going to need to move immediately over to the **Meta Abstract** stuff. Working in those two areas is going to be critical for everybody else to do their job. That's the work.
+
+Sadly, and with honor, you slowly put your hammer and paint brush in the drawer of your giant executive desk.
 
 So how about structure? What's our **Business Abstract Structure** list look like? Our target system has:
 
@@ -266,5 +281,5 @@ Also a good enough job for five minutes.
 
 Now that we have our lists, what next? You can't build a Mars Colony using a few lists of stuff. And we've already established that we're not going to be turning lug wrenches. Our job is at the Business and Meta Abstract levels. So what do we do?
 
-What we do is develop out the detail in our lists until we're ready to spin off some **Business Realized** chunks of work to other groups. And to do that, we have to talk about adding and working with details in our three buckets: Behavior, Structure, and Supplementals.
+What we do is develop out the detail in our lists until we're ready to spin off some **Business Realized** chunks of work to other groups. This is called modularization. And to do that, we have to talk about adding and working with details in our three buckets: Behavior, Structure, and Supplementals.
 
