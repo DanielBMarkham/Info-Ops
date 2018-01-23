@@ -13,4 +13,5 @@ chapter10.md
 chapter11.md
 chapter12.md
 chapter13.md
+chapter14.md
 backmatter.md
