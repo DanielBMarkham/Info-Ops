@@ -10,6 +10,8 @@ Even though we've labeled our conversation as **Structure**, in actuality once y
 
 The three buckets always travel together. You can never just single one bucket out. You always get the three.
 
+![](images/dentist.png)
+
 ### Dental Franchise
 
 You've picked up a new job! It's the first day out of the hospital from your coma (they never found that oxcart driver), and you land a new job. A local dentist has invented the perfect system for running a dental office. He wants to create a franchise, a system where other dentists pay him money and he provides them with the training and tools to run a dental office just like his. Like McDonalds, only for dentists.
@@ -100,6 +102,8 @@ The gang gets back together for a few days and riffs on this new list. Then the 
 You can't push a shared mental model into his head with notes, of course! This book isn't about *documentation*. The new guy will still have a bunch of questions he'll want to ask, and you'll have a bunch of questions to ask him. He'll go through the same process you did with the director with reading and understanding the lists, asking questions, answering questions, and playing around with solutions. He will have to do that to join the shared mental model with the rest of you. Guess what? The gang will end up changing their model with the addition of the new guy. The dialectic is about groups of people asking each other questions around theses and antitheses to form a shared mental model. New people? New model. 
 
 The only thing the tagged notes and prototypes do is drastically speed up the time it takes to create those models.
+
+![](images/lecture.png)
 
 ## Corporate Training Department
 

@@ -58,6 +58,8 @@ Now let's take our escaped prisoners and put them back in the cave, back near th
 
 Not sure, but it sounds to me a bit like Plato is talking about what happened to Socrates. He started talking about ignorance and the truth and they killed him for it.
 
+![](images/parent-child-1.jpg)
+
 ## Abstraction Levels
 
 Plato was making a point about truth and education. When we're born, we're like the people living in the cave. We see things only in primitive, two-dimensional terms. Then we start getting educated. If done correctly, education should be scary! There are lots of new concepts and we have freedoms we never had before.
@@ -85,6 +87,8 @@ For people who know object-oriented programming, this should sound familiar. In 
 No matter how tightly we scope our conversation by using tags, there are always going to exist levels of abstraction. When you meet those giant elephant-octopus alien guys on the spaceship and point to yourself and say "Louise", unless we know which abstraction level we're working on it's impossible for us to determine if you're providing your name, announcing your gender, labeling your species, or what. We have to be clear about abstraction levels.[^4-5.5]
 
 [^4-5.5]: In the movie they just guessed which abstraction levels both sides were talking about. This beats nothing.
+
+![](images/parent-child-2.jpg)
 
 ## Parent-Child relationships
 
@@ -131,6 +135,8 @@ If you asked me to build you an application, you and I would spend some time tal
 Back to the college kids. You've read these reports and, dang it, weasel farming sounds like the life you've always wanted. Fresh air. The happy sound of weasels at play. You've learned a ton reading these reports, but you still feel like there's a lot that you're missing. Sure, all of these things are generally true, but how does it actually work? So far it all seems so theoretical.
 
 So you go back to college and ask them for more practical information. Tell me how actual weasel farming happens.
+
+![](images/parent-child-3.jpg)
 
 The first report is a study of several different farms in your area. It talks about how each farm operates (without referring to technology, of course, that's another genre) Farmers get their equipment at this local store, they take their wares to these markets, and so on.
 

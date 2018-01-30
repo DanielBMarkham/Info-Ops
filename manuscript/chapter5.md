@@ -42,6 +42,8 @@ Thankfully Alexander did not follow Aristotle's advice. But far from the days of
 
 You know, once they got some of the initial bugs worked out, this philosophy thing was really taking off.
 
+![Aristotle](images/aristotle.jpg)
+
 ## Behavior and Structure
 
 Aristotle stayed with Plato for over 20 years, learning as much as he could and sticking with the "in the heavens is the actuality and pure form of everything. Our world is merely a shadow" schtick that Plato was really on about during that time. But eventually he left, and his thoughts, like many students, took an almost opposite turn from has master's. (I'm looking at you, Anakin Skywalker.)
