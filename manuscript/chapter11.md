@@ -8,6 +8,8 @@ I've been using these concepts for over twenty years, and the more I use them, t
 
 Pretty cool stuff.
 
+![You're buying an ice cream truck!](images/ice-cream-truck-master-model.jpg)
+
 ## Cross-References: The Magic
 
 Back in school, we used to take sentences apart and draw pictures of them. This was called "sentence diagramming". It wasn't a lot of fun for me, but it was a good way to learn the parts of speech. There were a bunch of parts, but the main ones were nouns, verbs, adjectives, and adverbs.
@@ -26,6 +28,8 @@ Point at a noun in the domain model. What does this noun mean to us? *It means t
 Looking at the Behavior list, it not only covers all the verbs in the project, it links them to important nouns. Remember, the list title for Behaviors is at least a verb-noun phrase: wash laundry, dry clothes, fold clothes. Every one of those behavior titles has nouns in it. When we talk about "wash laundry", we're joining up the noun "laundry" with the verb wash. The Activity Diagrams around this behavior, it's parents and children, the supplementals that apply? They define what "wash" means for this project.
 
 Point at a behavior in the domain model. What does this behavior mean to us? *It means the things it does to the nouns while following the supplementals. The model exists to provide meaning to the verb*
+
+![](images/ice-cream-truck-linkages.jpg)
 
 Everybody walks into a project with different ideas of what things mean. If I worked on a Customer Resource Management system last year, I might have my own ideas of what the noun "Customer" means. If I worked on a retail sales application, I might have a different idea of "Customer". If I've never worked on an app at all, something completely different. If I am the user of the app, something completely different still.
 

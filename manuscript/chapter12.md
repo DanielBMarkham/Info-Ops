@@ -6,6 +6,8 @@ Even when we were building the cool CGI model, and we didn't want to do any docu
 
 These top-level lists show up everywhere, no matter the job. They show up so much, and they're used for so many things, we're going to label them and make them a required part of any analysis we do. (I hate prescriptive process, and I hate documentation, but here I'm willing to make an exception. A quick list for each of the top level buckets ain't going to kill anybody.)
 
+![](images/ice-cream-truck-master-model.png)
+
 ## Master Models
 
 Let's call the lists, the formal titles, the diagrams, and details at the **Business Abstract** level our **Master Models**. 
