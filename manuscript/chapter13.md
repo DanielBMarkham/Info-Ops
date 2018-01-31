@@ -114,7 +114,7 @@ What's happened with analysis is much the same as what happened to music before 
 
 How many project kick-off meetings are there where they make good speeches, you meet the bosses, and you're left with a feeling of success -- but you don't have a common grasp of what, exactly it is that you're doing and why. Yes, you were told, but without group consensus, without questioning, without a shared model, without analysis, it's all just happy talk "We're going to implement the gestalt into a prepared and willing niche" is a joke, but it's not far from what many people hear in kickoffs.
 
-How many meetings share data in various forms, graphs, charts, projections, cohorts, and so on -- but it's not plainly clear how the data fits into everything else that's going on?
+How many meetings share data in various forms, graphs, charts, projections, cohorts, and so on -- but it's not plainly clear how the data fits into everything else that's going on? Or if the meaning is understood, does the fact that new analysis is needed get to the people that need to know?
 
 We won't be writing any major symphonies in this book, but now that we know how to take "analysis sketches", let's take these sketches and assemble into things you use in our day-to-day life.
 
@@ -124,11 +124,11 @@ What we want to do is to be able to annotate our notes without using a complicat
 
 After all, the process of identifying important concepts and having conversations around them is the most important thing your team does. Even more importantly, any data we could collect, by definition, will fit somewhere in our analysis model. So really the 
 
-Everything else we do in life we record and distribute.
+Everything else we do in life we record and distribute. The key points where conversations occur, our analysis model, is certainly more important than pictures of our cat, right?
 
-If we have a system for tagging everything, why not automate it, then just like Beethoven, we can plug it into various transforms and re-statements that are useful to various people.
+If we have a system for tagging everything, we can automate it, then just like Beethoven, we can plug it into various transforms and re-statements that are useful to various people.
 
-![Taking analysis notes and sketches the easy way.](images/ict-amin.png)
+![Taking analysis notes and sketches the easy way.](images/ict-amim.png)
 
 By breaking things down to the smallest pieces and using a tagging system, we can enter however much we want. Perhaps those notes are enough. Great! We're done.
 
@@ -140,7 +140,12 @@ Note that we've separated the note-taking from the drawing. If you like drawing 
 
 Then if you want some output, like story cards, reports, or diagrams? That's just another output in the toolchain. Because everything is tagged, and because we know how to handle the tags, we can connect up various tools in a chain to collect and disseminate information.
 
-![Have a tool clean-up the data and draw it. A Domain Model is one of many outputs](images/ict-dm2.png)
+![Now that we've added Has A relationships, we can automatically create a domain model](images/ict-dm2.png)
+
+Using a tagging system you set up yourself along with an analysis compiler allows us to dive as deep as we'd like and a
+
+![](images/data-gathering-sample.png)
+
 
 
 

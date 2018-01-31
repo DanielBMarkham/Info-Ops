@@ -29,7 +29,7 @@ Looking at the Behavior list, it not only covers all the verbs in the project, i
 
 Point at a behavior in the domain model. What does this behavior mean to us? *It means the things it does to the nouns while following the supplementals. The model exists to provide meaning to the verb*
 
-![](images/ice-cream-truck-linkages.png)
+![](images/ice-cream-truck-model-linkages.png)
 
 Everybody walks into a project with different ideas of what things mean. If I worked on a Customer Resource Management system last year, I might have my own ideas of what the noun "Customer" means. If I worked on a retail sales application, I might have a different idea of "Customer". If I've never worked on an app at all, something completely different. If I am the user of the app, something completely different still.
 
@@ -104,7 +104,7 @@ Neat. There we go. Took a minute. Since we have to start somewhere, let's pick t
 
 Great! So we have our first actor, the usher. "When people arrive at the gate, As an usher, I need to seat people in the spectator area so that they can watch the fight."
 
-Woot! We're filling out ou8r first title!
+Woot! We're filling out our first title!
 
 Everybody nods their heads. Yay! The status report this week is looking great already!
 
