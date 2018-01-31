@@ -180,6 +180,8 @@ It's also important that new people are able to consume whatever you're writing 
 
 </rant>
 
+![A user on Stack Overflow uses an Activity Diagram to show how his Android app works](images/activity-diagram-1.jpg)
+
 ## Pieces of Behavior Diagrams
 
 There are five pieces that I use to diagram Behaviors in a rough **Activity Diagram** format. (Nerd alert! Activity Diagrams are part of the Unified Modeling Language, or UML. They're based loosely on "Petri Nets", a mathematical construct used since the mid 20-th century. So if you're doodling on a napkin at the local pub while talking about your new job, and somebody asks what you're doing? Tell 'em "I'm sketching a petri net as part of a behavior model to support a critical dialectic" Maybe they'll buy you a free drink. Never hurts to try, right?)

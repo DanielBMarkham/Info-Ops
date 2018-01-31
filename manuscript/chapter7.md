@@ -223,6 +223,8 @@ What if you were worried about getting paid? Well, you'd take those same lists a
 
 It's the same process as the other examples.
 
+![](images/doghouse.png)
+
 ## Mars Colony Project Manager
 
 The doghouse gig was going like gangbusters for several years, but you got kind of tired of that after a while, took a mail order course, and got accepted as humanity's first Project Manager to oversee our new Mars Colony! (It was a pretty good mail-order course.) Wow! Hope they need some doghouses up there.

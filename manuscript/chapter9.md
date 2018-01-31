@@ -79,7 +79,7 @@ Trust me, you need these big words if you're going to impress dates and customer
 
 ## A Word About Domain Model Ambiguity
 
-ADD PIC 
+![](images/cat-dog-name.jpg)
 
 Let's say you've got five important nouns so far: dog, cat, pet outfit, name, and legs. Let's see. A dog has legs. So you put "Dog" in a box and draw the arrow to another box with "Legs" A cat has legs. Same for pet outfit. A dog has a collar. A cat has a pet outfit. They don't have to have a pet outfit, but they *could* have a pet outfit. That's all that matters.
 
@@ -102,6 +102,8 @@ So in a way it's kind of a game. "Ok, guys. We put important stuff we talk about
 The work is everybody agreeing how to do it. (Another reason why you can never, never, ever do this kinda thing on your own.) It's "right" if everybody agrees. It's "wrong" if people can't come up with some shared way of drawing little boxes and arrows.
 
 If you can't come up with an agreed-upon way to draw little boxes and arrows? Now is the time to start looking for a new job. Save yourself.
+
+![A quick domain model I did and cleaned up after chatting with a team one afternoon](images/domain-model-1.jpg)
 
 So it is expected and necessary that any two groups of people doing analysis on the same problem with the same information create vastly different domain models. That's how it's supposed to work. It's "right" if they all agree. It's perfect if anybody in the group can come to the whiteboard and draw the model again while everybody nods their heads in agreement. You've nailed it.
 

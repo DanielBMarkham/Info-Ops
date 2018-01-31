@@ -167,3 +167,5 @@ And for each of those items in the pyramid, there's the way to add more detail.
 We just started talking about how the fact that the buckets are so connected is important.
 
 To finish this out, we need to talk about two more things: how the buckets relate to one another, and **Master Models** That will close out the section. Then we'll know all the pieces and how they relate. Once we know that, the rest of the book will show you how to collect and deliver those pieces in real-time to the folks who need them.
+
+![](images/supplemental-model-overview.png)
