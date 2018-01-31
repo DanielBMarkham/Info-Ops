@@ -8,7 +8,7 @@ I've been using these concepts for over twenty years, and the more I use them, t
 
 Pretty cool stuff.
 
-![You're buying an ice cream truck!](images/ice-cream-truck-master-model.jpg)
+![You're buying an ice cream truck!](images/ice-cream-truck-master-model.png)
 
 ## Cross-References: The Magic
 
@@ -29,7 +29,7 @@ Looking at the Behavior list, it not only covers all the verbs in the project, i
 
 Point at a behavior in the domain model. What does this behavior mean to us? *It means the things it does to the nouns while following the supplementals. The model exists to provide meaning to the verb*
 
-![](images/ice-cream-truck-linkages.jpg)
+![](images/ice-cream-truck-linkages.png)
 
 Everybody walks into a project with different ideas of what things mean. If I worked on a Customer Resource Management system last year, I might have my own ideas of what the noun "Customer" means. If I worked on a retail sales application, I might have a different idea of "Customer". If I've never worked on an app at all, something completely different. If I am the user of the app, something completely different still.
 
