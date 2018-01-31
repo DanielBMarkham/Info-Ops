@@ -47,6 +47,8 @@ Here are a few Supplementals in the formal title format:
 
 Sometimes the reasons make no sense even if the rule is a good one, but asking the questions (and writing them down) at least clears up to folks what you mean.
 
+![Star Trek Transporter Supplemental Tree](images/supplemental-diagram-1.jpg)
+
 ## Supplemental Details 
 
 For Behavior and Structure, the details are mostly in some kind of diagram. There's a parent-child relationship if things get complicated, but in general, for whatever you're doing, you want a small number of Behavior and Structure items. If you absolutely need more data written down, you use the diagrams to do that.
@@ -148,7 +150,7 @@ The final thing we've learned is that sometimes even writing it down and talking
 
 If we're putting things in lists, our list format for each bucket is like this (just fill in the blanks):
 
-**Behavior**: When, As A, I Need To, So That
+**Behavior**: When, As A, I Need To, So That (or Outcome/Outcomes)
 
 **Structure**: <Noun|Noun Phrase>
 
