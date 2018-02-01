@@ -4,7 +4,9 @@ We've done our time, suffered through a bunch of technical terms in the abstract
 
 This is the most abstract part of the book, and also the most important. Everything else hinges off understanding the concepts so far and in the next couple of chapters.
 
-I've been using these concepts for over twenty years, and the more I use them, the more useful they become. Although we'll pivot and do a lot of talking about technology development in the chapters to come, I have yet to run into a field of study where what we've learned so far isn't applicable. The more you play with them, the more usefulness you get from them.
+I've been using these concepts for over twenty years, and the more I use them, the more useful they become. Although we'll pivot and do a lot of talking about technology development in the chapters to come, I have yet to run into a field of study where what we've learned so far isn't applicable. The more you play with them, the more usefulness you get from them. Anytime you're trying to understand a system[^11-0], whether in the past, present, or future, from pyramid-building to ice-cream trucks, this works.
+
+[^11-0]: Technically a formal, consistent system, like a machine, business, mathematical transform, or computer program. It doesn't work with squishy, inconsistent systems, like trying to decide with your spouse on where to go to eat tonight. (Sadly -- although it might not hurt trying!)
 
 Pretty cool stuff.
 
@@ -29,7 +31,7 @@ Looking at the Behavior list, it not only covers all the verbs in the project, i
 
 Point at a behavior in the domain model. What does this behavior mean to us? *It means the things it does to the nouns while following the supplementals. The model exists to provide meaning to the verb*
 
-![](images/ice-cream-truck-model-linkages.png)
+![Any analysis model has links between all the parts](images/ice-cream-truck-model-linkages.png)
 
 Everybody walks into a project with different ideas of what things mean. If I worked on a Customer Resource Management system last year, I might have my own ideas of what the noun "Customer" means. If I worked on a retail sales application, I might have a different idea of "Customer". If I've never worked on an app at all, something completely different. If I am the user of the app, something completely different still.
 

@@ -136,7 +136,7 @@ Back to the college kids. You've read these reports and, dang it, weasel farming
 
 So you go back to college and ask them for more practical information. Tell me how actual weasel farming happens.
 
-![](images/parent-child-3.jpg)
+![Parent-Child Abstraction Levels and fun with weasels](images/parent-child-3.jpg)
 
 The first report is a study of several different farms in your area. It talks about how each farm operates (without referring to technology, of course, that's another genre) Farmers get their equipment at this local store, they take their wares to these markets, and so on.
 
