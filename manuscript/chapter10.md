@@ -63,9 +63,9 @@ What this means in practice is that the parent-child relationship becomes import
 
 Probably nothing.
 
-The real meaning in supplementals is figuring out which behaviors and structural components they map to. "We should always be responsive to our users" is a great Supplemental. Maybe we don't need anything more than that. But it begins to take on meaning when we start building something and figuring out what "always be responsive" means, what it applies to, and how we can know we've done it.[^8-4]
+The real meaning in supplementals is figuring out which behaviors and structural components they map to. "We should always be responsive to our users" is a great Supplemental. Maybe we don't need anything more than that. But it begins to take on meaning when we start building something and figuring out what "always be responsive" means, what it applies to, and how we can know we've done it.[^10-4]
 
-[^8-4]: For those of you coming from the User Stories World, Business and System Supplementals are a huge part of a User Story's acceptance criteria.
+[^10-4]: For those of you coming from the User Stories World, Business and System Supplementals are a huge part of a User Story's acceptance criteria.
 
 Let's say you are opening a new hamburger stand. There are some things that are important to you, that is, Supplementals. There are also some things you do in order to run a hamburger stand that makes it a hamburger stand, Behaviors. Finally, there are pieces that come together to make a good hamburger stand, structure. (We'll be skipping around abstraction levels)
 

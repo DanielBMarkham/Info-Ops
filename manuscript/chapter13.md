@@ -124,33 +124,37 @@ Music happens all the time, whether we realize it or not. Beethoven heard it, ca
 
 Analysis happens all the time, whether we realize it or not. We can hear it. We can capture it, we can put it to our own uses.
 
-What's happened with analysis is much the same as what happened to music before Beethoven: the form, ritual, and participation part has become the purpose of it. 
+What's happened with analysis is much the same as what happened to music before Beethoven: the form, ritual, paperwork, and pageant part is all that it means to people. We've done this so much that most people hardly ever even use the term "analysis", although that's what they spend most of their time doing. 
 
-How many project kick-off meetings are there where they make good speeches, you meet the bosses, and you're left with a feeling of success -- but you don't have a common grasp of what, exactly it is that you're doing and why. Yes, you were told, but without group consensus, without questioning, without a shared model, without analysis, it's all just happy talk "We're going to implement the gestalt into a prepared and willing niche" is a joke, but it's not far from what many people hear in kickoffs.
+How many project kick-off meetings are there where they make good speeches, you meet the bosses, and you leave with a feeling of success -- but you don't have a common grasp of what, exactly it is that you're doing and why, how everything relates to everything else. Yes, you were told, using plain English and wonderful prose, but without group consensus, without questioning, without a shared model, without **Analysis**, it's all just happy talk "We're going to implement the gestalt into a prepared and willing niche" is a joke. Business buzzwords have become their own form of humor. But it's not far from what many people hear in kickoffs.
 
-How many meetings share data in various forms, graphs, charts, projections, cohorts, and so on -- but it's not plainly clear how the data fits into everything else that's going on? Or if the meaning is understood, does the fact that new analysis is needed get to the people that need to know?
+How many meetings share data in various forms, graphs, charts, projections, cohorts, and so on -- but it's not universally understood how the data fits into everything else that's going on? Or if the meaning is understood, does the fact that new analysis is needed get to the people that need to know? We have a library of important information in our heads. Where's the card catalog system?
 
-We won't be writing any major symphonies in this book, but now that we know how to take "analysis sketches", let's take these sketches and assemble into things you use in our day-to-day life.
+There are no warning lights that go off when communication fails. There's no klaxon sounding, there's no horn that blasts. When communication fails, it fails without a trace. People talk, they smile, they leave. All with different mental models. You don't find out about that until much, much later. Many times it is not a happy experience. Information doesn't get where it needs to go. People die.
 
-Just like Beethoven started with sounds he heard in nature for many of his great works -- birdsong, brooks, wind, storms, people talking, pub music -- we start with our analysis notes and transform them into whatever we need.
+We won't be writing any major symphonies, but now that we know how to take "analysis sketches", let's take those sketches and assemble them into things we use in our day-to-day life.
 
-What we want to do is to be able to annotate our notes without using a complicated tool, then organize and share them automatically without having to send emails or hold meetings. If we're getting together for analysis we should do that. If we're moving around lists, models, and data organized into our important concepts, then we should do that. They're two separate things.
+Just like Beethoven started with sounds he heard in nature for many of his great works -- birdsong, brooks, wind, storms, people talking, pub music -- we start with our analysis notes and transform them into whatever we need too.
 
-After all, the process of identifying important concepts and having conversations around them is the most important thing your team does. Even more importantly, any data we could collect, by definition, will fit somewhere in our analysis model. So really the 
+We want to be able to take and annotate our notes without using a complicated tool, then organize and share them automatically without any extra work. If we're getting together for Analysis we should do that. Analysis. If we're moving around lists, models, and data organized into our important concepts, then we should do that. They're two separate things.
+
+After all, the process of identifying important concepts and having conversations around them is the most important thing your team does, no matter your job. Even more importantly, any data we could collect, by definition, will fit somewhere in our analysis model.
 
 Everything else we do in life we record and distribute. The key points where conversations occur, our analysis model, is certainly more important than pictures of our cat, right?
 
-If we have a system for tagging everything, we can automate it, then just like Beethoven, we can plug it into various transforms and re-statements that are useful to various people.
+If we have a system for tagging everything, we can automate it, and just like Beethoven, we can plug it into various transforms and re-statements that are useful to various people.
 
-From here on out, we're going to use a freeware tool called **EasyAM**, which stands for Easy Analysis Modeler. It takes tagged notes in plain text format from a bunch of files, sorts all the information by tags, then spits out all the information sorted into our genres, levels, buckets, and temporal indicators.
+From here on out, we're going to use a freeware tool called **EasyAM**, which stands for Easy Analysis Modeler. It takes our tagged notes in plain text format from a bunch of files, sorts all the information by tags, then spits out all the information sorted into our genres, levels, buckets, temporal indicators, and master models.
 
-We could do all of this work by hand, of course, but by using an "Analysis Compiler", we're able to gather notes from various sources, work in real-time, automate creation and consumption of information, apply testing criteria to make sure we're not spending too much time in analysis, create add-on tools that convert the information into all kinds of useful end-products -- all from the same simple set of notes.
+We could do all of this work by hand, of course, but by using an "Analysis Compiler", we're able to move much more quickly gathering notes from various sources, working in real-time, automating creation and consumption of information, applying testing criteria to make sure we're not spending too much time in analysis, creating add-on tools that convert the information into all kinds of useful end-products -- all from the same simple set of notes.
 
-![Taking analysis notes and sketches the easy way.](images/ict-amim.png)
+It's the origami complexification factor, put to good use.
 
-By breaking things down to the smallest pieces and using a tagging system, we can enter however much we want. Perhaps those notes are enough. Great! We're done.
+![Taking analysis notes and sketches the easy way. Much easier to read than Beethoven!](images/ict-amim.png)
 
-The notes above took five minutes to enter for a new team and create user story cards for that team to use in project planning. Spending another five or ten minutes makes the cards even better.
+By breaking things down to the smallest pieces and using a tagging system, we can enter however much we want. Maybe those notes are enough. Great! We're done.
+
+The notes above took five minutes to enter for a new team and create user story cards for that team to use in project planning. Spending another five or ten minutes makes the cards even better. Or not.
 
 The team and project requirements decide how much it needs.
 
@@ -158,15 +162,15 @@ Perhaps they'd like a domain model for our our nouns. If so, directly under our 
 
 ![Adding in our Domain Model connections](images/ict-dm.png)
 
-Note that we've separated the note-taking from the drawing. If you like drawing things out, you can do that. I like modeling as a group and that's the way I work. But you still write the notes down the same way.
+We've separated the note-taking from the drawing. If you like drawing things out, you can always do that. I like modeling and sketching as a group and that's the way I work. It's fun and fast. But I still write the notes down the same way.
 
-Then if you want some output, like story cards, reports, or diagrams? That's just another output in the tool-chain. Because everything is tagged, and because we know how to handle the tags, we can connect up various tools in a chain to collect and disseminate information.
+If you want some output, like story cards, reports, or diagrams? That's just another output in the tool-chain. There could be dozens or hundreds of different outputs. Because everything is tagged, and because we know how to handle the tags, we can connect up various tools in a chain to collect and disseminate analysis-related information.
 
 ![Now that we've added Has A relationships, we can automatically create a domain model](images/ict-dm2.png)
 
-Perhaps there's a stream of data the team wants to capture that needs to be used as input to future conversations around the analysis model. Great. Take the model -- as detailed or vague as you've made it -- and associate the information you'd like to view later on during Model Synchronization.
+Perhaps there's a stream of data the team wants to capture that needs to be used as input to future conversations around the analysis model. Great. Take the model -- as detailed or vague as you've made it -- and stick in the information you'd like to view later on during Model Synchronization.
 
 ![Now when we generate information about how well our shared mental model reflects reality, we can tag it with where it goes in the model](images/data-gathering-sample.png)
 
-The rest of this section will consist of downloading, installing, and using the tool, then walking through examples with small teams. Then we'll begin scaling up and creating a pipeline to handle things like bug reports and user interviews.
+The rest of this section we will download, install, and use the tool, then we'll walk through examples with small teams. Scaling up we'll also start creating a information pipeline to handle things like bug reports, user interviews, field notes, statistical process control data, and more.
 
