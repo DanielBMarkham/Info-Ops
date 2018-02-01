@@ -103,7 +103,7 @@ The work is everybody agreeing how to do it. (Another reason why you can never, 
 
 If you can't come up with an agreed-upon way to draw little boxes and arrows? Now is the time to start looking for a new job. Save yourself.
 
-![A quick domain model I did and cleaned up after chatting with a team one afternoon](images/domain-model-1.jpg)
+![A quick domain model I did and cleaned up after chatting with a team one afternoon](images/domain-model-2.jpg)
 
 So it is expected and necessary that any two groups of people doing analysis on the same problem with the same information create vastly different domain models. That's how it's supposed to work. It's "right" if they all agree. It's perfect if anybody in the group can come to the whiteboard and draw the model again while everybody nods their heads in agreement. You've nailed it.
 

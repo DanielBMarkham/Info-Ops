@@ -128,25 +128,31 @@ Everything else we do in life we record and distribute. The key points where con
 
 If we have a system for tagging everything, we can automate it, then just like Beethoven, we can plug it into various transforms and re-statements that are useful to various people.
 
+From here on out, we're going to use a freeware tool called **EasyAM**, which stands for Easy Analysis Modeler. It takes tagged notes in plain text format from a bunch of files, sorts all the information by tags, then spits out all the information sorted into our genres, levels, buckets, and temporal indicators.
+
+We could do all of this work by hand, of course, but by using an "Analysis Compiler", we're able to gather notes from various sources, work in real-time, automate creation and consumption of information, apply testing criteria to make sure we're not spending too much time in analysis, create add-on tools that convert the information into all kinds of useful end-products -- all from the same simple set of notes.
+
 ![Taking analysis notes and sketches the easy way.](images/ict-amim.png)
 
 By breaking things down to the smallest pieces and using a tagging system, we can enter however much we want. Perhaps those notes are enough. Great! We're done.
 
-Perhaps we'd like a domain model for our our nouns. If so, directly under our notes for today (or wherever else we'd like to put it), we add in the model details.
+The notes above took five minutes to enter for a new team and create user story cards for that team to use in project planning. Spending another five or ten minutes makes the cards even better.
+
+The team and project requirements decide how much it needs.
+
+Perhaps they'd like a domain model for our our nouns. If so, directly under our notes for today (or wherever else we'd like to put it), we add in the model details.
 
 ![Adding in our Domain Model connections](images/ict-dm.png)
 
 Note that we've separated the note-taking from the drawing. If you like drawing things out, you can do that. I like modeling as a group and that's the way I work. But you still write the notes down the same way.
 
-Then if you want some output, like story cards, reports, or diagrams? That's just another output in the toolchain. Because everything is tagged, and because we know how to handle the tags, we can connect up various tools in a chain to collect and disseminate information.
+Then if you want some output, like story cards, reports, or diagrams? That's just another output in the tool-chain. Because everything is tagged, and because we know how to handle the tags, we can connect up various tools in a chain to collect and disseminate information.
 
 ![Now that we've added Has A relationships, we can automatically create a domain model](images/ict-dm2.png)
 
-Using a tagging system you set up yourself along with an analysis compiler allows us to dive as deep as we'd like and a
+Perhaps there's a stream of data the team wants to capture that needs to be used as input to future conversations around the analysis model. Great. Take the model -- as detailed or vague as you've made it -- and associate the information you'd like to view later on during Model Synchronization.
 
-![](images/data-gathering-sample.png)
+![Now when we generate information about how well our shared mental model reflects reality, we can tag it with where it goes in the model](images/data-gathering-sample.png)
 
-
-
-
+The rest of this section will consist of downloading, installing, and using the tool, then walking through examples with small teams. Then we'll begin scaling up and creating a pipeline to handle things like bug reports and user interviews.
 
