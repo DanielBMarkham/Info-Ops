@@ -66,7 +66,7 @@ People used his system forever. It gave everybody a place to put the things they
 
 This allowed us to split the world of knowledge up into little pieces we could digest. Amazing stuff.
 
-More important than the Natural Sciences (Wow, that's weird to say), is the *method Aristotle used to organize things*
+More important than the Natural Sciences (Wow, that's weird to say), is the *method Aristotle used to organize things*.
 
 Things are structured a certain way. Things do stuff. We can make a decision tree around those two areas and categorize anything, not just chickens.
 
@@ -110,7 +110,7 @@ Many times people will say and ask for things that are generic or fuzzy enough n
 
 Does he mean everything? Are we going to rewire the CPUs? No, he can't literally mean *everything*. It's just a generic statement that needs to be true once we actually start working.
 
-It's a **System Abstract Supplemental**, an abstract rule about how the the solution is going happen. Once we start making it happen. The "This sytem has to work seamlessly with Lithuanians" statement? It's a **Business Abstract Supplemental**, because it describes at an abstract level that any kind of business interaction we have, including answering the phone or doing it all by hand, has to work seamlessly with Lithuanians, whatever that means.
+It's a **System Abstract Supplemental**, an abstract rule about how the the solution is going happen. Once we start making it happen. The "This sytem has to work seamlessly with Lithuanians" statement? It's a **Business Abstract Supplemental**, because it describes at an abstract level that any kind of business interaction we have, including answering the phone or doing it all by hand, has to work seamlessly with Lithuanians, whatever that means. The System stuff will also have to work seamlessly with Lithuanians too, of course, but the System stuff always has to support the Business stuff, it's further down the pyramid. The highest level we can tag that statement at is **Business Abstract Supplemental**, so that's where it goes. The information will flow downhill from there automatically.
 
 **Supplementals** are abstract statements, general rules that have to hold true, than can relate to both structure and behavior. We really don't exactly know how they apply until we start doing the work.
 
@@ -138,7 +138,7 @@ Did I just say that everything in your organization, all of the information it g
 
 I did. And it does. One of the reasons we've spent time meeting all these old Greek dudes is because I don't want you thinking that these categories are arbitrary. They are not. They're not just something I made up. They're the result of hundreds of years of really smart people thinking really smart thoughts. (I was not one of those people) If you want a different categorization system you'll need to go back and reinvent western thought. I'll wait here.
 
-There are a couple of more curveballs that we'll go over in this first section of the book, but these tags are at the heart of any effective information stream. And there isn't a lot of them.
+There are a couple more curve balls that we'll go over in this first section of the book, but these tags are at the heart of any effective information stream. And there isn't a lot of them.
 
 **There's Genre (Business, System, Meta), Abstraction Level (Abstract, Realized), and Bucket (Behavior, Structure, Supplemental). For any piece of information, pick one tag from each of these groups.**
 

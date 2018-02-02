@@ -45,7 +45,7 @@ When I teach Domain Modeling, usually we spend some time asking one another ques
 
 Usually the first thing we'll do is have a conversation where no questions are asked. Everybody keeps a list of important nouns on their own. Whatdya know? Everybody has a slightly different list!
 
-Then we'll have a conversations where one person asks all the questions. Everybody keeps separate notes. It's better. Still, there are a lot of differences. We'll have a conversation where everybody gets to ask questions and everybody keeps separate notes. At this point it feels like we're getting somewhere. As the entire group participates in questions, they start creating that shared mental model we were talking about.
+Then we'll have a conversation where one person asks all the questions. Everybody keeps separate notes. It's better. Still, there are a lot of differences. We'll have a conversation where everybody gets to ask questions and everybody keeps separate notes. At this point it feels like we're getting somewhere. As the entire group participates in questions, they start creating that shared mental model we were talking about.
 
 From here we can have a second session where all the lists are compared and one master list of structure titles is created -- or we try it a final way. In the final way everybody asks questions, but one person makes a list of important nouns on the whiteboard or flipchart while the conversation is occurring. Every class agrees this is the best way because looking at the nouns (or noun phrases) as they're added makes everybody wonder if they all have the same understanding of those terms or not. Most times not. (Although it may take a while for that to come out.)
 
@@ -81,9 +81,9 @@ Trust me, you need these big words if you're going to impress dates and customer
 
 ![](images/cat-dog-name.jpg)
 
-Let's say you've got five important nouns so far: dog, cat, pet outfit, name, and legs. Let's see. A dog has legs. So you put "Dog" in a box and draw the arrow to another box with "Legs" A cat has legs. Same for pet outfit. A dog has a collar. A cat has a pet outfit. They don't have to have a pet outfit, but they *could* have a pet outfit. That's all that matters.
+Let's say you've got five important nouns so far: dog, cat, pet outfit, name, and legs. Let's see. A dog has legs. So you put "Dog" in a box and draw the arrow to another box with "Legs" A cat has legs. Same for pet outfit. A dog has a pet outfit. A cat has a pet outfit. They don't have to have a pet outfit, but they *could* have a pet outfit. That's all that matters.
 
-Five boxes. The dog and cat boxes each have arrows pointing to the leg and collar boxes. Now you've got your final noun, "name".
+Five boxes. The dog and cat boxes each have arrows pointing to the leg and pet outfit boxes. Now you've got your final noun, "name".
 
 Does a dog have a name? Sure. A cat? Sure? Legs? No. You might want to give the legs of your pets names. If you were a veterinarian, maybe each leg has a separate name? But let's say you're not a veterinarian. So no. No names for legs.
 
@@ -97,6 +97,8 @@ A lot of us, for whatever reason, as soon as we pick up a computer or a piece of
 
 So in an important way, it doesn't matter. There is no right or wrong way to do Domain Models and other forms of structural diagrams. That's not what they're for. You are not trying to get the right answer. You are using a prop to create a shared mental model.
 
+Socrates, Plato, and Aristotle thought they were using the dialectic to get *truth*. Two thousand years of philosophy and science that came after that showed they were doing no such thing. They were getting agreement, alignment. We're doing the same thing.
+
 So in a way it's kind of a game. "Ok, guys. We put important stuff we talk about in these little boxes. Then we join them up with arrows that represent Has A relationships. And we can't have loops. How are we going to do it?"
 
 The work is everybody agreeing how to do it. (Another reason why you can never, never, ever do this kinda thing on your own.) It's "right" if everybody agrees. It's "wrong" if people can't come up with some shared way of drawing little boxes and arrows.
@@ -107,11 +109,11 @@ If you can't come up with an agreed-upon way to draw little boxes and arrows? No
 
 So it is expected and necessary that any two groups of people doing analysis on the same problem with the same information create vastly different domain models. That's how it's supposed to work. It's "right" if they all agree. It's perfect if anybody in the group can come to the whiteboard and draw the model again while everybody nods their heads in agreement. You've nailed it.
 
-When I'm using sketches and models for analysis, I'm looking at people in the room, watching their eyes, looking for signs in their body language that they're uncomfortable. Many crappy people doing this work take the opportunity to diagram and use it as a way to dominate the discussion. This is a complete and total fail, If it continues this person needs to find another job. That's not how analysis works.
+When I'm using sketches and models for analysis, I'm looking at people in the room, watching their eyes, looking for signs in their body language that they're uncomfortable. Many crappy people doing this work take the opportunity to diagram and use it as a way to dominate the discussion. This is a complete and total fail. If it continues this person needs to find another job. That's not how analysis works.
 
 This gets us to another rule about analysis: Analysis is completely dependent on the people doing the analysis. **You can't take analysis models created by one group and "plug them into" another group.** The entire point is shared mental models. Unless you've mastered mind control, it takes dozens and dozens of dialectics to get that model, not a book report or long email (Of course they might help. Anything might help prompt good conversations, right? It's not that written stuff is useless. It's that it does something different from what we expect it to do. Good documentation can provide an excellent foundation for analysis. It is not a replacement for the analysis itself.)
 
-Ambiguity is a necessary part of analysis. All of the things we do in analysis are to identify ambiguity and resolve it somehow. Domain Models are a funny duck. They so simple-looking that people think they're trivial. Some of the teams I teach learn domain modeling and then never use them because they don't get it. It doesn't feel connected to the work as much as the Behavior Models (Activity Diagrams) do. 
+Ambiguity is a necessary part of analysis. All of the things we do in analysis are to identify ambiguity and resolve it somehow among ourselves. Domain Models are a funny duck. They are so simple-looking that people think they're trivial. Some of the teams I teach learn domain modeling and then never use them because they don't get it. It doesn't feel connected to the work as much as the Behavior Models (Activity Diagrams) do. Asking a team member to construct a Domain Model while seeing if the rest of the team agrees with him is actually one of the quickest ways to see how far out of alignment the team is.
 
 Fortunately you're reading this book, so as we move from theory to application, you're going to see a bunch of different ways domain models can help you plan and understand what the work is.
 

@@ -28,15 +28,15 @@ On the other hand, the Chomsky/structural guys felt that language is simply a ty
 
 Let's say you were solving a problem, perhaps creating a new product for weasel farmers. The Sapir-Whorf school would advise you to become part of the weasel-farming world. Live and breathe the life of a weasel farmer! Of course they would also tell you to understand the formal science needed to make the product. The Chomsky guys would tell you to gather as much information as possible about weasel farming, tagging the information and how it's structured into a formal system, a "language of the weasel farmer". Of course they would also tell you to understand the formal science needed to make the product. They might even suggest that there is a mapping between the information you learned and the product you're building.
 
-If you've been around computer programming for any length of time, this might should sound familiar. The SW folks are the ones telling you how important it is to be as close as you can with the user of the product. Nothing can take the place of that! The structuralist folks are the ones telling you how programming is just a matter of mapping the language of the user into the language of the computer.
+If you've been around computer programming for any length of time, this might sound familiar. The SW folks are the ones telling you how important it is to be as close as you can with the user of the product. Nothing can take the place of that! The structuralist folks are the ones telling you how programming is just a matter of mapping the language of the user into the language of the computer.
 
 Anybody remember Model-Driven Development?[^3-3] The idea was that using the Unified Modeling Language, we could construct a model of how concepts existed in the mind of the people we were trying to help. Then? There was a somewhat magical transform that happened that mapped the symbols and structures from the user to the computer. Everything was about symbols, grammar, and mappings.
 
-[^3-3]: There was a whole suite of technologies based on models and transforms. MDA, MDD, and some others. Wiki is a good place to start exploring. [https://en.wikipedia.org/wiki/Model-driven_engineering](https://en.wikipedia.org/wiki/Model-driven_engineering)
+[^3-3]: There was a whole suite of technologies based on models and transforms. MDA, MDD, OCL, and some others. Wiki is a good place to start exploring. [https://en.wikipedia.org/wiki/Model-driven_engineering](https://en.wikipedia.org/wiki/Model-driven_engineering)
 
 It's a natural instinct to want to immediately start organizing towards a goal.
 
-In the movie we see this happening almost as soon as the aliens arrive. The military wants to know: are they going to attack? What are their plans? Are they peaceful? They have specific questions from their world that they want answers to from the alien's world.
+In the movie we see this happening almost as soon as the aliens arrive. The military wants to know: Are they going to attack? What are their plans? Are they peaceful? They have specific questions from their world that they want answers to from the alien's world.
 
 Remember Socrates! 
 
@@ -58,7 +58,7 @@ We're going to add a tagging system to our information as it is created and cons
 
 First let's clear up some terms. There are a bunch of words that kind of mean the same thing. There's this general term "conversations" that everybody likes. What makes a good product? Good engineering and good conversations! But I can have a good conversation about football. I have no idea what "good" means. There's that really cool term "dialectic" we just learned. A dialectic is what makes a good conversation! Of course!
 
-I'm going to use "**analysis**", because its dialectics about a particular thing. **Analysis is dialectical conversations around one particular domain. It's everything we do while talking about our work aside from actually doing the work itself.**
+I'm going to use "**analysis**", because it's dialectics about a particular thing. **Analysis is dialectical conversations around one particular domain. It's everything we do while talking about our work aside from actually doing the work itself.**
 
 If our job were to dig holes, analysis would be dialectical conversations around which tools to use, how deep to dig the holes, why we're digging the holes, how many holes to dig, and so on. It's not the work of digging the hole itself, it's the critical conversations we have all around the work. You can't do anything without analysis, but analysis isn't the actual work.
 
@@ -78,7 +78,7 @@ The information we're managing supports analysis. And to make a really tough job
 
 For our first step at limiting things, there are three domains (let's call them "genres") of things we talk about, no matter what we're doing. There is the genre of the problem we're trying to solve. There is the genre of how we're going to solve it. There's the genre of the solution itself.
 
-In the movie, there were conversations about how to find out if the aliens were friendly, there were conversations around how they were going to work together, and there were conversations with the aliens (and the work they did creating a translation program) That's our three genres.
+In the movie, there were conversations about how to find out if the aliens were friendly, there were conversations around how they were going to work together, and there were conversations with the aliens (and the work they did creating a translation program) Those are our three genres.
 
 That's it. If you wanted a simple three-way system of categories, you'd split along these lines: universe of the problem we're trying to solve, universe of the solution we're making, and universe of the way we work. Each of these universe is its own little special land with terms, phrases, jargon, ways of doing things, stories, values, culture, and so on. Each genre is completely different. They are all foreign lands. We must never forget that and always treat them as such. We should never expect languages and phrases that work in one land to work in the other -- even if the words and phrases are the same. A "customer" in terms of the problem we're solving is a completely different thing from a "customer" in terms of how we run our business. And that's a completely different thing from some database table or class we call "customer"
 
@@ -90,7 +90,7 @@ In the movie, they agreed a lot with the Sapir-Whorf people. Nothing could be ac
 
 That's far-fetched even for sci-fi. No linguist I know about would take Sapir-Whorf that far, but it's absolutely true if you're moving information around to make things for people. Each of our genres is its own universe. When we learn more and more about those universes, it will change the way we think about things.
 
-Some of the worst business books I see are books that immerse the reader in one of these genres with the implied idea that by learning about that genre, the reader will better be able to do their jobs. This is not only false, it hurts the readers. By focusing on one genre, say "how to write programs", the only thing we do is increase the density and complexity of the language around that genre, which can, oddly enough, make it more difficult to do the necessary work of moving between genres that it takes to get anything done.
+Some of the worst business books I see are books that immerse the reader in one of these genres with the implied idea that by learning about that genre, the reader will be able to do their jobs better. This is not only false, it hurts the readers. By focusing on one genre, say "how to write programs", the only thing we do is increase the density and complexity of the language around that genre, which can, oddly enough, make it more difficult to do the necessary work of moving between genres that it takes to get anything done.
 
 I see management books and classes that act as if you can be a manager (which is all about how we're going to solve things) without regard for the actual problem you're solving or what you're actually making. To them, management is supposed to exist as a sort of abstract world on its own, disconnected from life. I see programming books and classes that act as if by somehow learning the tiny intricacies of a programming language you'll know anything about how to organize the overall work, or what kinds of lives the people you're trying to help live. 
 

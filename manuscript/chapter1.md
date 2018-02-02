@@ -14,7 +14,7 @@ Marc Dubois wasn't thinking that as he walked out on the Rio de Janeiro airport 
 
 [^1-2]: The overall outline of what happened on flight 447 is taken from the Wikipedia entry on the crash. https://en.wikipedia.org/wiki/Air_France_Flight_447
 
-The flight was mostly full. They had a relatively new junior co-pilot on board, but he had hundreds of hours in the plane and in the region. Nothing suggested anything amiss. His mind was dwelling on his beautiful Brazilian mistress and the evening they had spent together the night before.[^1.5] He had only gotten about an hour of sleep. 
+The flight was mostly full. They had a senior pilot and two junior copilots on-board. One of the copilots was relatively new, but he had hundreds of hours in the plane and in the region. Nothing suggested anything amiss. His mind was dwelling on his beautiful Brazilian mistress and the evening they had spent together the night before.[^1.5] He had only gotten about an hour of sleep. 
 
 [^1-2.5]:All speculation, of course. We know he had a great night, and we know he mentioned it to others.
 
@@ -52,13 +52,13 @@ Now they're back in the storm. Hail or ice begins hitting the front of the plane
 
 An alarm sounds. The alarm is the plane announcing that it is switching modes. Both of its pitot tubes have iced up. Pitot tubes provide direct information on how fast the airplane is flying by measuring how much pressure the incoming air has. Without the pitot tubes, the plane's autopilot is unable to directly determine the speed of the plane through the air.
 
-Things like this happen all the time in aviation. Pilots train for it. The autopilot switches off. The plane's computer system switches from "normal law" to "alternate law 2" This means that the copilot is now flying the plane by hand -- and the plane's controls are responding in a different way than they used to. The electronics of the cockpit are working slightly differently.[^1-4]
+Things like this happen all the time in aviation. Pilots train for it. The autopilot switches off. The plane's computer system switches from "normal law" to "Alternate Law 2". This means that the copilot is now flying the plane by hand -- and the plane's controls are responding in a different way than they used to. The electronics of the cockpit are working slightly differently.[^1-4]
 
 [^1-4]: Wikipedia provides a great overview of various flight modes. [https://en.wikipedia.org/wiki/Flight_control_modes#Alternate_law](https://en.wikipedia.org/wiki/Flight_control_modes#Alternate_law)
 
 Now they are truly in manual mode, the controls are operating differently, the warnings and alerts are different.
 
-The junior copilot corrects to the left, but in the new mode, the stick has more control, so the plane over-corrects the other way, to the right. He is now probably spending his time looking at something called the flight director (Remember, it's midnight and they are flying through clouds. The only thing pilots have in this situation is the instruments inside the plane. The flight director is supposed to tell them where they are, how they're moving, and which way the plane is tilted.) He over-corrects one way then the other, struggling a bit to bring the plane back to level.
+The junior copilot corrects to the left, but in the new mode, the stick has more control, so the plane over-corrects the other way, to the right. He is now probably spending his time looking at something called the flight director. (Remember, it's midnight and they are flying through clouds. The only thing pilots have in this situation are the instruments inside the plane. The flight director is supposed to tell them where they are, how they're moving, and which way the plane is tilted.) He over-corrects one way then the other, struggling a bit to bring the plane back to level.
 
 "I have the controls," the Senior Copilot says.
 
@@ -68,7 +68,7 @@ The plane continues wobbling a bit as the Senior Copilot gets it level.
 
 As he is doing this, he pulls back on the stick bringing the plane into a climb. There's no reason to do this. It's human nature when in a plane to want to go slower and/or higher when you're uncertain what to do. The plane begins to climb, steeply. They can't see or feel this because without instruments in the clouds at night, pilots can't tell what the plane is doing.
 
-Right away an alarm sounds announcing that they are leaving their assigned altitude. Then the stall warning sounds, telling the pilots that they are pulling too hard back on the stick. It is believed that the flight director, however, shows that the plane is heading down, towards the ocean. According to it, more power is needed and the thrust must be increased.[^1-5]
+Right away an alarm sounds announcing that they are leaving their assigned altitude. Then the stall warning sounds, telling the pilots that they are pulling too hard back on the stick. It is believed that the flight director, however, shows that the plane is heading down, towards the ocean. According to the flight director, more power is needed and the thrust must be increased.[^1-5]
 
 [^1-5]: The theory that the copilot was actually following the flight director instead of figuring out on his own what was going on was advanced by the final report and Aviation International News, a publication focused on professional aviation. (It's my uninformed belief that the crash was caused as much by the flight director as it was by the confusion in the cockpit) [https://www.ainonline.com/aviation-news/2012-07-08/final-af447-report-suggests-pilot-slavishly-followed-flight-director-pitch-commands](https://www.ainonline.com/aviation-news/2012-07-08/final-af447-report-suggests-pilot-slavishly-followed-flight-director-pitch-commands)
 
@@ -142,11 +142,11 @@ They call this area of flight "coffin corner", and for good reason. You are very
 
  "We still have the engines! What the hell is happening? I don't understand what's happening!"
 
-Now they begin dropping faster and faster towards the ocean, the entire time with the plane's pointed up and the engines at full throttle. They probably don't feel the fact that they're dropping.
+Now they begin dropping faster and faster towards the ocean, the entire time with the plane's nose pointed up and the engines at full throttle. They probably don't feel the fact that they're dropping.
 
 It's only been 90 seconds.
 
-"What the hell are you doing?" the captain enters the cockpit, struggling to wake up.
+"What the hell are you doing?" the captain enters the cockpit, looking blearily at the two copilots, struggling to wake up.
 
 "We've lost control of the plane!"
 
@@ -164,7 +164,7 @@ One of the last phrases heard on the cockpit voice recorder is this: "But what's
 
 And that's how one night in June a highly-trained crew flew a perfectly functioning airplane into the Atlantic ocean, killing everybody on board.
 
-As a pilot, programmer, and technical coach, as I read the final reports of the crash of Air France 447, I got angry. There was nothing wrong with the plane. It was a state-of-the-art machine that had a wonderful track record. There was nothing wrong with the pilots. Sure, everybody blames the pilots in these things. It would have been nice if the senior pilot had gotten more sleep, or taken longer to leave the cockpit. But these guys were well-trained, at the top of their game. I wouldn't have any problem at all flying with any of them.
+As a pilot, programmer, and technical coach, as I read the final reports of the crash of Air France 447, I get angry. There was nothing wrong with the plane. It was a state-of-the-art machine that had a wonderful track record. There was nothing wrong with the pilots. Sure, everybody blames the pilots in these things. It would have been nice if the senior pilot had gotten more sleep, or taken longer to leave the cockpit. But these guys were well-trained, at the top of their game. I wouldn't have any problem at all flying with any of them.
 
 Yet 228 people died. Why?
 

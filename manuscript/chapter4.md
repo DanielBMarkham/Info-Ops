@@ -30,7 +30,7 @@ From where the prisoners are sitting, all they can see are shadows of things mov
 
 Hey, it's not NetFlix, but I guess it beats getting eaten by a wooly mammoth.
 
-Plato's first question was: what do these people experience in terms of reality? To them, the shadows on the wall are the only reality they know. If somebody says "here's a chicken", or "here's a duck", on the wall there would be a shadow of a chicken or duck. To them the shadows of the chicken and duck *were* the chicken and the duck. That's all there were. They would understand how things move by looking at how the two-dimensional shadows move on the wall. The voices they heard, to them, would sound like they were coming from the shadows. Over the years they would create their entire lives around the shadows and sounds in the cave.
+Plato's first question was: what do these people experience in terms of reality? To them, the shadows on the wall are the only reality they know. If somebody says "here's a chicken", or "here's a duck", on the wall there would be a shadow of a chicken or duck. To them the shadows of the chicken and duck *were* the chicken and the duck. The shadows were all there were. Nothing else. They had no other experiences except for shadows. They wouldn't even understand the word "shadow", since they had never seen anything else but these shapes on the wall in front of them. They would understand how things move by looking at how the two-dimensional shadows move on the wall. The voices they heard, to them, would sound like they were coming from the shadows. Over the years they would create their entire lives around the shadows and sounds in the cave.
 
 Now imagine they break their chains. Getting up, they look back at the fire. It's bright! Ferocious! Painful to look at! How difficult it is to see the truth!
 
@@ -128,9 +128,9 @@ There is no generic farm. It's an abstract concept. There are tons of real farms
 
 This increases value, reduces waste, and allows information to flow better.
 
-If you asked me to build you an application, you and I would spend some time talking about how you wanted to use it -- not shared memory schemas in RISC architectures. I wouldn't even show you a screenshot unless it was important. If you want an app and I give you an app that does what you want, as far as I'm concerned we're done. Keep it as high as possible.[^4-5.75]
+If you asked me to build you an application, you and I would spend some time talking about how you wanted to use it -- not shared memory schemas in RISC architectures. I wouldn't even show you a screenshot unless it was important. If you want an app and I give you an app that does what you want, as far as I'm concerned we're done. Keep it as high as possible.[^4-5c]
 
-[^4-5.75]: I'm not saying that UI and UX aren't important. For many types of applications, they're critical. We'll talk later about how analysis fits into startups and UI/UX. For now all I'm talking about is *meeting the need of the user*. Writing a rockin' app that everybody loves is another thing entirely. Put another way, if you find a guy dying of thirst in the desert, give him a cup of water. It doesn't matter if the cup is ugly, leaks, and the water not pleasant. As long as it doesn't make him sick, if you give him water, you've met his need. Once you figure out that the water is important, we can work on what makes for a good presentation. Not before.
+[^4-5c]: I'm not saying that UI and UX aren't important. For many types of applications, they're critical. We'll talk later about how analysis fits into startups and UI/UX. For now all I'm talking about is *meeting the need of the user*. Writing a rockin' app that everybody loves is another thing entirely. Put another way, if you find a guy dying of thirst in the desert, give him a cup of water. It doesn't matter if the cup is ugly, leaks, and the water not pleasant. As long as it doesn't make him sick, if you give him water, you've met his need. Once you figure out that the water is important, we can work on what makes for a good presentation. Not before.
 
 Back to the college kids. You've read these reports and, dang it, weasel farming sounds like the life you've always wanted. Fresh air. The happy sound of weasels at play. You've learned a ton reading these reports, but you still feel like there's a lot that you're missing. Sure, all of these things are generally true, but how does it actually work? So far it all seems so theoretical.
 
@@ -138,7 +138,7 @@ So you go back to college and ask them for more practical information. Tell me h
 
 ![Parent-Child Abstraction Levels and fun with weasels](images/parent-child-3.jpg)
 
-The first report is a study of several different farms in your area. It talks about how each farm operates (without referring to technology, of course, that's another genre) Farmers get their equipment at this local store, they take their wares to these markets, and so on.
+The first report is a study of several different farms in your area. It talks about how each farm operates (without referring to technology, of course, that's another genre). Farmers get their equipment at this local store, they take their wares to these markets, and so on.
 
 The second report is a study of mammal farming in the last ten years. It is real-world examples of the business practices of successful mammal farms.
 
@@ -148,7 +148,7 @@ This is a completely different kind of information, although there's still a par
 
 Does that make the first set of reports useless? Heavens no! They were a critical part of getting oriented to your new world. And they covered a lot of ground that you wouldn't want cluttering up the other reports.
 
-**Realized** items are abstract items that are "instantiated" in the real world. If the abstract items were cookie cutters, the real items would be cookies. Each cookie is the same shape as the cookie cutter, of course, but each cookie is also unique. It's an unique, instatiated version of the abstract.
+**Realized** items are abstract items that are "instantiated" in the real world. If the abstract items were cookie cutters, the real items would be cookies. Each cookie is the same shape as the cookie cutter, of course, but each cookie is also unique. It's an unique, instantiated version of the abstract.
 
 For many people, there's no difference in the discussion between the abstract and realized. It's all just the way things are. They work at the widget factory and as far as they're concerned, all factories are just like the widget factory. There's only one reality. They're not able to talk about different kinds of factories or how factories in general might operate.
 

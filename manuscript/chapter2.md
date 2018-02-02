@@ -30,7 +30,7 @@ It all started with questions. Our modern world, our schools, our technology, ou
 
 Socrates lived about 2500 years ago, long before Jesus or the Roman Empire. He lived in Athens. It was during a period that for the first time we had writing that people wouldn't lose and people of all kinds of religions and languages were mixing it up in the Mediterranean around where Socrates lived.
 
-Merchants started making enough money to want to teach their kids to be more educated than their parents were. Along with writing and literature came the philosophers. The initial job of philosophers was probably something like "Smart people who we'll pay to train our kids to be smarter than we are so that they'll have a better life."
+Merchants started making enough money to want to teach their kids to be more educated than their parents were. Along with writing and literature came the philosophers. The initial job of philosophers was probably something like "Smart people that we pay to train our kids to be smarter than we are so that they'll have a better life."
 
 That covered a lot of ground! But remember: there were no schools or colleges. No public libraries stocked full of books. If you wanted your kid to learn stuff you had to send him *somewhere*, to *somebody*, and philosophers were the guys. If you were rich you hired a philosopher to come to your estate. The really good philosophers had their own cool kids club where they taught a group all at once.
 
@@ -40,7 +40,7 @@ Before Socrates, Plato, and Aristotle? The Sophists were the great teachers of y
 
 Sophists taught rhetoric, the art of speaking well and arguing. They also taught how to be well-regarded, how to get along with others, how to move up in the world. It made sense. These were all skills that any merchant would want their kids to have. These were the skills that made you well-regarded among others.
 
-The problem was, while it made the kids much more socially adept, it didn't actually make them any smarter. It's like the guy who took so much training he's the best salesman and manager in the world, but his product sucks. People love to be around the guy, he's invited to all the parties -- but there this huge thing missing. There's no depth. There's great packaging, just nothing good inside the box.
+The problem was, while it made the kids much more socially adept, it didn't actually make them any smarter. It's like the guy who took so much training that now he's the best salesman and manager in the world, but his product sucks. People love to be around the guy, he's invited to all the parties -- but there's this huge thing missing. There's no depth. There's great packaging, just nothing good inside the box.
 
 After years and years of watching the Sophists and their students, some people wondered: What was missing? What's wrong here? These guys sound and look good, but they're all fluff. What did we miss?
 

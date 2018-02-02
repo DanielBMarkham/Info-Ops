@@ -4,7 +4,7 @@ Supplementals will get you every time.
 
 Supplementals are the nuclear bombs of analysis. They lie in wait, identified or not. One day they go off and boom! You've got a mess.
 
-You haven't seen pain until you've seen a shop with a deployed product costing tens of millions of dollars suddenly be told that it needs to run 50 times faster. We can't do that! If you'd only asked at the beginning , maybe we could have, but not now!
+You haven't seen pain until you've seen a shop with a deployed product costing tens of millions of dollars suddenly be told that it needs to run 50 times faster. "We can't do that! If you'd only asked at the beginning , maybe we could have, but not now!""
 
 On the other side, I've sat with folks in rooms before multi-million-dollar systems were built. We've talked about business supplementals "We'd like to know about changes in inventory status in real-time" only to have the business itself shoot the idea down because "computers can't do that."
 
@@ -24,7 +24,7 @@ Why? Because of the issues mentioned above. It's far, far too easy to sit down w
 
 Later, I'd visit shops where things had "hummed along" for a long time and now it was all broken. So we started over. Starting over many times is the least painful of all options, although it can be terribly humbling.
 
-Eventually, though, I worked in places where it was important to connect-up the executives with the way the company was ran and the things they built. (Yeah, that's always important, but it wasn't always important to *me*)[^10-1]
+Eventually, though, I worked in places where it was important to connect-up the executives with the way the company was run and the things they built. (Yeah, that's always important, but it wasn't always important to *me*)[^10-1]
 
 [^10-1]: This is known as organization *alignment*. You get paid a lot of money to talk about this, write books, and give motivational speeches. I'm a huge believer that the CEO and other execs have the primary mission of setting culture, values, and direction. I've never been a fan of the buzzword "alignment". Always seemed too fuzzy. This book talks about how to make that a lot less fuzzy, if that's your thing.
 
@@ -43,7 +43,7 @@ Here are a few Supplementals in the formal title format:
 1. **Because** we are a state-of-the-art shop, **Whenever** we do new development, **It has to be that** the only programming stack we will use will be Ninja Turtle 7.0, Caramel Milkshake 3.0 or better, and anything with sprinkles. (This is funnier if you know that computer folks tend to name their technologies really odd things, many times around food items.) **System Abstract Supplemental**
 2. **Because** business referrals mean more to us than new customers, **Whenever** we interact with our existing customers in a non-trivial way, **It has to be that** somebody will follow-up in person and ask for a referral. **Business Realized Supplemental**
 3. **Because** somebody went to a conference and learned something called 
-"Scrum", **Whenever** we we form a new team **It has to be that** the team uses Scrum as its methodology. **Meta Abstract Supplemental**
+"Scrum", **Whenever** we form a new team **It has to be that** the team uses Scrum as its methodology. **Meta Abstract Supplemental**
 
 Sometimes the reasons make no sense even if the rule is a good one, but asking the questions (and writing them down) at least clears up to folks what you mean.
 
@@ -94,7 +94,7 @@ Do all the supplementals apply to all the behaviors? Nope. To figure out which a
 
 As it turns out, this grid is where the *real* details of Supplementals happen.
 
-Behavior "B" is making hamburgers. Aside from the flowchart/Activity Diagram that we'd use to make hamburgers, what other things are important to think about while we make them? The grid shows "1" and "3", that is "Always be responsive to the our customers", and "Never make the customer wait"
+Behavior "B" is making hamburgers. Aside from the flowchart/Activity Diagram that we'd use to make hamburgers, what other things are important to think about while we make them? The grid shows "1" and "3". That is "Always be responsive to the our customers", and "Never make the customer wait".
 
 So when we make hamburgers we need to be responsive to the customers, make what they ask for, and never make them wait -- make the burgers quickly. If we were writing a process manual, we'd add even more detail here, explaining exactly what the supplementals meant. (Never making them wait means that no burger should take longer than 60 seconds to cook, and 30 seconds to prepare and wrap.)
 
@@ -108,15 +108,15 @@ In practice, when writing software in a small project setting, I always keep a l
 
 On the other end of the spectrum, I've seen really complex systems set up that don't work very well and have little buy-in from the teams. They make really cool reports, though. (We'll get into why this happens later, as we talk about scaling up.)
 
-What you don't want to do is nothing. You don't want to get each supplemental for each feature when you write it. This is a good way be really sad at work, because if you do it that way, you'll forget stuff. And the Product Owner will forget stuff. And one time you'll define a Supplemental one way, another time another way. Meanwhile another team or programmer will come along, take the same supplemental, and do it completely differently. The one feature will be "responsive" and take 100ms, another feature will be "responsive" and take 20 minutes. Like I said, sad. Sad is not happy.
+What you don't want to do is nothing. You don't want to get each supplemental for each feature when you write it. This is a good way to be really sad at work, because if you do it that way, you'll forget stuff. And the Product Owner will forget stuff. And one time you'll define a Supplemental one way, another time another way. Meanwhile another team or programmer will come along, take the same supplemental, and do it completely differently. The one feature will be "responsive" and take 100ms, another feature will be "responsive" and take 20 minutes. Like I said, sad. Sad is not happy.
 
 Supplementals will get you every time.
 
 ## Even-up Your Buckets
 
-As we move more into application what we're going to find that it is the intersection of items in the buckets where all the cool stuff happens. This means that each bucket is equally important.
+As we move more into application we're going to find that it is the intersection of items in the buckets where all the cool stuff happens. This means that each bucket is equally important.
 
-A nice rule of thumb for keeping the sadness away is *keep your buckets balanced*. If you've got around ten items in your Business Abstract Behavior list, you should have around ten items in your Business Abstract Structure list. You should have around ten items in your Business Abstract Supplementals list (although with Supplementals, it would probably wouldn't be a flat list. Instead you might have three items at the top and seven or so children/grandchildren.)
+A nice rule of thumb for keeping the sadness away is *keep your buckets balanced*. If you've got around ten items in your Business Abstract Behavior list, you should have around ten items in your Business Abstract Structure list. You should have around ten items in your Business Abstract Supplementals list (although with Supplementals, it probably wouldn't be a flat list. Instead you might have three items at the top and seven or so children/grandchildren.)
 
 It's not a perfect rule. You don't need exactly the same number. But usually it's close, and usually when it's out-of-whack there is a problem. For any abstraction level, keep your buckets filled mostly the same.
 
@@ -168,6 +168,6 @@ And for each of those items in the pyramid, there's the way to add more detail.
 
 We just started talking about how the fact that the buckets are so connected is important.
 
-To finish this out, we need to talk about two more things: how the buckets relate to one another, and **Master Models** That will close out the section. Then we'll know all the pieces and how they relate. Once we know that, the rest of the book will show you how to collect and deliver those pieces in real-time to the folks who need them.
+To finish this out, we need to talk about two more things: how the buckets relate to one another, and **Master Models**. That will close out the section. Then we'll know all the pieces and how they relate. Once we know that, the rest of the book will show you how to collect and deliver those pieces in real-time to the folks who need them.
 
 ![](images/supplemental-model-overview.png)
