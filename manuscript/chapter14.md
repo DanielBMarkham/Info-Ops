@@ -83,6 +83,7 @@ If you want to use EasyAM in a lot of places, and you probably will, you'll also
 ## How Does EasyAM Work?
 
 Once EasyAM is installed, using it is fairly simple:
+
 1. Take mostly freeform text notes using the EasyAM tags.
 2. Pick a directory for everybody to use. 
 3. Save your notes with an ".amin" extension. (amin stands for Analysis Model IN)
@@ -137,4 +138,22 @@ EasyAM takes source and destination directories as optional parameters. If you p
 ```
 
 The above example takes all of the files ending in .amin in the ./infiles directory, processes them alphabetically, then outputs the entire model as one file to ./outfiles/myfile.amout
+
+![Looks like code, feels like code. Using EasyAM in SublimeText](images/sublime-text-extension-example.png)
+
+### It's Programming, Silly
+
+A key concept is that EasyAM works just the same as any other programming tool or language on your system. You can edit files using your IDE, you can version control using DropBox or something like git (for more advanced usages). You can diff two files, you can share common master files and use/maintain your own project-related ones.
+
+If all of this sounds too nerdy for you, if you have DropBox and a small team, create and edit your files in notepad or some text editor and save to a DropBox folder. DropBox will handle all of the moving around, sharing, and versioning for you. If you move past a small team, you should learn to use git and GitHub and save and version your files that way.
+
+For this section, we're going to be talking about working in a small team. (It might be a huge project, but the number of people is small.) So use whatever works for you. Notepad or some other simple text editor will go a long way.
+
+### Keeping Current and Getting Help
+
+To keep current with the progress of EasyAM, which is open source and free, simply visit the GitHub site. GitHub also has a feature where you can watch and be notified when the project changes.
+
+To get assistance or report a bug, send an email to help@easyam.org 
+
+
 
