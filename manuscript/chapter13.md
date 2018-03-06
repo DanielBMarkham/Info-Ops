@@ -170,7 +170,8 @@ If you want some output, like story cards, reports, or diagrams? That's just ano
 
 Perhaps there's a stream of data the team wants to capture that needs to be used as input to future conversations around the analysis model. Great. Take the model -- as detailed or vague as you've made it -- and stick in the information you'd like to view later on during Model Synchronization.
 
-![Now when we generate information about how well our shared mental model reflects reality, we can tag it with where it goes in the model](images/data-gathering-sample.png)
+![Tag your model with notes, questions, to-do, work, code, or even real-time data](images/data-gathering-sample.png)
 
 The rest of this section we will download, install, and use the tool, then we'll walk through examples with small teams. Scaling up we'll also start creating a information pipeline to handle things like bug reports, user interviews, field notes, statistical process control data, and more.
 
+As we work through the rest of the book, our simple tagging system will either stay simple and easy -- or become as intricate and detailed as we need to continue Analysis.
