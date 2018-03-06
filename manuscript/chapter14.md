@@ -93,6 +93,7 @@ Once EasyAM is installed, using it is fairly simple:
 
 Each file starts from a completely blank slate. As you add tags, you indicate where you want to put the information. So if you had some notes to add for the Master Backlog Item "Wiggle When I Walk", you'd start with a fresh file and do it like this:
 
+```
 MASTER BACKLOG 
   Wiggle When I Walk 
     NOTES:
@@ -102,6 +103,7 @@ MASTER BACKLOG
       Ain't nothin' in the world 
       Like a big-eyed girl
       That makes me act so funny
+```
 
 And so on.
 
@@ -111,14 +113,28 @@ Indentation is important. In the above example, by moving in another indent leve
 
 Let's say I lost an indent on the last line.
 
+```
 MASTER BACKLOG 
   Wiggle When I Walk 
     NOTES:
       Wiggle in the walk
       ...
   That makes me act so funny
+```
 
-  In this case, I've created a new Master Backlog Item titled "Makes me act so so funny", which is not what I wanted.
+In this case, I've created a new Master Backlog Item titled "Makes me act so so funny", which is not what I wanted.
 
+The program eats its tail, that is, it outputs in the same format as it inputs, so you can take all of the organized, sorted, and processed amout files and use them as input for another project. 
   
+This means we can pipe analysis information from one project to another, or to another online system that reads EasyAM
+
+I always prefix my .amin files with the date in yyyy-mm-dd format along with my initials. So the analysis notes I took on March 1st last year are named "2018-03-01 dbm Initial Notes.amin" This way when EasyAM processes alphabetically, the notes are processed in correct date order.
+
+EasyAM takes source and destination directories as optional parameters. If you provide them, it uses them. Otherwise it uses the current directory. You can also output everything to a single file if you like.
+
+```
+./easyam /S:./infiles /D:./outfiles /O:SINGLEFILE=myfile.amout 
+```
+
+The above example takes all of the files ending in .amin in the ./infiles directory, processes them alphabetically, then outputs the entire model as one file to ./outfiles/myfile.amout
 
