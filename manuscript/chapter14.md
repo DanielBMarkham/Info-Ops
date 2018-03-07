@@ -153,7 +153,9 @@ For this section, we're going to be talking about working in a small team. (It m
 
 To keep current with the progress of EasyAM, which is open source and free, simply visit the GitHub site. GitHub also has a feature where you can watch and be notified when the project changes.
 
-To get assistance or report a bug, send an email to help@easyam.org 
+To get assistance or report a bug, send an email to help@easyam.org
+
+Now let's organize some stuff!
 
 
 
