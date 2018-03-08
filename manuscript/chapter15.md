@@ -5,6 +5,8 @@ After trying your hand at dog houses, dental franchises, Mars colonies, and seve
 
 After reading this book, you're determined to do this the right way, maybe even do a little too much up-front work just to make sure you do a good job. When your first customer comes along, instead of just chatting and sketching something on a napkin, you chat and jot down your master model as you go.
 
+On your first meeting, you tell him that you're doing this a new way, and that he should expect a half-dozen small conversations before you settle on a deck design and begin work. But there's no charge for that, and you've found that people love it when you do it this way.
+
 What does the world of backyard decks look like in this guy's mind? After 15 minutes of chatting, here's your Master Model sketch.
 
 **MASTER BACKLOG**
@@ -138,10 +140,113 @@ While we're moving our cards around and creating our latest masterpiece, we have
 
 Never fear! We'll just add them at the bottom of our notes, like so:
 
-![We have questions!](images/chapter15-easyam-6.png)
+![We have questions!](images/chapter15-easyam-7.png)
 
 I stopped at a few questions so the graphic would fit in the book. In reality, we'd probably easily have a dozen questions or more.
 
 We run EasyAM again. This time it tells us it has processed two files, and when we look at our Master Cards? There are our questions and notes! We print out our Master Model cards. Then we print out our fancy deck layout diagram. Those things always impress. Finally, we print out the deck diagram one more time, *then cut out each piece of furniture as it's own little piece.*
 
+### EasyAM Round 3: Details, Details, Details 
+
+This time we've got an entire hour. Yay! And we continue to look more professional with each visit. Now we have a dozen or two questions, a cool deck layout diagram, and an interactive game where we can all move the furniture around to see how we'd like it laid out.
+
+Wow, this is starting to look like a dialectic.
+
+When we get the answers to our questions, what do we do with them? Remember that once we're asking the questions as a group, that's the work. The answer is kind of a moot point. In fact, writing down the answer can create more problems than it solves.
+
+Why? Because when we post a question and answer in a permanent record, we're really assuming that all of the terms mean the same thing to everybody involved. In many generic situations, this is true: I need to find answers to questions about installing or using software. I need to know more about the college I'm attending. I'd like to learn more about this watch I'm thinking of buying.
+
+In each of these situations, there's a generic problem domain. We all know and live in mostly the same world when it comes to installing software. Some goes for college. All colleges have common features and services (behavior and structure). We can make a vast number of assumptions and still provide usefulness.
+
+If this were completely true, we would never need anything more than FAQs in life, and any light perusal of a software web site will tell you quickly that this ain't true. FAQs can help -- to a certain degree.
+
+This may sound anal, but it's not. You guys know what the score is now, and it's important to know how easy it is to screw analysis up by simply doing something that seems to make sense. 
+
+**When you get an answer to your question, delete the question, then start talking about how that answer changes the analysis model.** That's where the real work is, in the model, either in your head or on paper. 
+
+If you think about it, it makes sense. We could just draw a box, then spend the rest of our time asking questions and making some huge FAQ. In the corporate world, when analysis is done, most of the time that's exactly how it happens: A bunch of people come up with questions, write them down, then get answers and write them down. Analysis for many teams is no more than a long series of questions and answers. For these folks, the *answers* are the goal. And that's weird, since we know it's the shared group questions that's where the value is.
+
+We already know how to tag *any kind* of information that we can talk about. Why in the world would we stop tagging stuff simply because it's an answer to a question about something else? The analysis model builds on itself. That means that we continuously using questions to work on the model, not get answers. When the model is developed enough, we'll know all the answers we need.
+
+So 90-99% of the time, we get our answer, delete the question, then update and synchronize the analysis model, even if that model is only in our head. Every now and then, you'll get answers that seem important, but you're not really sure. It's not worth stopping the conversation to chase down, but you don't want to forget it, either.
+
+Productivity secret: use notes as a go-to when you're having conversations and get stuff but don't want to interrupt the flow. Worry about what's in the notes later. So if I'm busy having an interesting and useful conversation about A, and in the middle of it there are other interesting things that come out about B, C, D, E, and F? I'm just throwing some notes under A, even if they don't belong.  When I go to clean things up, I'll sort it out. It usually results in notes or questions being added to other items.
+
+In EasyAM, you can just bring up a new text file with an .amin extension, then start typing notes. Apart from doodling on a napkin, that's about as simple as it gets. We'll talk later in this section about what I mean by "cleaning up" when we cover grooming.
+
+So we take our questions, get answers, then update the model (or just jot down notes). As we play together with our fake furniture pieces, moving them around to find better placement, we have more questions and we get answers.
+
+As you know, most of the time those questions are never written down and we don't write down the answers. We simply talk, play, and build shared models. So while we may arrive with a dozen written questions, in our hour together, if we're doing a good job, we'll actually go through four or five times that many.
+
+The flip-side of this is equally important: not everything that comes out of somebody's mouth is important. In fact, most stuff isn't -- or at least isn't important as far as you can tell. Since analysis is about conversations, whenever I hear something new I always try to just guess if I'll be hearing it a lot. Most times the answer is no, so it just bounces off the wall, doing it's job in the heads of the people there. Sometimes the answer is "maybe", so I'll make a note on whatever else we were talking about. See if it shows up again. Sometimes it's obvious. For those items, I always repeat them in the room alongside with a question that covers how important they are. "So you say you keep live gorillas? Are they going to be on the deck too?"
+
+Working with models in physical form, whether it's cards, legos, little furniture pieces, PlayDough, etc. is a pleasing experience. I think that's because deep inside we know that we're actually beginning to think and work as one unit. Working with live gorillas is not.
+
+![A project card with questions attached](images/chapter15-easyam-8.png)
+
+Getting back home that evening, you're pumped. You learned a ton more about how this guy thinks of his deck, and he's starting to learn how the deck business works. Both of you are becoming friends.
+
+Going through your notes, the first thing you do is clean up the new deck layout you guys created on the web. (Once you were done, you took a snapshot with your phone. Now you look at the snapshot and make a pretty drawing out of it online.)
+
+You're not going to be looking at the deck design all the time, but you'd like to get back to it easily. We've said that everything goes in our tagging system, so how do we put this in there?
+
+Our sketch is a structural piece of information at the System Abstract level. The domain model, where we show important nouns, is the most important model for analysis, but there are tons of different kinds of structural models: sitemaps, office layouts, neighborhood maps, and so on.
+
+All structure is derivative. That's another way of saying that any structural model must meet the requirements of both the entire behavior model and the entire supplemental model. Even if you're just looking at a small piece, that small piece has to fit in with the rest of it.
+
+Since Behavior scopes the project, and since structural models have to fit into everything in the other two buckets, our "ALL" behavior item is the place to put other kinds of models.
+
+We create a new file for our third day. We name it "2018-05-02 dbm Third Day.amin"
+
+Typing in just three lines, we link our EasyAM model to our online diagram.
+
+```
+MASTER BACKLOG
+  ALL
+    DIAGRAM: https://www.lucidchart.com/invitations/accept/284edbd2-039b-4f09-a8e3-81b5a615ba76
+```
+
+Easy-Schmeezy.
+
+Speaking of details, diagrams, links, and such, if we want to do the whole shebang, we need more details here, right? How can we finish out this chapter and see all the stuff EasyAM can do unless we fill out a bunch of forms for some tool!
+
+Whenever we're thinking of working with the model as a whole, we always start with Behavior. It's like our playbook for whatever else we're doing. So we call up our customer and tell him we're filling out some paperwork, then ask him if he has a few minutes to answer some questions.
+
+After 15 minutes, we have all of our full title details for our Master Backlog. Since we have that .amin file already open, we just add them all at the bottom, like so:
+
+```
+MASTER BACKLOG
+  ALL
+  Cookout food
+    WHEN I'm hungry on a holiday
+    ASA House Owner
+    INEEDTO Cookout food for my friends and family
+    SOTHAT We can create happy memories together
+  Nap in the summertime
+    WHEN It's a weekend and I have nothing to do
+    ASA House Owner, House Guest
+    INEEDTO Take a nap 
+    SOTHAT I can enjoy the outside and feel rested
+  Entertain friends
+    WHEN Our friends come to visit
+    ASA House Owner
+    INEEDTO Entertain friends outside
+    SOTHAT They enjoy their stay and think of us fondly
+```
+
+And so on. We also change "Sunbathe with friends" to just "Sunbathe", since he doesn't do that with friends, no matter what he said the first time we met.
+
+Lookee here, we have EAsyAM tags for our title details. We add them just by mentioning the item, then adding tags that are indented a bit more.
+
+We could do the titles for the other buckets, but we've really done too much as it is. You never want to go through a list of behaviors and add all of the title details at once like that. It's asking people to think in an unnatural way simply so you can fill some forms out. You end up with forms filled out -- but not a lot of thought going on.
+
+You wouldn't have 6 hour-long conversations where you do these atomic things. You'd have 18 20-minute conversations. You end up taking the exact same amount of time, only the quality is tremendously better. We'll talk about this more a little later. For now, we'll do it the wrong way.
+
+We add in some more questions, print out our cards and model, and head out for our fourth meeting.
+
+![Behavior Cards with full titles and notes attached to the ALL item. If you just want to address outstanding questions, there's also a "mql.html" file generated with each run that just lists questions](images/chapter15-easyam-9.png)
+
+### EasyAM Round 4-7: Adding in all the details 
+
+Over the next couple of days, we meet a few times and complete adding all the detail items in. We'll make a file called "2018-05-04 dbm 4-7.amin" and put that information in.
 
