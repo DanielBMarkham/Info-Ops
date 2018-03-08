@@ -53,12 +53,12 @@ So you push back, gently. You list those sentences and say you'd like to talk ab
 
 Here's how those statement decomposed:
 
-- "Those steps will need to be six-feet wide" -> Uncle Joe and his wife Edna are very large people who like to hold hands a lot. The steps need to accomodate them without making them uncomfortable
+- "Those steps will need to be six-feet wide" -> Uncle Joe and his wife Edna are very large people who like to hold hands a lot. The steps need to accommodate them without making them uncomfortable
 - "The railing should only be a couple of inches apart." -> He read somewhere that babies can get their heads stuck in railing and die. You point out that building codes cover this problem and a lot more. Is it okay just to abide by the codes, instead actually having a 2" gap? Or is there something else? Nope. So this item is deleted
 - "Boards ought to be made of that red stuff you see in pictures" -> He wants redwood *stain*, not expensive hardwood. He doesn't know what he's talking about, he's never built a deck. He likes the redwood stain and wants weather protection for ten years
 - "I don't want to stub my foot on a nail" -> He visited a friend last year who had an old deck and stubbed his foot on a nail.
 
-Out of all of that, we've got three supplementals. One Business Abstract Supplemental: "All entrances must comfortably accomodate two large people side-by-side". We've got two System Abstract Supplementals: "Structure must be impervious to weather for ten years", and "Use joining technology that doesn't poke out after wear (screws, for example)"
+Out of all of that, we've got three supplementals. One Business Abstract Supplemental: "All entrances must comfortably accommodate two large people side-by-side". We've got two System Abstract Supplementals: "Structure must be impervious to weather for ten years", and "Use joining technology that doesn't poke out after wear (screws, for example)"
 
 We have no structure information, although if we had let him, he'd probably start sketching out deck designs on a napkin. Then he would be doing the work, we'd just be preparing materials and joining them. There are a ton of technology teams that think this is an ideal situation. I feel sorry for the people who pay them. 
 
@@ -106,15 +106,47 @@ We tell our customer first thing that we need to talk a lot more than 15 minutes
 
 Sigh.
 
+We also tell him that every time we meet, we'll be bringing along various things to play with -- modeling clay, Legos, pipe cleaners, and so forth. We've found it's both fun and easier to convey ideas when we're actually touching and manipulating things together. (And no, not like that.)
+
+He likes that idea better.
+
 Making the most of what we have, we show him that all we've got for a sketch is just a large square -- the more he has time for us, the quicker it will work and the happier he'll be. We get our questions answered. When he says "friends", he means his family, which has three people in it. Make it five people when they dine out. He's very shy, so sunbathing is a one-person event. The deck must connect to the house and the backyard.
 
 We ask some more questions around his family, friends, and hobbies. Are there hobbies the deck has to support we haven't thought of? He doesn't think so. (It's good to ask open-ended questions around structure: what are the kinds of poodles you will be stuffing, Mrs. Rogers?)
 
+### The Magic Act
+
 That was quick, so we throw in some System Realized stuff so he'll think that we're smart, maybe show him the seven kinds of non-nail fasteners, the history of each, and ask his opinion on them.
+
+We'll repeat this pattern with each visit, by the way, brining examples of various System Realized behaviors, structures, and supplementals, explaining them, and asking his opinion on them.
+
+This accomplishes a bunch of things all at once. First, we look good. We look like we know the intricacies of the work instead of just chatting. (And we do know the work). Second, we subtly start coaching him on having a dialectic with us about *our* work. Remember, this isn't a one-way street. The closer all of our mental models get, the better the result. He has as much work to do as we do -- only he doesn't know it, and we're not going to tell him.
+
+Finally, as we converse around System Realized stuff, when he gives us answers and opinions on things? We find out why he feels that way. We'll be playing around with various stain colors for the deck and he'll choose Redwood.
+
+"That's interesting. What a nice color. Wonder why you liked that instead of this brown"
+
+"It looks more like something you'd see in a forest. Although it's square and obviously man-made, I want my deck to appear as much as possible as part of the forest we live in."
+
+Bam! We just got a beautiful Business Abstract Supplemental like a birthday present. "**Because** I love nature and the forest, **Whenever** I look at my deck, **It has to be that** I am reminded of trees and nature."
+
+We would have *never* gotten that with silly questions like "Hey there! What kinds of supplementals you think you'd like?"
+
+In new projects like this, I judge the professionals from the noobs by watching how they handle System Realized items. Some noobs read a book like this and only want to talk about abstract crap. Some noobs hate anything to do with abstraction and just want to start pounding some nails (or heads). I can't tell you how many project kickoff meetings I've been in where a high-level business leader comes to the team, explains some situation and opportunity; the reason for the project. The floor is open for questions. First question is senior TechWeenie Oswald's: In the sharded database cluster we keep in Europe, how the field length change going to impact CPU load?
+
+This may be a great question. This may be the key, critical question that has to be answered or nothing else can be accomplished. Hell, this question may only be able to be answered by this guy -- and he's hard to get! But the reason a business leader is here talking to us is that the *business* situation has changed. Assuming you know everything involved with Business Abstract, Business Realized, and System Abstract is probably a dumbass thing to assume.
+
+The meetings I still have nightmares about are the ones that go off-the-rails like this, diving way too far into the weeds way too early -- and then the business leader? He dives right in too. Turns out he used to be a tech guy. So we're going to spend an hour talking clusters and indexing strategy. After all, he wants to show the troops he hasn't lost his edge.
+
+The pros pop all over the place, adjusting their mental model as they go. In a new effort, they're constantly looking to the top of the pyramid, not in the weeds. That day will come soon enough. If the business leader wants to prove he's still got database chops? Fine. We'll look at database diagrams asking questions about minutiae -- while we follow up with questions that fill out the rest of the model. It's a handicap but they'll work through it.
 
 We tell him we'd like to bring a more professional model back tomorrow, do some interactive work. Could he spare an hour? Seeing that we know our business, are capable and thorough, and are concerned about his values, he agrees.
 
 By acting in a professional manner, using Structured Analysis, gently explaining to our customer how he can be the happiest for the money he's spending, negotiating carefully with him to give him what he wants, we are establishing trust. Aside from job competence, the reason most projects fail is due to a lack of trust. We create poor, buggy products. We don't spend enough time together. We become order takers for the customer instead of friends and partners. We use bait-and-switch tactics with staffing. All of these create a lack of trust, and a lack of trust kills projects.
+
+People expect deck guys to come and talk about hammers, color swatches, and roofing nails. So that's what we'll do. Like any good magic act, the place where the other person holds their attention isn't the place where all the good stuff happens.
+
+### Back Home
 
 But -- since we understand the dialectic, and since we can use Structured Analysis in freeform, open and natural conversations, as long as we're craftsman at what we do, we're always establishing more trust simply by being there and chatting.
 
@@ -250,3 +282,6 @@ We add in some more questions, print out our cards and model, and head out for o
 
 Over the next couple of days, we meet a few times and complete adding all the detail items in. We'll make a file called "2018-05-04 dbm 4-7.amin" and put that information in.
 
+Ok, so we've spent ten hours or so, we've gotten to know our customer much better and we've added a bunch of stuff to EasyAM. Now get to work, dang it! We're not paying you folks just to sit around printin' out cards.
+
+![Now we have cards with full titles, questions, and notes](images/chapter15-easyam-9.png)
