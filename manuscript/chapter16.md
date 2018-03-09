@@ -6,15 +6,15 @@ Ok, here we go! Off to work now!
 
 (Looks around)
 
-So how does any of this Structured Analysis, EasyAM stuff do anything useful? Can we push a button and a deck come out of the printer.
+So how does any of this Structured Analysis, EasyAM stuff do anything useful? Can we push a button and a deck come out of the printer?
 
 Yes, actually you can. Just keep pushing the button. It'll come out eventually. Hang in there!
 
-The work of analysis is creating a shared mental model. The good stuff is in our heads, not in a drawing in a tool somewhere. You could throw away everything we've done so far and probabaly a good job of building a deck. Likewise, you could run away to Paris in the Springtime, a new contractor could come in, and botch the whole thing up.
+The work of analysis is creating a shared mental model. The good stuff is in our heads, not in a drawing in a tool somewhere. You could throw away everything we've done so far and probably a good job of building a deck. Likewise, you could run away to Paris in the Springtime, a new contractor could come in, and botch the whole thing up -- even if he had all of these notes. (Yes, I'm going to keep pointing that out because some folks will dive right into the "real" part of the book without knowing what the heck they're doing.)
 
 So whatever work we've done? It's invisible. Like an invisible friend, only better.
 
-Structure is deriviative. Once enough Behavior and Supplemental information is in place, the structure "pops out"
+Structure is derivative. Once enough Behavior and Supplemental information is in place, the structure "pops out"
 
 In our case, we've playing with physical models that represent structure all along, ever since we printed out that diagram with the movable furniture pieces. We haven't had a meeting where there wasn't some physical stuff people could manipulate to play with structural ideas.
 
@@ -155,7 +155,7 @@ For each item, we've talked about adding questions, notes, even diagrams. But th
 
 **WORK** If you want to capture work you've done on the item, say for billing purposes, this is the tag to use. (This isn't a work-tracking system. It might be relevant to future conversations to say something like "WORK: I spent all last week trying to determine if those giraffes could swim! Giraffes can't swim!" We'll know to tread gently the next time we talk about giraffes.)
 
-There are two other ones, **DEFECT**|**BUG** and **CODE**. They do a bunch of stuff. We'll cover those later in automation.
+There are three other ones, **DEFECT**|**BUG**, **DATA**, and **CODE**. They do a bunch of stuff. We'll cover those later in automation.
 
 Here's our Stargaze behavior with a couple of these added:
 
@@ -184,9 +184,38 @@ This is a key part of all the automation we'll be doing: delivering the right am
 
 ### The Analysis Canvas 
 
+Two views, graphical and card . Models help us navigate. Cards let us work 
+
+**Diagrams are for navigation. Cards are for manipulation.**
+
+![](images/Chapter 16 UC Model.jpg)
+
+![](images/Chapter 16 Deck Domain Model.jpg)
+
+![](images/Chapter 16 Deck Master Supplemental Model.jpg)
+
+![](images/Chapter 16 Deck Overview1.jpg)
+
+![](images/Chapter 16 Deck Overview2.jpg)
+
+![](images/AnalysisCanvasInfoGraphic.png)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
 
 ### File Organization, Canonical Output, and Round-Tripping
 
 ### EasyAM Language Guide
 
-### Extending To More Backyard Work
+### Changes
+what if the business situation changed -- same model for house hunting
+what if there were more backyard work 

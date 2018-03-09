@@ -130,7 +130,7 @@ Finally, as we converse around System Realized stuff, when he gives us answers a
 
 Bam! We just got a beautiful Business Abstract Supplemental like a birthday present. "**Because** I love nature and the forest, **Whenever** I look at my deck, **It has to be that** I am reminded of trees and nature."
 
-We would have *never* gotten that with silly questions like "Hey there! What kinds of supplementals you think you'd like?"
+We would have *never* gotten that with silly questions like "Hey there! What kinds of supplementals you think you'd like?" This guy probably doesn't even realize he holds these values -- until they pop out under the right circumstances. And now that we know that, think of all the things we can do during the project as little "sparklers" to make the product even more enjoyable. This kind of benefit is the difference between order-taking and true analysis. Good analysis tells you things you didn't know before and might not ever discover without it.
 
 In new projects like this, I judge the professionals from the noobs by watching how they handle System Realized items. Some noobs read a book like this and only want to talk about abstract crap. Some noobs hate anything to do with abstraction and just want to start pounding some nails (or heads). I can't tell you how many project kickoff meetings I've been in where a high-level business leader comes to the team, explains some situation and opportunity; the reason for the project. The floor is open for questions. First question is senior TechWeenie Oswald's: In the sharded database cluster we keep in Europe, how the field length change going to impact CPU load?
 
