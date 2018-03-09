@@ -67,10 +67,15 @@ Also note that since we're using "ALL", EasyAM knows what that means. We tell it
 For a refresher, here are the linkages and keywords
 
 <behavior> AFFECTEDBY <supplemental>
+
 <behavior> USES <structure> 
+
 <supplemental> AFFECTS <behavior> 
+
 <structure> USEDBY <behavior> 
+
 <one structure item> HASA <another structure item> or 
+
 <one structure item> ISOWNEDBY <another structure item>
 
 EasyAM doesn't care. Put the relationships in any way that makes sense to you. You can repeat the same stuff over and over again. It'll just skip it. Note, though, it automagically tries to figure out what you mean, so you misspell something, you end up creating a new thing with a misspelling. Then you have to chase that down, just like any other programming language.
@@ -184,7 +189,8 @@ This is a key part of all the automation we'll be doing: delivering the right am
 
 ### The Analysis Canvas 
 
-Two views, graphical and card . Models help us navigate. Cards let us work 
+![](images/diagrams-for-navigation.png.png)
+
 
 **Diagrams are for navigation. Cards are for manipulation.**
 
