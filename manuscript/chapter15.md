@@ -1,4 +1,4 @@
-## Chapter 15
+# Chapter 15
 ![Your new business awaits!](images/deck-design-from-wiki.png)
 
 After trying your hand at dog houses, dental franchises, Mars colonies, and several other jobs, you've decided that the best time you had was back when you were building stuff. You've also decided that dog houses suck. What to do? Build backyard decks, that's what!
@@ -68,7 +68,7 @@ We've asked permission to learn about what he really wants and what he's afraid 
 
 So we have three more supplementals. For now we'll put the System Supplementals up at the top of the model, in the Business Abstract spot. Easier to use that way. Sue me. We've also got a new behavior, one that seems obvious but was never brought up: I need to enter and leave the deck.
 
-### Loading up EasyAM 
+## Loading up EasyAM 
 
 So that's our Master Model. The customer has to leave, so we agree to meet in the morning. Over lunch, we enter the Master Model into EasyAM. We make a text file named "2018-05-01 dbm Initial Notes.amin" The contents look like this:
 
@@ -100,7 +100,7 @@ How about this "Sunbathe with my friends"? This guy got two friends or 50? As a 
 
 We sketch out a deck and go to meet our customer the next morning.
 
-### EasyAM Round 2: We have questions
+## EasyAM Round 2: We have questions
 
 We tell our customer first thing that we need to talk a lot more than 15 minutes to get this thing nailed. He agrees! Yay! He has a full 30 minutes today.
 
@@ -114,7 +114,7 @@ Making the most of what we have, we show him that all we've got for a sketch is 
 
 We ask some more questions around his family, friends, and hobbies. Are there hobbies the deck has to support we haven't thought of? He doesn't think so. (It's good to ask open-ended questions around structure: what are the kinds of poodles you will be stuffing, Mrs. Rogers?)
 
-### The Magic Act
+## The Magic Act
 
 That was quick, so we throw in some System Realized stuff so he'll think that we're smart, maybe show him the seven kinds of non-nail fasteners, the history of each, and ask his opinion on them.
 
@@ -148,7 +148,7 @@ People expect deck guys to come and talk about hammers, color swatches, and roof
 
 With the professionals, natural conversations are never about what the customer thinks they're about. They're able to work at any spot in the model while keeping their mental eye on the entire thing and how it all fits together.
 
-### Back Home
+## Back Home
 
 But -- since we understand the dialectic, and since we can use Structured Analysis in freeform, open and natural conversations, as long as we're craftsman at what we do, we're always establishing more trust simply by being there and chatting.
 
@@ -180,7 +180,7 @@ I stopped at a few questions so the graphic would fit in the book. In reality, w
 
 We run EasyAM again. This time it tells us it has processed two files, and when we look at our Master Cards? There are our questions and notes! We print out our Master Model cards. Then we print out our fancy deck layout diagram. Those things always impress. Finally, we print out the deck diagram one more time, *then cut out each piece of furniture as it's own little piece.*
 
-### EasyAM Round 3: Details, Details, Details 
+## EasyAM Round 3: Details, Details, Details 
 
 This time we've got an entire hour. Yay! And we continue to look more professional with each visit. Now we have a dozen or two questions, a cool deck layout diagram, and an interactive game where we can all move the furniture around to see how we'd like it laid out.
 
@@ -280,7 +280,7 @@ We add in some more questions, print out our cards and model, and head out for o
 
 ![Behavior Cards with full titles and notes attached to the ALL item. If you just want to address outstanding questions, there's also a "mql.html" file generated with each run that just lists questions](images/chapter15-easyam-9.png)
 
-### EasyAM Round 4-7: Adding in all the details 
+## EasyAM Round 4-7: Adding in all the details 
 
 Over the next couple of days, we meet a few times and complete adding all the detail items in. We'll make a file called "2018-05-04 dbm 4-7.amin" and put that information in.
 

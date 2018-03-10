@@ -1,4 +1,4 @@
-## Chapter 16
+# Chapter 16
 
 ![The MQL puts all of our questions in one spot](images/chapter16-easyam-1.png)
 
@@ -20,7 +20,7 @@ In our case, we've playing with physical models that represent structure all alo
 
 The analysis has done its job both the customer and us have a rock-solid shared mental model on how this deck is going to look and work. If required by building code, we'll draw up some blueprints and get a sign-off. Heck if we've been updating our online model as we go, that's probably already done. Otherwise we'll move on.
 
-### Links
+## Links
 
 But wait! We forgot the links between items, how the supplementals impact the behaviors, how the behaviors use the domain model items. Hey, if we're going to learn all this crap we had better be using some of it!
 
@@ -86,7 +86,7 @@ Our links are in place! Yay! You're probably still wondering how this helps at a
 
 I'll show you.
 
-### Starting work
+## Starting work
 
 We have a structural model of everything we need and an EasyAM model loaded up with the basic model information. The next day we come to work with our cards and physical model and start doing deck-building stuff. I'm guessing it would involve footers. Builders seem to be crazy about footers. Never hear much about headers.
 
@@ -152,7 +152,7 @@ This is way cool. The more you see this happen in your practice, whatever you're
 
 10/10 highly recommended. Would do again.
 
-### To-Dos, WORKS
+## To-Dos, WORKS
 
 For each item, we've talked about adding questions, notes, even diagrams. But there are other things you might want to stick on your items.
 
@@ -187,7 +187,7 @@ Correct. That's because these model cards are for a single purpose. They're not 
 
 This is a key part of all the automation we'll be doing: delivering the right amount, but also the minimal amount of information needed for whatever the job is. There is a place you can go to see everything about an item -- but it's not a place that you would use to do any work. Remember: the tool, even if it's a bunch of cards, is not the work.
 
-### The Analysis Canvas 
+## The Analysis Canvas 
 
 This gets us to a bit of a thorny problem that I've been struggling with for years: how do you handle and display all of the items at any level of the Analysis Pyramid (Business Abstract, Business Realized, System Abstract, System Realized)? The purpose of our tagging system is to create a "Library for Conversations", and the tags give us all that we would ever need to organize and sort stuff, but where's the little map of the library? All big libraries have little maps you can look at to get yourself into the right spot. Where's that?
 

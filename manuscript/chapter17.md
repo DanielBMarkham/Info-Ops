@@ -1,4 +1,4 @@
-## Chapter 17
+# Chapter 17
 
 Since we're going to be talking a lot about reports, diagrams, exercises, flows, and all sorts of things that can exist in various forms, I'm going to suggest a heuristic that we apply to the rest of our discussion.
 
@@ -10,7 +10,7 @@ So if there ever was such a thing as a "generic, abstract business discussion", 
 
 There are ton of physical-based dicussion techniques. I'm a fan of Legos and Playdough myself, but there are a bunch more: model-storming, wireframes, role-playing, VR and AR-facilitated games, and so forth. You don't have to use cards. But cards don't hurt, either. You can certainly bring cards and put them out on the table or a wall and refer to them as use whatever other tools you'd like. It all has to go back in the model at some point, anyway. Both the beauty and the curse of Structured Analysis is that there is a place for everything.
 
-### Analysis Paralysis 
+## Analysis Paralysis 
 
 While we're covering some ground rules to use throughout the rest of the book, we should also cover the bear in the room.
 
@@ -78,7 +78,7 @@ Sure, we had a few hours or maybe even a few days of analysis to do. But we didn
 
 Turns out, "make something people want" along with regular accountability and teamwork does wonders for analysis paralysis. And without those things, it doesn't matter what you do as far as analysis anyway.
 
-### Test-Driven Analysis (TDA)
+## Test-Driven Analysis (TDA)
 
 But I have been falling down on my job! We've been several dozen pages and you don't have any new complicated-sounding terms or buzzwords to put on your status reports. So here's one: Test-Driven Analysis.
 
@@ -90,7 +90,7 @@ Doesn't that sound much better than "Git 'er done"?
 
 We'll be expanding on that concept throughout the rest of the book.
 
-### The Detail Is In The Files 
+## The Detail Is In The Files 
 
 ![.amout files are where all the details are](images/chapter17-mus-stargaze.png)
 
@@ -114,7 +114,7 @@ In order to keep things as clean as possible, each time I make notes I create a 
 
 There are a zillion ways of doing this, which is kinda the point. As Dr. McCoy from the old Star Trek might say if he had my job, I'm a writer, not a DevOps genius! You'll probably come up with your own system. If you've found something cool, let me know! I'd love to share it with the rest of the community.
 
-### EasyAM Language Guide
+## EasyAM Language Guide
 
 Interested in all the tags you can use in EasyAM? Here they are:
 
@@ -122,7 +122,7 @@ Interested in all the tags you can use in EasyAM? Here they are:
 
 You can find the latest version of this on GitHub in the same place you found the EasyAM compiler.
 
-### Changes
+## Changes
 
 We have been cooking these last few chapters. We've covered setting up and using the EasyAM analysis compiler, we've used in on an actual project, we've talked about several different kinds of reports it creates and the beginnings of how to integrate it into simple projects. We talked about how to use it unobtrusively when there's conflict.
 
