@@ -183,45 +183,70 @@ And here's our new Stargaze card.
 
 Wait! There's nothing there.
 
-Correct. That's because the model cards are for high-level activities. They're not for keeping track of everything. Once you know the full title, open questions, notes, and linkages, you should have enough context to either do whatever your work is -- or dive deeper somewhere else.
+Correct. That's because these model cards are for a single purpose. They're not for keeping track of everything. Once you know the full title, open questions, notes, and linkages, you should have enough context to either do whatever your work is -- or dive deeper somewhere else.
 
-This is a key part of all the automation we'll be doing: delivering the right amount, but also the minimal amount of information needed for whatever the job is. There is a place you can go to see everything about an item -- but it's not a place that you would use to do any work. It's reference-only.
+This is a key part of all the automation we'll be doing: delivering the right amount, but also the minimal amount of information needed for whatever the job is. There is a place you can go to see everything about an item -- but it's not a place that you would use to do any work. Remember: the tool, even if it's a bunch of cards, is not the work.
 
 ### The Analysis Canvas 
 
-![](images/diagrams-for-navigation.png.png)
+This gets us to a bit of a thorny problem that I've been struggling with for years: how do you handle and display all of the items at any level of the Analysis Pyramid (Business Abstract, Business Realized, System Abstract, System Realized)? The purpose of our tagging system is to create a "Library for Conversations", and the tags give us all that we would ever need to organize and sort stuff, but where's the little map of the library? All big libraries have little maps you can look at to get yourself into the right spot. Where's that?
 
+Diagrams are the only answer. Whether it's a floorplan or a roadmap, diagrams help get you quickly oriented and pointed in the right direction. So let's make a "map" to show how our three buckets work together on our deck project.
 
-**Diagrams are for navigation. Cards are for manipulation.**
+![This shows us the people we're trying to help and how we're trying to help them](images/Chapter 16 UC Model.jpg)
 
-![](images/Chapter 16 UC Model.jpg)
+Our version of the Use-Case model isn't a bad place to start. It's simple. It kinda shows us why we're here. But it doesn't really show what we're doing. We could add in Activity Diagrams for all of our behaviors, but then we're really just talking about *what we do*, that is, the desired behavior of the target system [^16-2]
 
-![](images/Chapter 16 Deck Domain Model.jpg)
+[^16-2]: Of course, there are always the temporal indicators: was, as-is, and to-be. Most of the time I'm going to skip those and just talk about the to-be case.
+
+Well heck, how about our Supplemental Model?
 
 ![](images/Chapter 16 Deck Master Supplemental Model.jpg)
 
+That's even worse. It's good stuff. It just doesn't tell us how to get anywhere. It doesn't orient our mind to dive into a discussion quickly.
+
+Ok. So how about the Domain Model?
+
+![](images/Chapter 16 Deck Domain Model.jpg)
+
+Same thing. It's not that these diagrams are bad, they just don't help orient us. These diagrams are about *how items in each bucket relate to other items in the same bucket.* Useful for looking at an entire bucket at a time, just not an Analysis Level.
+
+So let's throw all three items into a diagram, like so.
+
 ![](images/Chapter 16 Deck Overview1.jpg)
+
+Better. It certainly looks more impressive! Lots of boxes of different shapes and lines. We could probably even do something with the font, maybe add in a drop-shadow.
+
+So --- not so much.
+
+It's the linkages that matter. When you are orienting yourself around an item, say a behavior, the use-case diagram is where to start. Find the bubble. Find the stick figures with lines to the bubble. Now you know the test and who you're changing the behavior to make happy. But what about the supplementals that affect the behavior? The words used in describing the behavior. You could go to those models, find out things about how supplements work with one another, or how the important words we use are related to one another. But you still don't have the links. It's the links where the magic happens.
+
+Ok, dang it. Let's draw the lines in! I've got a drawing tool, dang it, and I'm not afraid to use it!
 
 ![](images/Chapter 16 Deck Overview2.jpg)
 
-![](images/AnalysisCanvasInfoGraphic.png)
+Ooof. That's a mess. Although if we had a plotter and generated a wall-sized diagram, it might work. It's just not very useful for carrying around with you or putting on a cubicle or team wall.
 
- 
+When I first started using Structured Analysis, I kept everything in diagrams and used a UML modeling tool to handle linkages. (UML modeling tools are different from the kinds of drawing/diagramming tools most people use. With a tool made specifically for UML, you should be able to re-use the same thing in multiple places. The tool keeps track of all the links behind the scenes.)
 
- 
+This wasn't bad, but it led to lots of meetings where I was futzing around with the tool trying to find the context instead of actually participating in the meetings. At times, I'm sad to say, I ended up working in the UML tool while everybody watched.
 
- 
+This was as exciting as watching paint peel. The only thing that kept me from going down the full path to perdition was my insistence that I would only update the model with the entire team in the room. As a group, we simply wouldn't put up with a bunch of diagramming using a projector, so I kept things simple simply because the team would have shot me if I had pushed things too far.
 
- 
+After that, I tried just printing the detail pages of everything on a certain level and sticking them on the wall. When I add the diagrams for the three buckets shown above, it works. Takes up a lot of space, but it works.
 
- 
+Over the past couple of years, as I have taught Structured Analysis to teams all over the place, I have been developing **one chart to rule them all**, my idea of a single diagram to get you oriented and working as quickly as possible.
 
+![Behold, the **Analysis Canvas!**](images/AnalysisCanvasInfoGraphic.png)
 
+Eventually EasyAM will output something like this, once the industry has banged it around enough that we know it makes sense. For now, if you're interested in creating your own Analysis Survey, there are instructions in the appendix. (It's not that hard to do, but plan on it taking a few hours)
 
-### File Organization, Canonical Output, and Round-Tripping
+The key thing that I expect to hold with all revisions of the survey is the overall plan for how to read it, which is called out in the boxes. 
 
-### EasyAM Language Guide
+Behavior should generally stay to the left, since that's what scopes projects. Supplementals stay to the right because they control the quality of what we do. Structure is in the middle because it's the tension between behavior and supplementals that determine and validate structure.
 
-### Changes
-what if the business situation changed -- same model for house hunting
-what if there were more backyard work 
+For any level, there are the things "outside" or "above" it. That should be at the top. There are the things that go inside our minds as we created a shared mental model. That should go in the middle. There are the interconnections between the buckets where the magic of Structured Analysis happens. Finally there are "downstream" impacts, other groups, machines, teams, and people that are impacted every time our mental model changes. That should go at the bottom.
+
+This is something I've made up. It's good enough for now. It's far too busy for a standard-sized piece of paper, but it should work on a printer that prints tabloid or A2-sized paper. It needs improvement, but you should be able to pick anything that you're talking about, walk to a printout of the Analysis Survey on the wall, and within 10-30 seconds know all of the other things that touch on it and the things it touches on. And that should be true for anybody in the team. (This is what I would consider to be the acceptance criteria for the diagram) I'm looking forward to seeing it evolve over the next few years!
+
+We have built a deck and our customer loves it. Now let's talk about lessons learned and how we can take the analysis work we've done so far on the deck and continue to use it. 

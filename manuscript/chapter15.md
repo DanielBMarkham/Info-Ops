@@ -146,6 +146,8 @@ By acting in a professional manner, using Structured Analysis, gently explaining
 
 People expect deck guys to come and talk about hammers, color swatches, and roofing nails. So that's what we'll do. Like any good magic act, the place where the other person holds their attention isn't the place where all the good stuff happens.
 
+With the professionals, natural conversations are never about what the customer thinks they're about. They're able to work at any spot in the model while keeping their mental eye on the entire thing and how it all fits together.
+
 ### Back Home
 
 But -- since we understand the dialectic, and since we can use Structured Analysis in freeform, open and natural conversations, as long as we're craftsman at what we do, we're always establishing more trust simply by being there and chatting.
