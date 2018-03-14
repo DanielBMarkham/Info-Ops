@@ -177,5 +177,47 @@ Heck no. If you're doing 12 of them and saving the other 61 for some future date
 
 ## Points, Estimation and Other Games
 
-Finally we come to estimation, a subject that has caused much wailing and gnashing of teeth for some in the technology community. It seems that some folks have bosses that are assholes, and to prevent them from being an asshole, people want to remove estimation from the list of things a team might do.
+Finally we come to estimation, a subject that has caused much wailing and gnashing of teeth for some in the technology community. It seems that some folks have bosses that are assholes, and to prevent them from being an asshole, people want to remove estimation from the list of things a team might do. This is like preventing fires by outlawing the word fire and instead calling fires "balloons".
+
+Let me describe a system for estimation that some folks use.
+
+Take the entire backlog. Pick the simplest item. Call it a 1. For other items, **guess** how difficult they are to deliver compared to this one. Twice as much? It's a 2. Four times as much? It's a four. Total up the points. It's a simple game you should be able to play in a few minutes. The advanced version includes only using numbers that are doubles of one another (1,2,4,8,16...) or those in the Fibonacci or Lucas series. I like using the Fibonacci series because I like saying "Fibonacci".
+
+Then, at some later time or date, take the "story points" for what you completed in one timebox and see how they relate to the total. Did you complete 10 points in the last week and your remaining total is 100 points? Then you've effectively "guessed" that you have ten more weeks to go.
+
+This is easy, even somewhat frivolous and silly. When I first saw it, I was a bit astounded. Just putting numbers on things and adding them up could give you an estimate? Really?
+
+Something weird happened. I saw it working, over and over again. But I don't think people understood why it worked. As long as the team was regularly playing this point and estimation game, looking at the entire backlog, after several rounds the estimates got strangely accurate.
+
+Then I saw all the ways this was being done wrong. It was painful. I understand why many people refuse to do any estimating at all.
+
+I saw people insist that these points had to map to some time period, like an hour or a day. This is a terrible fail. You might as well just estimate hours or days. The abstraction gets you nothing if you're just talking about time.
+
+I saw people do the estimation at the same time they did points. This is also a terrible fail. The entire point (ouch!) here is to separate the guess about how complicated it is to deliver stuff from the actual projection of when things will be done. They're separate events. The projection doesn't even need the team in the room. It's simple math. If you put it all together at the same time, people are going to look at points as days or hours again. You're just doing some kind of weird kabuki dance in the middle of it.
+
+I saw people take how much time they had for a project, then divide the number of time chunks they had, arriving at some weird number. Do we have ten sprints and 100 points in our backlog? Then we have to do ten points per sprint, dang it! This is a triple fail. First, it completely forgets the concept that the points for items will change over time. Second, it ignores any new items being added, and new items are always added. Finally it uses time to drive work. The work is the work. At the risk of being crude, if you change what the work is based on time (instead of what the users want), you don't know what you're doing. (Although it's perfectly acceptable to talk with users about what they actually want, of course. You just can't put the cart in front of the horse)
+
+I saw people leaving the points from last time on the story for the next time the game was played. Well heck, if you're going to do that, people aren't really guessing again, are they? They're just looking at what the old number was and asking if anything changed. That might be an interesting thing to do, but it's a different thing from the way the game is played.
+
+I saw people taking the points from one time period and then using that number to determine the next time period. Did ten points last time? Pick ten points of stuff for next time and do that. After all you did ten points last time, right? The failure here is that points are a lagging indicator, not a leading one. That is, you do what you can do. Points got nothing to do with it. Until you do it, you really don't know how hard it is to do or not. I've gotten to erasing points as soon as the game is finished to prevent this kind of nonsense. Do the points. Forget them. Do the work. Then offline, use the points to guess how much work is left. It's a simple system but hell if we don't screw it up a lot.
+
+The point game does this: the entire team walks through the entire backlog working through a mental model of how each item might be delivered. They do that over and over again, and as they get better at delivery and understanding the entire project, they get pretty good at guessing how relatively difficult things might be.
+
+At least that the way it reads in the book.
+
+But something else happens that we know that the book writers didn't: as the team walks through an imaginary delivery of all these goals, they're creating a shared Meta model of execution which gets more and more accurate with practice. 
+
+We're back to alignment and shared mental models again, only this time in the Meta genre, not Business or System. What we're doing as we deliver things and thing about delivering more things is come together on a system for how we deliver stuff. That's the real value of the point game, which has nothing to do with estimation.
+
+In the deck example, we did the same kind of thing with our models. As we continued playing with our models, bouncing them up against behavior and supplemental items, we were also thinking about how we'd build the deck.
+
+There's also an aspect of this that's more social psychology than anything else. As the team keeps estimating, making stuff, then estimating some more, they end convincing themselves that whatever their model is, that's the true reality. And it become reality for them simply by them all agreeing on it.
+
+It's like placebos. It may be total crap *how* it works, but it actually works anyway, so who cares?
+
+If you like estimating, then estimate, using whatever method works for you. But whatever you do, you need to engage the team mentally on a regular basis with thinking about the entire model and how it will be delivered.
+
+This book is not about Agile, or Scrum, or Story Points, or sprints. It's about what's going on behind-the-scenes in the minds of people who create new realities for folks. A hundred years from now maybe nobody does Story Point estimation anymore. They'll still need to be going through the entire backlog creating a shared mental model of items in the Meta genre.
+
+Now for some examples of small-team grooming in action.
 
