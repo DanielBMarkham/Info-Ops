@@ -142,5 +142,5 @@ The first question, however is so important we can't go any further without deal
 
 Resist that urge.
 
-In technology, we call getting organized around upcoming work and new information "Backlog Grooming", and it's the topic of the next chapter.
+In technology, we call getting organized around upcoming work and new information "Backlog Grooming", and backlogs and backlog grooming is the topic of our next two chapters.
 
