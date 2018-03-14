@@ -20,4 +20,8 @@ chapter17.md
 chapter18.md
 chapter19.md
 chapter20.md
+chapter21.md
+chapter22.md
+chapter23.md
+chapter24.md
 backmatter.md

@@ -25,27 +25,157 @@ Grooming does four things:
 1. Introduces new information to the team to consider
 2. Synchronizes the Analysis Model
 3. Cleans up the backlog to make it manageable
-4. Verifies that we're ready to create tests for the next piece of work 
+4. Verifies that we're ready to create executable tests for upcoming pieces of work 
 
 The actual creation and execution of the tests happens somewhere else.
 
 Grooming is what we did in the deck example every time we went back home and got organized for another conversation. It doesn't create information, it just organizes it.
 
+Grooming is also what happened as we played with a physical model of the deck with the customer, only it was informal grooming. (The best and fastest kind, by a couple orders of magnitude.)
+
+Ideally grooming happens continuously. There's no reason it has to be a separate meeting or big formal event. But until everybody on the team is capable of doing all of the items above, you have to call out a special time to do it. (This means that the ultimate goal of grooming is teaching the team how to groom without a bunch of formal meeting crap getting in the way. Everybody will be much happier and productive.)
+
 ### **Introduces new information to the team to consider**. 
 
+Sally is a Customer Service Representative in a mid-sized insurance company. She works in the same building as the rest of headquarters, just a few hundred feet away from the IT department.
+
+Sally has found a bug in the software she uses everyday.
+
+What does she do? Does she tell her supervisor? Fill out an online form? Just suffer and put up with it? Find another job?
+
+These were the options she was given.
+
+Sally entered the bug information. Two months later, when nothing was done, she entered the information again. Then again in six months. Finally she left for another job.
+
+Joe is a Product Owner for a financial app that runs on iPhones, Droids, and the web. His team works in a building 100 miles away. He has some new ideas for the app based on some conversations he had with UX experts. 
+
+What does he do? Does he wait two months until some kind of program-level meeting? Does he set up an online meeting? Nope. He was told that whatever he entered into this magic tool would be done by the team. So he whenever he thinks of new stuff, he just enters it into the tool.
+
+Now the tool has over 200 items that Joe and some other people have put in. The team doesn't understand what the items mean, and Joe and the other business owners are dickering over which items go ahead or behind which other items.
+
+Joe gave up on the tool. Now he calls the developer directly when he has changes, interrupting whatever was going on and massively changing direction of the project from day-to-day. Developers do not say nice things about Joe (although they like him as a person, of course.)
+
+Mary is a Senior Vice President at a manufacturing firm that's embedding software in their products.  When she wants something done across a complex system, she'll subtly ask several of the embedded teams to implement the feature, knowing if just one team delivers it, her goals will be met.
+
+Louis is a supervisor in a regional office of a large government agency. Most of the software he deals with is outdated and brittle. Over the years he's seen a dozen different efforts to improve things. He's seen consultant come by with surveys, he's attended national conferences with other supervisors and sat on committees, he's been asked to write up his experiences in reports. There are four different systems for requesting upgrades, bug fixes, and enhancements. Working with none of them seem to ever produce positive results.
+
+Louis has given up on change. Now he's just biding his time until retirement.
+
+Now that we understand the dialectic and analysis, we know that all of these ways of adding information to a team are counter-productive. We also realize that there are people outside the team that have important information to add.
+
+If you want to add new information to a team, there are just a few simple rules that have to be followed. But they all have to be followed.
+
+* Nobody but nobody adds information to a team's backlog aside from the team. People have to go through the team to make new information appear there 
+* People who work physically near the team are the ones that can work with the team to add new information. If you aren't one of those people, you have to work through one of them. No "mailing it in" or using an online tool
+* When you want to add information, you show up at a set time and have a conversation with everybody in the team. If you have formal grooming sessions, a good time for this is at the beginning of those sessions
+* The team's job is to do the best it can to translate the universe you live in to the universe they live in. This may include modeling out your world, with Master Models and the rest of it. (Remember, you should be able to do this quite quickly)
+* At the end of your adding information, the team should be able to walk you through your world, how you came across this new information and why it's needed. They should know enough of your world to be able to change their model to adapt to it 
+* The conversation isn't over until the team can describe a test that everybody agrees on that would reflect the team understanding and correctly responding to the information you're providing
+* There's no way that all of this can be guaranteed to be completed in a single conversation (although it happens that way most of the time for an ongoing, established product), so you have to be available for follow-up questions
+
+For technology teams that use Scrum, the ideal situation for people with information to add is to wander down the hallway to their daily stand-up. Once that's over, raise your hand and tell them about what you'd like to talk about. At this point the team will self-scope the work instantly. Maybe they'll have to set up a meeting with experts and take a day to talk about it. Maybe you should just come down during the next grooming session. Maybe they're already doing that work and just need to tweak it a little bit to match what you're providing.
+
+Maybe the team just stays an extra five minutes and asks you a few questions. Boom. Grooming done.
+
+By making the addition of work physical instead of electronic, you ratchet down the amount of churn that can happen while also reducing the waste associated with blindly entering things into systems where the items have to be worked and reworked, over and over again.
+
+(Of course it can work without following these rules, and most of the time does -- eventually. Just pointing out what I've seen as being necessary to move very quickly and effortlessly to adapt to new situations.) The absolute best grooming I've ever heard of -- I didn't get to see it -- was an Agile Coach who went to work as a developer for a financial trading firm. They worked as solo developers, and they did financial trading. There was no wall at all between the work and automating the work.  Traders were expected to program and programmers were expected to trade. They worked in pairs. I believe this is about as optimal as technology development can get.
 
 ### **Synchronizes the Analysis Model**
 
+If there is some kind of grunt work involved with backlog grooming, it's synchronizing the analysis model. It doesn't have to take but 10 or 15 minutes, but it has to be done regularly, religiously. It's like brushing your teeth. You do it and it doesn't feel like anything happens, but if you don't do it, all kinds of unpleasantness is on your way.
+
+Behavior always seems to be the best way into scanning the entire Analysis Model. Go down the behaviors. Are we able to point to domain objects and talk about how they work together to make this behavior happen? For each behavior, are we able to point at the applicable supplementals and describe how they affect this behavior? Not using the model itself -- that's cheating. Can we do it just by chatting with one another? The real model exists in our heads, after all, and no matter what's in the EasyAM system, if it's not in our heads it doesn't exist.
+
+If that goes smoothly, go through each behavior and ask about actors. Who is the person/entity that initiates this behavior? Do they initiate other behaviors? Then triggers. What kicks off this behavior? Does it kick off other behavior? Finally outcomes. Do we know all the possible ways this behavior can end? Do these outcomes kick off yet more behaviors?
+
+Scope yourself to a certain amount of time and quit when the time is up. If you've done the first couple of items above without finding anything new, next time start at the third item, then the fourth, and so on. In many ways this is like painting a landscape. First you sketch out the general look, then you pay a little attention here, then you pay a little attention there. Each time you look at your landscape painting your goals is sketch out a few more details. (Not go on a death march.)
+
+You're not doing this to build a spec. You're doing this to do a cross-check between model items to see if there are important conversation areas you might have missed. Here's a hint: there always are. Once the model gets sketched out past a hour or two, it starts suggestion conversation areas to you that you probably wouldn't have thought of before. That's the magic.
 
 ### **Cleans up the backlog to make it manageable**
 
-### **Verifies that we're ready to create tests for the next piece of work**
+Once your model is sketched out a little more and cross-checked, it's time to make sure your backlog isn't whack.
+
+Most backlogs are whack. They're whack because the model keeps changing while the backlog doesn't (until grooming, that is.)
+
+I'm just going to get the shocking thing out right away. You may want to get a grip on your chair.
+
+***Your product backlog should never have more than 20-40 items in it.***
+
+But Daniel, how can that be? We have a big project! A complicated system we're building! Funding for the next two years! How could that kind of work be covered in 20-40 items?
+
+There are five and only five kinds of things that go in your backlog.
+
+* Goals/Tests you are currently working on 
+* Goals/Tests that you will be working on next 
+* Goals/Tests that you need to start seriously thinking about (the next in line)
+* Master Backlog Items 
+
+That's it. Since your Master Backlog is a small list of things, 20-30 items, and since what you're currently working on doesn't really count here, all we're talking about is Master Backlog plus next up plus things to start worrying about. Assuming the max of 40 items in your MBL, and assuming you could work on a quarter of those at a time (optimistically), worst-case we're talking about 40+10+10. Sixty items. Most of the time it's around 40 or so. 
+
+PUT BACKLOG GRAPHIC HERE 
 
 
-## Story Splitting
+### **Verifies that we're ready to create executable tests for upcoming pieces of work **
 
-(With EasyAM)
+Everything that goes in our Behavior bucket describes a test, it's just more or less detailed. Associating that behavior with supplementals completes the description -- once the flow of the behavior and the detail of the supplementals are worked out. In fact, all of grooming, and all of Structured Analysis, is about creating tests.
 
-## Estimation 
+Soon, however, the moment of truth happens: we have to execute the tests. We run the test, it fails. We do some work, then we run the test again. It passes. We have completed that backlog item. That is, we have changed the target system such that it implements the behavior described in the test. (Remember, the target system doesn't have to be a computer system at all. It could be a set of corporate policies to help employee welfare, or a description of a fantasy world that our new novel will be set in.)
 
-(With EasyAM)
+So the overall pattern is that we join up supplementals and behaviors to create testable chunks of future system behavior. This creates a testable chunk of work for us to do -- to make the test pass. Once the test passes we do this again. We continue doing this until the target system reaches a state we find acceptable.
+
+What that executable test looks like depends on which layer we want to work in. 
+
+If we're working in the Business Abstract layer (The Master Model), then the test consists of a verbal walkthrough with agreement. Validating and improving the Master Model through verbal walkthroughs is the heart of backlog grooming. A key part of this test is being able to describe various Business Realized goals that could fulfill this test.
+
+If we're working at the Business Realized layer, then the test would consist of implementing a physical business process and observing it. A key part of this test is being able to describe various computer solutions that could fulfill this test.
+
+If we're working at the System Abstract level, an executable test consists of providing pseudo-code for how a computer program would meet the System Abstract goals. A key part of this test is being able to write actual code that fulfills this test. (Not necessarily writing it.)
+
+In technology development, stories that we're almost ready to work on have to be developed enough to work at the System Abstract level. Most product/project backlogs consist of children of the Master Model at either the Business Realized or System Abstract level (or a mix of both. Nobody says you have to work in only one level.)
+
+Of course, ideally you make a few lists to create a Master Model, talk about what kinds of System Abstract tests need to pass for a goal to be reached, then dive down into the System Realized level to make it happen. It's only when things simply must be more complicated that we care about knowing which level we're on.
+
+## User Stories and Story Splitting
+
+A lot of Agile folks call these backlog items "User Stories", They have a bunch of other terms too, like "Feature", "Epic", "Technical User Story". A few others. And then they use the terms to mean different things depending on which book you've read. I'm calling everything in your backlog a "User Story". A User Story is a testable chunk of work which describes future behavior in a target system. It's a match between Behavior and Supplementals which insists on a structure being created in order for the test to pass.
+
+"But my User Story is too big for this next chunk of work!" is the most common thing I hear from teams that are new to backlogs and backlog grooming. "How could I ever make it smaller?"
+
+The trick here is that once you understand what User Stories are, the intersection of Behavior and Supplementals, you can easily break them out into smaller pieces based on the details of the items in each of those buckets.
+
+Many times the first time you split a story is the first time you figure out a lot of supplementals that were hidden until that point. You just never think of them.
+
+Let's say you are writing a complicated web page that does one Behavior. There doesn't have to be a correspondence between behaviors and web pages but for this example let's assume there is. It was tough understanding this behavior, so you sketched out an Activity Diagram to describe the flow, which has one entrance point and six outcomes. 
+
+Great Scott! You can't implement this complicated flow all at once! That's crazy! And it's the first story too! Heck it might take a month just getting the environment in place.
+
+Okay so you're off-the-rails already. You don't "get the environment in place", you develop the environment a little bit at a time as you deliver goals, just like you develop the rest of the structural items. It all depends on which goals you are delivering.
+
+*This means that environmental/build/deploy items should appear on your supplemental list*
+
+If I'm delivering the "foo" goal, what kinds of supplementals might I need related to the environment?
+
+* Show something to the user related to the goal
+* Do something when the user acts (UX)
+* Do something and update the rest of the system when the user acts (delivery pipeline)
+* Show the right thing to the user 
+* Show the right thing to the user when the user acts (ZOMBIES)
+* (Rest of supplementals go here)
+* Tweak the machine, ie. add performance supplementals as the system continues to mature
+
+You've got six outcomes for your behavior. That's six different flows. For each flow, you've got these seven supplementals, plus whatever other ones your system has. If you wanted to have a status report that looked good, you could blow this out immediately into 6 times 7, or 42 small User Stories. 
+
+For stories that you're worried about doing at one hit, blow them out like this. I wouldn't add them to your backlog because you don't have anything to do with them accept decide to deliver them and then deliver them. (For a lot of people, this happens during a process called "Sprint Planning"). It's last possible step before actually working on the dang things. They don't need to be in your queue because there's nothing for them to do there.
+
+Instead, when it comes time to figure out what you can do, pull the little ones off and write tests, watch them fail, then change the structure and watch them pass. Many of these delivery supplementals will have tests that consist of functions that are reused over and over again. If you write a separate test for each story that has the only acceptance criteria of "show something to the user", I will come to your office and use invective and strong language. Instead just write a platform tests that makes sure the pages are up, then add your page to the list when you come to that story.
+
+Just because you've split a User Story into 73 small User Stories, do you have to keep those around on the backlog?
+
+Heck no. If you're doing 12 of them and saving the other 61 for some future date, I don't want to see them on your backlog. Stick them in the notes section of the appropriate Master Backlog Item. They'll be there for your consideration the next time you look at that item. Not before. Keep It Simple, Silly.
+
+## Points, Estimation and Other Games
+
+Finally we come to estimation, a subject that has caused much wailing and gnashing of teeth for some in the technology community. It seems that some folks have bosses that are assholes, and to prevent them from being an asshole, people want to remove estimation from the list of things a team might do.
+
