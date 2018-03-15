@@ -2,3 +2,8 @@
 
 ## Managing Intangibles
 
+## Project Chartering
+
+## Vendor Management
+
+## 
