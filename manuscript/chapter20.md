@@ -6,7 +6,7 @@ Along with the grant came a first-class ticket to Hooterville, Illinois, home of
 
 As you walk through the gates and onto hallowed ground, a plaque welcomes you.
 
-![](images/opossum-mypossum.jpg)
+![](images/opossum-mypossum.png)
 
 
 ## Grooming Examples With EasyAM
