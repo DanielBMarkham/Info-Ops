@@ -176,7 +176,7 @@ Instead of getting into a bunch of diagramming, we just captured what we know us
 
 Here are our day 2 notes:
 
-1
+![](images/chapter20-day2amin.jpg)
 
 Step 3 is cleaning up the backlog to make it manageable. Do we go back and do that Analysis Affinity Mapping thing to get a new prioritized list?
 
@@ -196,7 +196,7 @@ We update our Day 2 notes. The bottom half now looks like this.
 
 ![](images/chapter20-day2amin-2.jpg)
 
-But wait! That's a System Abstract Supplemental. I thought we were working with Master Models?
+But wait! That's a System Abstract Supplemental! I thought we were working with Master Models?
 
 It doesn't matter. The real Analysis Model exists in our heads. Just after two days it's got stuff all over the place, as it should. We're not filling out forms, we're driving towards tests. We need this System Abstract Supplemental to talk to Pete about testing tomorrow, so in it goes.
 
@@ -206,5 +206,10 @@ Along those lines, we don't have the full title details for all of the supplemen
 
 No, we should not. Doesn't help us with the tests for tomorrow. It's wasted work. Same goes for some kind of deep sea fishing expedition we might do trying to come up with attributes for our entities in our master domain model.
 
-When you start putting things in the model without associated tests in mind, you're always wasting your time. This is how you get into Analysis Paralysis. Those tests can either be Meta tests (Can we set things up with Pete so we can run faster?) or tests at a lower level (If we show him these wireframes, will Pete agree that we've captured all of the important information so far? We've been twerking around with Business Abstract stuff in order to create some yummy System Abstract tests)
+When you start putting things in the model without associated tests in mind, you're always wasting your time. This is how you get Analysis Paralysis. Those tests can either be Meta tests (Can we set things up with Pete so we can run faster?) or tests at a lower level (If we show him these wireframes, will Pete agree that we've captured all of the important information so far? We've been twerking around with Business Abstract stuff in order to create some yummy System Abstract tests)
 
+"Greenfield" is a term for projects that start fresh, without any history or baggage. We've done the initial greenfield work with Pete and his potential possum pilots. We've made huge progress in just a couple of meetings towards continuous grooming, we've gotten permission to start coding, and we've Pete used to working with the modeling cards. Heck, we've even got a regular daily commitment. In the real world, this might several sessions to happen -- and we might walk away if Pete doesn't make much progress. But he's tooling along well-enough.
+
+Also we've done some wireframe and analysis model stuff. We could toss all that crap out the window tomorrow, though. It's the progress we've made in the Meta Behavior Realized that will make the difference between a success or failure.
+
+Next let's set up a real-live backlog and talk about how small team grooming works while you're chugging through the work.

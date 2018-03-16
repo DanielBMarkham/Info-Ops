@@ -133,7 +133,7 @@ That's it. Since your Master Backlog is a small list of things, 20-30 items, and
 PUT BACKLOG GRAPHIC HERE 
 
 
-### **Verifies that we're ready to create executable tests for upcoming pieces of work **
+### Verifies that we're ready to create executable tests for upcoming pieces of work
 
 Everything that goes in our Behavior bucket describes a test, it's just more or less detailed. Associating that behavior with supplementals completes the description -- once the flow of the behavior and the detail of the supplementals are worked out. In fact, all of grooming, and all of Structured Analysis, is about continuing to develop the behavior and supplemental buckets so that we can take various intersections of the two to make executable tests. Describing and writing those tests, having them pass in the target system, those are the goals.
 
