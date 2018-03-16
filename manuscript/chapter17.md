@@ -80,6 +80,8 @@ Turns out, "make something people want" along with regular accountability and te
 
 ## Test-Driven Analysis (TDA)
 
+![](images/tda2.jpg)
+
 But I have been falling down on my job! We've been several dozen pages and you don't have any new complicated-sounding terms or buzzwords to put on your status reports. So here's one: Test-Driven Analysis.
 
 TDA says that all analysis work, initial customer conversations, screen discussions during app development, user experience and bug discussions -- all of it -- is geared to either creating or passing a test. We just need to be explicit about what those tests are.

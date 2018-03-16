@@ -1,6 +1,6 @@
 # Chapter 19
 
-![](images/tda.jpg)
+![](images/tda2.jpg)
 
 Just to get everybody caught up, a backlog is a series of partially-constructed tests describing Behavior To-Be by combining Behavior To-Be and various Supplementals To-Be. Tasks are to-do items. 
 
