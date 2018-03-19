@@ -142,7 +142,7 @@ Then we go back and add our new items to EasyAM, printing out the new diagrams. 
 
 We also add in the mapping to the domain model we got while walking the model. The diagram is now out of "sync" with our affinity map, but it's not important. Here's our initial notes from the first meeting and our first formal grooming.
 
-![](images/chapter20-initialnotes2.png)
+![Whoa horsey! That's very busy, complicated, and impressive-looking](images/chapter20-initialnotes2.png)
 
 So we started in on #3, **"clean up the backlog to make it manageable"**, realizing immediately that we needed some kind of initial ordered backlog. A null backlog is not manageable. Pulling a rabbit out of our hat, we walked the model to do an **Analysis Affinity Mapping**, which created more items and gave us a starting backlog.
 
@@ -204,7 +204,7 @@ When you're developing single/small team solutions, there's no right or wrong wr
 
 Along those lines, we don't have the full title details for all of the supplementals, just that system one. Shouldn't we go back and put in the WHENEVER and ITHASTOBETHAT for the others?
 
-No, we should not. Doesn't help us with the tests for tomorrow. It's wasted work. Same goes for some kind of deep sea fishing expedition we might do trying to come up with attributes for our entities in our master domain model.
+No, we should not. Doesn't help us with the tests for tomorrow. It's wasted work. Same goes for some kind of deep sea fishing expedition we might do trying to come up with attributes for our entities in our master domain model. If it doesn't make a test happen, we don't fool with it.
 
 When you start putting things in the model without associated tests in mind, you're always wasting your time. This is how you get Analysis Paralysis. Those tests can either be Meta tests (Can we set things up with Pete so we can run faster?) or tests at a lower level (If we show him these wireframes, will Pete agree that we've captured all of the important information so far? We've been twerking around with Business Abstract stuff in order to create some yummy System Abstract tests)
 
