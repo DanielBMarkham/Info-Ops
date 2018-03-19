@@ -37,7 +37,7 @@ Pete doesn't know it, but Pete is training us to think like Pete. That's the rea
 
 Then you all go back to the hotel. Time for some grooming!
 
-The first thing you do is compare notes, agree on what you understand, then run the final version through EasyAM. The meeting with Pete was step 1 of grooming, **"introducing new information for the team to consider"**. 
+The first thing you do is compare notes, agree on what you understand, then run the final version through EasyAM. The meeting with Pete was step 1 of grooming, **Introduce new information**. 
 
 ![](images/chapter20-initialnotes.png)
 
@@ -47,7 +47,7 @@ Our agreed-upon notes covers all of the top and most of the second section of th
 
 ![](images/chapter20-initialdm.jpg)
 
-Step 2, **"synchronizing the analysis model"**, was handled just by everybody taking their notes and agreeing on one version for EasyAM. If you had already had stuff written down, you would have to have everybody agree with one another, then agree with your previous notes. Otherwise something's gotta change somewhere.
+Step 2, **"Synchronize the Model"**, was handled just by everybody taking their notes and agreeing on one version for EasyAM. If you had already had stuff written down, you would have to have everybody agree with one another, then agree with your previous notes. Otherwise something's gotta change somewhere.
 
 Step 3 is cleaning up the backlog to make it manageable. There is no backlog! So let's throw a few things on there tomorrow for Pete to look at.
 
@@ -144,9 +144,9 @@ We also add in the mapping to the domain model we got while walking the model. T
 
 ![Whoa horsey! That's very busy, complicated, and impressive-looking](images/chapter20-initialnotes2.png)
 
-So we started in on #3, **"clean up the backlog to make it manageable"**, realizing immediately that we needed some kind of initial ordered backlog. A null backlog is not manageable. Pulling a rabbit out of our hat, we walked the model to do an **Analysis Affinity Mapping**, which created more items and gave us a starting backlog.
+So we started in on #3, **"Clean up the backlog"**, realizing immediately that we needed some kind of initial ordered backlog. A null backlog is not manageable. Pulling a rabbit out of our hat, we walked the model to do an **Analysis Affinity Mapping**, which created more items and gave us a starting backlog.
 
-We moved on to #4, **"Verify that we're ready to create executable tests for upcoming pieces of work"**. Tests always involve taking some structure and bouncing it off a combination of behavior and supplementals. We're pushing as hard as we can not to do any paperwork at all, so we're jumping right down to System Abstract. 
+We moved on to #4, **"Verify we're ready for the next bit of work"**. Tests always involve taking some structure and bouncing it off a combination of behavior and supplementals. We're pushing as hard as we can not to do any paperwork at all, so we're jumping right down to System Abstract. 
 
 My heart tells me to move immediately System Realized, actually writing some code, but my head tells me that old Pete would freak out if he only spoke to us for an hour and we showed up the next day giving him code. He's a meeting kinda guy. So our strategy will be to only go as far down as System Abstract for a few meetings, see if we can get into more of a continuous cycle, and then only do System Realized test, that is, running code.  We are using the work to throttle the delivery speed so that we can work through bugs in how we work together, Meta Behavior Realized. Said a different way, we walked in with a lot of Meta Abstract Behaviors we read about in this book. We're applying them a little at a time to test the waters and evolve a Meta Behavior Realized that works for our particular situation.
 
@@ -182,13 +182,13 @@ Step 3 is cleaning up the backlog to make it manageable. Do we go back and do th
 
 Why? What would be the purpose of that? We're always working towards tests. Our tests tomorrow will be showing Pete some programming for that top item, then going through wireframes for all of the behaviors. What would affinity mapping do to help us drive towards those tests? Nothing. So we don't do it.
 
-Step 4 is verifying that we're ready to create executable tests for upcoming pieces of work. 
+Step 4 for us is verifying that we're ready to create executable tests for upcoming pieces of work. 
 
 Ok. Do we know enough to wireframe the rest of the behaviors? Sure. We don't know a bunch, but who cares? The entire point here is to make failing tests over and over again as quickly as possible while he hone in on a final solution. We know enough to make a test that can fail. We're good to go. Do we know enough to write some code for that first one? Sure. It'll be wrong, but not as wrong as it was yesterday.
 
 Now we have several hours of kicking around some wireframes to get things going tomorrow. Remember, we're not writing specs. We're writing failing tests. We're just writing the best failing tests we can given what we currently know.
 
-Finally, before we quit for the day, we start chatting about the Meta genre again. The immediate work is always something tangible, like a wireframe. As we do the immediate work, we look out over the medium-term, updating the Analysis Model. But at the same time, the critical factor to all of this is the Meta genre: how we all work together to make good things happen. 
+Finally, before we quit for the day, we start chatting about the Meta genre again. The immediate work is always something tangible, like a wireframe. As we do the immediate work, we look out over the medium-term, updating the Analysis Model. But at the same time, the critical factor to all of this is the Meta genre: how we all work together to make good things happen. This is part of the Step 5 work.
 
 What are our Meta goals for tomorrow? Let's see if we can get Pete to start joining us for grooming sessions, maybe set aside 3 hours every morning for working together. If we can get that, that'll kick things into high gear. Let's also talk about incremental delivery, where when we have really tough things, we do the blank screen first, then dummy data, and so forth. We can go ahead and add the Supplementals for that. Yay! More stuff to fail -- and meta stuff failing is always the best.
 

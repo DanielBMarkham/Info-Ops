@@ -26,14 +26,17 @@ Hold it a day or two before sprint close, so that it people will be sitting ther
 
 Do this enough times and you could be brought up on war crimes. Or get promoted. Either is equally likely.
 
-## Backlog grooming
+## Backlog grooming/refinement
 
-Good grooming does four things:
+![](images/Backlog-Refinement.png)
 
-1. Introduces new information to the team to consider
-2. Synchronizes the Analysis Model
-3. Cleans up the backlog to make it manageable
-4. Verifies that we're ready to create executable tests for upcoming pieces of work 
+Good grooming does five things:
+
+1. Introduce new information
+2. Synchronize the Model
+3. Clean up the backlog
+4. Verify we're ready for the next bit of work
+5. Tease out the best way the entire model might be delivered
 
 Meanwhile, of course, the good, honest questioning, the dialectic continues among everyone present.
 
@@ -49,7 +52,7 @@ Ideally grooming happens continuously. There's no reason it has to be a separate
 
 Most importantly, not everybody on the team is capable of cleaning up and getting organized, which means that keeping things neat ends up bottle-necking through the people who know how to do it. Since things get messy and you've created this bottleneck, you have to call out a special time for grooming. (This means that the ultimate goal of a formal grooming meeting is teaching the team how to groom without having a formal grooming session. It's not that hard. You've figured it out by reading a book. When everybody can constantly help keep things clean and organized as you move along, folks will be much happier and productive. As my mom used to say, instead of waiting until there's one big cleanup job, clean just a little bit as you go along. Makes life much easier.)
 
-### **Introduces new information to the team to consider**. 
+### **Introduce new information**. 
 
 Sally is a Customer Service Representative in a mid-sized insurance company. She works in the same building as the rest of headquarters, just a few hundred feet away from the IT department.
 
@@ -95,7 +98,7 @@ By making the addition of work physical instead of electronic, you ratchet down 
 
 (Of course it can work without following these rules, and most of the time does -- eventually. This is what I've seen as being necessary to move very quickly and effortlessly to adapt to new situations.) The absolute best grooming I've ever heard of -- I didn't get to see it -- was an Agile Coach who went to work as a developer for a financial trading firm. They worked as solo developers, and they did financial trading alongside a trader. There was no wall at all between the work and automating the work.  Traders were expected to program and programmers were expected to trade. They worked in pairs. I believe this is about as optimal as technology development can get. That's nirvana.
 
-### **Synchronizes the Analysis Model**
+### **Synchronize the Model**
 
 If there is some kind of grunt work involved with backlog grooming, it's synchronizing the analysis model. It doesn't have to take long, but it has to be done regularly, religiously. It's like brushing your teeth. You do it and it doesn't feel like anything happens, but if you don't do it, all kinds of unpleasantness is on your way.
 
@@ -109,7 +112,7 @@ Scope yourself to a certain amount of time and quit when the time is up. If you'
 
 You're not doing this to build a spec. You're doing this to do a cross-check between model items to see if there are important conversation areas you might have missed. Here's a hint: there always are. Once the model gets sketched out past a hour or two, it starts suggesting conversation areas and reminding you of things you that you probably wouldn't have thought of before. That's the magic.
 
-### **Cleans up the backlog to make it manageable**
+### **Clean up the backlog**
 
 Once your model is sketched out a little more and cross-checked, it's time to make sure your backlog isn't whack.
 
@@ -195,7 +198,7 @@ You've split a User Story into 73 small User Stories. Do you have to keep all of
 
 Heck no! If you're doing 12 of them and saving the other 61 for some future date, they don't go in the backlog. They don't go anywhere, since they are not tests that you currently plan to work on. I don't want to see them on your backlog. I don't want to see them on the wall. I don't want to see them anywhere. If you insist, stick them in the notes section of the appropriate Master Backlog Item. They'll be there for your consideration the next time you look at that item. Not before. Keep It Simple, Silly.
 
-## Points, Estimation and Other Games
+### **Tease out the best way the entire model might be delivered (Points, Estimation, and Other Games**
 
 Finally we come to estimation, a subject that has caused much wailing and gnashing of teeth for some in the technology community. It seems that some folks have bosses that are assholes, and to prevent them from being an asshole, people want to remove estimation from the list of things a team might do. Replace it with the word "forecast". 
 

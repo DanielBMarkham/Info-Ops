@@ -50,13 +50,13 @@ Our grooming for now is complete. Let's play around with EasyAM to see how we ca
 
 Ok. Fair enough. Maybe you have good reasons to not consider all of the business behavior around "X" at one time. Maybe it makes more sense to skip around all over the place.
 
-Nothing changes.
+That's fine. Nothing changes.
 
 Everything on your backlog stays the same except for the items that are next up, which you can construct in any fashion you like.
 
 This is because things are still grouped in the universe by business behavior, no matter how you would like to construct your work queue. So when you look at some random item you'd like to do, *you still need to look at all of the things around the behavior that the item falls under*. You'll need to match the same supplementals, you'll need to have the same downstream considerations, you'll need to change the acceptance tests for that behavior to match the new work you're doing. 
 
-You're free to do work in any order you'd like, but now you know that by grouping your work under Business Behavior Abstract (and Realized and System Abstract if you're using those levels), you can put a bunch of related things in one place to consider while doing that work. You also know that large backlogs, since they can't fit inside the team's heads, are counter-productive. So you're still back to grouping by Business Behavior Abstract, then "blowing things out" as the time to do the work approaches.
+You're free to do work in any order you'd like, but by now you know that by grouping your work under Business Behavior Abstract (and Realized and System Abstract if you're using those levels), you can put a bunch of related things in one place to consider while doing that work. You also know that large backlogs, since they can't fit inside the team's heads, are counter-productive. So you're still back to grouping by Business Behavior Abstract, then "blowing things out" as the time to do the work approaches.
 
 What if you don't do sprints? Instead you work in a free-flow form? It's still the same, you'll just need to do the "hooking-up" work for items in you work queue at the last possible moment before you start on them. (Lean experts Mary and Tom Poppendieck describe this as waiting until the "Last Responsible Moment")
 
@@ -74,7 +74,7 @@ E-gads, the last thing you want is a backlog nobody can read or understand all a
 
 ## Let's Estimate
 
-Now let's go through the complex and extremely difficult process of estimating.
+Now let's go through the complex and extremely difficult process of estimating, which is a type of Step 5 work.
 
 We take a table. On it we put post-its every couple of feet or so. The post-its say 1,2,4,8,16,32, and 64. We put the backlog cards on the table.
 
@@ -122,15 +122,70 @@ Now that the data is in CSV format, we can do whatever else we'd like to with it
 
 ![](images/chapter21-pointtotal.png)
 
-As we start building our Info-Ops, we'll use CSV as much as we can in order to keep everything simple and readable.
+CSV stands for "Comma Separated Values". It's a type of file format that you can read and write no matter what computer system you're using. As we build our Info-Ops pipeline, we'll use CSV as much as we can in order to keep everything simple and readable.
 
 ## Grooming on-the-run
 
+Now that we've done some setup work and started work, we need to get into the groove of regular backlog grooming.
+
+As stories from our project backlog are completed? We just delete them from the Project Backlog. If you want, you can put them in a separate directory for completed stories.
+
+Backlog grooming continues to happen as the project moves along, with new information being presented, the Analysis Model being synchronized, the backlog cleaned up, and stories prepped so that they're ready for work.
+
+There's really no difference in ongoing grooming as opposed to greenfield grooming. The topics of conversation change, and you may try all sorts of fun thing around Step 5, but grooming is grooming, whether you're just started or in the last week of a project.
 
 ## About UX/UI
 
+With Peter Principal and his Precision Possum Piloting School, we used UI wireframes (structures) to tease out behavior and supplementals.  This is a great technique to use with users, as long as:
+
+1. The users understand it's just a tool to drive creative conversations, and
+2. You tear up the wireframes and start over once the model starts filling out 
+
+Wireframes and other structural modeling games are great for facilitating analysis -- but people have to realize that they are facilitation tools, not design tools. 
+
+You can go back and wireframe it up again, of course, but every time you stick structure in front of the team, analysis takes place. So whether or not you wireframe something that ends up being a screen is not as important as understanding that you may be facilitating powerful conversations -- and letting them bounce off the walls, jump out the window, and run off into the woods without anybody knowing what's going on.
+
+Wireframes and other forms of UI mockups are *analysis* tools, not design tools. Once the analysis has matured enough for work to happen, you'll mock up the UI by, well, mocking up the UI in whatever user interface programming language you choose. Another way of looking at this is that analysis never really ends. You can do all sorts of design work, joining all the pieces up into some kind of structure. Sometimes that design work can be running code or new technology. But when structure appears and people look at/use it? You're back to analysis again.
+
+So wireframes are a kind of game to have good conversations. They're fun and easy. They're not a specification tool, nor should they be used as one. (Although you can present a wireframe that has a bunch of information in it that becomes part of the model. But the model can facilitate *many* different solutions.)
+
+## Story Mapping
+
+![A sample graphic from Amazon's entry on Patton's User Story Mapping book](images/user-story-mapping-example.png)
+
+In 2014, Jeff Patton published "User Story Mapping", a technique he had developed over many years as a Product Owner and Product Owner trainer.
+
+Jeff's ideas were fairly simple, but powerful: you list the goals the user wishes to achieve with your product by adding post-its in a line. Then you can also add user types to match with the goals. You can even add "children", or sub-goals, under each goal.
+
+This has turned out to be a powerful tool in getting tech teams and businesses aligned. It's also one of those games that let you look at the entire product at once.
+
+If any of this is sounding familiar to you, it should. This is just a fun way of looking at the Master Backlog. Like estimating, User Story Maps are a wonderful game to look at the entire model at once. 
+
+Jeff has an entire book on this, and a lot has been written about User Story Mapping. If I started a new project, I'd do User Story Mapping every week for the first few weeks or so, but I'm like that. I would rather err on the side of annoying the team with games and make sure we have model alignment than be polite and have everybody with a different idea in their heads of what we're doing.
 
 ## ATDD 
+
+ATDD stands for Acceptance Test-Driven Development. It's what we've been talking about, except explicitly for technology work. It says that work does not start until a failing test has been created that describes a successful conclusion to the work.
+
+When we talked about the backlog being an ordered list of tests or goals, this is what we meant. Instead of directly specifying the work, we directly specify a behavioral test that must pass for the work to be successfully concluded. So the analysis model, backlog and all of that? When we say that they're not a specification, we mean that you never, ever *do* a specification. You can get whatever you want without thinking in terms of a spec -- and thinking in terms of a spec always ends up designing a system far ahead of when it should be designed. It's a total time sink.
+
+We talked about the Analysis Model being a force multiplier. If there ever was the opposite of that, something that destroyed productivity far beyond what you think it would, it would be specification-driven development. You can totally destroy billions of dollars of effort and tens of thousands of lives with just a few well-placed (and good-sounding! Usually these are the types of things nobody would ever think to disagree with) sentences in a spec somewhere.
+
+The rule is: we only work from tests, and we automate all the tests. (Yes, I can hear you in the back yelling about how it wouldn't work for you. Please email me. There is a lot of material out there covering the automated testing of just about everything. I would be surprised if you had an exceptional case.)
+
+If you're writing computer programs, some folks a while back came up with a language for describing these "executable tests". It's called "gherkin", like the pickles.
+
+This isn't a book on gherkin or the various tools that can compile gherkin to different programming languages and platforms. The nice thing about gherkin is that it describes the test without mentioning technology, so it's something your business users should be able to read and understand. (If it's not, you're doing wrong. Stop.)
+
+![Auto-generated gherkin feature files](images/chapter21-gherkin-example.png)
+
+
+
+
+
+
+
+
 
 ## Evolving the build environment
 
