@@ -80,21 +80,71 @@ In the background, however, there's no reason you can't get organized and use th
 
 This works exactly the same as it does in greenfield: sketch out a Master Model, sketch it out again and again as you groom, then organize everything under it. The only difference is that "everything" under it might include a bunch of stuff out of your control. You'll just need to provide automated linkages.
 
+Day 1 you sketch out a master model, focusing on behavior. Then you take a break, come back and start over sketching one out again. Before lunch you walk through a dozen or two of your existing backlog items, seeing if they fit in the model somewhere. After lunch you start over and sketch the Master Model out a third time. Do some Story Mapping if you'd like a break. Then you take a couple of hours and go through the top 100-200 items asking yourself: which behavior items do these fit under?
 
+This should nail about 70-80% of you Master Backlog items. (Although probably not the details. Save those for later once the rest of the buckets start filling up. Remember to strive to keep your buckets even!) You'll also be picking up Supplementals and Domain Model items. All of that conversation is bound to include important nouns.
 
+There are several things that sometimes throw teams for a loop.
 
+### Legacy Bugs and Defects
 
+You can't have a bug unless something that's supposed to be working is broken. What's the thing that's supposed to be working and how does it fit into users using your target system to reach their goals? So often bugs and defects are associated with structural items (This button is broken on a screen) when in fact they have to be translated to behaviors (Given that the user is balancing inventory, when they go to reconcile, the system is crashing)
 
+Remember you can have any structural item you want. You just have to translate it into behaviors and supplementals.
 
+### Legacy Task Lists
 
+Tasks are big in malformed backlogs. A lot of people don't know what the heck they want, but they sure know what they want you to do. Most tasks are in support of some future behavior happening, so that's an easy match. Some tasks are structural and end up supporting all behaviors, like "fix security on DMZ". This is one of the reasons I always put an "ALL" card in my Master Model.
 
+Then there's the nuclear bomb of tasks: a task to change a supplemental. "Make the system able to handle cloud center crashes without user intervention", or "Make all user screens respond within 50ms of input". These are extremely simple to say, extremely difficult to do. Anything that changes a supplemental pull aside for now. We'll talk about them under "System Migration", below.
 
+### Legacy Huge Hunks Of Structure
 
-We've talked a lot about greenfield, but what about situations where you already have dumped a ton of money and time into creating various user story and documentation systems? Do you throw all of that away?
+The trick to working with big hunks of structure ("set up redis group", "Customer Login screen") is that they're just goals stated a different way. Goals/tests are our bread and butter in backlogs. For the behavior, you have to match up the behavior and supplementals they refer to. Because these are already joining behavior and supplementals, it's like somebody has gone through our backlog and started creating a bunch of low-level stories for us, whether we wanted them or not. Yikes!
 
-It's not necessary. Once you get organized, I think the question you have to ask yourself is what tools are you using for what reasons.
+Since this is all System Abstract information, and since it affects everything, make a story in EasyAM at the System Abstract level and make it a child of "ALL" from the Business Behavior level. This story has a bunch of possible story splits already identified for us, which is the list of low-level stories we've been given. Then, when the time comes, treat the story like any other story on your backlog. Split off as much as you can do and leave the rest in there.
 
-Getting organized in a legacy situation. 
+### Legacy System Migrations
+
+System migrations are just a superset of that. In a system migration, all of the behavior from the old system and all the associated supplementals must also work with the new system.
+
+Do you have a legacy (that is, untested) system that you're moving to a new platform? Get out your testing pencil because you have a lot of tests to write. Work consists of writing a bunch of tests, doing tasks to make the tests pass, then writing a bunch more until you're done. You'll start with a lot of tests for the "ALL" behavior: you'll set up servers, access, and so forth. Like always, tests drive analysis, it's just with a system migration you'll create your tests in a different order. Just don't load up your backlog with tests. Group them into huge chunks by behavior and split off at the very last minute.
+
+In a greenfield project, you'll take a behavior and "explore" it using tests and making the solution happen until you've done enough to move on to the next most important behavior. For any one story, you may have a dozen small tests associated with that intersection of behavior and supplementals that you'll do as one piece of work. In migrations and huge hunks of structure, you still may have a dozen small tests that you do at one time, they're just one small test from a dozen behaviors instead of a dozen small tests for one behavior. 
+
+When the stories first appear on the radar, you group them up into chunks you think you can do. Then, when they're next up, you determine exactly the tests required to make sure the work is completed successfully. It's the exact same grooming process, you just look across the model instead of deep into one particular intersection.
+
+### Legacy Rules-Based Systems
+
+I remember fondly the first time I ran across a rules-based system.
+
+I was working for a large insurance company writing software that was a permissions manager for the rest of their system. What did they mean by "permissions manager"? If Person A wants to do B with account C in the amount of D, after E....
+
+The more questions I asked, the more parameters there were. In fact, within a week or two I realized that nobody in the entire organization could tell me the parameters that the system had to support. Nobody knew or could agree on what the important concepts were when it came to security.
+
+It was a system without a Domain Model. 
+
+Finally, after several philosophical discussions (What do you mean by permissions, anyway?) I realized that really there was no system to be built. What needed to be built was a big rules-matching engine that could then be loaded and configured any way client liked.
+
+It was three weeks of confusion followed by one week of pair coding. It was an API with three methods and a stored procedure.
+
+We were done.[^22-2]
+
+[^22-2]: The interesting thing was that the customer was unhappy with the result! Based on past experience with programmers, they expected a lot more work and a huge codebase. It took some talking to them to show them that yes, everything they wanted was in there.
+
+A friend told me once he visited a team with eight-thousand items on their backlog. This seemed incredible to me. He told me the team was implementing a lot of business rules. Each rule had to be approved by an analyst, which was one story. Then it had to be entered -- yet another story. Finally it had to go through QA. They had about three thousand rules in all and they had been running for six months. Based on their past performance, everybody on the team was guaranteed work for the next four years or so.
+
+Ouch.
+
+It's important to recognize when you're in a rules-based system. When you figure it out, build the system. After the system is built, there's another conversation to be had about loading and testing the rules.
+
+You have two separate projects, one of which needs to be finished before the other can start. For the rules-based system, develop it like you would anything else. For implementing the rules, you need to find out from the customer how they define done. Should you test each rule? Or should it just be an open system where people can edit and change on-the-fly? Should there be version control of the rules (Yes.) Even with freeform systems, should there be smoke tests that makes sure the system is in a usable state (Yes.)
+
+All of things in the second project are just tasks around using the system. It's not technology development. 
+
+Put another way, once you build a compiler, you're done. Other people may come along and use the compiler to write programs. If they do, then they should use Structured Analysis and test-first. But it's not the person who wrote the compiler's job to also write programs for it, at least not as part of the compiler effort.
+
+Many times what happens is that the team creates a rule-based system -- then they're stuck having to configure it for various purposes which nobody understands. This is how you get five-year nine-thousand item backlogs. Don't do that. It hurts. Make the people with needs set up an effort to have those needs met. In the end, you have to have tests, and you need those folks for the tests. Be honest about it and do it in a direct manner.
 
 
 

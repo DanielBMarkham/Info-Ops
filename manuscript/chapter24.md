@@ -2,5 +2,7 @@
 
 ## Simple Single-Team Automation
 
- pipelines with BASH
+## pipelines with BASH
  
+## Info-Ops
+
