@@ -145,9 +145,11 @@ Wireframes and other structural modeling games are great for facilitating analys
 
 You can go back and wireframe it up again, of course, but every time you stick structure in front of the team, analysis takes place. So whether or not you wireframe something that ends up being a screen is not as important as understanding that you may be facilitating powerful conversations -- and letting them bounce off the walls, jump out the window, and run off into the woods without anybody knowing what's going on.
 
-Wireframes and other forms of UI mockups are *analysis* tools, not design tools. Once the analysis has matured enough for work to happen, you'll mock up the UI by, well, mocking up the UI in whatever user interface programming language you choose. Another way of looking at this is that analysis never really ends. You can do all sorts of design work, joining all the pieces up into some kind of structure. Sometimes that design work can be running code or new technology. But when structure appears and people look at/use it? You're back to analysis again.
+Wireframes and other forms of UI mockups are *analysis* tools, not design tools. Once the analysis has matured enough for work to happen, you'll mock up the UI by, well, mocking up the UI in whatever user interface programming language you choose. Another way of looking at this is that analysis never really ends. You can do all sorts of design work, joining all the pieces up into some kind of structure. Sometimes that structure can be running code or new technology. But whenever structure appears, even if it's just people piling up rocks on the floor, and people look at/use it? You're back to analysis again.
 
-So wireframes are a kind of game to have good conversations. They're fun and easy. They're not a specification tool, nor should they be used as one. (Although you can present a wireframe that has a bunch of information in it that becomes part of the model. But the model can facilitate *many* different solutions.)
+The trick is to understand that all structure is derivative of behavior and supplementals. It also drastically increases the rate and quality of analysis. Some structure is easier and quicker to use than others. Your goal is ultimately analysis in support of a solution. Use fast tools like clay or sketches to groom as quickly as possible until the group feels like there is alignment. Then go to slower, more permanent tools.
+
+Wireframes are a kind of game to have good conversations. They're fun and easy. They're not a specification tool, nor should they be used as one. What I'm looking for in wireframes is what I'm always looking for playing with structure -- what sorts of abstract items are we talking about as we chat and manipulate these tangible things? That's their real value. Once you play with wireframes for a while, if you're doing it correctly, you come up with UI/UX rules that should be true no matter what the screens look like. Wireframes should create conditions where the model can facilitate *many* different solutions, not be just another way of mindlessly taking orders from customers.
 
 ## Story Mapping
 
@@ -159,7 +161,7 @@ Jeff's ideas were fairly simple, but powerful: you list the goals the user wishe
 
 This has turned out to be a powerful tool in getting tech teams and businesses aligned. It's also one of those games that let you look at the entire product at once.
 
-If any of this is sounding familiar to you, it should. This is just a fun way of looking at the Master Backlog. Like estimating, User Story Maps are a wonderful game to look at the entire model at once. 
+If any of this is sounding familiar to you, it should! This is just a fun way of looking at the Master Backlog. Like estimating, User Story Maps are a wonderful game to look at the entire model at once. 
 
 Jeff has an entire book on this, and a lot has been written about User Story Mapping. If I started a new project, I'd do User Story Mapping every week for the first few weeks or so, but I'm like that. I would rather err on the side of annoying the team with games and make sure we have model alignment than be polite and have everybody with a different idea in their heads of what we're doing.
 
@@ -181,7 +183,7 @@ This isn't a book on gherkin or the various tools that can compile gherkin to di
 
 Since gherkin explains what you're doing in business language, it maps very closely to Business Behavior. When you run EasyAM, it creates a "features" folder and auto-generates a bunch of feature files for you, one for each Business Behavior Realized (Or Abstract, if you don't have anything at the Realized level) Then it goes out and finds all the supplementals that apply to that behavior and list them as comments. You'll need to know them when you're creating your acceptance criteria.
 
-## Evolving the build environment
+## Getting to your Tests
 
 Even if you don't use gherkin, thinking in terms of executable tests before work begins is critical. You can use the feature file output to remind yourself of what kinds of tests you'll need for stories you're getting ready to do.
 
@@ -203,13 +205,24 @@ In addition, we see all the ancestor supplementals, and their notes too. Remembe
 
 The system handles all of that for us now.
 
-![And there you are in the feature file](images/chapter21-supplementalinfeaturefile.png)
+![When notes come in, they go to the right feature file. Automatically.](images/chapter21-supplementalinfeaturefile.png)
 
+As you can see, the three child supplementals are listed, along with the parent, "Check and monitor delivery stack" If we add a new note to the parent item, it'll appear in all the places the parent is referenced. It'll also appear in all the places any children or grandchildren are referenced. You could write up a very detailed description by what you mean by "Check and monitor delivery stack" and keep that in one place, version-controlled. It'll appear wherever it's needed because our links are in place. Then you never have to repeat yourself or worry whether or not you've included all the appropriate acceptance detail in your story.
 
+These feature files can make a great story-at-a-glance reference. There are two other keywords associated with behaviors that appear in the files, "SCENARIO" and "CODE"
 
+"SCENARIO" is a list of all the paths through the story that you've captured. "CODE" is computer code you want attached to the behavior to come out later. **EasyAM isn't a tool for translating models into code.** But if what you've captured is useful later on, there's no reason it can't create a report to help you code whenever you get around to it.
+
+## EasyAM Compilation Report
+
+![What have you been doing, EasyAM?](images/chapter21-reportamout.png)
+
+Also, if you're wondering what EasyAM found in your model, there's a file named "report.amout" that gives you a recap.
+
+We've talked about seven kinds of output from EasyAM. Model Cards, a Master Question List, AMOUT standardized output files, Project Cards, Comma-Separated Values (CSV files), report.amout and gherkin feature files. As we continue we'll start combining imports and exports to do more and more useful things, creating our Info-Ops pipeline.
 
 ## Possum Pilots Postscript
 
 After working for a month or two, Peter Principal's pretty pleased with your possum piloting programming. He releases you to work on other examples in this book, along with a letter of recommendation and a giant stuffed talking possum for each of you to put in your office.
 
-You didn't get him anything, you schmuck. Don't you feel bad?
+You didn't get him anything, you schmuck. Don't you feel bad? Some times I don't know why I put up with you.
