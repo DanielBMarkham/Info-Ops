@@ -179,22 +179,37 @@ This isn't a book on gherkin or the various tools that can compile gherkin to di
 
 ![Auto-generated gherkin feature files](images/chapter21-gherkin-example.png)
 
-
-
-
-
-
-
-
+Since gherkin explains what you're doing in business language, it maps very closely to Business Behavior. When you run EasyAM, it creates a "features" folder and auto-generates a bunch of feature files for you, one for each Business Behavior Realized (Or Abstract, if you don't have anything at the Realized level) Then it goes out and finds all the supplementals that apply to that behavior and list them as comments. You'll need to know them when you're creating your acceptance criteria.
 
 ## Evolving the build environment
 
+Even if you don't use gherkin, thinking in terms of executable tests before work begins is critical. You can use the feature file output to remind yourself of what kinds of tests you'll need for stories you're getting ready to do.
+
+![Life is all about connections](images/chapter21-linkages.png)
+
+Let's add in our linkages. This time when we run EasyAM, we see a features folder created. Under that, there's a folder called "schedule-classes". 
+
+This is where all of the stories related to the Master User Story "Schedule Classes" will be. And we can see a bunch of gherkin feature files created.
+
+![Life is all about connections](images/chapter21-featurefilelist.png)
+
+If we pick one, say "schedule-classes-(do-something-and-update).feature", we can see all the relevant information for this User Story.
+
+![There you are, supplementals](images/chapter21-linkages2.png)
+
+And here are the supplementals that we've linked over. If we add some notes to our supplementals, the notes appear in the feature file (and in the mus file for this story as well, of course) So when we go to the schedule classes with updates, we see not only the notes about that story, but also the supplementals related to that story and their notes as well.
+
+In addition, we see all the ancestor supplementals, and their notes too. Remember the mess we had when we tried to connect up items from behavior, supplementals, and structure? And that was without parents and children.
+
+The system handles all of that for us now.
+
+![And there you are in the feature file](images/chapter21-supplementalinfeaturefile.png)
 
 
-1. You are not allowed to have any important conversations unless it's to validate items already in the analysis (shared mental) model
-2. You are not allowed to add things to the model unless it answers a relevant question or fixes a failing test at the current level 
-3. You stop adding things to the model as soon as there is agreement that enough has been described to create a failing important test at some lower level
-
-The ordering of tests by importance is called the backlog queue
 
 
+## Possum Pilots Postscript
+
+After working for a month or two, Peter Principal's pretty pleased with your possum piloting programming. He releases you to work on other examples in this book, along with a letter of recommendation and a giant stuffed talking possum for each of you to put in your office.
+
+You didn't get him anything, you schmuck. Don't you feel bad?
