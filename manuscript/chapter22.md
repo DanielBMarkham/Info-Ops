@@ -146,11 +146,12 @@ Put another way, once you build a compiler, you're done. Other people may come a
 
 Many times what happens is that the team creates a rule-based system -- then they're stuck having to configure it for various purposes which nobody understands. This is how you get five-year nine-thousand item backlogs. Don't do that. It hurts. Make the people with needs set up an effort to have those needs met. In the end, you have to have tests, and you need those folks for the tests. Be honest about it and do it in a direct manner.
 
-
-
 ## Build Servers and Pipelines
 
+Once the analysis model is built in EasyAM and looks fairly stable, tag you work items in the source system with the behavior(s) and supplemental(s) they represent. This is usually done using custom fields, but it can also be done with notes or by using a mapping file.
 
-## Legacy Migration Examples with EasyAM
-automatically working with them
+On a regular basis, export the information from the old system to a text file with the EasyAM tags in it, then copy it to your analysis directory. Make it a version-controlled part of your build just like any other notes. You can do this using a chron job and a batch file.
 
+Congratulations! You've completed your first pipeline segment, delivering tagged data from a legacy system into EasyAM. Because EasyAM contains the analysis model which is a written representation of important conversations, it can serve as a switchboard routing information from one place to another, making sure people get the right information at the right time.
+
+Gee, what a cool idea! Somebody should write a book about that. If it were me, I'd call the book "Info-Ops". 
