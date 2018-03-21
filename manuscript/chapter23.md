@@ -147,13 +147,15 @@ Those people no longer exist. When you go to write an email, you don't go lookin
 
 Likewise, there was a time when every big company had something called a "secretarial pool", where people worked that knew how to take shorthand and type up letters.
 
-Those people no longer exist.
+Those people no longer exist. 
 
 At the turn of the century, we had a situation where if you wanted a computer to do something, you hired somebody called a "developer". This person was an expert in automating things.
 
 Before this century is out, these people will no longer exist. You'd no more find a specialist who was a programmer than you'd find a professional calligrapher. They exist, of course, but it's not the same thing. Reading, writing, taking notes, and sending letters? These are skills that everybody is required to do now as a condition of being considered a useful member of society. 
 
-The same will happen with programming. If you're hiring somebody or a team of people to simply codify and automate something your team is already doing, in most all cases you'd be better off doing it yourself, even if none of you program. That's because the technology part of the equation, if you know what you're doing, shouldn't be a factor in getting the system created. Instead, most all of difficult work will revolve around using Analysis to create a shared mental model.
+It used to be only certain people wrote. Now everybody writes. Only certain people specialize in difficult or performance writing, and it's a notoriously ill-paying job. It used to be only certain people coded. Now everybody codes for items in the Simple Domain. The specialists are moving up to the other, more tricky Domains.
+
+Programming is following the same path as writing. If you're hiring somebody or a team of people to simply codify and automate something your team is already doing, in most all cases you'd be better off doing it yourself, even if none of you program. That's because the technology part of the equation, if you know what you're doing, shouldn't be a factor in getting the system created. Instead, most all of difficult work will revolve around using Analysis to create a shared mental model.
 
 You've read this book. Do you really want and need to take the time to get aligned with an outside group? For most work, you could probably spend the same amount of time learning how to overcome whatever technical gaps you have to making it happen. Then, when you're done, not only do you have an exact solution for a problem you all agree on, you have the ability to create more solutions as new situations arise.
 
