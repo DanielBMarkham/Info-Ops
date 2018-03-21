@@ -154,4 +154,4 @@ On a regular basis, export the information from the old system to a text file wi
 
 Congratulations! You've completed your first pipeline segment, delivering tagged data from a legacy system into EasyAM. Because EasyAM contains the analysis model which is a written representation of important conversations, it can serve as a switchboard routing information from one place to another, making sure people get the right information at the right time.
 
-Gee, what a cool idea! Somebody should write a book about that. If it were me, I'd call the book "Info-Ops". 
+Gee, what a cool idea! Somebody should write a book about that. If it were me, I think I'd call the book "Info-Ops". 
