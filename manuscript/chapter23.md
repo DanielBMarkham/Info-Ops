@@ -99,12 +99,98 @@ Even if the Target System you're creating or changing is a formal system, if it 
 
 It's funny how so many of these points sound trivial but are actually deep and important. If you can't observe the target system, you can't do any useful work.
 
+The reason we drive towards tests with everything we do is because tests are the only agreed-upon, objective, easily reproducible, and scalable way to observe the target system.
 
+Agreed-upon: it's a direct result of the analysis. It's the only reason the analysis exists. Tests are the blossoming of the productive dialectic.
 
+Objective: tests that are automated are not open to subjective opinion. You may not like the tests, or think the tests need replacing, but everybody can agree on whether they passed or failed.
+
+Easily reproducible: you'd think that testing should be as easy as pushing a button. It is not. Testing should happen whether or not any buttons are pushed, it should be continuous. If testing is not reproducible at all, or if it's so burdensome that it rarely happens? You really don't have a system that needs any kind of thinking about.
 
 ### How does the feedback loop work?
 
-## Project Chartering
+When I look for advice on how to evaluate and engage in situations, I look to startups and the military, for the same reason. They either get it right or they die. There tends to be a much more practical aspect of wisdom in those areas than in other places.
 
-## Vendor Management
+A famous saying in military circles is "Amateurs talk tactics. Professional talk logistics." That means that when you see the military, you think about guns, tanks, fighting and such. But like an iceberg, that's just what people *see*. The real trick of things is getting all of those guns, tanks, soldiers, and planes to the right place with food, fuel, ammo, training, and everything else they need. That's logistics, and it is just as critical, even moreso, than the fighting. If you can't eat and you have no bullets, you're not fighting. And even if you have the best army on the planet, if you can't keep them supplied and moving where they need to be, you've lost. If you doubt me, ask Napoleon.
 
+Likewise, when people begin analysis to create or modify some formal system, the most obvious thing they think about is the system itself. (Hopefully). But the professionals think about something else: how do you know if you're wrong? 
+
+After all, no matter what you're doing, if it's worth doing at all it's bound to be a bit tricky. Asking about whether you can test it or not determines whether it can be inspected, but the key question is whether or not you're set up to change course if you've made a mistake. 
+
+I have seen billions of dollars spent on systems where there was neither effective testing nor any sort of feedback loop. That's mind-boggling to me. Eventually, however, systems are tested. They always are. And then what might have been a tiny, unimportant change years ago turns into an unmitigated disaster. All because there was no mechanism in place for observing the continuous tests and changing course accordingly.
+
+There is an incredibly vast amount of money spent each year by organizations that know they have a problem but can't seem to be able to intelligently talk about it amongst themselves. So they get out the checkbook and buy a tool. On the box, the tool says that it is useful for organizations in their situation with their kinds of needs.
+
+They come home from the Super-X with the box, install the software.......and nothing. Here are people that understand they have a need, are willing to spend handsomely to have that need met. But there's no reasonable or effective conversation loop where backlog refinement, (Sorry. Learning.) takes place. You can get everything else right with SA, but if there's no feedback loop, it's wrong. It's broken.
+
+One of the worst places this happens is with corporate programming teams. They have money, they have somebody pretending to be a customer, what else could they need? Perhaps some idea if anybody is using or finding value in the work they're doing?
+
+Amateurs talk about features, delivery dates. Professional talk about feedback loops. If you don't have a feedback loop, go home.
+
+### Is it Creative?
+
+Is a fantasy novel something you could use Structured Analysis on? It certainly could be. Fantasy novels, more than any other novel, have strict rules that must always be followed. Otherwise the reader feels cheated. (Oddly enough, authors have much more freedom when writing straight fiction, although credibility always has it's limits.)
+
+It's probably a sucky way to write a book, but readers certainly use SA to think about books they're reading.
+
+## Project Chartering/Vendor Management
+
+There's a special type of small team work that's especially tricky for people who don't understand Structured Analysis or how solutions happen. That's either chartering a project or handling a vendor for a project.
+
+In both cases, the team has money, knowledge, and a need -- but not enough time or energy to create the solution themselves.
+
+The first thing to realize before you even start considering project chartering or vendor management is the new rule of the 21st century: *Everybody's job is to automate everybody's job.*
+
+There was a time, centuries ago, when nobody could write. If the king or somebody important had to write a letter, they called in a scribe. Scribes were experts on writing and reading things.
+
+Those people no longer exist. When you go to write an email, you don't go looking around for a scribe.
+
+Likewise, there was a time when every big company had something called a "secretarial pool", where people worked that knew how to take shorthand and type up letters.
+
+Those people no longer exist.
+
+At the turn of the century, we had a situation where if you wanted a computer to do something, you hired somebody called a "developer". This person was an expert in automating things.
+
+Before this century is out, these people will no longer exist. You'd no more find a specialist who was a programmer than you'd find a professional calligrapher. They exist, of course, but it's not the same thing. Reading, writing, taking notes, and sending letters? These are skills that everybody is required to do now as a condition of being considered a useful member of society. 
+
+The same will happen with programming. If you're hiring somebody or a team of people to simply codify and automate something your team is already doing, in most all cases you'd be better off doing it yourself, even if none of you program. That's because the technology part of the equation, if you know what you're doing, shouldn't be a factor in getting the system created. Instead, most all of difficult work will revolve around using Analysis to create a shared mental model.
+
+You've read this book. Do you really want and need to take the time to get aligned with an outside group? For most work, you could probably spend the same amount of time learning how to overcome whatever technical gaps you have to making it happen. Then, when you're done, not only do you have an exact solution for a problem you all agree on, you have the ability to create more solutions as new situations arise.
+
+I know what you're thinking: but that's not my job! I'm the sales rep manager, or the office hat coordinator. I don't have time for automating stuff. I'm not supposed to be automating stuff. I'm supposed to be working on more important things!
+
+This is the sound of the old businessman in 1990 saying he doesn't have time to learn how to use spreadsheets, or email. He's got more important things to be doing!
+
+What he doesn't understand is that all the translation and overhead required for him *not* to understand spreadsheets and email is far greater than just learning it and then using it to do his job better. The same goes for automating most business processes. Using cynefin, if you're in the Simple/Obvious Domain and need a system created or modified? In most cases you're better off doing it yourself.
+
+But let's assume that you're in the Complicated or Complex Domain, you're part of a large organization which you're serving, and that organization has entrusted you to create or modify some target system to meet certain defined needs of a bunch of Actors.
+
+We're smart now, let's start with pro-level questions. What's the feedback loop? Forget talking about what it does, or how we're going to test it. How are we going to know that we're headed down the wrong road and need to change? How is the project team or vendor going to be able to tell us that we're wrong?
+
+I don't think anybody ever really asks this. Instead, they usually wonder about how they're going to *tell* the external team what to do. Nobody seems to wander about how they're going to *listen* to the experts they're paying to create so perhaps they can learn something.
+
+Yet if there were nothing to learn, if it were truly simple? There wouldn't be a need for an external team to begin with.
+
+In reality, once you send a non-trivial problem to an outside group to solve and automate, you're signed-on for a lot of learning and difficult discussions. Not only do you have to listen to learn and adapt, you have to be willing to engage in dialectics to create completely new and perhaps uncomfortable models as the team gets into alignment.
+
+What you're really doing is paying somebody else to learn something and then take the time to un-learn you and bring you up to speed on what they're finding.
+
+Since you've got a lot to learn and talk about, the faster the feedback loop the better. Anything over a day or three becomes unwieldy and counterproductive quickly. When I think of all the efforts with quarterly or annual feedback cycles, it's like a pit opening up that money and people's lives fall into.
+
+So be aggressive and go with daily feedback loops. Weekly if you're a sucker for pain. And that's feedback loops, not status reports, release planning, or contract updates. That's a regular backlog refinement discussion with the folks that you've chartered to make things happen in some target system.
+
+The next decision to make is how you are going to observe the system. The gold standard for any successful effort is automated continuous testing and reporting. Whatever you choose to test or observe, it should happen without anybody setting it up or starting it, and the results should be easily available to anybody either in the management or delivery team. I suggest wall displays.
+
+Next you have to establish in cynefin terms what sort of universe the target system exists in. If it's simple, you should be doing it. If it's chaotic, it's probably a waste of time and energy (although there are some AI and Bayesian approaches to chaotic system that in some cases might be fruitful)
+
+That means that either you'll be assisting experts in making sense of stuff or you'll be you'll be helping people determine what kinds of stuff they're trying make sense of. C.S. Peirce called these "abduction" and "deduction". We'll be talking more about Peirce later.
+
+Are you working to create or change a formal system? For anything involving technology, the answer is usually yes.
+
+Finally, what is the target system? Who are you helping to interact with what thing to help them reach their goals? "We're writing a phone app for doctors to schedule new patient referrals" is a great answer to that question. Or "We're helping lawyers use their smart lawn mowers to file tort cases" is an odd answer, but it works. Who are the actors? With what system will they be interacting? Throw in a general reason for the work and this question is answered.
+
+Congratulations! You now have a project that has a chance of success. You can continue forward with the rest of analysis and development as outlined in the book.
+
+What about teams managing more than one effort? You can scale this out to quite a few efforts. If it won't scale, then you've spread yourself too thin. Personally I wouldn't want to be on any more than half a dozen efforts. After that my brain would explode. It's important to pick-and-choose. I understand that many vendors will tell you they can do whatever you'd like with minimum input on your part. Governance is making compromises and trade-offs. Unfortunately you can't get something for nothing.
+
+In this section we've described how small teams collect, use, modify, and deliver important information. We've shown how to use EasyAM. Finally in this chapter we've talked about situations where the team is unsure about what role it plays in the solution; what kinds of solutions are tractable. Then we've wrapped everything we've learned together to talk about teams where they're indirectly responsible for a target system changing. What's required for information to be used effectively in this situation?

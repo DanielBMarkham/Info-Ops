@@ -1,6 +1,6 @@
 {backmatter}
 
-## Daniel B. Markham
+## About the Author
 
 ![Daniel B. Markham](images/daniel-perhaps-author.png)
 
