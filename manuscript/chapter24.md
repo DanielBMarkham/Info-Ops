@@ -8,7 +8,7 @@
 
 ### sprint/kanban tracking
 
-![Send the data about how people use your app to the place where you can get the most value from it](images/chapter24-googleanalytics hooking.png)
+![Send the data about how people use your app to the place where you can get the most value from it](images/chapter24-googleanalytics-hooking.png)
 
 ### Google Analytics hooking into a "whenever" in the MSP
 
