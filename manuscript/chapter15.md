@@ -5,7 +5,7 @@ After trying your hand at dog houses, dental franchises, Mars colonies, and seve
 
 After reading this book, you're determined to do this the right way, maybe even do a little too much up-front work just to make sure you do a good job. When your first customer comes along, instead of just chatting and sketching something on a napkin, you chat and jot down your master model as you go.
 
-On your first meeting, you tell him that you're doing this a new way, and that he should expect a half-dozen small conversations before you settle on a deck design and begin work. But there's no charge for that, and you've found that people love it when you do it this way.
+On your first meeting, you tell him that you're doing this a new way, and that he should expect a half-dozen small conversations before you settle on a deck design and begin work. There's no charge for these small conversations, and you've found that people love it when you do it this way.
 
 What does the world of backyard decks look like in this guy's mind? After 15 minutes of chatting, here's your Master Model sketch.
 
@@ -43,28 +43,28 @@ Also, there were a few times where he started giving out structural pieces, like
 - "Boards ought to be made of that red stuff you see in pictures"
 - "I don't want to stub my foot on a nail"
 
-If hadn't read this book, or if you were like many technology teams, you'd take these statements as requirements. "Oh, we will have steps that will be 6' wide. Here are specs on the railing. And wow, looks like we'll be buying redwood! This will get expensive! Also we should buy headless nails. Do they make those?"
+If hadn't read this book, or if you were like many technology teams, you'd take these statements as requirements. "Oh, we will have steps that will be exactly 6' wide. Here are specs on the railing. And wow, looks like we'll be buying redwood! This will get expensive! Also we should buy headless nails. Do they make those?"
 
-But nope, you ain't falling for that one. ***All structure is deriviative.*** That means that whenever a customer or Product Owner starts talking structure, it's the result of some kind processing they've already done in their head. Maybe what they concluded makes sense. Maybe they had bad or incomplete information. Maybe they're thinking about a problem from a different angle than you are. (This is actually the most likely thing to happen. If you're talking to a guy about building a backyard deck, he's probably loading up a mental model he shares with the family about outside fun at home. That's got all kind of items and linkages that you don't know and probably don't matter)
+But nope, you ain't falling for that one. ***All structure is derivative.*** That means that whenever a customer or Product Owner starts talking structure, it's the result of some kind of processing they've already done in their head. Maybe what they concluded makes sense. Maybe they had bad or incomplete information. Maybe they're thinking about a problem from a different angle than you are. (This is actually the most likely thing to happen. If you're talking to a guy about building a backyard deck, he's probably loading up a mental model he shares with the family about outside fun at home. That's got all kind of items and linkages that you don't know about and probably don't matter to you)
 
-If you take structural information at face value, you've abandoned the dialectic. That's not happening.
+If you take structural information at face value, you've abandoned the dialectic. That's not happening. Not in our book it's not!
 
 So you push back, gently. You list those sentences and say you'd like to talk about them further. After just a few minutes, you've eliminated this extraneous structure stuff and gained more insight (and continue to align mental models with your customer)
 
 Here's how those statement decomposed:
 
-- "Those steps will need to be six-feet wide" -> Uncle Joe and his wife Edna are very large people who like to hold hands a lot. The steps need to accommodate them without making them uncomfortable
-- "The railing should only be a couple of inches apart." -> He read somewhere that babies can get their heads stuck in railing and die. You point out that building codes cover this problem and a lot more. Is it okay just to abide by the codes, instead actually having a 2" gap? Or is there something else? Nope. So this item is deleted
-- "Boards ought to be made of that red stuff you see in pictures" -> He wants redwood *stain*, not expensive hardwood. He doesn't know what he's talking about, he's never built a deck. He likes the redwood stain and wants weather protection for ten years
+- "Those steps will need to be six-feet wide" -> Uncle Joe and his wife Edna are very large people who like to hold hands a lot. The steps need to accommodate them without making them uncomfortable or self-conscious
+- "The railing should only be a couple of inches apart." -> He read somewhere that babies can get their heads stuck in railing and die. You point out that building codes cover this problem and a lot more. Is it okay just to abide by the codes, instead actually having a 2" gap? Or is there something else? Nope. So this item is deleted. In its place you have all of the building codes. That's a much more useful supplemental 
+- "Boards ought to be made of that red stuff you see in pictures" -> He wants redwood *stain*, not expensive hardwood. He doesn't know what he's talking about, he's never built a deck. He likes the redwood stain and wants weather protection for ten years. So it's weather protection then. Got it
 - "I don't want to stub my foot on a nail" -> He visited a friend last year who had an old deck and stubbed his foot on a nail.
 
 Out of all of that, we've got three supplementals. One Business Abstract Supplemental: "All entrances must comfortably accommodate two large people side-by-side". We've got two System Abstract Supplementals: "Structure must be impervious to weather for ten years", and "Use joining technology that doesn't poke out after wear (screws, for example)"
 
-We have no structure information, although if we had let him, he'd probably start sketching out deck designs on a napkin. Then he would be doing the work, we'd just be preparing materials and joining them. There are a ton of technology teams that think this is an ideal situation. I feel sorry for the people who pay them. 
+We have no structure information, although if we had let him, he'd probably start sketching out deck designs on a napkin. Then he would be doing the work, we'd just be preparing materials and joining them together. There are a ton of technology teams that think this is an ideal situation. I feel sorry for both them and  the people who pay them. 
 
-We've also began to establish some rapport with our customer, learn about his life. Maybe we've started to become friends. Remember, he doesn't know Structured Analysis. From his side, we've taken care to learn more about what's important to him. This isn't you taking over the project. This is you showing that you're actually concerned about what the guy wants and the quality of the work.
+We've also began to establish some rapport with our customer, learn about his life. Maybe we've started to become friends. Remember, he doesn't know Structured Analysis. From his side, we've taken care to learn more about what's important to him. You aren't taking over the project. You're showing that you're actually concerned about what the guy wants and the quality of the work.
 
-We've asked permission to learn about what he really wants and what he's afraid of, and we've asked him if we could have the honor of sketching out some ideas and talking to him about them instead of having him giving us a model made out of Legos or something. All of this adds what we know to what he wants.
+We've asked permission to learn about what he really wants and what he's afraid of, and we've asked him if we could have the honor of sketching out some ideas and talking to him about them instead of having him giving us a model made out of Legos or something completely pre-built. We're taking what we know about building and adding it to what we're finding out about what he wants. As we talk there's a synthesis that happens.
 
 So we have three more supplementals. For now we'll put the System Supplementals up at the top of the model, in the Business Abstract spot. Easier to use that way. Sue me. We've also got a new behavior, one that seems obvious but was never brought up: I need to enter and leave the deck.
 
@@ -106,7 +106,7 @@ We tell our customer first thing that we need to talk a lot more than 15 minutes
 
 Sigh.
 
-We also tell him that every time we meet, we'll be bringing along various things to play with -- modeling clay, Legos, pipe cleaners, and so forth. We've found it's both fun and easier to convey ideas when we're actually touching and manipulating things together. (And no, not like that.)
+We also tell him that every time we meet, we'll be bringing along various things to play with -- modeling clay, Legos, pipe cleaners, and so forth. We've found it's both fun and easier to convey ideas when we're actually touching and manipulating things together.
 
 He likes that idea better.
 
@@ -124,7 +124,7 @@ This accomplishes a bunch of things all at once. First, we look good. We look li
 
 Finally, as we converse around System Realized stuff, when he gives us answers and opinions on things? We find out why he feels that way. We'll be playing around with various stain colors for the deck and he'll choose Redwood.
 
-"That's interesting. What a nice color. Wonder why you liked that instead of this brown"
+"That's interesting. What a nice color. Wonder why you liked that instead of this brown?"
 
 "It looks more like something you'd see in a forest. Although it's square and obviously man-made, I want my deck to appear as much as possible as part of the forest we live in."
 
@@ -138,9 +138,9 @@ This may be a great question. This may be the key, critical question that has to
 
 The meetings I still have nightmares about are the ones that go off-the-rails like this, diving way too far into the weeds way too early -- and then the business leader? He dives right in too. Turns out he used to be a tech guy. So we're going to spend an hour talking clusters and indexing strategy. After all, he wants to show the troops he hasn't lost his edge.
 
-The pros pop all over the place, adjusting their mental model as they go. In a new effort, they're constantly looking to the top of the pyramid, not in the weeds. That day will come soon enough. If the business leader wants to prove he's still got database chops? Fine. We'll look at database diagrams asking questions about minutiae -- while we follow up with questions that fill out the rest of the model. It's a handicap but they'll work through it.
+In contrast, the professionals pop all over the place, adjusting their mental model as they go. In a new effort, they're constantly looking to the top of the pyramid, not in the weeds. That day will come soon enough. But if the business leader wants to prove he's still got database chops? Fine. We'll look at database diagrams asking questions about minutiae -- while we follow up with questions that fill out the rest of the model. Their obsession with tiny detail is a handicap this early in the game but they'll work through it.
 
-We tell him we'd like to bring a more professional model back tomorrow, do some interactive work. Could he spare an hour? Seeing that we know our business, are capable and thorough, and are concerned about his values, he agrees.
+We tell the deck guy we'd like to bring a more professional model back tomorrow, do some interactive work. Could he spare an hour? Seeing that we know our business, are capable and thorough, and are concerned about his values, he agrees.
 
 By acting in a professional manner, using Structured Analysis, gently explaining to our customer how he can be the happiest for the money he's spending, negotiating carefully with him to give him what he wants, we are establishing trust. Aside from job competence, the reason most projects fail is due to a lack of trust. We create poor, buggy products. We don't spend enough time together. We become order takers for the customer instead of friends and partners. We use bait-and-switch tactics with staffing. All of these create a lack of trust, and a lack of trust kills projects.
 
@@ -150,7 +150,7 @@ With the professionals, natural conversations are never about what the customer 
 
 ## Back Home
 
-But -- since we understand the dialectic, and since we can use Structured Analysis in freeform, open and natural conversations, as long as we're craftsman at what we do, we're always establishing more trust simply by being there and chatting.
+Since we understand the dialectic, and since we can use Structured Analysis in freeform, open and natural conversations, as long as we're craftsman at what we do, we're always establishing more trust simply by being there and chatting.
 
 Back at home, we take a look at our handwritten notes from our chat. We've added some stuff and answered some questions. We make a new file named "2018-05-02 dbm Second Day.amin"
 
@@ -166,7 +166,7 @@ We're ready to add some snap and pop to our conversations, but we don't want to 
 
 It's not Monet, but it was quick and easy. Better yet, free! We can print this diagram, we can create a link and share it online, we can even work together online with people all over the world....
 
-Wait a minute! There we go focusing on the tool again, dang it. It's great because it's free and we can send links if we need to. That's it. We don't work in it. Just like EasyAM, it exists to clean things up and store semi-permanent things as bits so they're easy to move around. And just like EasyAM, it's not something we "work in"
+Wait a minute! There we go focusing on the tool again, dang it. It's a great tool because it's free and we can send links if we need to. That's it. It's not the thing we work in. Just like EasyAM, it exists to clean things up and store semi-permanent things as bits so they're easy to move around. And just like EasyAM, it's a tool, not a job.
 
 Carpenters don't go around staring at their hammers and we're not going to go around staring at all of our cool apps. We're professionals. We know better.
 
@@ -180,6 +180,8 @@ I stopped at a few questions so the graphic would fit in the book. In reality, w
 
 We run EasyAM again. This time it tells us it has processed two files, and when we look at our Master Cards? There are our questions and notes! We print out our Master Model cards. Then we print out our fancy deck layout diagram. Those things always impress. Finally, we print out the deck diagram one more time, *then cut out each piece of furniture as it's own little piece.*
 
+Now we've created both a deck diagram and a deck toy where we can move pieces around. (Hint: the toy is going to turn out to be more important than the diagram.)
+
 ## EasyAM Round 3: Details, Details, Details 
 
 This time we've got an entire hour. Yay! And we continue to look more professional with each visit. Now we have a dozen or two questions, a cool deck layout diagram, and an interactive game where we can all move the furniture around to see how we'd like it laid out.
@@ -192,15 +194,15 @@ Why? Because when we post a question and answer in a permanent record, we're rea
 
 In each of these situations, there's a generic problem domain. We all know and live in mostly the same world when it comes to installing software. Some goes for college. All colleges have common features and services (behavior and structure). We can make a vast number of assumptions and still provide usefulness.
 
-If this were completely true, we would never need anything more than FAQs in life, and any light perusal of a software web site will tell you quickly that this ain't true. FAQs can help -- to a certain degree.
+If this were completely true, we would never need anything more than FAQs in life, and any light perusal of a software web site will tell you quickly that this ain't true. FAQs can help -- to a certain degree. But FAQs are notoriously not useful.
 
-This may sound anal, but it's not. You guys know what the score is now, and it's important to know how easy it is to screw analysis up by simply doing something that seems to make sense. 
+It may sound like I'm being far too dogmatic, but I am not. You guys know what the score is now, and it's important to know how easy it is to screw analysis up by simply doing something that seems to make sense. 
 
-**When you get an answer to your question, delete the question, then start talking about how that answer changes the analysis model.** That's where the real work is, in the model, either in your head or on paper. 
+**When you get an answer to your question, delete the question, then start talking about how that answer changes the analysis model.** That's where the real work is, in the model, either in your head or on paper. Questions create and mature the model. They don't have value on their own. They only have value inside a conversation with the people in the room.
 
-If you think about it, it makes sense. We could just draw a box, then spend the rest of our time asking questions and making some huge FAQ. In the corporate world, when analysis is done, most of the time that's exactly how it happens: A bunch of people come up with questions, write them down, then get answers and write them down. Analysis for many teams is no more than a long series of questions and answers. For these folks, the *answers* are the goal. And that's weird, since we know it's the shared group questions that's where the value is.
+If you think about it, it makes sense. We could just draw a box, then spend the rest of our time asking questions and making some huge FAQ. In the corporate world, when analysis is done, most of the time that's exactly how it happens: A bunch of people come up with questions, write them down, then get answers and write them down. Analysis for many teams is no more than a long series of questions and answers. For these folks, the *answers* are the goal. And that's weird, since we know it's the shared group questions that's where the value is. Not questions and answers written on paper.
 
-We already know how to tag *any kind* of information that we can talk about. Why in the world would we stop tagging stuff simply because it's an answer to a question about something else? The analysis model builds on itself. That means that we continuously using questions to work on the model, not get answers. When the model is developed enough, we'll know all the answers we need.
+We already know how to tag *any kind* of information that we can talk about. Why in the world would we stop tagging stuff simply because it's an answer to a question about something else? The analysis model builds on itself. That means that we continuously using questions to work on the model, not get answers. When the model is developed enough, we'll know all the answers we need. Heck, a lot of times questions update the model -- but lead to more and more questions than we started with.
 
 So 90-99% of the time, we get our answer, delete the question, then update and synchronize the analysis model, even if that model is only in our head. Every now and then, you'll get answers that seem important, but you're not really sure. It's not worth stopping the conversation to chase down, but you don't want to forget it, either.
 
@@ -215,6 +217,8 @@ As you know, most of the time those questions are never written down and we don'
 The flip-side of this is equally important: not everything that comes out of somebody's mouth is important. In fact, most stuff isn't -- or at least isn't important as far as you can tell. Since analysis is about conversations, whenever I hear something new I always try to just guess if I'll be hearing it a lot. Most times the answer is no, so it just bounces off the wall, doing it's job in the heads of the people there. Sometimes the answer is "maybe", so I'll make a note on whatever else we were talking about. See if it shows up again. Sometimes it's obvious. For those items, I always repeat them in the room alongside with a question that covers how important they are. "So you say you keep live gorillas? Are they going to be on the deck too?"
 
 Working with models in physical form, whether it's cards, legos, little furniture pieces, PlayDough, etc. is a pleasing experience. I think that's because deep inside we know that we're actually beginning to think and work as one unit. Working with live gorillas is not.
+
+Try never to work with live gorillas.
 
 ![A project card with questions attached](images/chapter15-easyam-8.png)
 

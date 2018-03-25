@@ -2,47 +2,37 @@
 
 If you've ever worked with databases, there's a thing called "database normalization". This basically means for any set of data you are collecting about a problem, there's a way to store and use it getting the maximum amount of value using the least amount of space and effort[^14-1]
 
-[^14-1]: Insert long discussion here about document-oriented databases and the NoSQL movement. Sometimes that makes sense -- but database normalization still represents a type of optimizing information gathering and processing.
+[^14-1]: Insert long discussion here about Codd, document-oriented databases and the NoSQL movement. Sometimes that makes sense -- but database normalization still represents a type of optimizing information gathering and processing.
 
-When you don't have a lot of anything, the way you store it doesn't matter that much. A technology project with a co-located team alongside a real owner and real user that only lasts for a month or two might make do with nothing formal at all -- although I'd still make that master model. Everything hinges off of it, and it's far too useful of a tool (and easy to make) to pass for projects of any size.
+When it comes to Analysis, when you don't have a lot of anything, the way you store it doesn't matter that much. A technology project with a co-located team? One that works alongside a real owner and real user that only lasts for a month or two? It might make do with nothing formal at all -- although I'd still make that master model. Everything hinges off of it, and it's far too useful of a tool (and easy to make) to pass for projects of any size.
 
-But when you're asking a lot of questions and gaining alignment, you can cover a ton of territory. Even if you decide *not* to do something, that might be an important conversation point. I've been known to make a quick list of "excluded behaviors" at the bottom of my master backlog.
+But when you're asking a lot of questions and gaining alignment, you can cover a ton of territory. Even if you decide *not* to do something, that might be an important conversation point. I've been known to make a quick list of "excluded behaviors" at the bottom of my master backlog. When a lot of ground is covered, it gets difficult to get back to a certain point again if you have to revisit it. People can only hold so much stuff in their head at one time.
 
-And behaviors define the borderlands, the dermarcation point between "stuff we're doing" and "stuff we're not doing". If it's not in our master backlog, we're not doing it.[^14-2]
+And behaviors define the borderlands, the demarcation point between "stuff we're doing" and "stuff we're not doing". If it's not in our master backlog, we're not doing it.[^14-2] On larger projects we tend to visit the borderlands again and again.
 
-[^14-2]: I've never done any detail work on anti-behaviors. I guess it's possible. I wouldn't advise it, however. The important thing about anti-behaviors is that they help qualify and add detail to real Master Backlog Items (MBIs). So it's great to note they exist, then figure out what detail you're missing in the MBL, if any, that the anti-behavior points out. Many times they make excellent reminders of conversations that ended with the team deciding something was out of scope. (So while details don't make sense to me, adding notes might be a great idea.)
+[^14-2]: I've never done any detail work on anti-behaviors. I guess it's possible. I wouldn't advise it, however. The important thing about anti-behaviors is that they help qualify and add detail to real Master Backlog Items (MBIs). So it's great to note they exist, then figure out what detail you're missing in the MBL, if any, that the anti-behavior points out. Many times they make excellent reminders of conversations that ended with the team deciding something was out of scope. (So while anti-behavior details don't make sense to me, listing them in the notes might be a great idea.)
 
 We've worked out that we've got the minimum set of tags. We've also worked out how to organize things using our tags into pyramids with cross-linking items. This is the minimal system necessary for organizing any analysis data.
 
 But like we said, this stuff gets out of hand quickly. People send us emails with stuff we need to remember, but not right now. There are feature discussions that are important to stuff we delivered six months ago. There are all of these random notes we gathered when we had that weekend user workshop. Information grows like a snowball -- which is one of the reasons the tagging system is so important in the first place. Too much gets lost and/or stuck somewhere it shouldn't be.
 
-So for any project we have that's non-trivial we'll need to store information and recall it. Now that we're moving from theory to application in the book, we'll also start working on larger analysis models and automated collection and processing. 
+For any project we have that's non-trivial we'll need to store information and recall it. Now that we're moving from theory to application in the book, we'll also start working on larger analysis models and automated collection and processing. 
 
-Do we really need to move to programming? Does every technolog system have to end in some overblown tool? Isn't this just the opposite of what we've been learning all along?
+You may be asking: Do we really need to move to programming? Does every technology system have to end in some overblown tool that we install and use? Isn't this just the opposite of what we've been learning all along?
 
 It's a good question. Working by hand with physical items in a group is always best. It creates a situation and a game where the dialectic naturally happens.
 
-When moving data around in databases, programmers have an acronym, **ETL**, which stands for **Extract**, **Transform**, and **Load**. Let's talk about how that applies to us.
+**Transforms always happen manually**. No matter how we tag or move anything around, the real work always happens in the heads of the people in the team, not anywhere else. That means that *changes to the shared mental model always happen before the written model changes* It won't work any other way.
 
-First, **Extract** is when we take data from some other place, either a conversation or an datastore somewhere. We've talked about the *real* version of extract, creating a shared mental model while identifying important conversation points for later. There's also extracting information from some datastores. We'll cover that later in this section.
+We can tag and move data around all day, but we cross a line when we start transforming things into something new. The important part of our work is the transform, and for that we need the dialectic. 
 
-**Transform** is where you move the data from one model to another. Our master models and analysis pyramid that we've created is where everything goes. When we take conversations and **Transform** them, we're **Synchronizing the Model**,making sure that everything refers to everything else. After we do a little nerdy stuff installing a tool, we're going to cover that next, both in manual and automated form.[^14-3]
+We may have to work with seven-thousand item backlogs (Yes, I've seen them.) We may have thousands of items on a bug list. Our work will be the same as it always was, we just use tools to work through any grunt work. There's no point in banging our head against a wall. Since the nature of analysis is always having more data and information than you need to work with at one time, we'll need some way of working with lots of data.
 
-[^14-3]: Also known as "Grooming the backlog"
+So, like it or not, to continue forward we'll need an electronic tool. We'll also be talking about what can be automated and what can't.
 
-Finally, the **Load** stage is where the new information is merged with the older stuff. That's simple once we've got an analysis pyramid and transformed data.
+We'll cover the simplicity of the theories involved, things like estimating, grooming, or prioritizing, then the complexity of the data, then how to combine both the theory and the data simply in order to physically organize our thoughts as a group. Throughout this we'll be using tools to move data around.
 
-**Transforms always happen manually**. Extracting stuff from various systems to have a good conversation can be manual, but usually involves some kind of tool. Once we've organized stuff and synchronized the model, Loading stuff back into our system can also be done manually, but is best suited for automation.
-
-The important part is the transform, and for that we need the dialectic. Just moving bits and pieces around? We have tools for sorting and filing. We should use them. It's the organization part where the real work happens.
-
-We may have to work with seven-thousand item backlogs (Yes, I've seen them.) We may have thousands of items on a bug list. Our work will be the same as it always was, but there's no point in banging our head against a wall. Since the nature of analysis is always having more data and information than you need to work with at one time, we need to know how to work with lots of data.
-
-So, like it or not, to continue forward we'll need both a tool and a bunch of sample data. We'll also be talking about what can be automated and what can't.
-
-Our pattern will be to talk about the simplicity of the theories involved, then the complexity of the data, then how to combine both and make the data simple in order to physically organize our thoughts as a group. Throughout this we'll be using tools to move data around.
-
-So put on your tin-foil hats and pocket-protectors. We're going to need to get our nerd on. 
+So put on your tin-foil hats and pocket-protectors! We're getting our nerd on. 
 
 ![](images/github-easyam.png)
 
@@ -68,7 +58,7 @@ In windows, to see what versions of .NET you have installed, from the command-li
 
 On linux and a Mac, just install the latest version of .NET Core. You'll find instructions for installing .NET Core on your OS at [https://www.microsoft.com/net/core](https://www.microsoft.com/net/core) (Visit the site from the computer you are installing to, since Microsoft determines your computer and routes you to the appropriate place depending on your OS)
 
-I coded EasyAM using Mono, which is the old open-source .NET runtime for linux. (It's a great tool, by the way). That's [here:](http://www.mono-project.com/)
+I coded EasyAM and compiled it with Mono, which is the old open-source .NET runtime for linux. (It's a great tool, by the way). That's [here:](http://www.mono-project.com/)
 
 (NOTE TO BETA READERS: In Windows, you'll need to just use the bin/Debug folder for now. In linux, clone the project, then use mono to compile it to a single run-time file, eg "mkbundle -o easyam --deps --static easyam.exe". This will make a file named "easyam" that you can run from the command-line e.g. "./easyam --help")
 
@@ -156,6 +146,3 @@ To keep current with the progress of EasyAM, which is open source and free, simp
 To get assistance or report a bug, send an email to help@easyam.org
 
 Now let's organize some stuff!
-
-
-
