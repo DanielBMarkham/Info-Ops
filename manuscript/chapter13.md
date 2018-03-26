@@ -36,7 +36,7 @@ Haydn was the master of what music was at the time: the history, the complexity,
 
 [^13-2]: Sometimes not even to the audience. Beethoven was happy just to have taken his inner feelings and created great art with them. He knew that future generations would appreciate and love him. (He wasn't the most modest person, either.)
 
-Haydn at 58 was at the top of his game. He had invented huge part of the Viennese classical style. He was a master of the form. He could compose in his sleep. Kings paid Haydn to compose and create great music. He had just returned from a whirlwind tour of England. Now, back at home, was given the job of training this bit of a uncontrollable hellion from the sticks into something worthwhile. The kid was obviously a genius, but he had his own way about everything.
+Haydn at 58 was at the top of his game. He had invented a huge part of the Viennese classical style. He was a master of form. He could compose in his sleep. Kings paid Haydn to compose and create great music. He had just returned from a whirlwind tour of England. Now, back at home, he was given the job of training this bit of an uncontrollable hellion from the sticks into something worthwhile. The kid was obviously a genius, but he had his own way about everything.
 
 Beethoven was not honored. We don't know for sure, but it's likely that Beethoven found him a nice but silly and pretentious old man peddling tricks from a long-lost age -- an age best forgotten. For his part, Haydn had to know that Beethoven was a master of music, in many ways his better. As unruly as Beethoven was, it was impossible not to acknowledge his talent.
 
@@ -60,13 +60,13 @@ Take Beethoven's Fifth Symphony.[^13-6]
 
 For years while he was in Vienna, Beethoven wrote works that looked and sounded mostly like what people would expect. Music back then isn't like it is now. Today, music is mostly passive. We listen, tap our foot, then go about our business while it plays in the background, competing for our attention among a dozen other things. You can have favorite songs that you don't know the lyrics to.
 
-It wasn't like that back then, there was no radio or TV. Music and the theater were complex and intricate things that were the focus of extreme attention. Listening to music was an active and skilled thing to do. People spent time preparing for and talking about performances. You might save up all year to go see and hear one symphony. It was a nuanced, complex, and miraculous.
+It wasn't like that back then, there was no radio or TV. Music and the theater were complex and intricate things that were the focus of extreme attention. Listening to music was an active and skilled thing to do. People spent time preparing for and talking about performances. You might save up all year to go see and hear one symphony. It was nuanced, complex, and miraculous.
 
 And it had rules. Today if you watch a zombie movie, there are a few things you're looking for: the first sign something is wrong, the realization that they are the undead, the sidekick that gets bitten, and so forth. These are the automatic and required parts of a zombie flick.
 
 People went to hear music back then with scores of things like that. They were looking and listening intently. Did that oboe solo lose tempo about half-way through? Was the minuet and trio balanced for the rest of the work? These are things that only music nerds might talk about today. Most everybody knew about them back then. There was nothing else to do. Bonanza wouldn't start on TV for another 200 years, and Rick and Morty a long time after that.
 
-So Beethoven was in an unique spot. He had found his way to music mostly on his own, and he understood how all the parts came together both to show how he felt and to make the audience feel one way or another. But he lived in an age where music was just as much form as it was function. There was required structure. Expectations. It was a form. People didn't listen and become happy and then talk about the structure of the music. They interacted with the structure of the music and that made them happy (Happy, sad, whatever) When you listen to some great intricate Baroque music? While you're listening it organizes the mind. Haydn's works fit together almost mathematically in a pleasing way. It makes your brain happy.
+So Beethoven was in an unique spot. He had found his way to music mostly on his own, and he understood how all the parts came together both to show how he felt and to make the audience feel one way or another. But he lived in an age where music was just as much form as it was function. There was required structure. Expectations. It was a form. People didn't listen and become happy and then talk about the structure of the music. They interacted with the structure of the music and that made them happy. (Happy, sad, whatever). When you listen to some great intricate Baroque music, it organizes the mind. Haydn's works fit together almost mathematically in a pleasing way. It makes your brain happy.
 
 Needing money, Beethoven played the game he had to play, at least as much as he could being Beethoven. Once he had been in Vienna for a few years and got known, the money started coming in. He remarked to one person that he finally found the sweet spot. Whatever money he asked for, people paid.
 
@@ -82,7 +82,7 @@ Everybody knows how Beethoven's Fifth begins. Bum-bum-bum-bum! Bum-bum-bum-bum! 
 
 [^13-8]: If you haven't heard Beethoven's Fifth Symphony, you're in for a treat! There are plenty of free downloads online. I recommend listening to it one time, then listening to somebody explain how it's all done, then listening again with fresh ears.
 
-With Haydn, such a theme would be analyzed in terms of melody and harmony. Let's face it, there's a not a lot of melody there. In fact, it sounds like somebody knocking on the door. Perhaps it was fate, telling Beethoven his time had come![^13-8a]
+With Haydn, such a theme would be analyzed in terms of melody and harmony. Let's face it, there's not a lot of melody there. In fact, it sounds like somebody knocking on the door. Perhaps it was fate, telling Beethoven his time had come![^13-8a]
 
 [^13-8a]: Later on, somebody actually made that up -- that Beethoven took "Fate's knock on his door" to start the symphony. He did not. It was birdsong. But the fake idea took hold, and to this day we call that "bum bum bum bum" sound the "fate motif". Fake but true news, from the 1800s.
 
@@ -90,7 +90,7 @@ With Beethoven, however, the *rhythm* of the "knock-of-fate", the bum-bum-bum-bu
 
 Finally we get to something that sounds different. The music changes around a bit. But wait! What he actually did was take the initial tones that started out, stretch out the timing, and make something that's kind of the same, only a little different. To us it sounds like a new tune, but if we stop and really listen, we realize it's just the other tune folded around a bit.
 
-That goes on for a while, then there a new tune.[^13-8b]
+That goes on for a while, then there is a new tune.[^13-8b]
 
 [^13-8b]: I am butchering any kind of understanding of music and the symphony. I apologize. It's very difficult to convey these ideas to a non-musical audience, especially in printed form. If I had started using more technical (and correct) terms, it wouldn't work. So please, music friends, put down you conducting batons and relax a bit.
 
@@ -106,7 +106,7 @@ In the Fifth Symphony, Beethoven takes a very small number of musical ideas he g
 
 We don't see it today because, well, frankly we don't pay that much attention to music. Those days of complex music where everybody understood a lot of things are gone. To us it's just a bunch of instruments all playing something that sounds kind of pretty. But to people at the time? It blew their mind. It was indeed something incredible.
 
-It's as if Beethoven, instead of making a duck out of a piece of paper, picked up a stack of paper, make a duck, chicken, man, and a boat, then, while we will were watching, folded them all together into a high-resolution, 3-D movie about Noah and the flood. People at the time left wondering something like "What the heck did I just hear? Was that awful or brilliant?"
+It's as if Beethoven, instead of making a duck out of a piece of paper, picked up a stack of paper, made a duck, chicken, man, and a boat, then, while we will were watching, folded them all together into a high-resolution, 3-D movie about Noah and the flood. People at the time left wondering something like "What the heck did I just hear? Was that awful or brilliant?"
 
 They were expecting to participate in a wide, precision pageant where all the pieces of the orchestra worked in harmony. They saw and heard something very close to that, but they also saw some kind of crazy magic trick where this guy took all the pieces you use to play "real" music, shuffled them around some, then punched them in the head with an emotional story about the battle of light and darkness.
 
@@ -126,15 +126,15 @@ Analysis happens all the time, whether we realize it or not. We can hear it. We 
 
 What's happened with analysis is much the same as what happened to music before Beethoven: the form, ritual, paperwork, and pageant part is all that it means to people. We've done this so much that most people hardly ever even use the term "analysis", although that's what they spend most of their time doing. 
 
-How many project kick-off meetings are there where they make good speeches, you meet the bosses, and you leave with a feeling of success -- but you don't have a common grasp of what, exactly it is that you're doing and why, how everything relates to everything else. Yes, you were told, using plain English and wonderful prose, but without group consensus, without questioning, without a shared model, without **Analysis**, it's all just happy talk "We're going to implement the gestalt into a prepared and willing niche" is a joke. Business buzzwords have become their own form of humor. But it's not far from what many people hear in kickoffs.
+How many project kick-off meetings are there where they make good speeches, you meet the bosses, and you leave with a feeling of success -- but you don't have a common grasp of what, exactly it is that you're doing and why, how everything relates to everything else. Yes, you were told, using plain English and wonderful prose, but without group consensus, without questioning, without a shared model, without **Analysis**, it's all just happy talk. "We're going to implement the gestalt into a prepared and willing niche," is a joke. Business buzzwords have become their own form of humor. But it's not far from what many people hear in kickoffs.
 
-How many meetings share data in various forms, graphs, charts, projections, cohorts, and so on -- but it's not universally understood how the data fits into everything else that's going on? Or if the meaning is understood, does the fact that new analysis is needed get to the people that need to know? We have a library of important information in our heads. Where's the card catalog system?
+How many meetings share data in various forms, graphs, charts, projections, cohorts, and so on -- but it's not universally understood how the data fits into everything else that's going on? Or if the meaning is understood, does the fact that new analysis is needed, does that get to the people that need to know? We have a library of important information in our heads. Where's the card catalog system?
 
 There are no warning lights that go off when communication fails. There's no klaxon sounding, there's no horn that blasts. When communication fails, it fails without a trace. People talk, they smile, they leave. All with different mental models. You don't find out about that until much, much later. Many times it is not a happy experience. Information doesn't get where it needs to go. People die.
 
-We won't be writing any major symphonies, but now that we know how to take "analysis sketches", let's take those sketches and assemble them into things we use in our day-to-day life.
+We won't be writing any major symphonies, but now that we know how to take "analysis sketches," let's take those sketches and assemble them into things we use in our day-to-day life.
 
-Just like Beethoven started with sounds he heard in nature for many of his great works -- birdsong, brooks, wind, storms, people talking, pub music -- we start with our analysis notes and transform them into whatever we need too.
+Just like Beethoven started with sounds he heard in nature for many of his great works -- birdsong, brooks, wind, storms, people talking, pub music -- we start with our analysis notes and transform them into whatever we need.
 
 We want to be able to take and annotate our notes without using a complicated tool, then organize and share them automatically without any extra work. If we're getting together for Analysis we should do that. Analysis. If we're moving around lists, models, and data organized into our important concepts, then we should do that. They're two separate things.
 
@@ -158,9 +158,11 @@ The notes above took five minutes to enter for a new team and create user story 
 
 The team and project requirements decide how much it needs.
 
-Perhaps they'd like a domain model for our our nouns. If so, directly under our notes for today (or wherever else we'd like to put it), we add in the model details.
+Perhaps they'd like a domain model for our nouns. If so, directly under our notes for today (or wherever else we'd like to put it), we add in the model details.[^13-52]
 
 ![Adding in our Domain Model connections](images/ict-dm.png)
+
+[^13-52]: Automated domain model creation is currently not supported by EasyAM, but it's on upcoming features list.
 
 We've separated the note-taking from the drawing. If you like drawing things out, you can always do that. I like modeling and sketching as a group and that's the way I work. It's fun and fast. But I still write the notes down the same way.
 
@@ -172,6 +174,6 @@ Perhaps there's a stream of data the team wants to capture that needs to be used
 
 ![Tag your model with notes, questions, to-do, work, code, or even real-time data](images/data-gathering-sample.png)
 
-This section will be about downloading, installing, and using the tool in various small-team scenarios. Scaling up we'll also start creating a information pipeline to handle things like bug reports, user interviews, field notes, statistical process control data, and more.
+This section will be about downloading, installing, and using the tool in various small-team scenarios. Scaling up we'll also start creating an information pipeline to handle things like bug reports, user interviews, field notes, statistical process control data, and more.
 
 As we work through the rest of the book, our simple tagging system will either stay simple and easy -- or become as intricate and detailed as we need to continue Analysis. The old way was all about structure, filling out forms, handling document flow. The new way is about taking small pieces of important conversations, tagging them, then creating a map as detailed as required to support the work in front of us.

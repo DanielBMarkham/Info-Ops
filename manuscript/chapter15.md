@@ -49,7 +49,7 @@ But nope, you ain't falling for that one. ***All structure is derivative.*** Tha
 
 If you take structural information at face value, you've abandoned the dialectic. That's not happening. Not in our book it's not!
 
-So you push back, gently. You list those sentences and say you'd like to talk about them further. After just a few minutes, you've eliminated this extraneous structure stuff and gained more insight (and continue to align mental models with your customer)
+So you push back, gently. You list those sentences and say you'd like to talk about them further. After just a few minutes, you've eliminated this extraneous structure stuff and gained more insight (and continue to align mental models with your customer).
 
 Here's how those statement decomposed:
 
@@ -58,15 +58,15 @@ Here's how those statement decomposed:
 - "Boards ought to be made of that red stuff you see in pictures" -> He wants redwood *stain*, not expensive hardwood. He doesn't know what he's talking about, he's never built a deck. He likes the redwood stain and wants weather protection for ten years. So it's weather protection then. Got it
 - "I don't want to stub my foot on a nail" -> He visited a friend last year who had an old deck and stubbed his foot on a nail.
 
-Out of all of that, we've got three supplementals. One Business Abstract Supplemental: "All entrances must comfortably accommodate two large people side-by-side". We've got two System Abstract Supplementals: "Structure must be impervious to weather for ten years", and "Use joining technology that doesn't poke out after wear (screws, for example)"
+Out of all of that, we've got three supplementals. One Business Abstract Supplemental: "All entrances must comfortably accommodate two large people side-by-side". We've got two System Abstract Supplementals: "Structure must be impervious to weather for ten years", and "Use joining technology that doesn't poke out after wear (screws, for example)."
 
 We have no structure information, although if we had let him, he'd probably start sketching out deck designs on a napkin. Then he would be doing the work, we'd just be preparing materials and joining them together. There are a ton of technology teams that think this is an ideal situation. I feel sorry for both them and  the people who pay them. 
 
-We've also began to establish some rapport with our customer, learn about his life. Maybe we've started to become friends. Remember, he doesn't know Structured Analysis. From his side, we've taken care to learn more about what's important to him. You aren't taking over the project. You're showing that you're actually concerned about what the guy wants and the quality of the work.
+We've also begun to establish some rapport with our customer, learning about his life. Maybe we've started to become friends. Remember, he doesn't know Structured Analysis. From his side, we've taken care to learn more about what's important to him. You aren't taking over the project. You're showing that you're actually concerned about what the guy wants and the quality of the work.
 
 We've asked permission to learn about what he really wants and what he's afraid of, and we've asked him if we could have the honor of sketching out some ideas and talking to him about them instead of having him giving us a model made out of Legos or something completely pre-built. We're taking what we know about building and adding it to what we're finding out about what he wants. As we talk there's a synthesis that happens.
 
-So we have three more supplementals. For now we'll put the System Supplementals up at the top of the model, in the Business Abstract spot. Easier to use that way. Sue me. We've also got a new behavior, one that seems obvious but was never brought up: I need to enter and leave the deck.
+So we have three more supplementals. For now we'll put the System Supplementals up at the top of the model, in the Business Abstract spot. Easier to use that way. Sue me. We've also got a new behavior, one that seems obvious but was never brought up: I need to enter and leave the deck. He mentioned stairs, but once again structure is derivative. What stairs? Or put differently, how does the behavior of entering and leaving the deck happen? That'll tell us much more than dimensions and measurements around some derivative structure.
 
 ## Loading up EasyAM 
 
@@ -96,7 +96,7 @@ We print our Master Model cards and scatter them out on the desk and think about
 
 Speaking of analysis, we've got "Enter and leave", but enter and leave where? The backyard? The house? Both? Is the side yard important? Do we want an escape hatch? We could speculate all day -- or just write "Where?" on the "Enter and Leave" card.
 
-How about this "Sunbathe with my friends"? This guy got two friends or 50? As a matter of fact, a lot of these things happen with a group of friends. We'll write "How many people?" on the cards about cooking food, enter and leaving, entertaining, soaking, sunbathing -- heck, it's a question for every behavior. (And the answer is probably going to be a supplemental)
+How about this "Sunbathe with my friends"? This guy got two friends or 50? As a matter of fact, a lot of these things happen with a group of friends. We'll write "How many people?" on the cards about cooking food, entering and leaving, entertaining, soaking, sunbathing -- heck, it's a question for every behavior. (And the answer is probably going to be a supplemental)
 
 We sketch out a deck and go to meet our customer the next morning.
 
@@ -118,7 +118,7 @@ We ask some more questions around his family, friends, and hobbies. Are there ho
 
 That was quick, so we throw in some System Realized stuff so he'll think that we're smart, maybe show him the seven kinds of non-nail fasteners, the history of each, and ask his opinion on them.
 
-We'll repeat this pattern with each visit, by the way, brining examples of various System Realized behaviors, structures, and supplementals, explaining them, and asking his opinion on them.
+We'll repeat this pattern with each visit, by the way, bringing examples of various System Realized behaviors, structures, and supplementals, explaining them, and asking his opinion on them.
 
 This accomplishes a bunch of things all at once. First, we look good. We look like we know the intricacies of the work instead of just chatting. (And we do know the work). Second, we subtly start coaching him on having a dialectic with us about *our* work. Remember, this isn't a one-way street. The closer all of our mental models get, the better the result. He has as much work to do as we do -- only he doesn't know it, and we're not going to tell him.
 
@@ -130,9 +130,9 @@ Finally, as we converse around System Realized stuff, when he gives us answers a
 
 Bam! We just got a beautiful Business Abstract Supplemental like a birthday present. "**Because** I love nature and the forest, **Whenever** I look at my deck, **It has to be that** I am reminded of trees and nature."
 
-We would have *never* gotten that with silly questions like "Hey there! What kinds of supplementals you think you'd like?" This guy probably doesn't even realize he holds these values -- until they pop out under the right circumstances. And now that we know that, think of all the things we can do during the project as little "sparklers" to make the product even more enjoyable. This kind of benefit is the difference between order-taking and true analysis. Good analysis tells you things you didn't know before and might not ever discover without it.
+We would have *never* gotten that with silly questions like "Hey there! What kinds of supplementals do you think you'd like?" This guy probably doesn't even realize he holds these values -- until they pop out under the right circumstances. And now that we know that, think of all the things we can do during the project as little "sparklers" to make the product even more enjoyable. We can select certain pieces that look like forest objects, we can suggest naturalistic paint, we can even provide a bit of aromatherapy as the project finishes.This kind of benefit is the difference between order-taking and true analysis. Good analysis tells you things you didn't know before and might not ever discover without it.
 
-In new projects like this, I judge the professionals from the noobs by watching how they handle System Realized items. Some noobs read a book like this and only want to talk about abstract crap. Some noobs hate anything to do with abstraction and just want to start pounding some nails (or heads). I can't tell you how many project kickoff meetings I've been in where a high-level business leader comes to the team, explains some situation and opportunity; the reason for the project. The floor is open for questions. First question is senior TechWeenie Oswald's: In the sharded database cluster we keep in Europe, how the field length change going to impact CPU load?
+In new projects like this, I judge the professionals from the noobs by watching how they handle System Realized items. Some noobs read a book like this and only want to talk about abstract crap. Some noobs hate anything to do with abstraction and just want to start pounding some nails (or heads). I can't tell you how many project kickoff meetings I've been in where a high-level business leader comes to the team, explains some situation and opportunity; the reason for the project. The floor is open for questions. First question is senior TechWeenie Oswald's: In the sharded database cluster we keep in Europe, how is the field length change going to impact CPU load?
 
 This may be a great question. This may be the key, critical question that has to be answered or nothing else can be accomplished. Hell, this question may only be able to be answered by this guy -- and he's hard to get! But the reason a business leader is here talking to us is that the *business* situation has changed. Assuming you know everything involved with Business Abstract, Business Realized, and System Abstract is probably a dumbass thing to assume.
 
@@ -154,7 +154,7 @@ Since we understand the dialectic, and since we can use Structured Analysis in f
 
 Back at home, we take a look at our handwritten notes from our chat. We've added some stuff and answered some questions. We make a new file named "2018-05-02 dbm Second Day.amin"
 
-We don't need to do anything with our stuff from yesterday, so we just start a fresh file as if we were starting all over again, but only put in the new stuff. EasyAM will join it all up behind the scenes. One thing we want to all is an "ALL" Behavior. It's placeholder. We don't have any detail for it, but whenever we have notes or questions about the entire project, we can stick it under "ALL" Our file looks like this:
+We don't need to do anything with our stuff from yesterday, so we just start a fresh file as if we were starting all over again, but only put in the new stuff. EasyAM will join it all up behind the scenes. One thing we want to add is an "ALL" Behavior. It's placeholder. We don't have any detail for it, but whenever we have notes or questions about the entire project, we can stick it under "ALL" Our file looks like this:
 
 ![All this data entry is killin' me!](images/chapter15-easyam-5.png)
 
@@ -192,7 +192,7 @@ When we get the answers to our questions, what do we do with them? Remember that
 
 Why? Because when we post a question and answer in a permanent record, we're really assuming that all of the terms mean the same thing to everybody involved. In many generic situations, this is true: I need to find answers to questions about installing or using software. I need to know more about the college I'm attending. I'd like to learn more about this watch I'm thinking of buying.
 
-In each of these situations, there's a generic problem domain. We all know and live in mostly the same world when it comes to installing software. Some goes for college. All colleges have common features and services (behavior and structure). We can make a vast number of assumptions and still provide usefulness.
+In each of these situations, there's a generic problem domain. We all know and live in mostly the same world when it comes to installing software. Same goes for college. All colleges have common features and services (behavior and structure). We can make a vast number of assumptions and still provide usefulness.
 
 If this were completely true, we would never need anything more than FAQs in life, and any light perusal of a software web site will tell you quickly that this ain't true. FAQs can help -- to a certain degree. But FAQs are notoriously not useful.
 
@@ -202,7 +202,7 @@ It may sound like I'm being far too dogmatic, but I am not. You guys know what t
 
 If you think about it, it makes sense. We could just draw a box, then spend the rest of our time asking questions and making some huge FAQ. In the corporate world, when analysis is done, most of the time that's exactly how it happens: A bunch of people come up with questions, write them down, then get answers and write them down. Analysis for many teams is no more than a long series of questions and answers. For these folks, the *answers* are the goal. And that's weird, since we know it's the shared group questions that's where the value is. Not questions and answers written on paper.
 
-We already know how to tag *any kind* of information that we can talk about. Why in the world would we stop tagging stuff simply because it's an answer to a question about something else? The analysis model builds on itself. That means that we continuously using questions to work on the model, not get answers. When the model is developed enough, we'll know all the answers we need. Heck, a lot of times questions update the model -- but lead to more and more questions than we started with.
+We already know how to tag *any kind* of information that we can talk about. Why in the world would we stop tagging stuff simply because it's an answer to a question about something else? The analysis model builds on itself. That means that we are continuously using questions to work on the model, not get answers. When the model is developed enough, we'll know all the answers we need. Heck, a lot of times questions update the model -- but lead to more and more questions than we started with.
 
 So 90-99% of the time, we get our answer, delete the question, then update and synchronize the analysis model, even if that model is only in our head. Every now and then, you'll get answers that seem important, but you're not really sure. It's not worth stopping the conversation to chase down, but you don't want to forget it, either.
 

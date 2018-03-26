@@ -114,7 +114,7 @@ There's nothing wrong with these instincts -- as long as you remember that the w
 
 [^12-4]: I'll have to use processes and terms from somewhere, especially as we get more detailed. I will concentrate on technology development, but terms, tools, and processes around technology development are just a prop so that you'll have real-world examples and working code.
 
-With a good group, what happens is that they do their work and continue to update the Master Domain Model. Then they start seeing patterns in the way the terms relate to one another. They add in a term, take one out, create a new one to simply things. Now they have a new noun! Where in the Behavior bucket is that noun used? How does it apply to the Master Supplemental Model.
+With a good group, what happens is that they do their work and continue to update the Master Domain Model. Then they start seeing patterns in the way the terms relate to one another. They add in a term, take one out, create a new one to simplify things. Now they have a new noun! Where in the Behavior bucket is that noun used? How does it apply to the Master Supplemental Model.
 
 Everything is connected. Changes in any of the models cascade over to the other models.
 

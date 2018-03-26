@@ -1,6 +1,6 @@
 # Chapter 14
 
-If you've ever worked with databases, there's a thing called "database normalization". This basically means for any set of data you are collecting about a problem, there's a way to store and use it getting the maximum amount of value using the least amount of space and effort[^14-1]
+If you've ever worked with databases, there's a thing called "database normalization". This basically means for any set of data you are collecting about a problem, there's a way to store and use it getting the maximum amount of value using the least amount of space and effort.[^14-1]
 
 [^14-1]: Insert long discussion here about Codd, document-oriented databases and the NoSQL movement. Sometimes that makes sense -- but database normalization still represents a type of optimizing information gathering and processing.
 
@@ -22,19 +22,19 @@ You may be asking: Do we really need to move to programming? Does every technolo
 
 It's a good question. Working by hand with physical items in a group is always best. It creates a situation and a game where the dialectic naturally happens.
 
-**Transforms always happen manually**. No matter how we tag or move anything around, the real work always happens in the heads of the people in the team, not anywhere else. That means that *changes to the shared mental model always happen before the written model changes* It won't work any other way.
+**Transformations always happen manually**. No matter how we tag or move anything around, the real work always happens in the heads of the people in the team, not anywhere else. That means that *changes to the shared mental model always happen before the written model changes, never the other way around.* It won't work the other way. The written analysis model "knows" more than you do because it remembers all the connections and notes that caused important conversations to happen, and can point us to new ones we haven't thought about yet, but it doesn't actually know anything. So there's no way it could change without the shared mental model driving that change.
 
-We can tag and move data around all day, but we cross a line when we start transforming things into something new. The important part of our work is the transform, and for that we need the dialectic. 
+We can tag and move data around all day, but we cross a line when we start transforming the lists and structure of our model into something new. The important part of our work is the transform, and for that we need the dialectic. Always.
 
-We may have to work with seven-thousand item backlogs (Yes, I've seen them.) We may have thousands of items on a bug list. Our work will be the same as it always was, we just use tools to work through any grunt work. There's no point in banging our head against a wall. Since the nature of analysis is always having more data and information than you need to work with at one time, we'll need some way of working with lots of data.
+We may have to work with seven-thousand item backlogs. (Yes, I've seen them.) We may have thousands of items on a bug list. Our work will be the same as it always was, we just use tools to work through any grunt work. There's no point in banging our head against a wall. Since the nature of analysis is always having more data and information than you need to work with at one time, we'll need some way of working with lots of data.
 
 So, like it or not, to continue forward we'll need an electronic tool. We'll also be talking about what can be automated and what can't.
 
 We'll cover the simplicity of the theories involved, things like estimating, grooming, or prioritizing, then the complexity of the data, then how to combine both the theory and the data simply in order to physically organize our thoughts as a group. Throughout this we'll be using tools to move data around.
 
-So put on your tin-foil hats and pocket-protectors! We're getting our nerd on. 
+So put on your tin-foil hats and pocket-protectors, kids! We're getting our nerd on. 
 
-![](images/github-easyam.png)
+![EasyAM's source code is hosted on GitHub](images/github-easyam.png)
 
 ## Downloading and Installing EasyAM
 
@@ -56,11 +56,11 @@ Open a command-line prompt and go to the bookprog folder.
 
 In windows, to see what versions of .NET you have installed, from the command-line prompt type "dir /b /ad /o-n %systemroot%\Microsoft.NET\Framework\v?.*" (Wow, that's easy, right?) You should see lines for 4.0 or greater.
 
-On linux and a Mac, just install the latest version of .NET Core. You'll find instructions for installing .NET Core on your OS at [https://www.microsoft.com/net/core](https://www.microsoft.com/net/core) (Visit the site from the computer you are installing to, since Microsoft determines your computer and routes you to the appropriate place depending on your OS)
+On Linux and a Mac, just install the latest version of .NET Core. You'll find instructions for installing .NET Core on your OS at [https://www.microsoft.com/net/core](https://www.microsoft.com/net/core) (Visit the site from the computer you are installing to, since Microsoft determines your computer and routes you to the appropriate place depending on your OS).
 
-I coded EasyAM and compiled it with Mono, which is the old open-source .NET runtime for linux. (It's a great tool, by the way). That's [here:](http://www.mono-project.com/)
+I coded EasyAM and compiled it with Mono, which is the old open-source .NET runtime for Linux. (It's a great tool, by the way). That's [here:](http://www.mono-project.com/)
 
-(NOTE TO BETA READERS: In Windows, you'll need to just use the bin/Debug folder for now. In linux, clone the project, then use mono to compile it to a single run-time file, eg "mkbundle -o easyam --deps --static easyam.exe". This will make a file named "easyam" that you can run from the command-line e.g. "./easyam --help")
+(NOTE TO BETA READERS: In Windows, you'll need to just use the bin/Debug folder for now. In Linux, clone the project, then use Mono to compile it to a single run-time file, eg "mkbundle -o easyam --deps --static easyam.exe". This will make a file named "easyam" that you can run from the command-line e.g. "./easyam --help")
 
 Once you've got .NET and EasyAM installed, from a command line in the bookprog folder, type "easyam --help". 
 
@@ -76,11 +76,11 @@ Once EasyAM is installed, using it is fairly simple:
 
 1. Take mostly freeform text notes using the EasyAM tags.
 2. Pick a directory for everybody to use. 
-3. Save your notes with an ".amin" extension. (amin stands for Analysis Model IN)
-4. Run the EasyAM compiler (Point it to your input directory if you are running it from somewhere else)
-5. The compiler goes through all of your .amin files in that directory and its subdirectories *in alphabetical order*
-6. Using the tags, it sorts, organizes, collates, and creates all of the pyramids and crosslinks for you
-7. It outputs everything in a standardized .amout format. (amout is for Analysis Model, OUT)
+3. Save your notes with an ".amin" extension. (amin stands for Analysis Model IN).
+4. Run the EasyAM compiler (Point it to your input directory if you are running it from somewhere else).
+5. The compiler goes through all of your .amin files in that directory and its subdirectories *in alphabetical order*.
+6. Using the tags, it sorts, organizes, collates, and creates all of the pyramids and crosslinks for you.
+7. It outputs everything in a standardized .amout format. (amout is for Analysis Model, OUT).
 
 Each file starts from a completely blank slate. As you add tags, you indicate where you want to put the information. So if you had some notes to add for the Master Backlog Item "Wiggle When I Walk", you'd start with a fresh file and do it like this:
 
@@ -115,7 +115,7 @@ MASTER BACKLOG
 
 In this case, I've created a new Master Backlog Item titled "Makes me act so so funny", which is not what I wanted.
 
-The program eats its tail, that is, it outputs in the same format as it inputs, so you can take all of the organized, sorted, and processed amout files and use them as input for another project. 
+The program eats its tail, that is, it outputs in the same format as it inputs, so you can take all of the organized, sorted, and processed .amout files and use them as input for another project. 
   
 This means we can pipe analysis information from one project to another, or to another online system that reads EasyAM
 
