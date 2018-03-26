@@ -12,13 +12,13 @@ As a child, he was brought up from birth to be a great composer, so that's what 
 
 Once they realized they had a genius on their hands, the Beethovens sent little Ludwig to Vienna for Haydn to teach. Haydn was a prolific composer, the darling of the town. He wrote more than 100 symphonies. He was kind and gentle. They called him "Papa". It was an honor to have him as a teacher.
 
-Before he met Haydn, Beethoven had been in a competition. All the other kids were quite experienced. Many of them laughed at the country hick thinking he could play at their level.
+Before he met Haydn, Beethoven had never been in a competition, so he went to his first one. All the other kids were quite experienced. Many of them laughed at the country hick trying to compete at their level.
 
-But not for long. Beethoven easily cleared the room.
+Not for long. Beethoven cleared the room easily.
 
-Leaving for the contest, one man said to his friend, "We must make mincemeat out of him!" They left in quite the merry mood. Happy times. 
+Leaving for the contest, one guy said to his friend, "We must make mincemeat out of him!" They left in a happy mood. Good times. 
 
-Arriving back home, the same guys were not in a good mood. What happened? 
+Arriving back home, the same guys weren't so happy. What happened? 
 
 "Oh. I'll never forget yesterday. Satan himself is hidden in that young man...He can overcome difficulties and draw effects from the piano that such as we couldn't even allow ourselves to dream about. "
 
@@ -52,7 +52,7 @@ Because Beethoven viewed music itself differently from those around him, many ti
 
 ## Beethoven and the origami complexification factor
 
-Varied unity. Unified variety. When you know the pieces and learn why they fit together the way they do, you're able to take them and rearrange them to do anything you'd like, like repeating tiles on a floor.
+Varied unity. Unified variety. When you know the pieces and learn why they fit together the way they do, you're able to take them and rearrange them to do anything you'd like, like repeating tiles on a floor. Or an Escher painting.
 
 Take Beethoven's Fifth Symphony.[^13-6]
 
@@ -64,9 +64,9 @@ It wasn't like that back then, there was no radio or TV. Music and the theater w
 
 And it had rules. Today if you watch a zombie movie, there are a few things you're looking for: the first sign something is wrong, the realization that they are the undead, the sidekick that gets bitten, and so forth. These are the automatic and required parts of a zombie flick.
 
-People went to hear music back then with scores of things like that. They were looking and listening intently. Did that oboe solo lose tempo about half-way through? Was the minuet and trio balanced for the rest of the work? These are things that only music nerds might talk about today. But most everybody knew about them back then. There was nothing else to do. Bonanza wouldn't start on TV for another 200 years, and Rick and Morty a long time after that.
+People went to hear music back then with scores of things like that. They were looking and listening intently. Did that oboe solo lose tempo about half-way through? Was the minuet and trio balanced for the rest of the work? These are things that only music nerds might talk about today. Most everybody knew about them back then. There was nothing else to do. Bonanza wouldn't start on TV for another 200 years, and Rick and Morty a long time after that.
 
-So Beethoven was in an unique spot. He had found his way to music mostly on his own, and he understood how all the parts came together both to show how he felt and to make the audience feel one way or another. However he lived in an age where music was just as much form as it was function. There was required structure. Expectations. It was a form. People didn't listen and become happy and then talk about the structure of the music. They interacted with the structure of the music and that made them happy (Happy, sad, whatever) When you listen to some great intricate Baroque music? While you're listening it organizes the mind. Haydn's works fit together almost mathematically in a pleasing way. It makes your brain happy.
+So Beethoven was in an unique spot. He had found his way to music mostly on his own, and he understood how all the parts came together both to show how he felt and to make the audience feel one way or another. But he lived in an age where music was just as much form as it was function. There was required structure. Expectations. It was a form. People didn't listen and become happy and then talk about the structure of the music. They interacted with the structure of the music and that made them happy (Happy, sad, whatever) When you listen to some great intricate Baroque music? While you're listening it organizes the mind. Haydn's works fit together almost mathematically in a pleasing way. It makes your brain happy.
 
 Needing money, Beethoven played the game he had to play, at least as much as he could being Beethoven. Once he had been in Vienna for a few years and got known, the money started coming in. He remarked to one person that he finally found the sweet spot. Whatever money he asked for, people paid.
 
