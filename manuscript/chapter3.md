@@ -1,16 +1,18 @@
 # Chapter 3
 
+Information flow optimization is providing the right amount of information at the right time to support effective analysis by the people doing the work.
+
 How would you communicate with aliens?
 
 The usual answer from sci-fi and science is that we'd use some sort of mathematical substrate. In Carl Sagan's book "Contact" humans receive a signal full of prime numbers. In "Close Encounters of the Third Kind" they use the math of music. SETI scientists have attempted to communicate with aliens by monitoring radio signals around the wavelength of hydrogen, which makes a ton of assumptions: comnmunication would be by radio, atomic wavelengths hold some sort of curious pull on species wanting to talk, and other species actually want to communicate, among others.
 
-In the "Three Body Problem" the issue of communication is almost hand-waved away by author Liu Cixin. That's a good thing, because most of the time this topic is done poorly.
+As an example of how difficult the language problem can be, in the excellent book "Three Body Problem" the issue of communication is almost hand-waved away by author Liu Cixin. That's a good thing, because most of the time this topic is done poorly.
 
-There is one notable exception: the 2016 movie "Arrival". They solve lots of plot problems by having the aliens arrive at Earth and hang out in giant eggs, waiting for us to try to communicate with them. In fact, the entire plot revolves around the question of how to communicate with aliens.
+There is one notable exception: the 2016 movie "Arrival" [Which I'll refer to as "the movie" for the rest of this chapter.] They solve lots of plot problems by having the aliens arrive at Earth and hang out in giant eggs, waiting for us to try to communicate with them. In fact, the entire plot revolves around the question of how to communicate with aliens.
 
 And it's not math. Instead you end up using ideas kicked around by some guys named Sapir, Whorf, and Chomsky.[^3-1]
 
-[^3-1]: I'm painting with a really broad brush here in a desperate effort to keep the narrative simple enough for the general public to consume. Sapir-Whorf never proposed their "hypothesis" Chomsky's ideas are being butchered and he wasn't the first to propose the structuralism of a universal grammar. I sincerely apologize to my linguist friends in the audience. I will do the best that I can to show enough detail to get the audience interested, but not so much as to distract them from the overall point.
+[^3-1]: Friends who are linguists, I understand that I'm painting with a really broad brush here. It's an effort to keep the narrative simple and moving along. Sapir-Whorf never proposed their "hypothesis" Chomsky's ideas are being butchered and he wasn't the first to propose the structuralism of a universal grammar. I am very sorry about having to skim over many of these important details.
 
 Sapir, Whorf, and Chomsky were linguists. These are people who study languages. It's a relatively new science. The general study of languages, of course, has been going on forver. Studying how all the different languages have similarities and differences started happening only in the last 150 years or so. 
 
@@ -36,7 +38,7 @@ Anybody remember Model-Driven Development?[^3-3] The idea was that using the Uni
 
 It's a natural instinct to want to immediately start organizing towards a goal.
 
-In the movie we see this happening almost as soon as the aliens arrive. The military wants to know: Are they going to attack? What are their plans? Are they peaceful? They have specific questions from their world that they want answers to from the alien's world.
+In the movie "Arrival" we see this happening almost as soon as the aliens arrive. The military wants to know: Are they going to attack? What are their plans? Are they peaceful? They have specific questions from their world that they want answers to from the alien's world.
 
 Remember Socrates! 
 
@@ -50,7 +52,7 @@ In the movie, the way they get started is by meeting face-to-face with the alien
 
 ![](images/alien-to-do-list-1.png)
 
-We restrict the area of engagement as tightly as possible, making what could be an impossible problem much easier. In this movie this involved only communicating about things in the room, only communicating between two entities, only communicating about proper nouns.
+We limit the scope of engagement as tightly as possible, making what could be an impossible problem much easier. In this movie this involved only communicating about things in the room, only communicating between two entities, only communicating about proper nouns.
 
 That's also how we're going to handle information flow, by restricting the area of conversations to the point that having good conversations becomes much easier. In fact we're going to do it much the way it was done in the movie, only with a lot more detail around each step and taking the time to understand why each step is important.
 
@@ -76,11 +78,13 @@ This book is like a lego set. We're starting out with little bricks. When we're 
 
 The information we're managing supports analysis. And to make a really tough job really easy, we limit that analysis to small pieces, or domains. (Otherwise analysis would just be talking about anything at all tangetially related to what we're doing. We gotta limit stuff.)
 
-For our first step at limiting things, there are three domains (let's call them "genres") of things we talk about, no matter what we're doing. There is the genre of the problem we're trying to solve. There is the genre of how we're going to solve it. There's the genre of the solution itself.
+For our first step at limiting things, there are three domains (let's call them "genres") of things we talk about, no matter what we're doing. There is the genre of **the problem we're trying to solve**. There is the genre of **how we're going to solve it**. There's the genre of **the solution itself**.
 
-In the movie, there were conversations about how to find out if the aliens were friendly, there were conversations around how they were going to work together, and there were conversations with the aliens (and the work they did creating a translation program) Those are our three genres.
+In the movie, there were **conversations about how to find out if the aliens were friendly**, there were **conversations around how they were going to work together**, and there were **conversations with the aliens.** Those are our three genres.
 
-That's it. If you wanted a simple three-way system of categories, you'd split along these lines: universe of the problem we're trying to solve, universe of the solution we're making, and universe of the way we work. Each of these universe is its own little special land with terms, phrases, jargon, ways of doing things, stories, values, culture, and so on. Each genre is completely different. They are all foreign lands. We must never forget that and always treat them as such. We should never expect languages and phrases that work in one land to work in the other -- even if the words and phrases are the same. A "customer" in terms of the problem we're solving is a completely different thing from a "customer" in terms of how we run our business. And that's a completely different thing from some database table or class we call "customer"
+That's it. If you wanted a simple three-way system of categories, you'd split along these lines: universe of the problem we're trying to solve, universe of the solution we're making, and universe of the way we work. Each of these universes is its own little special land with terms, phrases, jargon, ways of doing things, stories, values, culture, and so on. Each genre is completely different. 
+
+They are all foreign lands. We must never forget that and always treat them as such. We should never expect languages and phrases that work in one land to work in the other -- even if the words and phrases are the same. A "customer" in terms of the problem we're solving is a completely different thing from a "customer" in terms of how we run our business. And that's a completely different thing from some database table or class we call "customer"
 
 Just because the words are the same doesn't mean they're the same thing. Just the opposite. Be humble. Remember Socrates. Have a spirit of curiosity and inquisitiveness.
 
@@ -108,9 +112,9 @@ The System genre is the universe of the finished product, the thing we're doing.
 
 The Meta genre is the universe of people making products, our system for doing our job. You may have heard of it being called "Process" It consists of language, rituals, values, and wisdom about our working life. It's just about making people's lives better. Nothing about the people we're helping and nothing about the actual thing we're building. Just about how we work.
 
-Let's recap. Good information flow and management supports analysis (dialectics) around our job. To make these analysis conversations as easy, quick, and thorough as possible, we have to narrow our scope of engagement. Every conversation can't be about life, the universe, and everything. To narrow our analysis conversations, we're going to use a tagging system. Our first set of tags is called the genre tags. They are Business, System, and Meta. Every piece of information has one and only one of these three tags.
+Let's recap. Good information flow and management supports analysis (dialectics) around our job. To make these analysis conversations as easy, quick, and thorough as possible, we have to narrow our scope of engagement. To narrow our analysis conversations, we're going to use a tagging system. Our first set of tags is called the genre tags. They are Business, System, and Meta. Every piece of information has one and only one of these three tags.
 
-We only have about a dozen tags we need to learn in four different sets. This is what we'll go over in the next chapters. Once we have our tagging system,  we'll move to application.
+We only have about a dozen tags we need to learn in four different sets: genre (which we just did), abstraction levels, buckets, and temporal indicators. This is what we'll go over in the next chapters. Once we have our tagging system,  we'll move to application.
 
 This process, having a fixed way of organizing information in order to make it more useful so that everything goes into one and only one spot is called **Structured Analysis**. Once you understand Structured Analysis, you'll find that a bunch of things that used to be difficult suddenly become very easy.
 

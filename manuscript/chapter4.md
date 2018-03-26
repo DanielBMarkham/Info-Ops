@@ -4,7 +4,7 @@ Now that we've convered genres, the universe of either the people we're helping,
 
 Early in the movie "Arrival"[^4-1], once they've narrowed down things to talk about to just the physical items in the spaceship, Amy Adams' character, the linguist Louise, points to herself and says "Louise", indicating that this was her name.
 
-[^4-1]: If you haven't watched Arrival yet, it's a good flick. I wouldn't use it as a textbook, but it covers some neat concepts and got a 94% on Rotten Tomatoes. [Here it is on Amazon](http://amzn.to/2DgaNzx)
+[^4-1]: If you haven't watched Arrival yet, it's a good flick. I wouldn't use it as a textbook, but it covers some neat concepts and got a 94% on Rotten Tomatoes. [Here it is on Amazon: http://amzn.to/2DgaNzx](http://amzn.to/2DgaNzx)
 
 Wait a minute, the physicist played by Jeremy Renner says, when you point to yourself and say "Louise", how do they know if you're talking about your name or your species?
 
@@ -76,13 +76,13 @@ Just like the questioning/thesis/counter-thesis dialect thing of Socrates's, it'
 
 And one of the immediate impacts the Allegory of the Cave had was in religion. A lot of religion before the cave was story/allegory based. The gods were like us, they had feelings like us, relationships like us, and so on.
 
-Once people understood and started talking and thinking with Plato about how concepts worked like they did in the cave, they started asking questions and demanding answers about whether or not the things they believed in were representations of reality in its purest form. When the Christian New Testament's Gospel of John begins with "ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος." - "In the beginning was the Word, and the Word was with God, and the Word was God."? This is a philosophical, Platonic statement about truth and purity. Being able to talk about what we believe like this is something we owe to the Greeks.[^4-5]
+Once people understood and started talking and thinking with Plato about how concepts worked like they did in the cave, they started asking questions and demanding answers about whether or not the things they believed in were representations of reality in its purest form. It even shows up in the Christian Bible in the beginning of the book of John.[^4-5]
 
-[^4-5]: One of the catchphrases to use if you love learning history is "Athens, Rome, and Jerusalem", the point being that most all of modern western thought is a result of the intersection of important things that happened in those cities.
+[^4-5]: When the Christian New Testament's Gospel of John begins with "ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος." - "In the beginning was the Word, and the Word was with God, and the Word was God."? This is a philosophical, Platonic statement about truth and purity. Being able to talk about what we believe like this is, in pure, abstract forms, is something we owe to the Greeks. One of the catchphrases to use if you love learning history is "Athens, Rome, and Jerusalem", the point being that most all of modern western thought is a result of the intersection of important things that happened in those cities.
 
 Another of the things that occured to people reading Plato was that there was something we might best call *levels of abstraction*. The shadow of a duck is a duck in some way. The stuffed duck? Also a duck in some way. Outside, the live duck? We might call it the "real duck" Then there's our idea of what a duck is. It exists only in our mind. For Plato, that would be the "true duck." The most ducky of ducks. The ultimate reality. Any kind of duck you could ever experience is simply a poor version of the True Duck.
 
-For people who know object-oriented programming, this should sound familiar. In OO programming, we have templated classes, abstract classes, base classes, concrete classes. They all represent the same thing, but some of these are more abstract than others. OO programming can trace its roots all the way back to Plato.
+For people who know object-oriented programming, this should sound familiar. In OO programming, we have templated classes, abstract classes, base classes, concrete classes. They all represent the same thing, but some of these are more abstract than others. OO programming can trace its roots all the way back to Plato. (We'll talk about this later.)
 
 No matter how tightly we scope our conversation by using tags, there are always going to exist levels of abstraction. When you meet those giant elephant-octopus alien guys on the spaceship and point to yourself and say "Louise", unless we know which abstraction level we're working on it's impossible for us to determine if you're providing your name, announcing your gender, labeling your species, or what. We have to be clear about abstraction levels.[^4-5.5]
 
@@ -100,7 +100,7 @@ At first you don't need to know the mechanics of it. You don't care whether you 
 
 So you ask the local college to produce a report on weasel farming. You have no experience at all with any of this and any kind of information is useful. Keep it high-level, kids.
 
-You get several reports back. There's a report on how to run a farm. That's useful, since you've never done that before. There's a report on how to fun a mammal farm, which is quite different than a agriculture farm. Also very useful.
+You get several reports back. There's a report on how to run a farm. That's useful, since you've never done that before. There's a report on how to run a mammal farm, which is quite different than a agriculture farm. Also very useful.
 
 One report could be considered a parent of the next one. Farming is an abstract version of mammal farming. Mammal farming is an abstract version of weasel farming.
 
@@ -152,7 +152,7 @@ Does that make the first set of reports useless? Heavens no! They were a critica
 
 For many people, there's no difference in the discussion between the abstract and realized. It's all just the way things are. They work at the widget factory and as far as they're concerned, all factories are just like the widget factory. There's only one reality. They're not able to talk about different kinds of factories or how factories in general might operate.
 
-There's nothing wrong with this. Not everybody has a wide field of view. These folks are like the prisoners in the cave. All they see are the shadows in front of them. If you start asking a bunch of questions about how things work in the abstract it's just going to confuse them. They might even get angry.
+There's no correct way of looking at things, and it's rare that we would think and talk about all of the abstraction levels at once. Most all of us, in most everything we do, are like the prisoners in the cave. All we see are the shadows in front of us. If you start asking a bunch of questions about how things work in the abstract it tends to be confusing. Some folks might even get angry.
 
 This is yet another reason to keep things as high as possible on the abstraction level. Talk about how things work in general, as if there were no differences in application. If you're forced to, talk about the *realized* version of things, how it varies between different instantiations.
 

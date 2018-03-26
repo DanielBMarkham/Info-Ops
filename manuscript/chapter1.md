@@ -28,7 +28,7 @@ He reminds them that they're entering the normal thunderstorm area and to be car
 
 By now they only had 15 minutes until they'd all die. Experts agree that had the pilot gotten more sleep the night before, had he stayed in the cockpit just a little longer, nothing would have happened.
 
-But that's not how it played out. Instead, the two junior copilots at the controls call the flight attendants in the back and let them know there will be some turbulence ahead. Should they alert the passengers. No need to worry them, but you flight attendants should grab a seat.
+But that's not how events played out. Instead, the two junior copilots at the controls call the flight attendants in the back and let them know there will be some turbulence ahead. Should they alert the passengers. No need to worry them, but you flight attendants should grab a seat.
 
 At 35,000 feet, They enter a cloud bank. Following procedure, they switch on some heating systems to protect against icing. All is going as planned. They leave the cloud bank.
 
@@ -184,4 +184,4 @@ We live in a world awash in digitized information but we're very bad at knowing 
 
 And I'm not going to tell you. It's an unsolved problem and there are tons of management theories and books out there that will do a much better job than I ever could. I'm going to tell you how to categorize and manage your information flow so that the people that produce and consume the information get the maximum value for the minimum amount of work. Then you can concentrate on your job instead of wondering whether or not you know what's going on around you.
 
-Moving information around so you can do your job. That's this book.
+"Moving information around so you can do your job." That's this book.

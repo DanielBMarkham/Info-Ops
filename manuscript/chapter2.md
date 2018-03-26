@@ -34,7 +34,7 @@ Merchants started making enough money to want to teach their kids to be more edu
 
 That covered a lot of ground! But remember: there were no schools or colleges. No public libraries stocked full of books. If you wanted your kid to learn stuff you had to send him *somewhere*, to *somebody*, and philosophers were the guys. If you were rich you hired a philosopher to come to your estate. The really good philosophers had their own cool kids club where they taught a group all at once.
 
-The first schools.
+### The first schools.
 
 Before Socrates, Plato, and Aristotle? The Sophists were the great teachers of youth. This was a long, long time ago, and much of what we have is guesswork. The Sophists to me were the first self-help authors. You know the ones. They're the folks telling you to "fake it until you make it!", the people making those motivational posters, appearing in infomercials, the guys writing books promising a new you.
 
