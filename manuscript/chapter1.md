@@ -2,11 +2,11 @@
 
 # Chapter 1
 
+![](images/a330-flight-deck-forward.png)
+
 Information doesn't get to the right people at the right time. 
 
 People die.
-
-![](images/a330-flight-deck-forward.png)
 
 Marc Dubois wasn't thinking that as he walked out on the Rio de Janeiro airport tarmac on May 31, 2009. It was a beautiful evening, light winds and unlimited visibility[^1-1]. Dubois looked up at the Airbus 330 that he was going to fly from Rio to Paris. Nothing to be worried about. Just the usual convection storms around the equator[^1-2].
 
