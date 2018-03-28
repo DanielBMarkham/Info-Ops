@@ -1,6 +1,6 @@
 # Chapter 18
 
-![EasyAM cheat sheet](images/Test-Driven-Analysis-Constellation.png)
+![The Test-Driven Analysis Constellation (Subject to revision in later editions of this book)](images/Test-Driven-Analysis-Constellation.png)
 
 ## Backlogs
 
