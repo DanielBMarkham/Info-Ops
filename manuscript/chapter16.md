@@ -14,11 +14,13 @@ The work of analysis is creating a shared mental model. The good stuff is in our
 
 So whatever work we've done? It's invisible. Like an invisible friend, only better.
 
-Structure is derivative. Once enough Behavior and Supplemental information is in place, the structure "pops out"
+Structure is derivative. Once enough Behavior and Supplemental information is in place, the structure "pops out" Structure always leads to more structure, which can be a good or bad thing.
 
-In our case, we've playing with physical models that represent structure all along, ever since we printed out that diagram with the movable furniture pieces. We haven't had a meeting where there wasn't some physical stuff people could manipulate to play with structural ideas.
+In our case, we've played with physical models that represent structure all along, ever since we printed out that diagram with the movable furniture pieces. We haven't had a meeting where there wasn't some physical stuff people could manipulate to play with structural ideas.
 
-The analysis has done its job both the customer and us have a rock-solid shared mental model on how this deck is going to look and work. If required by building code, we'll draw up some blueprints and get a sign-off. Heck if we've been updating our online model as we go, that's probably already done. Otherwise we'll move on.
+The analysis has done its job when both the customer and us have a stable shared mental model on how this deck is going to look and work. We test that stability by using simplified structural proxies, like floorplan games, diagrams, or modeling clay. Put a different way, we walk the Analysis Model asking ourselves which outstanding questions are in the way of making the customer happy (facilitating the behavior the customer desires). Then we ask those questions, either directly or by creating a structural proxy that contextualizes and facilitates the discussion. In the begining, most questions can just be asked. But with any kind complex, ongoing project, important questions need some kind of structural proxy in order for people to make sense of them.
+
+If required by building code, we'll draw up some blueprints and get a sign-off. Heck if we've been updating our online model as we go, we may already have that completed. If it's not required, we'll move on.
 
 ## Links
 

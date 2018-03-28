@@ -1,5 +1,7 @@
 # Chapter 18
 
+![EasyAM cheat sheet](images/Test-Driven-Analysis-Constellation.png)
+
 ## Backlogs
 
 Most people keep a list of to-do items with them during the day. For many, there's nothing like the happiness of checking another item off. There are hundreds or thousands of books that all encourage people to make long-term goals, then short-term goals, then to-do lists. It's like a pyramid! You can master the universe through this method of goal/task breakdown.

@@ -180,7 +180,7 @@ I stopped at a few questions so the graphic would fit in the book. In reality, w
 
 We run EasyAM again. This time it tells us it has processed two files, and when we look at our Master Cards? There are our questions and notes! We print out our Master Model cards. Then we print out our fancy deck layout diagram. Those things always impress. Finally, we print out the deck diagram one more time, *then cut out each piece of furniture as it's own little piece.*
 
-Now we've created both a deck diagram and a deck toy where we can move pieces around. (Hint: the toy is going to turn out to be more important than the diagram.)
+Now we've created both a deck diagram and a deck toy where we can move pieces around. (Hint: the toy is going to turn out to be more important than the diagram. A recurring theme from here on out is going to be "Structure always leads to more structure.")
 
 ## EasyAM Round 3: Details, Details, Details 
 
