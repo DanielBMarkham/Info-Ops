@@ -280,7 +280,7 @@ Behavior should generally stay to the left, since that's what scopes projects. S
 
 For any level, there are the things "outside" or "above" it. That should be at the top. There are the things that go inside our minds as we created a shared mental model. That should go in the middle. There are the interconnections between the buckets where the magic of Structured Analysis happens. Finally there are "downstream" impacts, other groups, machines, teams, and people that are impacted every time our mental model changes. That should go at the bottom.
 
-Alert! Most of the book so far is either a collection of stuff smart people have come up with -- or just my joining up various schools of thought and showing you the implications. This Analysis Survey thing is something I've made up. It's good enough for now. It's far too busy for a standard-sized piece of paper, but it should work on a printer that prints tabloid or A2-sized paper. It needs improvement. 
+This version of the Analysis Survey is good enough for now, but it needs a lot of work. It's far too busy for a standard-sized piece of paper. It probably would work on a printer that prints tabloid or A2-sized paper. Improvement needed here.
 
 However you do it, you should be able to pick anything that you're talking about, walk to a printout of the Analysis Survey on the wall, whatever it looks like, and within 10-30 seconds know all of the other things that touch on it and the things it touches on. And that should be true for anybody in the team. (This is what I would consider to be the acceptance criteria for future versions of the survey). I'm looking forward to seeing it evolve.
 

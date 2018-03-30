@@ -22,9 +22,11 @@ Make everybody wait while you click around through some interface.
 
 Never talk about the overall scope of work, only tiny items in a large, seemingly-endless list. 
 
+As you go along, never clean up. Instead, just keep incremenatlly adding stuff here and there. Sometimes you'll copy and paste, sometimes you'll re-type things, only using different language. The important thing is that over time it just keeps getting bigger and bigger. The Backlogs Blob that ate Cincinatti. 
+
 Hold it a day or two before sprint close, so that it people will be sitting there worrying about completing the rest of their work.
 
-Do this enough times and you could be brought up on war crimes. Or get promoted. Either is equally likely.
+Do this enough times and you could be brought up on war crimes. Or get promoted. Either is equally likely. I wouldn't risk it if I were you.
 
 ## Backlog grooming/refinement
 

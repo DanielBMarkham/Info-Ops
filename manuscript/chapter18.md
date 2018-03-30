@@ -30,6 +30,8 @@ That's a feature of being human, not a bug. Humans are able to exist as a sentie
 
 Goals breaking down into smaller goals makes a kind of sense. After all, it's similar to what we've been talking about with our pyramids (Which are really much nicer than those other pyramids.) Something bad happens with tasks, though.
 
+![Bad things happen. Always.](images/goal-task-tree.jpg)
+
 There's a difference between goals and tasks, and it turns out that understanding that difference helps with backlogs and grooming.
 
 **Goals** are things in the future you want to accomplish but don't know how. Goals are a combination of Behavior and Supplemental Abstract To-Be items. They can be either **Business** or **System**. "I want to run the five-minute mile" is a System goal. (Your body is a physical thing). We are describing a future System behavior, running the mile. The Supplemental is the 5-minute qualification. "I want to reduce claims processing time by 30%" is a business goal. Claims processing is an abstract business process, at least at the level we're talking about it now. There are a ton of physical system linkages in there somewhere that we would need to discover, but it's a business goal.
@@ -116,9 +118,9 @@ Whatever the structure, ask yourself what behavior and supplementals it satisfie
 
 *We're doing data warehouse work.* Data warehouse work is a bit of an odd duck because many times it looks like software development when it's not. The key term is "warehouse". You're not building a warehouse. The warehouse already exists. You're just putting stuff in and taking it out.
 
-In many cases you're providing views into existing data as part of a larger effort. In that case, the larger effort should manage the analysis. All you have is tasks to make their tests pass.
+In many cases you're providing views into existing data as part of a larger effort. In that case, the larger effort should manage the analysis. All you have is tasks to make their tests pass. This is a place for tasks as long as they are in support of tests owned by another group. (The general rule for tasks items is that you always find out "which test is this task making pass?")
 
-In other cases your job is to move hunks of data around, bits of structure. The natural tendency is to organize your work around the structure. Instead, organize your work around automating the move. Your job is not to move these 17 tables from one place to another. Your job is to write code to move those 17 tables. Same result, different way of looking at things.
+In other cases your job is to move hunks of data around, bits of structure. The natural tendency is to organize your work around the structure. Instead, organize your work around automating the move. Your job is not to move these 17 tables from one place to another. Your job is to write code to move those 17 tables. Same result, different way of looking at things. Building a database moving program is a creative venture. You're still going to have big issues with tests, but if you do it this way the analysis process will identify those for you.
 
 *We're working on an architectural tier*. We saw this a lot in the latter part of the 20th century and the beginning of the 21st, but it's slowly dying off, thank goodness. The concept went something like this: because we are deploying our system in layers, and each person/team is responsible for a different layer, our work is to put together and maintain pieces on the layer we are responsible for.
 
@@ -138,15 +140,17 @@ But that's not the way it's supposed to work. What's supposed to happen is that 
 
 Over time, all of the jobs that are necessary get done, but they get done in increments as the target system begins to exhibit more and more new behaviors. Nothing goes away. All of that cool engineering you learned in school is still applicable. Every role or layer just isn't the center of its own little universe. You just need to look at things the right way, instead of the wrong way. Don't let your natural inclination to become an expert in one area get in the way of the team staying laser-focused on goals and tests.
 
+You are not a Javascript expert. You are a Claims Processing expert who just happens to know Javascript, perhaps at an expert level. Don't get it backwards.
+
 
 ## Test-Driven Analysis Redux
 
 Test-Driven Analysis means we're always throwing behavior and supplementals together to create some tests/goals. Then we move down a level and use those tests/goals to drive out structure for approval or disapproval, to pass or fail tests.
 
-If our work is shaped around conversations, then we never have a conversation without a piece of structure and (at least one) test we bring and manipulate to get feedback on our behavior and supplementals. If our work is shaped around 2-week sprints, then we never begin a sprint without structure and a test we bring to define what done looks like. If our work is shaped around writing a computer function, then we never begin work without structure and a test we bring to define what that function's successful conclusion looks like. 
+If our work is shaped around conversations, then we never have a conversation without a piece of structure and (at least one) test we bring and manipulate to get feedback. If our work is shaped around 2-week sprints, then we never begin a sprint without a test(s) we bring to define what done looks like. If our work is shaped around writing a computer function, then we never begin work without a test we bring to define what that function's successful conclusion looks like. 
 
 As they used to say when I went to school, it's turtles all the way down, folks. The only difference between conversations about Business Abstract stuff and System Realized is how the tests are created and executed.
 
-Whatever level we're talking about, we have questions. We ask them. We get new information. We update our mental model (perhaps our written one as well, depends on the situation), then we create a test. We execute that test. We gain new information. Go back to the start and begin again.
+Whatever level we're talking about, we have questions. We ask them. We get new information. Then our shared mental model changes, and that could have all kinds of repercussions. Whatever questions we ask, and however it changes our ideas about things, we have to keep cranking out value. Are we ready for our next tests?
 
 And that takes us to Backlog Grooming.
