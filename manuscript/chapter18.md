@@ -1,6 +1,6 @@
 # Chapter 18
 
-![The Test-Driven Analysis Wheel (Subject to revision in later editions of this book)](images/Test-Driven-Analysis-Constellation.png)
+![The Test-Driven Analysis Wheel](images/Test-Driven-Analysis-Constellation.png)
 
 ## Backlogs
 
@@ -10,7 +10,7 @@ People really love this stuff.
 
 I am not one of those people.
 
-I believe that having a mission comes ahead of everrything else. A mission translates to values + habits and that leads to success. That is, you get further by creating habits and a lifestyle that reflect your values and advances your mission than you do by trying to complete some kind of top-down masterplan of where you want to be in five years. You have no idea what things are going to be like in five years, and you have no concept of what things might be feasible or impossible. So how could you break things down?[^18-2]
+I believe that having a mission comes ahead of everything else. A mission translates to values + habits and that leads to success. That is, you get further by creating habits and a lifestyle that reflect your values and advances your mission than you do by trying to complete some kind of top-down masterplan of where you want to be in five years. You have no idea what things are going to be like in five years, and you have no concept of what things might be feasible or impossible. So how could you break things down?[^18-2]
 
 [^18-2]: Scott Adams covers this in-depth in his "Goals are for losers" essay. [http://blog.dilbert.com/2014/01/21/goals-are-for-losers-passion-is-bull/](http://blog.dilbert.com/2014/01/21/goals-are-for-losers-passion-is-bull/)
 
@@ -30,7 +30,7 @@ That's a feature of being human, not a bug. Humans are able to exist as a sentie
 
 Goals breaking down into smaller goals makes a kind of sense. After all, it's similar to what we've been talking about with our pyramids (Which are really much nicer than those other pyramids.) Something bad happens with tasks, though.
 
-![Bad things happen. Always.](images/goal-task-tree.jpg)
+![It all looked so good at the top of the pyramid](images/goal-task-tree.jpg)
 
 There's a difference between goals and tasks, and it turns out that understanding that difference helps with backlogs and grooming.
 
@@ -147,10 +147,10 @@ You are not a Javascript expert. You are a Claims Processing expert who just hap
 
 Test-Driven Analysis means we're always throwing behavior and supplementals together to create some tests/goals. Then we move down a level and use those tests/goals to drive out structure for approval or disapproval, to pass or fail tests.
 
-If our work is shaped around conversations, then we never have a conversation without a piece of structure and (at least one) test we bring and manipulate to get feedback. If our work is shaped around 2-week sprints, then we never begin a sprint without a test(s) we bring to define what done looks like. If our work is shaped around writing a computer function, then we never begin work without a test we bring to define what that function's successful conclusion looks like. 
+We identify and provide value through quality conversations. We never have a conversation without a piece of structure and (at least one) test we bring and manipulate to get feedback. If our work is shaped around 2-week sprints, then we never begin a sprint without a test(s) we bring to define what done looks like. If our work is shaped around writing a computer function, then we never begin work without a test we bring to define what that function's successful conclusion looks like. 
 
-As they used to say when I went to school, it's turtles all the way down, folks. The only difference between conversations about Business Abstract stuff and System Realized is how the tests are created and executed.
+As they used to say when I went to school, it's turtles all the way down, folks. The only difference between conversations about Business Abstract stuff and System Realized is how the tests are created and executed. If we can't actually build something due to time, money or some other constraint outside out control, we're forced to use structural proxies.
 
-Whatever level we're talking about, we have questions. We ask them. We get new information. Then our shared mental model changes, and that could have all kinds of repercussions. Whatever questions we ask, and however it changes our ideas about things, we have to keep cranking out value. Are we ready for our next tests?
+Whatever level we're talking about, we have questions. We ask them. We get new information. Then our shared mental model changes, and that could have all kinds of repercussions. Whatever questions we ask, and however it changes our ideas about things, we have to keep cranking out value. What's important to us? Are we ready for our next tests?
 
 And that takes us to Backlog Grooming.

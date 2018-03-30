@@ -50,6 +50,8 @@ Neither one was better or worse than the other, but they were certainly opposite
 
 Because Beethoven viewed music itself differently from those around him, many times even the audience itself was left wondering what was going on. Even Beethoven's most famous symphony, the Fifth, received horrible reviews when it first came out.
 
+![](images/beethoven.jpg)
+
 ## Beethoven and the origami complexification factor
 
 Varied unity. Unified variety. When you know the pieces and learn why they fit together the way they do, you're able to take them and rearrange them to do anything you'd like, like repeating tiles on a floor. Or an Escher painting.

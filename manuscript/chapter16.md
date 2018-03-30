@@ -284,4 +284,8 @@ This version of the Analysis Survey is good enough for now, but it needs a lot o
 
 However you do it, you should be able to pick anything that you're talking about, walk to a printout of the Analysis Survey on the wall, whatever it looks like, and within 10-30 seconds know all of the other things that touch on it and the things it touches on. And that should be true for anybody in the team. (This is what I would consider to be the acceptance criteria for future versions of the survey). I'm looking forward to seeing it evolve.
 
-We have built a deck and our customer loves it. Next let's talk about lessons learned and how we can take the analysis work we've done so far on the deck and continue to use it. 
+This book is about capturing and moving information around so that the right people get the right information at the right time. People don't die.
+
+To do that, we spent some time learning a tagging system. Then we talked about where details go. Then we talked about how pieces of information link to one another to form intersections where critical conversations occur. We walked through several projects where those conversations happened. Entering this section, we learned how to automate capturing and processing that information. Now we've just learned how to use those automation tools to make something people want.
+
+We have built a deck and our customer loves it. Next let's talk about lessons learned and how we can take the analysis work we've done so far on the deck and continue to use it. Then we'll move on to using what you've learned in a small team situation. Learning to use the tools to optimize work in a small team environment is our goal for this section.

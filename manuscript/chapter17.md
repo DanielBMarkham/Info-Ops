@@ -94,7 +94,7 @@ Turns out, "make something people want" along with regular accountability and te
 
 ## Test-Driven Analysis (TDA)
 
-![](images/tda2.jpg)
+![Sometimes you just need a list of rules](images/tda2.jpg)
 
 But I have been falling down on my job! We've been several dozen pages and you don't have any new complicated-sounding terms or buzzwords to put on your status reports. So here's one: **Test-Driven Analysis**.
 
