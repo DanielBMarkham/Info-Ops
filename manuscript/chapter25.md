@@ -1,4 +1,4 @@
--# Large Teams, Teams of Teams
+-# Meta, Large Teams, and Teams of Teams
 
 # Chapter 25
 

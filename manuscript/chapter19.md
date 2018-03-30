@@ -14,13 +14,17 @@ Tasks are good and necessary in other areas, though. Set aside time for to-do it
 
 [^19-1]: When I develop software for myself my entire tracking system consists of post-its on my monitor. On the left is to-do, on the right is completed. At the bottom are things I need to consider. The entire model exists in my head, and the reason I refuse to use any more structure than that is that if I can't see it, it doesn't exist. I want my mind constantly going through the analysis model and how it relates to the work-in-progress. Otherwise, if I put things in a doc somewhere, for me it's just a formal way of forgetting about them.
 
-[^19-0]: Most everybody will have examples of where they had a creative job, broke it into tasks, and everything worked out fine. In most all of these cases, that's because there are only one or two people involved, the task list isn't considered written in stone, and everyone involved is actively challenging the shared mental model with one another as they go along. That's a wonderful thing when it happens, but it only works in extremely tiny and constrained situations. You'd be fool or idiot to try it in the commercial world.
+[^19-0]: Most everybody will have examples of where they had a creative job, broke it into tasks, and everything worked out fine. In most all of these cases, that's because there are only one or two people involved, the task list isn't considered written in stone, and everyone involved is actively challenging the shared mental model with one another as they go along. That's a wonderful thing when it happens, but it only works in extremely tiny and constrained situations. You'd be fool or idiot to try it in the commercial world. Even in those isolated environments, it's as likely to fail as succeed.
 
 The same can not be said of breaking down big tasks into smaller tasks in a non-creative, factory-like environment where value discovery is completely off-the-table.
 
+**The backlog isn't about stuff you're going to do. It's about ways you're going to change the target system.**
+
+Ideally you wouldn't do anything and change the target system to provide fabulous wealth and we're all living on tropical islands drinking those drinks with little umbrellas in them. Worst-case, you have some to-do list from hell that you call a backlog and everybody far too much work than they ever could get done and the target system doesn't change at all.
+
 ## How NOT to do Backlog Grooming
 
-Require a large group to attend. Only have it once a month or so, and make sure the group that is attending never see each other much during the day. (This will provide for an incredible amount of cross-talk and make it difficult to stay focused) Use a projector in a darkened room, especially after lunch, because who doesn't like projectors in a dark room after a big meal?
+Require a large group to attend. Only have it once a month or so, and make sure the group that is attending never see each other much during the day. (This will provide for an incredible amount of cross-talk and make it difficult to stay focused). Use a projector in a darkened room, especially after lunch, because who doesn't like projectors in a dark room after a big meal?
 
 Once everybody is assembled, bring up a big list of items on an electronic tool, preferably all prefixed with some impenetrable code that you use as a moniker. "First up is CS743183 dash seven. Who can forget that one?"
 
@@ -28,13 +32,13 @@ Ask a bunch of questions that are related to whatever process you are doing inst
 
 Make everybody wait while you click around through some interface.
 
-Never talk about the overall scope of work, only tiny items in a large, seemingly-endless list. 
+Never talk about the overall scope of work, only tiny items in a large, seemingly-endless list. Bonus points if you can spend a large chunk of time discussing some System Realized issue that few in the room care about or can engage in.
 
-As you go along, never clean up. Instead, just keep incremenatlly adding stuff here and there. Sometimes you'll copy and paste, sometimes you'll re-type things, only using different language. The important thing is that over time it just keeps getting bigger and bigger. The Backlogs Blob that ate Cincinatti. 
+As you go along, never clean up. Instead, just keep incrementally adding stuff here and there. Don't refactor 17 items into 3, instead, keep adding new items and keep adding a lot detail for existing items. Sometimes you'll copy and paste, sometimes you'll re-type things, only using different terms. The important thing is that over time it just keeps getting bigger and bigger. It's the Backlog Blob that ate Cincinnati!
 
 Hold it a day or two before sprint close, so that it people will be sitting there worrying about completing the rest of their work.
 
-Do this enough times and you could be brought up on war crimes. Or get promoted. Either is equally likely. I wouldn't risk it if I were you.
+Do this enough times and you could be brought up on war crimes. You also may get a promotion. Either is equally likely. I wouldn't risk it if I were you. Trust me.
 
 ## Backlog grooming/refinement
 
@@ -48,13 +52,13 @@ Good grooming does five things:
 4. Verify we're ready for the next bit of work
 5. Tease out the best way the entire model might be delivered
 
-Meanwhile, of course, the good, honest questioning, the dialectic continues among everyone present.
+Meanwhile, of course, the good, honest questioning, the dialectic continues.
 
 The actual creation and execution of the tests happens somewhere else.[^19-3]
 
 [^19-3]: Although with more automation, I'm beginning to see teams complete fully-specified and executing tests during this time.
 
-Grooming is what we did in the deck example every time we went back home and got organized for another conversation. "Get Organized!" would be a good slogan for grooming.
+Grooming is what we did in the deck example every time we went back home and got organized for another conversation. "What will it do when it's done? What's important right now? What's it have to start doing next?" would be a good slogan for grooming.
 
 Grooming is also what happened as we played with a physical model of the deck with the customer, only it was informal grooming. (The best and fastest kind, by a couple orders of magnitude.)
 
