@@ -52,19 +52,29 @@ Good grooming does five things:
 4. Verify we're ready for the next bit of work
 5. Tease out the best way the entire model might be delivered
 
-Meanwhile, of course, the good, honest questioning, the dialectic continues.
+This is just a typical process list you might get from a trainer. It helps you make an agenda for grooming. There could also be games, puppets, or laser tag. That's a process question. Whatever you do when you do your grooming, you end up having a dialectic that focuses around three question: 
 
-The actual creation and execution of the tests happens somewhere else.[^19-3]
+1. What will it do when it's done?
+2. What's important right now for it to start doing?
+3. How will we know it's doing that?
 
-[^19-3]: Although with more automation, I'm beginning to see teams complete fully-specified and executing tests during this time.
+You cogitate on the first question while bouncing the second questions against one another until you feel the last question has been answered well enough to do whatever's next. (By "bouncing two questions together", I mean that the answer to one changes the nature of the other. So then you have to re-ask the first one. This can continue for a few rounds.)
 
-Grooming is what we did in the deck example every time we went back home and got organized for another conversation. "What will it do when it's done? What's important right now? What's it have to start doing next?" would be a good slogan for grooming.
+It's all about that dialectic.
 
-Grooming is also what happened as we played with a physical model of the deck with the customer, only it was informal grooming. (The best and fastest kind, by a couple orders of magnitude.)
+Grooming is what we did in the deck example every time we went back home and got organized for another conversation. "What will it do when it's done? What's important right now? What's it have to start doing next?" would be a good slogan for grooming. We never, ever knew the complete answers to those questions, but by asking them we were able to come up with model items and props we could use to test out whether or not we were getting closer or not.
+
+Grooming is also what happened as we played with a physical model of the deck with the customer, only it was informal grooming. (The best and fastest kind, by a couple orders of magnitude.) We didn't have some kind of special session or meeting we called "grooming". Instead, we just tested whatever model we had by giving a structural prop to the customer and walking through the behaviors with him. 
+
+A bunch of stuff we did was wrong -- the chairs don't go over there by the hot tub. Great. A failing test means either we fix the target system so that the test passes -- or fix our mental model so that the next test more accurately reflects what we know now. Either way is a win for us.
+
+In TDD, (mostly), our tests are never wrong but our code might be. In Structured, Test-Driven Analysis, when our tests fail it's either the target system our the model that has to change. We added that new information into our mental model, we cross-checked what we could remember to see if it changed anything else, we made sure we weren't confused about what the heck was going on, then we came up with new questions about "just what will this entire thing do when it's done", "What's the most important thing to figure out right now?", and "How do we find that out?" We moved some little model pieces around and started more conversations with the customer.
+
+That's grooming. Continuous grooming.
 
 Ideally grooming happens continuously. There's no reason it has to be a separate meeting or big formal event. But many times we don't have time to get organized and leave things in a mess. Stuff gets thrown in notes that should be master model items. Questions are stuck in the wrong place. There's a new supplemental that we haven't had time to talk about. 
 
-Most importantly, not everybody on the team is capable of cleaning up and getting organized, which means that keeping things neat ends up bottle-necking through the people who know how to do it. Since things get messy and you've created this bottleneck, you have to call out a special time for grooming. (This means that the ultimate goal of a formal grooming meeting is teaching the team how to groom without having a formal grooming session. It's not that hard. You've figured it out by reading a book. When everybody can constantly help keep things clean and organized as you move along, folks will be much happier and productive. As my mom used to say, instead of waiting until there's one big cleanup job, clean just a little bit as you go along. Makes life much easier.)
+Most importantly, not everybody on the team is capable of cleaning up and getting organized, which means that keeping things neat ends up bottle-necking through the people who know how to do it. Since things get messy and you've created this bottleneck, you have to call out a special time for grooming. (This means that the ultimate goal of a formal grooming meeting is teaching the team how to groom without having a formal grooming session. It's not that hard. You've figured it out by reading a book. When everybody can constantly help keep things clean and organized as you move along, everybody will be much happier and productive. As my mom used to say, instead of waiting until there's one big cleanup job, clean just a little bit as you go along. Makes life much easier.)
 
 ### **Introduce new information**. 
 
@@ -82,7 +92,9 @@ Joe is a Product Owner for a financial app that runs on three major platforms. H
 
 What does he do? Does he wait two months until some kind of program-level meeting? Does he set up an online meeting? Nope. He was told that all he had to do was enter stuff into this magic tool and it would be done by the team. So he whenever he thinks of new stuff, he just enters it into the tool.
 
-Now the tool has over 200 items that Joe and other people have put in. The team doesn't understand what the items mean, and Joe and the other business owners are dickering over which items go ahead or behind which other items. For many of the items, even the people who entered them can't remember what they mean.
+Now the tool has over 200 items that Joe and other people have put in. The team doesn't understand what the items mean, and Joe and the other business owners are dickering over which items go ahead or behind which other items. For many of the items, even the people who entered them can't remember what they mean. When he points out how difficult it is to keep track of everything and remember exactly what things mean, he was told that every item he entered had to follow a formula -- a formula that creates several-hundred-word entries.
+
+Now he doesn't have time to scan through a list of even ten of these and look at all the detail. He's being told he has to go back through all of the other items on the list (!) and enter the information for all of those too. Many times much of the information is just broilerplate duplicate stuff. It feels a lot like busywork.
 
 Joe gave up on the tool. Now he calls the developer directly when he has changes, interrupting whatever was going on and massively changing direction of the project from day-to-day. Developers do not say nice things about Joe (They like him as a person, of course. He just drives them nuts as a Product Owner.)
 
@@ -94,10 +106,10 @@ Louis has given up on change. Now he's just biding his time until retirement.
 
 We understand the dialectic and Structured Analysis, so we know that all of these ways of adding information to a team are counter-productive. We also realize that there are people outside the team that have important information to add. The team has to have some way of interacting with outside folks using the dialectic to hone their shared mental model of the world.
 
-You gotta add information. There are just a few simple rules that have to be followed to do it well. But they all have to be followed.
+You gotta add information. So in anything but a one-on-one situation, you gotta have some kind of meeting called "grooming", even if it's just 20 minutes every morning. There are just a few simple rules that have to be followed to do it well. But they all have to be followed.
 
 * Nobody but nobody adds information to a team's backlog aside from the team. People have to go through the team to make new information appear there 
-* People who work physically near the team are the ones that can work with the team to add new information. If you aren't one of those people, you have to work through one of them. No "mailing it in" or using an online tool
+* People who work physically near the team are the ones that can work with the team to add new information. If you aren't one of those people, you have to work through one of them. No "mailing it in" or using an online tool as some sort of project-manipulation device
 * When you want to add information, you show up at a set time and have a conversation with everybody in the team. If you have formal grooming sessions, a good time for this is at the beginning of those sessions
 * The team's job is to do the best it can to translate the universe you live in to the universe they live in. They may actually have to start modeling out your world, with Master Models and the rest of it, for it to make sense. (Remember, you should be able to do this quite quickly. Minutes, not hours.)
 * At the end of adding information, the team should be able to walk you through your world, how you came across this new information and why it's needed. They should know enough of your world to be able to change their model so that it meets the needs of your model
@@ -110,7 +122,9 @@ Maybe everybody just hangs out an extra five minutes and asks you a few question
 
 By making the addition of work physical instead of electronic, you ratchet down the amount of churn that can happen while also reducing the waste associated with blindly entering things into systems where the items have to be worked and reworked, over and over again.
 
-(Of course it can work without following these rules, and most of the time does -- eventually. This is what I've seen as being necessary to move very quickly and effortlessly to adapt to new situations.) The absolute best grooming I've ever heard of -- I didn't get to see it -- was an Agile Coach who went to work as a developer for a financial trading firm. They worked as solo developers, and they did financial trading alongside a trader. There was no wall at all between the work and automating the work.  Traders were expected to program and programmers were expected to trade. They worked in pairs. I believe this is about as optimal as technology development can get. That's nirvana.
+(Of course it can work without following these rules, and most of the time does -- eventually. This is what I've seen as being necessary to move very quickly and effortlessly to adapt to new situations.) The absolute best grooming I've ever heard of -- I didn't get to see it -- was an Agile Coach who went to work as a developer for a financial trading firm. They worked as solo developers, and they did financial trading alongside a real trader. There was no wall at all between doing the work and automating the work.  Traders were expected to program and programmers were expected to trade. They worked in pairs. The shared mental analysis model was continuously groomed by writing code and talking about what was learned. I believe this is about as optimal as technology development can get. That's nirvana.
+
+But I've never seen it. Everybody I've ever worked with had to set aside time somehow.
 
 ### **Synchronize the Model**
 
