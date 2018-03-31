@@ -128,9 +128,9 @@ But I've never seen it. Everybody I've ever worked with had to set aside time so
 
 ### **Synchronize the Model**
 
-If there is some kind of grunt work involved with backlog grooming, it's synchronizing the analysis model. It doesn't have to take long, but it has to be done regularly, religiously. It's like brushing your teeth. You do it and it doesn't feel like anything happens, but if you don't do it, all kinds of unpleasantness is on your way.
+If there is some kind of grunt work involved with backlog grooming, it's synchronizing the analysis model. It doesn't have to take long, but it has to be done regularly, religiously. It's like brushing your teeth. You do it and it doesn't feel like anything happens, but if you don't do it, all kinds of unpleasantness is on your way seemingly from nowhere.
 
-Behavior always seems to be the best way into scanning the entire Analysis Model.[^19-5] Go down the behaviors. Are we able to point to domain objects and talk about how they work together to make this behavior happen? For each behavior, are we able to point at the applicable supplementals and describe how they affect this behavior? Not using the model itself -- that's cheating. Can we do it just by chatting with one another? The real model exists in our heads, after all, and no matter what's in the EasyAM system, if it's not in our heads it doesn't exist.
+Behavior always seems to be the best way into scanning the entire Analysis Model.[^19-5] Go down the behaviors. Are we able to point to domain objects and talk about how they work together to make this behavior happen? For each behavior, are we able to point at the applicable supplementals and describe how they affect this behavior? Can we do it just by chatting with one another without relying on tools or docs? The real model exists in our heads, after all, and no matter what's in the EasyAM system, if it's not in our heads it doesn't exist. That's the model we need to be synchronizing.
 
 [^19-5]: If I get bored, I'll start with the Domain Model. Or the Supplementals. It's all the same thing, anyway. People just seem to relate more to behavior, and if doesn't relate to the behavior list, it's out of scope. So if you want to start somewhere else, it's a fun thing to do, just always be sure you're not accidentally increasing scope without realizing it.
 
