@@ -138,7 +138,7 @@ If that goes smoothly, go through each behavior and ask about actors. Who is the
 
 Scope yourself to a certain amount of time and quit when the time is up. If you've done the first couple of items above without finding anything new, next time start at the third item, then the fourth, and so on. In many ways this is like painting a landscape. First you sketch out the general look, then you pay a little attention here, then you pay a little attention there. Each time you look at your landscape painting your goals is sketch out a few more details. (Not go on a death march.)
 
-You're not doing this to build a spec. You're doing this to do a cross-check between model items to see if there are important conversation areas you might have missed. Here's a hint: there always are. Once the model gets sketched out past a hour or two, it starts suggesting conversation areas and reminding you of things you that you probably wouldn't have thought of before. That's the magic.
+You're not doing this to build a spec. You're doing this to do a cross-check between model items to see if there are important conversation areas you might have missed. Here's a hint: there always are. Once the model gets sketched out past a hour or two, it starts suggesting conversation areas and reminding you of things you that you probably wouldn't have thought of before. That's another piece of the magic.
 
 ### **Clean up the backlog**
 
@@ -148,25 +148,30 @@ Most backlogs are whack. They're whack because the model keeps changing while th
 
 I'm just going to get the shocking thing out right away. You may want to get a grip on your chair.
 
-***Your product backlog should never have more than 20-40 items in it.***
+***Your backlog should never have more than 20-60 items in it.***
 
-But Daniel, how can that be? We have a big project! A complicated system we're building! Funding for the next two years! How could that kind of work be covered in 20-40 items?
+But Daniel, how can that be? We have a big project! A complicated system we're building! Funding for the next two years! How could that kind of work be covered in 20-60 items?
 
 There are five and only five kinds of things that go in your backlog.
 
 * Goals/Tests you are currently working on 
 * Goals/Tests that you will be working on next 
-* Goals/Tests that you need to start seriously thinking about (the next in line)
+* Goals/Tests that you need to start seriously thinking about (on the radar)
 * Master Backlog Items 
 
-That's it. Since your Master Backlog is a small list of things, 20-30 items, and since what you're currently working on doesn't really count here, all we're talking about is Master Backlog plus next up plus things to start worrying about. Assuming the max of 40 items in your MBL, and assuming you could work on a quarter of those at a time (optimistically), worst-case we're talking about 40+10+10. Sixty items. Most of the time it's around 40 or so. 
+That's it. Nothing else. Since your Master Backlog is a small list of things, 20-30 items, and since what you're currently working on doesn't really count here, all we're talking about is Master Backlog plus next up plus things to start worrying about. Assuming the max of 40 items in your MBL, and assuming you could work on a quarter of those at a time (optimistically), worst-case we're talking about 40+10+10. Sixty items. Most of the time it's around 40 or so. 
 
-PUT BACKLOG GRAPHIC HERE 
+But what about bugs? Defects? Feature requests? That thing with the font on page 17?
 
+If it's coming up next, it's coming up next. If it's on the radar, it's on the radar. If it's not either of those two things? It's in the model -- where it should be. Analysis is about what happens in people's heads. Your brain can't handle more than 3 or 4 dozen items. Why would you create and maintain things in your environment that you're unable to grasp and work with as a group? It's a horrible and dehumanizing anti-pattern.[^19-30]
+
+[^19-30]: Many of you will have lots of questions around other ways of manipulating the analysis model: release plans, roadmaps, bug triage, and so forth. We'll handle these as we get to them. Right now it's grooming. 
+
+![](images/Backlog-Sizing.jpg)
 
 ### Verifies that we're ready to create executable tests for upcoming pieces of work
 
-Everything that goes in our Behavior bucket describes a test, it's just more or less detailed. Associating that behavior with supplementals completes the description -- once the flow of the behavior and the detail of the supplementals are worked out. In fact, all of grooming, and all of Structured Analysis, is about continuing to develop the behavior and supplemental buckets so that we can take various intersections of the two to make executable tests. Describing and writing those tests, having them pass in the target system, those are the goals.
+Everything that goes in our Behavior bucket describes a test, it's just more or less detailed. Associating that behavior with supplementals completes the description -- once the flow of the behavior and the detail of the supplementals are worked out. In fact, all of grooming, and all of Structured Analysis, is about continuing to develop the behavior and supplemental buckets so that we can take various intersections of the two to make executable tests. Describing and writing those tests, having them pass in the target system, those are the goals. (Making and running the tests give us more information to fill out the mental model, which helps us out with the next tests, if there are any.)
 
 Soon, however, the moment of truth happens: we have to execute the tests. We run the test, it fails. We do some work, then we run the test again. It passes. We have completed that backlog item. That is, we have changed the target system such that it implements the behavior described in the test. (Remember, the target system doesn't have to be a computer system at all. It could be a set of corporate policies to help employee welfare, or a description of a fantasy world that our new novel will be set in.)
 
@@ -182,15 +187,15 @@ If we're working at the Business Realized layer, then the test would consist of 
 
 If we're working at the System Abstract level, an executable test consists of providing pseudo-code for how a computer program would meet the System Abstract goals. A key part of this test is being able to write actual code that fulfills this test. (Not necessarily writing it.)
 
-In technology development, stories that we're almost ready to work on have to be developed enough to work at the System Abstract level. Most product/project backlogs consist of children of the Master Model at either the Business Realized or System Abstract level (or a mix of both. Nobody says you have to work in only one level.)
+In technology development, stories that we're almost ready to work on have to be developed enough to work at the System Abstract level. Most product/project backlogs consist of children of the Master Model at either the Business Realized or System Abstract level (or a mix of both. You should never feel like you have to work in only one level.)
 
-Of course, ideally you make a few lists to create a Master Model, talk about what kinds of System Abstract tests need to pass for a goal to be reached, then dive down into the System Realized level to make it happen. It's only when things simply must be more complicated that we care about knowing which level we're on.
+Of course, ideally you make a few lists to create a Master Model, talk about what kinds of System Abstract tests need to pass for a goal to be reached, then dive down into the System Realized level to make it happen. It's only when things simply must be more complicated and we have no other choice that we care about knowing which level we're on.
 
 TDA means constantly walking through behaviors, supplementals, and domain items at any one level to see whether is agreement that enough detail has been provided to make a test at one of the lower levels. (Not necessarily the next one down.) Analysis only exists to create tests that everybody agrees to, and it's constantly driving towards defining those tests in good-enough detail. Tests Drive Analysis.
 
 ## User Stories and Story Splitting
 
-A lot of Agile folks call these backlog goal/test items "User Stories", They have a bunch of other terms too, like "Feature", "Epic", "Technical User Story". A few others. And then they use the terms to mean different things depending on which book you've read. I'm calling everything in your backlog a "User Story" because life is complicated enough as it is. A User Story is a testable chunk of work which describes future behavior in a target system. It's a match between Behavior and Supplementals which insists on a structure being created in order for the test to pass.
+A lot of Agile folks call these backlog goal/test items "User Stories", They have a bunch of other terms too, like "Feature", "Epic", "Technical User Story". A few others. And then they use the terms to mean different things depending on which book you've read. I'm calling everything in your backlog a "User Story" because life is complicated enough as it is. A User Story is a symbolic placeholder for future conversations around a testable chunk of work which describes future behavior in a target system. It's a match between Behavior and Supplementals which insists on a structure being created in order for the test to pass.
 
 "But my User Story is too big for this next chunk of work!" is the most common thing I hear from teams that are new to backlogs and backlog grooming. "How could I ever make it smaller?"
 
@@ -202,7 +207,7 @@ Let's say you are writing a complicated web page that does one Behavior. There d
 
 Great Scott! You can't implement this complicated flow all at once! That's crazy! And it's the first story too! Heck it might take a month just getting the environment in place.
 
-Okay so you're off-the-rails already. You don't "get the environment in place", you develop the environment a little bit at a time as you deliver goals, just like you develop the rest of the structural items. It all depends on which goals you are delivering.
+Okay so you're off-the-rails already. You don't "get the environment in place", you develop the environment a little bit at a time as you deliver goals, just like you develop the rest of the structural items. We do serious engineering, but we do it incrementally, a little bit at a time. It all depends on which goals you are delivering.
 
 *This means that environmental/build/deploy items should appear on your supplemental list*
 
@@ -218,51 +223,55 @@ If I'm delivering the "foo" goal, what kinds of supplementals might I need relat
 
 You've got six outcomes for your behavior. That's six different flows. For each flow, you've got these seven supplementals, plus whatever other ones your system has. If you wanted to have a status report that looked good, you could blow this out immediately into 6 times 7, or 42 small User Stories. 
 
-For user stories that you're worried about doing all at one time, blow them out like this. I wouldn't add them to your backlog because you don't have anything to do with them accept decide to deliver them and then deliver them. (For a lot of people, this happens during a process called "Sprint Planning"). It's the last possible step before actually working on the dang things. They don't need to be in your queue because there's nothing for them to do there.
+For user stories that you're worried about doing all at one time, blow them out like this. At the last possible minute  (Somebody once called this the "Last Responsible Moment"). Never add them to your backlog all blown out like this because you don't have anything to do with them accept decide to deliver them and then deliver them. (For a lot of people, this happens during a process called "Sprint Planning"). It's the last possible step before actually working on the dang things. They don't need to be in your queue because there's nothing for them to do there, just deliver them. If there's something left to do, it's not the last responsible moment.
 
 Instead, when it comes time to figure out what you can do, pull the little ones off and write tests, watch them fail, then change the structure and watch them pass. Many of these delivery supplementals will have tests that consist of functions that are reused over and over again. If you write a separate test for each story that has the only acceptance criteria of "show something to the user", I will come to your office and use invective and strong language until I hurt your feelings. Instead just write a platform tests that makes sure the pages are up, then add your page to the list when you come to that story.
 
-You've split a User Story into 73 small User Stories. Do you have to keep all of those around on the backlog?
+You've split a User Story into 73 small User Stories, but decided not to do them all. Do you have to keep all of un-done ones around on the backlog?
 
-Heck no! If you're doing 12 of them and saving the other 61 for some future date, they don't go in the backlog. They don't go anywhere, since they are not tests that you currently plan to work on. I don't want to see them on your backlog. I don't want to see them on the wall. I don't want to see them anywhere. If you insist, stick them in the notes section of the appropriate Master Backlog Item. They'll be there for your consideration the next time you look at that item. Not before. Keep It Simple, Silly.
+Heck no! If you're doing 12 of them and saving the other 61 for some future date, they don't go in the backlog. They don't go anywhere, since they are not tests that you currently plan to work on. I don't want to see them on your backlog. I don't want to see them on the wall. I don't want to see them anywhere. If you insist, stick them in the notes section of the appropriate Master Backlog Item. They'll be there for your consideration the next time you look at that item. Not before. Keep It Simple, Silly. (And I would be extremely cautious about putting them in your notes. Why would you want to pre-determine how some future version of yourself might want to deliver stuff?)
 
 ### **Tease out the best way the entire model might be delivered (Points, Estimation, and Other Games**
 
-Finally we come to estimation, a subject that has caused much wailing and gnashing of teeth for some in the technology community. It seems that some folks have bosses that are assholes, and to prevent them from being an asshole, people want to remove estimation from the list of things a team might do. Replace it with the word "forecast". 
+Finally we come to estimation and other topics of this ilk. Estimation is a subject that has caused much wailing and gnashing of teeth for some in the technology community. It seems that some folks have bosses that are assholes, and to prevent them from being assholes, somebody came up with the bright idea to remove the word "estimation" from the list of things a team might do. Replace it with the word "forecast". 
 
-This is like preventing fires by outlawing the word fire and instead calling all fires "balloons".
+This is like preventing fires by outlawing the word fire and instead calling all fires "balloons". We've had no fires all last year! Had a ton of balloons, though.
 
 Estimation can be important, and grooming is a good time to do it. But it's not important for the reasons you might think.
 
 Let me describe a popular system for estimation that some folks use.
 
-Take the entire backlog. Pick the simplest item. Call it a 1. For other items, **guess** how difficult they are to deliver compared to this one. Twice as much? It's a 2. Four times as much? It's a four. Total up the points. It's a simple game you should be able to play in a few minutes. The advanced version includes only using numbers that are doubles of one another (1,2,4,8,16...) or those in the Fibonacci or Lucas series. I like using the Fibonacci series because I like saying "Fibonacci".
+Take the entire backlog. Pick the simplest item. Call it a 1. For other items, **guess** how **relatively difficult they are to deliver** compared to this one. Twice as much? It's a 2. Four times as much? It's a four. Total up the points. It's a simple game you should be able to play in a few minutes. The advanced version includes only using numbers that are doubles of one another (1,2,4,8,16...).  The super-advanced ninja cowboy version uses Fibonacci or Lucas series. I like using the Fibonacci series simply because I like saying "Fibonacci".
 
-Then, at some later time or date, take the "story points" for what you completed in one timebox and see how they relate to the total. Did you complete 10 points in the last week and your remaining total is 100 points? Then you've effectively "guessed" that you have ten more weeks to go.
+Then, at some later time or date, take the "story points" for what you completed in one chunk of time and see how they relate to the total stuff left to do. Did you complete 10 points in the last week and your remaining total is 100 points? Then you've effectively "guessed" that you have ten more weeks to go.
 
-This is easy, even somewhat frivolous and silly. When I first saw it, I was a bit astounded. Just putting numbers on things and adding them up could give you an estimate? Really?
+Pretty advanced math and engineering going on here, folks. Please step back! Give the professionals some room here.
 
-Something weird happened. I saw it working, over and over again. But I don't think people understood why it worked. As long as the team was regularly playing this point and estimation game, looking at the entire backlog, after several rounds the estimates got strangely accurate.
+Of course this is easy, perhaps even somewhat frivolous and silly. When I first saw it, I was a bit astounded. Just putting numbers on things and adding them up could give you an estimate? Really? People do this? They pay people to do this?
 
-Then I saw all the ways this was being done wrong. It was painful. I understand why many people refuse to do any estimating at all.
+Something weird happened. I saw it working, over and over again. But I don't think people understood why it worked, even the people who liked it. As long as the team was regularly playing this point and estimation game, after several rounds the estimates got strangely accurate.
 
-I saw people insist that these points had to map to some time period, like an hour or a day. This is a terrible fail. You might as well just estimate hours or days. The abstraction gets you nothing if you're just talking about time.
+Then I saw why my friends wanted to get rid of the word "estimation". I saw all the ways this was being done wrong. It was painful.
 
-I saw people do the estimation at the same time they did points. This is also a terrible fail. The entire point (ouch!) here is to separate the guess about how complicated it is to deliver stuff from the actual projection of when things will be done. They're separate events. The projection doesn't even need the team in the room. It's simple math. If you put it all together at the same time, people are going to look at points as days or hours again. You're just doing some kind of weird kabuki dance in the middle of it.
+I saw people insist that these points had to map to some time period, like an hour or a day. This is a terrible fail. You might as well just estimate hours or days. The abstraction gets you nothing if you're just talking about time. (Story points are a second-order abstraction. In the formula "y=2x+7", story points are the "2". They don't represent anything tangible until you plug an "x" in, that is, until you start actually delivering something. They don't represent the time period of things happening, they represent the *scale at which things happen*. It's the next level up.)
 
-I saw people take how much time they had for a project, then divide the number of time chunks they had, arriving at some weird number. Do we have ten sprints and 100 points in our backlog? Then we have to do ten points per sprint, dang it! This is a triple fail. First, it completely forgets the concept that the points for items will change over time. Second, it ignores any new items being added, and new items are always added. Finally it uses time to drive work. The work is the work. At the risk of being crude, if you change what the work is based on time (instead of what the users want), you don't know what you're doing. (Although it's perfectly acceptable to talk with users about what they actually want, of course. You just can't put the cart in front of the horse)
+I saw people do the estimation at the same time they did points. This is also a terrible fail. The entire point (ouch!) here is to separate the guess about how complicated it is to deliver stuff from the actual projection of when things will be done. They're separate events with separate participants, concerns, and interactions. To do a projection you don't even need the team in the room. It's simple math. If you try to do both points-guessing and scheduling at the same time, people are going to look at points as days or hours again. It's useless.
 
-I saw people leaving the points from last time on the story for the next time the game was played. Well heck, if you're going to do that, people aren't really guessing again, are they? They're just looking at what the old number was and asking if anything changed. That might be an interesting thing to do, but it's a different thing from the way the game is played.
+I saw people take how much time they had for a project, then divide the number of time chunks they had, arriving at some weird number. Do we have ten sprints and 100 points in our backlog? Then we have to do ten points per sprint, dang it! This is a triple fail. First, it completely forgets the concept that the points for items will change over time. Second, it ignores any new items being added, and new items are always added. Finally it uses time to drive work. The work is the work. At the risk of being crude, if you change what the work is based on time (instead of what the users want), you don't know what you're doing. You know when you'll be done, but you have no idea what you're doing. In more ways than one.
 
-I saw people taking the points from one time period and then using that number to determine the next time period. Did ten points last time? Pick ten points of stuff for next time and do that. After all you did ten points last time, right? The failure here is that points are a lagging indicator, not a leading one. That is, you do what you can do. Points got nothing to do with it. Until you do it, you really don't know how hard it is to do or not. I've gotten to erasing points as soon as the game is finished to prevent this kind of nonsense. Do the points. Forget them. Do the work. Then offline, use the points to guess how much work is left. 
+(Although it's perfectly acceptable to talk with users about what they actually want, of course. You just can't put the cart in front of the horse)
 
-I totally understand why people don't like estimation. Points are a simple system but hell if we don't screw it up a lot.
+I saw people leaving the points from last time on the story from one game-playing-session to the next. Well heck, if you're going to do that, people aren't really guessing again, are they? They're just looking at what the old number was and asking if anything changed. That might be an interesting thing to do, but it's a different thing from the way the game is played. You, also, are doing it wrong.
+
+I saw people taking the points from one time period and then using that number to determine the next time period. Did ten points last time? Pick ten points of stuff for next time and do that. After all you did ten points last time, right? The failure here is that points are a lagging indicator, not a leading one. That is, you do what you can do. Points got nothing to do with it. Until you do something, you really don't know how hard it is to do or not. I've gotten to erasing points as soon as the game is finished to prevent this kind of nonsense. Do the points. Forget them. Do the work. Then, offline, use the points to guess how much work is left. 
+
+I totally understand why people don't like estimation. Points are a simple thing to do but hell if we don't screw it up a lot.
 
 The point game does this: the entire team walks through the entire backlog working through a mental model of how each item might be delivered. They do that over and over again, and as they get better at delivery and understanding the entire project, they get pretty good at guessing how relatively difficult things might be.
 
 At least that the way it reads in the book.
 
-But something else happens that we know that the book writers didn't: as the team walks through an imaginary delivery of all these goals, they're creating a shared Meta model of execution which gets more and more accurate with practice. 
+But something else happens that we know that the maybe the other book writers didn't: as the team walks through an imaginary delivery of all these goals, they're creating a shared Meta model of execution which gets more and more accurate with practice. 
 
 We're back to alignment and shared mental models again, only this time in the **Meta** genre, not Business or System. What we're doing as we deliver things and think about how we're going to deliver more things is come together on a system for how we deliver stuff. That's the real value of the point game, which has nothing to do with estimation. It creates a shared Meta Abstract To-Be model.
 
@@ -272,9 +281,13 @@ There's also an aspect of this that's more social psychology than anything else.
 
 It's like placebos. It may be total crap *how* it works, but it actually works anyway, so who cares?
 
-If you like estimating, then estimate, using whatever method works for you. But whatever you do, you need to engage the team mentally on a regular basis with thinking about the entire model and how it will be delivered, not just what items are in the formal, written model and how they connect.
+(By the way, this more than anything else should convince you that the team should estimate *all* the backlog, start from fresh each time, and only use points as a lagging indicator. You can use this social bonding for evil. If the team only estimates the first day the project kicks-off, then estimates new things as they are added? They are never challenging or changing their mental model of the entire project delivery. They're just re-confirming that no further thought is needed. You can effectively "program" the team to continuously view the project as taking a longer and longer time instead of the other way around).
+
+If you like estimating, then estimate, using whatever method works for you. If you don't like estimating, or your relationship with your customers and users don't require estimating? Don't estimate. Technology delivery is an art, an engineering practice, and a service business. All three of those are equally important.
+
+But whatever your decision around estimation, you need to engage the team mentally on a regular basis with thinking about the entire model and how it will be delivered, not just what items are in the formal, written model and how they connect.
 
 This book is not about Agile, Scrum, Story Points, or sprints. It's about what's going on behind-the-scenes in the minds of people who create new realities for folks. A hundred years from now maybe nobody does Story Point estimation anymore. They'll still need to be going through the entire backlog creating a shared mental model of items in the Meta genre.
 
-Now let's dig in to see grooming in action using EasyAM.
+Now let's dig in to see backlog grooming/refinement in action using EasyAM.
 

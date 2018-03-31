@@ -10,7 +10,7 @@ We've done enough preliminary work to get a good Meta Model in place (how we wor
 
 First we need a backlog.
 
-What's on a backlog? There are only five things that can go on a backlog: tests we are currently working on, tests we will be working on next, test we need to start seriously thinking about, and the Master Backlog.
+What's on a backlog? Remember, there are only five things that can go on a backlog: tests we are currently working on, tests we will be working on next, tests we need to start seriously thinking about, and the Master Backlog.
 
 Physically, we just want some cards.  Diagrams are for navigation, cards for manipulation. And we plan on manipulating the backlog in a lot of different ways.
 
@@ -56,21 +56,21 @@ Everything on your backlog stays the same except for the items that are next up,
 
 This is because things are still grouped in the universe by business behavior, no matter how you would like to construct your work queue. So when you look at some random item you'd like to do, *you still need to look at all of the things around the behavior that the item falls under*. You'll need to match the same supplementals, you'll need to have the same downstream considerations, you'll need to change the acceptance tests for that behavior to match the new work you're doing. 
 
-You're free to do work in any order you'd like, but by now you know that by grouping your work under Business Behavior Abstract (and Realized and System Abstract if you're using those levels), you can put a bunch of related things in one place to consider while doing that work. You also know that large backlogs, since they can't fit inside the team's heads, are counter-productive. So you're still back to grouping by Business Behavior Abstract, then "blowing things out" as the time to do the work approaches.
+You're free to do work in any order you'd like, but by now you know that by grouping your work under Business Behavior Abstract (and Realized and System Abstract if you're using those levels), you can put a bunch of related things in one place to consider while doing that work. You also know that large backlogs, since they can't fit inside the team's heads, are counter-productive. You also know that the backlog isn't about what work you're going to do, it's about what value you're going to bring. So you're still back to grouping by Business Behavior Abstract, then "blowing things out" as the time to do the work approaches.
 
-What if you don't do sprints? Instead you work in a free-flow form? It's still the same, you'll just need to do the "hooking-up" work for items in you work queue at the last possible moment before you start on them. (Lean experts Mary and Tom Poppendieck describe this as waiting until the "Last Responsible Moment")
+What if you don't do sprints? Instead you work in a free-flow form? It's still the same, you'll just need to do the "hooking-up" work for items in you work queue at the last possible moment before you start on them. (Lean experts Mary and Tom Poppendieck were the ones that referred to this as waiting until the "Last Responsible Moment")
 
 Version control plays a role here. If you keep written analysis notes, you should version control them right alongside any work you're doing. After all, things change, and in any team beyond two people you can't expect to stay on top of everything all the time.
 
 One of the biggest anti-patterns I see in corporate work management systems is using them as some kind of weird requirements tool. People understand that nobody does Use Cases any more, so they try to stick all the stuff they might have stuck into a too-long Use Case into a too long User Story.
 
-You try to tell these folks that User Story titles are simply placeholders for future conversations, and you get blank stares. That's because they're aware that there are all sorts of important information that goes along with the user story, but you seem to be telling them to forget about it. It sounds like happy talk. 
+You try to tell these folks that User Story titles are simply symbolic placeholders for future conversations, and you get blank stares. That's because they're aware that there are all sorts of important information that goes along with the user story, but you seem to be telling them to forget about it. It sounds like crazy talk. 
 
 Once you understand Structured Analysis, however, you realized that yes, there is a bunch of stuff that goes along with any user story, but very little of it has to do with the user story itself. Instead it exists as part of the model up the pyramid somewhere. And it's always changing, maturing. The last thing in the world you want to do is somehow extract the entire analysis model from one person's head and stick it in the notes section for a user story three months before anybody starts work on it.
 
 What you want to do is just the opposite: keep your user stories in as simplistic a format as possible, pointing back to where they appear in the analysis. Then, just before you decide to work on one, snapshot what you know when you start just the same way you snapshot the codebase before you start coding. It's the same thing. The structure you create in terms of writing code or developing tech has to exist alongside of other behaviors and supplementals at the System Realized level. But it also has to exist alongside the behavior, structure, and supplementals of the analysis pyramid that begot it.
 
-E-gads, the last thing you want is a backlog nobody can read or understand all at once, stuffed full of "user stories" whack-full of notes from all over the place, put in who knows how long ago.
+E-gads, the last thing you want is a backlog nobody can read or understand all at once, stuffed full of "user stories" whack-full of notes from all over the place, put in by who-knows-who nobody-knows-how long ago.
 
 ## Let's Estimate
 
@@ -136,7 +136,7 @@ There's really no difference in ongoing grooming as opposed to greenfield groomi
 
 ## About UX/UI
 
-With Peter Principal and his Precision Possum Piloting School, we used UI wireframes (structures) to tease out behavior and supplementals.  This is a great technique to use with users, as long as:
+With Peter and his opossum school, we used UI wireframes (structures) to tease out behavior and supplementals.  This is a great technique to use with users, as long as:
 
 1. The users understand it's just a tool to drive creative conversations, and
 2. You tear up the wireframes and start over once the model starts filling out 
@@ -163,13 +163,13 @@ This has turned out to be a powerful tool in getting tech teams and businesses a
 
 If any of this is sounding familiar to you, it should! This is just a fun way of looking at the Master Backlog. Like estimating, User Story Maps are a wonderful game to look at the entire model at once. 
 
-Jeff has an entire book on this, and a lot has been written about User Story Mapping. If I started a new project, I'd do User Story Mapping every week for the first few weeks or so, but I'm like that. I would rather err on the side of annoying the team with games and make sure we have model alignment than be polite and have everybody with a different idea in their heads of what we're doing.
+Jeff has an entire book on this, and much more a=has been written about User Story Mapping. If I started a new project, I'd do User Story Mapping every week for the first few weeks or so, but I'm like that. I would rather err on the side of annoying the team with games and make sure we have model alignment than be polite and have everybody with a different idea in their heads of what we're doing.
 
 ## ATDD 
 
-ATDD stands for Acceptance Test-Driven Development. It's what we've been talking about, except explicitly for technology work. It says that work does not start until a failing test has been created that describes a successful conclusion to the work.
+ATDD stands for Acceptance Test-Driven Development. It's what we've been talking about, except explicitly for technology work. It says that work does not start until a failing test or tests has been created that once those tests pass the work is considered complete.
 
-When we talked about the backlog being an ordered list of tests or goals, this is what we meant. Instead of directly specifying the work, we directly specify a behavioral test that must pass for the work to be successfully concluded. So the analysis model, backlog and all of that? When we say that they're not a specification, we mean that you never, ever *do* a specification. You can get whatever you want without thinking in terms of a spec -- and thinking in terms of a spec always ends up designing a system far ahead of when it should be designed. It's a total time sink.
+When we talked about the backlog being an ordered list of tests or goals, this is what we meant. Instead of directly specifying the work, we directly specify a behavioral test that must pass in the target system for the work to be successfully concluded. So the analysis model, backlog and all of that? When we say that they're not a specification, we mean that you never, ever *do* a specification. You can get whatever you want without thinking in terms of a spec -- and thinking in terms of a spec always ends up designing a system far ahead of when it should be designed. It's a total time sink.
 
 We talked about the Analysis Model being a force multiplier. If there ever was the opposite of that, something that destroyed productivity far beyond what you think it would, it would be specification-driven development. You can totally destroy billions of dollars of effort and tens of thousands of lives with just a few well-placed (and good-sounding! Usually these are the types of things nobody would ever think to disagree with) sentences in a spec somewhere.
 
@@ -213,6 +213,8 @@ These feature files can make a great story-at-a-glance reference. There are two 
 
 "SCENARIO" is a list of all the paths through the story that you've captured. "CODE" is computer code you want attached to the behavior to come out later. **EasyAM isn't a tool for translating models into code.** But if what you've captured is useful later on, there's no reason it can't create a report to help you code whenever you get around to it.
 
+By the way, there is a specification to your program, an artifact that describes exactly what it must do. It's the set of executing acceptance tests you've created as you've went along.
+
 ## EasyAM Compilation Report
 
 ![What have you been doing, EasyAM?](images/chapter21-reportamout.png)
@@ -223,6 +225,8 @@ We've talked about seven kinds of output from EasyAM. Model Cards, a Master Ques
 
 ## Possum Pilots Postscript
 
-After working for a month or two, Peter Principal's pretty pleased with your possum piloting programming. He releases you to work on other examples in this book, along with a letter of recommendation and a giant stuffed talking possum for each of you to put in your office.
+After working for a month or two, Peter's pretty pleased with your possum piloting programming. He releases you to work on other examples in this book, along with a letter of recommendation and a giant stuffed talking possum for each of you to put on the wall in your office.
 
 You didn't get him anything, you schmuck. Don't you feel bad? Some times I don't know why I put up with you.
+
+Now let's talk about working with legacy systems. Then we'll get into the really nerdy stuff, like the TDA Analysis Wheel and teams that manage intangibles before we finish out this section.
