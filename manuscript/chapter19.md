@@ -52,7 +52,7 @@ Good grooming does five things:
 4. Verify we're ready for the next bit of work
 5. Tease out the best way the entire model might be delivered
 
-This is just a typical process list you might get from a trainer. It helps you make an agenda for grooming. There could also be games, puppets, or laser tag. That's a process question. Whatever you do when you do your grooming, you end up having a dialectic that focuses around three question: 
+This is just a typical process list you might get from a trainer. It helps you make an agenda for grooming. There could also be games, puppets, or laser tag. That's a process question. Whatever you do when you do your grooming, you end up having a dialectic that focuses around three questions: 
 
 1. What will it do when it's done?
 2. What's important right now for it to start doing?
@@ -163,7 +163,9 @@ That's it. Nothing else. Since your Master Backlog is a small list of things, 20
 
 But what about bugs? Defects? Feature requests? That thing with the font on page 17?
 
-If it's coming up next, it's coming up next. If it's on the radar, it's on the radar. If it's not either of those two things? It's in the model -- where it should be. Analysis is about what happens in people's heads. Your brain can't handle more than 3 or 4 dozen items. Why would you create and maintain things in your environment that you're unable to grasp and work with as a group? It's a horrible and dehumanizing anti-pattern.[^19-30]
+If stuff is coming up next, it's coming up next. If stuff is on the radar, it's on the radar. If what we're talking about is not either of those two things? It's in the model -- where it should be. Analysis is about what happens in people's heads. Your brain can't handle more than 3 or 4 dozen items. Why would you create and maintain things in your environment that you're unable to grasp and work with as a group? It's a horrible and dehumanizing anti-pattern.[^19-30]
+
+Note that I am **not** saying you won't end up with various large lists of things. There are myriad interesting and valid reasons for having various big lists o' stuff. Some of you folks may be calling these lists a backlog. That's fine. You can call things whatever you want -- just for purposes of this book, those things are not backlogs. (And calling those other things backlogs may be a big reason why your release planning, roadmapping, estimation, and other processes don't work the way the books tell you they're supposed to.)
 
 [^19-30]: Many of you will have lots of questions around other ways of manipulating the analysis model: release plans, roadmaps, bug triage, and so forth. We'll handle these as we get to them. Right now it's grooming. 
 

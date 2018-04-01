@@ -25,4 +25,7 @@ chapter22.md
 chapter23.md
 chapter24.md
 chapter25.md
+chapter26.md
+chapter27.md
+chapter28.md
 backmatter.md
