@@ -1,6 +1,6 @@
 # Chapter 18
 
-![The Test-Driven Analysis Wheel](images/Test-Driven-Analysis-Constellation.png)
+![Coming up in a couple of chapters, the Test-Driven Analysis Wheel](images/Test-Driven-Analysis-Constellation.png)
 
 ## Backlogs
 
@@ -14,7 +14,7 @@ I believe that having a mission comes ahead of everything else. A mission transl
 
 [^18-2]: Scott Adams covers this in-depth in his "Goals are for losers" essay. [http://blog.dilbert.com/2014/01/21/goals-are-for-losers-passion-is-bull/](http://blog.dilbert.com/2014/01/21/goals-are-for-losers-passion-is-bull/)
 
-Of course, that kind of top-down planning mmakes sense in fixed domains where the number of unknowns is drastically reduced, like sales or warehouse management, but not in an environment where everything is poorly defined and changing, like, say, life. If you're in a factory building widgets, you know how widgets are put together and what widgets look like *before you start anything*. That means everything is defined. In that case, certainly big physical things break into little things.
+Of course, that kind of top-down planning makes sense in fixed domains where the number of unknowns is drastically reduced, like sales or warehouse management, but not in an environment where everything is poorly defined and changing, like, say, life. If you're in a factory building widgets, you know how widgets are put together and what widgets look like *before you start anything*. That means everything is defined. In that case, certainly big physical things break into little things.
 
 People get it mixed up. They assume that they can come up with a goal, any goal. ("I would like to be master of space and time") Then, simply because they've written that goal down, broken it into smaller goals, they're magically able to define all of these heirarchical breakdown tasks. ("To begin, I will buy a watch."). Both in the technology development arena and in some of my dear friends' lives, I have seen folks create these wonderful imaginary task breakdown structures around whatever goal they have, simply by imagining how it all might work. The brain is an amazing tool, able to work with incomplete and contradictory information to assume what reality is. Give it a question, it'll give you an answer.
 
@@ -28,7 +28,7 @@ When we think top-down, we bring a bunch of baggage along with us, intentionally
 
 That's a feature of being human, not a bug. Humans are able to exist as a sentient species on this planet because of the way our brains work. We take vague, fuzzy, incomplete data  --- and construct a narrative and a universe around it. Get bitten by a clown when you're a kid and you avoid clowns for the rest of your life. That may be a horrible stereotype to have, and clowns don't deserve it, but it prevents you from having future clown bites. Our ability to imagine narratives and stereotypes, creating these imaginary castles out of thin air? It's a survival skill. We do it all the time subconsciously.
 
-Goals breaking down into smaller goals makes a kind of sense. After all, it's similar to what we've been talking about with our pyramids (Which are really much nicer than those other pyramids.) Something bad happens with tasks, though.
+Goals breaking down into smaller goals makes a kind of sense. After all, it's similar to what we've been talking about with our pyramids (Our pyramids are really much nicer than those other pyramids those other guys talk about.) Something bad happens once we start in with the tasks, though.
 
 ![It all looked so good at the top of the pyramid](images/goal-task-tree.jpg)
 
@@ -38,7 +38,7 @@ There's a difference between goals and tasks, and it turns out that understandin
 
 Goals have tests. Without an executable test, we don't have a goal. If I go out running, you can take a stop-watch and see how fast my mile is. We can dig out records and find the speed of claims processing. No test, no goal.
 
-**Tasks** are Meta Realized Behavior, that is, they're things that you (or your team) go out and do. Tasks have no tests associated back to the model. *Tasks have no relationship to goals except in our own minds* They are independent, stand-alone units describing *activity*, not *value*. We think of a goal, then we *imagine* the type and number of tasks it takes to reach that goal, then we start doing them. It the same thing people do when they take life goals and imagine how the tasks would all break down.
+**Tasks** are Meta Realized Behavior, that is, they're things that you (or your team) go out and do. Tasks have no tests associated back to the model. *Tasks have no relationship to goals except in our own minds* They are independent, stand-alone units describing *activity*, not *value*. We think of a goal, then we *imagine* the type and number of tasks it takes to reach that goal, then we start doing them. It's the same thing people do when they take life goals and imagine how the tasks would all break down.
 
 It's important to understand that there is no relationship between tasks and value. In the movie "Christmas Vacation", one character praises another character by saying "You know, he works hard", to which the reply is "So what? Dishwashers work hard". Activity and value are separate things.
 
@@ -54,15 +54,15 @@ Good **Backlogs** are a list of future behaviors/supplementals the target system
 
 Tasking out the backlog is an excellent way to spend a lot of time and money, make really good status reports, be stressed and busy -- without accomplishing anything of value. 
 
-I've seen a lot of poorly performing teams and organizations, and almost without exception I see tasking out the backlog as a key component of their poor performance. On dozens of occasions, sadly, I have walked into programs where there are a bunch of teams slugging away at something. Performance was down, staffing costs high, stress levels unacceptable. In every one of these cases, when I look at the team backlogs, they are full of tasks, not testable goals. (Behavior to-be matched up with supplementals)
+I've seen a lot of poorly performing teams and organizations, and almost without exception I see tasking out the backlog as a key component of their poor performance. On dozens of occasions, sadly, I have walked into programs where there are a bunch of teams slugging away at something. Performance was down, staffing costs high, stress levels unacceptable. In every one of these cases, when I look at the team backlogs, they are full of tasks, not testable goals. (Behavior to-be matched up with supplementals).
 
 Somebody, somewhere, at some time made some kind of mapping between goals and tasks -- just like our friend who wants to master space and time. But that person is not around anymore, didn't know what they were doing at the time, and what they imagined in their mind was completely wrong. It was the worst-way possible to accomplish things. 
 
 The team and developers can sort of tell you the purpose of their project, but not how to deliver value faster. How could they? At the end of the day, they're just checking off boxes on a to-do list. They're completing the work by going through a bulleted list that somebody else somewhere thought described what had to happen. They have ceased becoming valued and cherished parts of the organization.
 
-I have never, ever seen this work well. It's no unusual to see teams operating in this manner run 3, 4, 5, or even *10* times slower than other teams that aren't living this horrible life.
+I have never, ever seen this work well. It's not unusual to see teams operating in this manner run 3, 4, 5, or even *10* times slower than other teams that aren't living this horrible life.
 
-Watching teams struggle like this, over and over, watching marriages crumble, people have heart attacks, and companies fail? That's the reason I wrote this book. It doesn't have to be that way.
+Watching teams struggle like this, over and over; watching marriages crumble, people have heart attacks, and companies fail? That's the reason I wrote this book. It doesn't have to be that way.
 
 That's the reason I'm here. That's my mission.
 
@@ -74,9 +74,9 @@ Humans think naturally in terms of structure. Our minds are constantly combining
 
 So when we approach a new problem, we approach it as a structural matter, which works in 99% of all situations. Need a chair? Make these structural pieces and put them together like so. Voila, a chair. This is the way nature works.
 
-When we became industrialized, we started creating things using factories. Factories have assembly lines and stations. Station A makes these structural changes. Station B makes these changes. We combine the various sub-assemblies into the finished product. In short, to build a pre-defined physical object, we break it down into small pieces, build each piece, then put the pieces together. Just like everything else we experience life.
+When we became industrialized, we started creating things using factories. Factories have assembly lines and stations. Station A makes these structural changes. Station B makes these structural changes. We combine the various sub-assemblies into the finished product. In short, to build a pre-defined physical object, we break it down into small pieces, build each piece, then put the pieces together. Just like everything else we experience life.
 
-Beginning formally with a guy named Frederick Winslow Taylor, but informally a long time before that, people decided that to build stuff, you had to create categories and manage those little categories. Managers did management-kinda jobs. Head riveters riveted heads. A modern factory is a wondrous example of taking something complex, breaking it up into small pieces, then optimizing the production of each piece.
+Beginning formally with a guy named Frederick Winslow Taylor, but informally a long time before that, people decided that to build stuff, you had to create categories and manage those little categories. Managers did management jobs. Head riveters riveted heads. A modern factory is a wondrous example of taking something complex, breaking it up into small pieces, then optimizing the production of each piece.
 
 The problem is that this way of doing things only works for physical, well-defined things, not creative things. It works for making the widgets. It doesn't work for coming up with what a widget should be. When we built the deck, the analysis work we did was the creative part, coming into alignment with the customer, trying out various physical models in miniature form, and so forth. The actual building of the deck was mechanical and rote. Because we added analysis to the deck work, our customer was much happier than if he had simply pointed to something in a catalog.
 
@@ -88,17 +88,17 @@ Modern management theory is all about optimizing the machine. A business is a ma
 
 In this environment, managers are about codifying work into rules that control and implement flow and then optimizing the rules and the flow.[^18-50] Their job is to replace you with robots. There's nothing wrong with that. Nobody wants to be working in an 1880s sweatshop anymore. But the type of work that this represents is not the type of work Analysis covers. This kind of work assumes all the questions have been answered and there is no shared mental model to create or maintain (Insert long discussion here about how in many ways they may be wrong, but that's for another day.)[^18-51]
 
-[^18-50]: Nobody should ever write a book on making things without mentioning and giving credit to Donald G. Reinersten and his book "The Principles of Product Development Flow". Along those lines, Eliyahu M. Goldratt's book "The Goal" is also must-reading. (Read The Goal first, then Product Development Flow. Reinersten's book was a bit of a tough haul for me, but it's the basis about probably 200-300 other books, so it's foundational.)
+[^18-50]: Nobody should ever write a book on making things without mentioning and giving credit to Donald G. Reinersten and his book "The Principles of Product Development Flow". Along those lines, Eliyahu M. Goldratt's book "The Goal" is also must-reading. (Read The Goal first, then Product Development Flow. Reinersten's book was a bit of a tough haul for me, but it's the basis of about probably 200-300 other books, so it's foundational.)
 
-[^18-51]: You can use Structured Analysis as a powerful tool for optimizing, I've just never seen anybody do it. I've seen lots of Business Process Modeling, Statistical Process Control, and other Six Sigma-ish-type efforts, but not Structured Analysis. I think this is because each of these disciplines tends to focus in on detail, while the thrust of SA is about creating the simplest shared mental model possible that generates results. Don't know. I'll show you how to do this in the last section of the book.
+[^18-51]: You can use Structured Analysis as a powerful tool for optimizing, I've just never seen anybody do it. I've seen lots of Business Process Modeling, Statistical Process Control, and other Six Sigma-ish-type efforts put into service to make the widgets faster, but I've never seen Structured Analysis deliberately used as a tool to creatively re-design the widget factory. I think this is because each of these disciplines tends to focus on on detail, while the thrust of SA is about creating the simplest shared mental model possible that generates results. It's the opposite way of looking at things. Don't know. In the last section of the book we'll talk about using it like this.
 
 There is another business process which is, in some ways, the antithesis of modern management. It's called value discovery. Value discovery is what we've been doing with Structured Analysis; orienting ourselves in somebody else's world and coming up with stuff they would like. A successful startup combines value discovery into a machine that then can be managed. (Here is also an explanation for why so many great startup founders need to bring in professional management just when things start to take off. Management and value discovery are different skills.)
 
 Most management work optimizes the machine. Value Discovery creates the machine.
 
-What this means is that if you're interested in doing Structured Analysis and/or value discovery, 99% of the books out there are not for you. In fact, they will lead you down the wrong road entirely and your head in a bad spot. It also means that if you've been a great programmer, or have a sharp, analytical mind that can organize things spatially and structurally, the way you see and decompose problems is exactly the opposite of what's required in Structured Analysis. Your brain is broken. It will constantly mislead you.
+What this means is that if you're interested in doing Structured Analysis and/or value discovery, 99% of the books out there are not for you. In fact, they will lead you down the wrong road entirely and put your head in a bad spot. It also means that if you've been a great programmer, or have a sharp, analytical mind that can organize things spatially and structurally, the way you see and decompose problems is exactly the opposite of what's required in Structured Analysis. Your brain is broken. It will constantly mislead you.
 
-I can almost guarantee you that whatever your background, it hasn't prepared you to break down goals into tasks in a way that actually works over big chunks of time.[^18-4] In startup work and general analysis work, we make lots of mistakes. We find that we continue to apply things that worked for us in the past to the current situation, because humans. And then we waste a lot of time and money.
+I can almost guarantee you that whatever your background, it hasn't prepared you to break down goals into tasks in a way that actually works over big chunks of time.[^18-4] In startup work and general analysis work, we make lots of mistakes. We find that we continue to apply things that worked for us in the past to the current situation, because we're humans. And then we waste a lot of time and money.
 
 No matter how smart you are, your instincts will lead you wrong. Every time. You have to get a deep grasp of just how broken your brain is and how easily it will lead you into setting things up in a way that won't work well. That's the difference between your long-term success, failure, or mediocrity.
 
@@ -114,7 +114,7 @@ Wrong.
 
 As we learned in the deck example, whenever you take these things at face value, you cheat both the customer and yourself. In that example, the customer just *knew* the deck steps had to be ten feet wide. But what he really knew was that he had a couple of common visitors that were rather large, and he didn't want to do anything to make them uncomfortable. That supplemental, not the structural size of the deck, was important to a lot more than simply the stairs.
 
-Whatever the structure, ask yourself what behavior and supplementals it satisfies. Then ask where those pieces apply in across the rest of the analysis model. Most of the time when you get a structure request, it's because the customer has been doing analysis for you in their head, "helping" you. After a couple of times walking through how you tease apart these requests, they'll be more than happy to work with you on the rest of them.
+Whatever the structure, ask yourself what behavior and supplementals it satisfies. Then ask where those pieces apply across the rest of the analysis model. Most of the time when you get a structure request, it's because the customer has been doing analysis for you in their head, "helping" you. After a couple of times walking through how you tease apart these requests, they'll be more than happy to work with you on the rest of them.
 
 *We're doing data warehouse work.* Data warehouse work is a bit of an odd duck because many times it looks like software development when it's not. The key term is "warehouse". You're not building a warehouse. The warehouse already exists. You're just putting stuff in and taking it out.
 
@@ -136,7 +136,7 @@ And each of those people? They each have been to several specialized training se
 
 If you don't know what you are doing, if you lose track of the goal and instead focus on the people or technology, you'll end up pulling out each persons work pattern tasks and stuffing a backlog full of it. Then, when somebody tells you the backlog is for goals only, it doesn't make any sense. How can we get the database done if we don't have database things on the backlog?
 
-But that's not the way it's supposed to work. What's supposed to happen is that you have a goal/test to meet, and then anybody involves adapts their work pattern to reach that goal. If they don't understand how to do that? Then we need to train them. They have been misled, probably by other trainers.
+But that's not the way it's supposed to work. What's supposed to happen is that you have a goal/test to meet, and then anybody involved adapts their work pattern to reach that goal. If they don't understand how to do that? Then we need to train them. They have been misled, probably by other trainers.
 
 Over time, all of the jobs that are necessary get done, but they get done in increments as the target system begins to exhibit more and more new behaviors. Nothing goes away. All of that cool engineering you learned in school is still applicable. Every role or layer just isn't the center of its own little universe. You just need to look at things the right way, instead of the wrong way. Don't let your natural inclination to become an expert in one area get in the way of the team staying laser-focused on goals and tests.
 

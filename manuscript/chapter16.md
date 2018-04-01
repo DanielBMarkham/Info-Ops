@@ -20,7 +20,7 @@ In our case, we've played with physical models that represent structure all alon
 
 The analysis has done its job when both the customer and us have a stable shared mental model on how this deck is going to look and work. We test that stability by using simplified structural proxies, things like floorplan games, diagrams, or modeling clay. Put a different way, we walk the Analysis Model asking ourselves which outstanding questions are in the way of making the customer happy (i.e. facilitating the behavior the customer desires). Then we ask those questions, either directly or by creating a structural proxy that contextualizes and facilitates the discussion. In the begining, most questions can just be asked. The structure's in our head. But with any kind complex, ongoing project, important questions need some kind of structural proxy in order for people to make sense of them.
 
-Now we know we have what we need, if required by building code, we'll draw up some blueprints and get a sign-off. Heck if we've been updating our online model as we go, we may already have that completed. If a blueprint is not required, we'll simply move on.
+Now we know we have what we need. If required by building code, we'll draw up some blueprints and get a sign-off. Heck if we've been updating our online model as we go, we may already have that completed. If a blueprint is not required, we'll simply move on.
 
 ## Links
 
@@ -124,15 +124,15 @@ We walk over to where the grill will be. What we're doing here is walking throug
 
 To the customer, however, it just looks like we are smokin' hot at knowing what our job is. Maybe a little bit on the too-detailed side -- but that's a good thing.
 
-"Over here is where the grill will be, like we discussed. Your grill fits right in here and should no problem feeding up to five people, maybe twice that. (glances at card again). Nothing complicated here. You know, "Big Bubba" (his pet name for his grill) is going to look great sitting there. The dark color will sit mostly behind the rail, looking like a shadow from the treeline. I don't think the building inspector will have any problem here."
+"Over here is where the grill will be, like we discussed. Your grill fits right in here and there should no problem feeding up to five people, maybe twice that. (glances at card again). Nothing complicated here. You know, "Big Bubba" (his pet name for his grill) is going to look great sitting there. The dark color will sit mostly behind the rail, looking like a shadow from the treeline. I don't think the building inspector will have any problem here."
 
 Then we walk him through the flow.
 
 "So you reach into the refrigerated cabinet, to the left beside the grill, grab your burger and dogs and fry 'em up. When they're ready, you turn around, walk six feet and put them on the table. If a couple of friends want to help you cook, there's plenty of room."
 
-That's the really detailed way of doing it. The laziest way, and what I would probably do, since I am a lazy person, is just stand there and point at the deck going through the behavior list -- but I would use structure terms. Remember: you want behavior, you talk about structure (or supplementals)
+That's the really detailed way of doing it. The laziest way, and what I would probably do, since I am a lazy person, is just stand there and point at the deck going through the behavior list -- but I would use structure terms. Remember: you want behavior, you talk about structure (or supplementals).
 
-"Over there is where the steps will go (enter and leave). The grill goes here. (Cookout food). Hot tub's there. Hammocks right beside it. The table is big enough for all of your games, and there's plenty open space, easily enough for you and your friends to stargaze."
+"Over there is where the steps will go (enter and leave). The grill goes here. (Cookout food). Hot tub's there. Hammocks are right beside it. The table is big enough for all of your games, and there's plenty of open space so your friends can easily stargaze."
 
 That covers the status of the project in two minutes. If he has a question about the structure, pop immediately back over to behavior and supplementals and restate.
 
@@ -140,9 +140,9 @@ Every day or so, we repeat and rinse. Point to System Realized Structure stuff, 
 
 At the end, you could perform some kind of formal walkthough or hand-off, but why? You've made sure there's no gap in understanding between you or the customer, and you both know where everything is and more importantly, *why things are made the way they are.* So there's nothing to approve. Go out and get a beer or something.
 
-But let's say the first day, as we're pointing at stuff, when we point at where the stairs go, the customer says something like "That's not going to be wide enough at all"
+But let's say the first day, as we're pointing at stuff, when we point at where the stairs go, the customer says something like "That's not going to be wide enough at all".
 
-What do we do? Do we ask exactly wide they should be?
+What do we do? Do we ask exactly how wide they should be?
 
 I sure hope not. I'd ask "Why?" Because I'm really interested how the customer and I have such different ideas about this. Changing the deck is easy. Continuing to live on different planets is painful. The mental model misalignment problem is much more important than a stupid stair measurement mistake.
 
@@ -172,7 +172,7 @@ What you will find is that the more you use EasyAM in a reasonable and constrain
 
 If this drags on longer than a few minutes, you can run another set of cards, get out the modeling toys, and have a bit of continued analysis, just like you did before you started. (I have never had this happen. Usually just taking a few minutes and poking through a few cards, we're good to go.)
 
-This should sound very cool to you. The more you see this happen in your practice, whatever you're using it for, the more it will seem like magic. Compare that to the usual way of trying to "capture requirements" Then going back for scope control, filing requirements variance reports. Yuck. Blech. (And even when you do it that way, you never, ever get around to addressing your real problems: bad conversations probably due to some Meta issues.)
+This should sound very cool to you. The more you see this happen in your practice, whatever you're using it for, the more it will seem like magic. Compare that to the usual way of trying to "capture requirements". Then going back for scope control, filing requirements variance reports. Yuck. Blech. (And even when you do it that way, you never, ever get around to addressing your real problems: bad conversations probably due to some Meta issues.)
 
 10/10 highly recommended. Would do again.
 
@@ -212,7 +212,7 @@ Correct. That's because these model cards are for a single purpose. They're not 
 
 This is a key part about automating: delivering the right amount, but also the minimal amount of information needed for whatever the job is. These cards are useful for a lot of general-purpose stuff. Maybe if we were comparing how much work we've done we would make cards with WORKS items on them. We design different cards for different kinds of things.
 
-There is a single place you can go to see everything about an item -- but it's not a place that you would use to do any work. It's the .amout file for that item. It's just a sanity check. Remember: the tool, even if it's a bunch of cards, is not the work.
+There is a single place you can go to see everything about an item -- but it's not a place that you would use to do any work. It's the .amout file for that item. It's to be used as a sanity check. Remember: the tool, even if it's a bunch of cards, is not the work.
 
 We want to do as much as we can to prevent or discourage folks from spending a lot of time with their head stuck in any tool.
 
@@ -256,7 +256,7 @@ It's the linkages that matter. That's what you need. When you are orienting your
 
 Ok, dang it. Let's draw the lines in! I've got a drawing tool, dang it, and I'm not afraid to use it!
 
-![](images/Chapter 16 Deck Overview2.jpg)
+![I hope that clears things up for you](images/Chapter 16 Deck Overview2.jpg)
 
 Ooof. That's a mess. Although if we had a plotter and generated a wall-sized diagram, it might work. It's just not very useful for carrying around with you or putting on a cubicle or team wall. It may be useful for attracting spiders, though.
 
@@ -268,17 +268,17 @@ And it was as exciting as watching paint peel. The only thing that kept me from 
 
 After that, I tried printing the detail pages of everything on a certain level and sticking them on the wall. When I add the diagrams for the three buckets, it works. Takes up a lot of space, but it works.
 
-Over the past couple of years, as I have taught Structured Analysis to teams all over the place, I have been trying to develop **one chart to rule them all**, my idea of a single diagram to get you oriented and working as quickly as possible.
+Over the past couple of years, as I have taught Structured Analysis to teams all over, I have been trying to develop **one chart to rule them all**, my idea of a single diagram to get you oriented and working as quickly as possible.
 
 ![Behold, the **Analysis Canvas!**](images/AnalysisCanvasInfoGraphic.png)
 
 Eventually this will all be standard EasyAM output, once the industry has banged it around enough that we know it makes sense. For now, if you're interested in creating your own Analysis Survey, there are instructions in the appendix. (It's not that hard to do, but it takes a few hours).
 
-The key thing about the Analysis Survey that has to be true no matter how it's done is the overall plan for how to read it, which is called out in the boxes. 
+There are some key things that the Analysis Survey does. No matter what it eventually looks like, you have to be able to quickly spot several things. These are all called out in the boxes. 
 
 Behavior should generally stay to the left, since that's what scopes projects. Supplementals stay to the right because they control the quality of what we do. Structure is in the middle because it's the tension between behavior and supplementals that determines and validates structure.
 
-For any level, there are the things "outside" or "above" it. That should be at the top. There are the things that go inside our minds as we created a shared mental model. That should go in the middle. There are the interconnections between the buckets where the magic of Structured Analysis happens. Finally there are "downstream" impacts, other groups, machines, teams, and people that are impacted every time our mental model changes. That should go at the bottom.
+For any level, there are the things "outside" or "above" it. They should be at the top. There are the things that are inside our minds as we create and work a shared mental model. They should go in the middle. There are the interconnections between the buckets where the much of the magic of Structured Analysis happens. They should go towards the bottom. Finally there are the "downstream" impacts of things we've talked about: other groups, machines, teams, and people that are impacted every time our mental model changes. They should go at the bottom.
 
 This version of the Analysis Survey is good enough for now, but it needs a lot of work. It's far too busy for a standard-sized piece of paper. It probably would work on a printer that prints tabloid or A2-sized paper. Improvement needed here.
 
@@ -288,4 +288,4 @@ This book is about capturing and moving information around so that the right peo
 
 To do that, we spent some time learning a tagging system. Then we talked about where details go. Then we talked about how pieces of information link to one another to form intersections where critical conversations occur. We walked through several projects where those conversations happened. Entering this section, we learned how to automate capturing and processing that information. Now we've just learned how to use those automation tools to make something people want.
 
-We have built a deck and our customer loves it. Next let's talk about lessons learned and how we can take the analysis work we've done so far on the deck and continue to use it. Then we'll move on to using what you've learned in a small team situation. Learning to use the tools to optimize work in a small team environment is our goal for this section.
+We have built a deck and our customer loves it. Next let's talk about lessons learned and how we can take the analysis work we've done so far on the deck and continue to use it. Then we'll move on to using what we've learned in a small team situation. Learning to use the tools to optimize work in a small team environment is our goal for this section.

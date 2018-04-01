@@ -4,7 +4,7 @@
 
 Just to get everybody caught up, a backlog is a series of partially-constructed tests. We make those tests by combining Behavior To-Be and various Supplementals To-Be. We don't develop the tests all at once, instead, we continue to mature the analysis model and then pick off pieces to make into tests once we get close to when we want to use them. 
 
-Tasks are to-do items. They may be associated with tests -- or not. They may be just things we'd like to do one day. They may be tremendously valuable things that must happen right away! Or things we'd like to do one day. Tasks may be *associated* with tests, but they have no tests directly tied to them. There's no test you perform to see if a task is done aside from just looking at something. Did you wash the car? I did! (Looks at car). I see that. Thanks!
+Tasks are to-do items. They may be associated with tests -- or not. They may be just things we'd like to do one day. They may be tremendously valuable things that must happen right away! Or things we'd like to do one day. Tasks may be *associated* with tests, but they have no tests directly tied to them. They're just things we'd like to do one day. There's no test you perform to see if a task is done aside from just looking at something. Did you wash the car? I did! (Looks at car). I see that. Thanks!
 
 You can't tie tasks to goals/tests without mentally defining what you want it to look like and how it's built. At that point, all creative work stops. Any analysis work is done. Goals/tests created from the analysis model define value. Tasks define *activity*, not *value*.
 
@@ -14,13 +14,13 @@ Tasks are good and necessary in other areas, though. Set aside time for to-do it
 
 [^19-1]: When I develop software for myself my entire tracking system consists of post-its on my monitor. On the left is to-do, on the right is completed. At the bottom are things I need to consider. The entire model exists in my head, and the reason I refuse to use any more structure than that is that if I can't see it, it doesn't exist. I want my mind constantly going through the analysis model and how it relates to the work-in-progress. Otherwise, if I put things in a doc somewhere, for me it's just a formal way of forgetting about them.
 
-[^19-0]: Most everybody will have examples of where they had a creative job, broke it into tasks, and everything worked out fine. In most all of these cases, that's because there are only one or two people involved, the task list isn't considered written in stone, and everyone involved is actively challenging the shared mental model with one another as they go along. That's a wonderful thing when it happens, but it only works in extremely tiny and constrained situations. You'd be fool or idiot to try it in the commercial world. Even in those isolated environments, it's as likely to fail as succeed.
+[^19-0]: Most everybody will have examples of where they had a creative job, broke it into tasks, and everything worked out fine. In most all of these cases, that's because there are only one or two people involved, the task list isn't considered written in stone, and everyone involved is actively challenging the shared mental model with one another as they go along. That's a wonderful thing when it happens, but it only works in extremely tiny and constrained situations. You'd be fool or idiot to try it in the commercial world. Even in those isolated environments, it's more likely to fail as succeed.
 
 The same can not be said of breaking down big tasks into smaller tasks in a non-creative, factory-like environment where value discovery is completely off-the-table.
 
 **The backlog isn't about stuff you're going to do. It's about ways you're going to change the target system.**
 
-Ideally you wouldn't do anything and change the target system to provide fabulous wealth and we're all living on tropical islands drinking those drinks with little umbrellas in them. Worst-case, you have some to-do list from hell that you call a backlog and everybody far too much work than they ever could get done and the target system doesn't change at all.
+Ideally you wouldn't do anything and and you'd still somehow change the target system to provide fabulous wealth and we're all living on tropical islands drinking those drinks with little umbrellas in them. Worst-case, you have some to-do list from hell that you call a backlog and everybody has far too much work than they ever could get done and the target system doesn't change at all.
 
 ## How NOT to do Backlog Grooming
 
