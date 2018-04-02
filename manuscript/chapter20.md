@@ -1,28 +1,32 @@
 # Chapter 20
 
-Congratulations! You've just received a large grant from a well-known charity to write software in support of flying schools for opossums. Flying squirrels get all the good press. The radical fringe group "Opossums United Curriculum Help (OUCH!)" wants somebody to develop a computer program to help those brave folk around the world who are teaching opossums to fly. Too often these kind warriors are forgotten. Ever seen a fundraiser for opossum trainers? Ever see a flying opossum? See?
+Congratulations! You've just received a large grant from a well-known charity to write software in support of flying schools for opossums? Flying squirrels get all the good press. You never hear anything in the news about possums that want to fly. The radical fringe group "Opossums United Curriculum Help (OUCH!)" wants somebody to develop a computer program to help those brave folks around the world who are teaching opossums to fly. Too often these kind and generous warriors are forgotten. Ever seen a fundraiser for opossum trainers? Ever see a flying opossum? See?
 
-Along with the grant came a first-class ticket to Hooterville, Indiana, home of Peter's School of Opossum Flying and Self Defense. It's a place for possums tired of feeling let down and disgruntled and ready to launch themselves into the void.
+Along with the grant came a first-class ticket to Hooterville, Indiana, home of Peter's School of Opossum Flying and Martial Arts. It's a place for possums tired of feeling let down and disgruntled and ready to launch themselves somewhere out into the void.
 
 You even have a team of three! Woot! It's about time you got some help around here. I'm very proud of you.
 
-As you walk through the gates and onto hallowed ground, a plaque welcomes you, reminding you of the terrible price of failure.
+As you walk through the gates and onto hallowed ground, you see a plaque. It reminds you of the terrible price of failure.
 
-![Remembering the fallen](images/opossum-mypossum.png)
+![Remembering the fallen. Opossum, my possum.](images/opossum-mypossum.png)
 
-When you meet Peter, the owner, the first thing you ask him is if he and your team can just work side-by-side for a few weeks. You'll help him with the possum pilot preparations, he can help you with the coding. This would create an instant feedback loop, eliminate any kind of analysis or backlog, and cut the crap down to the minimum-needed to get this software written and providing value to people. Also I would get to skip writing the rest of this chapter and we could all head out for beers.
+When you meet Peter, the owner, the first thing you ask him is if he and your team can just work side-by-side for a few weeks. You'll help him with the possum pilot preparations, he can help you with the coding. This would create an instant feedback loop, eliminate any kind of analysis or backlog, and cut the crap down to the minimum-needed to get this software written, out the door, and providing value to people. Also I would get to skip writing the rest of this chapter and we could all head out for beers. Who's up?
 
-This does not work for him. The demands of opossum organizations weigh heavy on the man, such that we'll have to set up some kind of schedule. In addition, there are other possum schools that need to use the software, not just this one. Peter isn't a customer, rather, he's not *all* of our customers. He's just a guy to help us understand the needs of possum people.
+Also, this does not work for him. The demands of opossum organizations weigh heavy on the man, such that we'll have to set up some kind of schedule. In addition, there are other possum schools that need to use our software, not just this one. Peter isn't our customer, rather, he's not *all* of our customers. He's a potential first customer. He's just a guy to help us understand the needs of possum people.
 
--sigh-
+-sigh-[^20-20]
 
-Ok. So who *are* the customers? Where are they? What do they look like? It's good you're know about analysis because you guys have a ton of questions. You look up the number to the OUCH! people and give them a call.
+[^20-20]: Whhy does everything always have to be so complicated? I know these examples are contrived, but real-world projects are just like this. They start off simple and quickly get complex.
 
-As it turns out, those headquarters maroons don't even want you to write software. Instead, all they want right now is for you to come back in a month or two and pitch them on what software *might* look like. Ouch! Those guys!
+Ok. So who *are* the customers? Where are they? What do they look like? It's good that you know analysis because you guys have a ton of questions. You look up the number to the OUCH! people and give them a call.
+
+As it turns out, those headquarters maroons don't even want you to write software. Instead, all they want right now is for you to come back in a month or two and pitch them on what software *might* look like. Ouch! Those guys! Ouch!
 
 You've read this book, so you know that analysis work without a test is breaking the rules. How are you supposed to know that the model is developed enough without a test? You could stop after five minutes. You could take five years. This is the crux of the problem with analysis paralysis. No tests, no end in sight.
 
-How about if you guys built a *prototype* application while talking to Peter? It'll take the same amount of time either way, and you'd feel much better to have something to show them.
+You also know that the quicker the tests happen and the lower the level that the tests happen on, the faster you make progress.
+
+How about if you guys built a *prototype* application while talking to Peter? It'll take the same amount of time either way, and you'd feel much better to have something to show them back at HQ.
 
 They're okay with that. Hanging up the phone, you now have two goals in mind for your work:
 
@@ -31,13 +35,13 @@ They're okay with that. Hanging up the phone, you now have two goals in mind for
 
 The team spends an hour with Peter asking whatever questions come to mind. As he answers, the team asks follow-up questions, bouncing from bucket to bucket and trying to stay at the Business Abstract level (in their heads. Let's not bother Pete with Structured Analysis. He's got possum work to do.) 
 
-In fact, whenever Pete wandered into System Realized stuff, as real humans are wont to do, the team took especially careful notes, looked as sympathetic as they could -- then tried to capture what Business Abstract Behavior or Supplementals Pete was instantiating. The actual stuff he said at that level stayed in their heads but did not go in the notes. (Why? Because if we don't understand why we're helping Pete, Pete's world, we're never going to understand all the thousands of other possum trainers out there like Pete. They simply explained to Pete that we would get to the programming very quickly. If he would be kind enough to hang on to the programming-level stuff, we would circle back in a week or so and get it.)
+In fact, whenever Pete wandered into System Realized stuff, as real humans are wont to do, the team took especially careful notes, looked as sympathetic as they could -- then tried to capture what Business Abstract Behavior or Supplementals Pete was instantiating. The actual stuff he said at that level stayed in their heads but did not go in the notes. (Why? Because if we don't understand why we're helping Pete, Pete's world, we're never going to understand all the thousands of other possum trainers out there like Pete. We simply explained to Pete that we would get to the programming very quickly. If he would be kind enough to hang on to the programming-level stuff, we would circle back in a week or so and get it. For now we're really more interesting in why he would want that.)
 
 Pete doesn't know it, but Pete is training us to think like Pete. That's the real goal of the entire grant: know these possum flight trainers well enough to be able to anticipate their needs. (That's the goal of any technology development effort.) That's one of the many reasons Pete giving us System Realized stuff is so whack. We'll never learn to think like Pete like that.
 
-Then you all go back to the hotel. Time for some grooming!
+We all go back to the hotel. Time for some grooming!
 
-The first thing you do is compare notes, agree on what you understand, then run the final version through EasyAM. The meeting with Pete was step 1 of the grooming agenda we're using, **Introduce new information**. 
+The first thing we do is compare notes, agree on what we understand, then run the final version through EasyAM. The meeting with Pete was step 1 of the grooming agenda we're using, **Introduce new information**. 
 
 ![](images/chapter20-initialnotes.png)
 
@@ -49,7 +53,9 @@ Our agreed-upon notes covers all of the top and most of the second section of th
 
 Step 2, **"Synchronize the Model"**, was handled just by everybody taking their notes and agreeing on one version for EasyAM. If you had already had stuff written down, you would have to have everybody agree with one another, then agree with your previous notes. If you can't all agree, something's gotta change somewhere.
 
-Step 3 is cleaning up the backlog to make it manageable. Wait! There is no backlog! We just got started! So let's throw a few things on there for Pete to look at tomrrow.
+Step 3 is cleaning up the backlog to make it manageable. Wait! There is no backlog! We just got started! 
+
+We'll need a backlog, then. Let's throw a few things on there for Pete to look at tomrrow.
 
 ## Analysis Affinity Mapping
 
@@ -80,23 +86,23 @@ Next one is "organize possums into tribes". It's like the first one. For all we 
 
 Next is "administer flying tests". Next to "administrator" we add "administer flying tests"
 
-Wait! "Test" seems like an important word. We'll be talking about that a lot. But it's not in our domain model! Yikes! We make a note to add it later (Or add it right away. You can do it either way) And what does the test actually check, anyway? It checks how much of the training material has been learned by the possum, right? So --- where's "training material". That's an important phrase. Don't see it anywhere either.
+Wait! "Test" seems like an important word. We'll be talking about that a lot. But "test" is not in our domain model! Yikes! We make a note to add it later (Or add it right away. You can do it either way). And what does the test actually check, anyway? It checks how much of the training material has been learned by the possum, right? So --- where's "training material"? That's an important phrase. Don't see it anywhere either.
 
 Well frack. This is getting out of hand. So we make a note to add "training material" and continue on.
 
-"Assign possums to classes" affects possums, course, teacher, training period, administrator
+"Assign possums to classes" affects possums, course, teacher, training period, administrator.
 
 Wait a minute. We catch these possums in the woods, right? So how do we know that they're eligible for classes? Don't we have to enroll them?
 
-Geesh. Ok. So add "Enroll possums into school" to our list of things to add 
+Geesh. Ok. So add "Enroll possums into school" to our list of things to add later. 
 
-Now we have "launch possums from catapults" which involves a teacher during a training period taking a possum and shooting him into space using a catapult. Hey, learning to fly ain't easy.
+Now we have "launch possums from catapults" which involves a teacher during a training period taking a possum and shooting him into space using a catapult. (Hey, learning to fly ain't easy.)
 
 "Clean possums" affects only the teacher and the possum involved
 
 "Create training material" is where a teacher creates training material for a course which needs to be approved by an administrator
 
-"Create flying tests" uses the teacher, training material, course, and administrator again
+"Create flying tests" uses the teacher, training material, course, and administrator again.
 
 So now we have each noun phrase listed by connections, then all the behaviors it supports, like this:
 
@@ -109,9 +115,11 @@ So now we have each noun phrase listed by connections, then all the behaviors it
 * Tribe: assign possums to tribes
 * Catapult: launch possums from catapults
 
-But we have new nouns! New behaviors! As we did this, we started getting new stuff. Shouldn't we re-do the list?
+But we have new nouns! New behaviors! As we did this, we started getting new stuff. Shouldn't we re-do the list? Start again?
 
-No. We should not. We're grooming. We're not disarming a nuclear missile. If this takes more than a few minutes we're spending too much time on it. Our goal here is to "gain agreement that enough has been described to create a failing test at some lower level." In other words, do we have enough to create an ordered list of behaviors we might want to test?
+No. We should not. We're grooming. We're not disarming a nuclear missile. If this takes more than a few minutes we're spending too much time on it. Our goal here is to "gain agreement that enough has been described to create a failing test at some lower level." In other words, do we have enough to create an ordered list of behaviors we might want to test?[^20:26]
+
+[^20:26]: We're also going to be doing this kind of thing over and over again.
 
 We do. "Assign possums to classes" both appears associated with our most important noun ("Teacher", for now) and with the most other nouns (4). Second place looks like "Create Flying Tests" which has 4 nouns total. Third place is "Create training material", which also impacts our most important noun and hits on 3 nouns total. 
 
@@ -128,13 +136,15 @@ Fourth place? Who cares about fourth place? Second and third place were probably
 
 Yay! If you've taken any sort of backlogs course in the past, you're probably yelling, "Why would we want to create a backlog without a customer or product owner present?"
 
-***Because we want to be wrong***
+***Because we want to be wrong***. "Failing tests that tell us stuf we need to know", that's our motto.
 
-We want a test. Analysis happens naturally. In any given week a good team is probably going through 50 grooming cycles, most of them informal. In a lot of ways, it doesn't matter what we put down here as much as it matters that we have something to continue talking about with the customer. We have a test that could pass or fail.
+We want a test. Analysis happens naturally. Sure, we're calling this thing a meeting, but it's not, really. In any given week a good team is probably going through 50 grooming cycles, most of them informal. In a lot of ways, it doesn't matter as long as we have something that drives useful conversations with the customer. We have a test that could pass or fail.
 
 Since we haven't quite spent an hour yet at the hotel, and since we can use what we have in the model to make more tests, we sketch out a couple of screen wireframes (System Abstract Structure) to show to Pete tomorrow and get his feedback.
 
-Then we go back and add our new items to EasyAM, printing out the new diagrams. As we update the diagram, we realize we also forgot "Classroom", which is where a Teacher teaches a course during a training period to a bunch of possums, which we toss in there. And adding that, we realize we also have a "Schedule classes", which involves assigning teachers and courses to classrooms during a training period
+Then we go back and add our new items to EasyAM, printing out the new diagrams. As we update the diagram, we realize we also forgot "Classroom", which is where a Teacher teaches a course during a training period to a bunch of possums, which we toss in there.[^20:30] And adding that, we realize we also have a "Schedule classes", which involves assigning teachers and courses to classrooms during a training period
+
+[^20:30]: The behavior, not the possums.
 
 ![](images/chapter20-ucm2.jpg)
 
@@ -142,7 +152,7 @@ Then we go back and add our new items to EasyAM, printing out the new diagrams. 
 
 We also add in the mapping to the domain model we got while walking the model. The diagram is now out of "sync" with our affinity map, but it's not important. Here's our initial notes from the first meeting and our first formal grooming.
 
-![Whoa horsey! That's very busy, complicated, and impressive-looking](images/chapter20-initialnotes2.png)
+![Whoa horsey! That's very busy, complicated, and impressive-looking! We should charge more.](images/chapter20-initialnotes2.png)
 
 So we started in on #3, **"Clean up the backlog"**, realizing immediately that we needed some kind of initial ordered backlog. A null backlog is not manageable. Pulling a rabbit out of our hat, we walked the model to do an **Analysis Affinity Mapping**, which created more items and gave us a starting backlog. We'll do more Analysis Affinity Mapping in Section 3 when we talk about program management.
 

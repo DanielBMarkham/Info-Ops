@@ -287,17 +287,16 @@ In the deck example, we did the same kind of thing. As we continued playing with
 
 So much of what happens in analysis is invisible.
 
-There's also an aspect of this that's more social psychology than anything else. As the team keeps estimating, making stuff, then estimating some more, they end convincing themselves that whatever their model is, that's the true reality. And it become reality for them simply by them all agreeing on it.
+There's also an aspect of this that's more social psychology than anything else. As the team keeps estimating, making stuff, then estimating some more, they end convincing themselves about what's possible and impossible That becomes their reality. And it becomes a reality for them simply by them all agreeing on it.
 
-It's like placebos. It may be total crap *how* it works, but it actually works anyway, so who cares?
+It's like placebos. It may be total crap *how* it works, but it works, so who cares?
 
-(By the way, this more than anything else should convince you that the team should estimate *all* the backlog, start from fresh each time, and only use points as a lagging indicator. You can use this social bonding for evil. If the team only estimates the first day the project kicks-off, then estimates new things as they are added? They are never challenging or changing their mental model of the entire project delivery. They're just re-confirming that no further thought is needed. You can effectively "program" the team to continuously view the project as taking a longer and longer time instead of the other way around).
+(By the way, this more than anything else should convince you that the team should estimate *all* the backlog, start from fresh each time, and only use points as a lagging indicator. This social bonding can be used for evil. If the team only estimates the first day the project kicks-off, then estimates new things as they are added? They are never challenging or changing their mental model of the entire project delivery. Just re-confirming it. You can end-up effectively "programming" the team to view the project as taking a longer and longer time instead of the other way around).
 
-If you like estimating, then estimate, using whatever method works for you. If you don't like estimating, or your relationship with your customers and users don't require estimating? Don't estimate. Technology delivery is an art, an engineering practice, and a service business. All three of those are equally important.
+If you like estimating, then estimate, using whatever method works for you. If you don't like estimating, or your relationship with your customers and users don't require estimating? Don't estimate. Technology delivery is an art, an engineering practice, and a service business. All three. And all three of those are equally important.
 
 But whatever your decision around estimation, you need to engage the team mentally on a regular basis with thinking about the entire model and how it will be delivered, not just what items are in the formal, written model and how they connect.
 
-This book is not about Agile, Scrum, Story Points, or sprints. It's about what's going on behind-the-scenes in the minds of people who create new realities for folks. A hundred years from now maybe nobody does Story Point estimation anymore. They'll still need to be going through the entire backlog creating a shared mental model of items in the Meta genre.
+This book is not about Agile, Scrum, Story Points, or sprints. It's about what's going on behind-the-scenes in the minds of people who create new realities for folks. A hundred years from now maybe nobody does Story Point estimation anymore. They'll still need to be going through the entire backlog creating a shared mental model of items in the Meta genre. Story points are a tool for that. There are others.
 
-Now let's dig in to see backlog grooming/refinement in action using EasyAM.
-
+Speaking of tools, let's dig in to see backlog grooming/refinement in action using EasyAM.
