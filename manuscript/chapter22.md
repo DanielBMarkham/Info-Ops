@@ -85,3 +85,15 @@ If you're doing Remembering/Compiling, you're taking your simplest understanding
 ![](images/question-wheel.jpg)
 
 We will continue to test out this categorization system for questions as we work through more and more complicated situations. But it's not a process. There is no cycle. It's not a wheel. Well it is a wheel, but it has no rim. You can't directly use it to go anywhere, only to evaluate other processes and your information flow to make sure you understand the types of things that happen to the model when questions pop up in any of these areas.
+
+## Sprint Planning/"Ready for Work"
+
+## Done/Demo 
+
+## Retrospectives Part 1
+
+## The Missing Meeting
+
+Every kick-ass project I've ever been associated with had several instances where the team drastically re-imagined what the solution would look like and how they would deliver it.
+
+I don't know if this has to be a meeting. Probably not. But being able to rework and simplify what you're doing is a critical part of intellectually owning the problem. I wouldn't trust a team that didn't do it.
