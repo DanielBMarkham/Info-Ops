@@ -117,9 +117,9 @@ So now we have each noun phrase listed by connections, then all the behaviors it
 
 But we have new nouns! New behaviors! As we did this, we started getting new stuff. Shouldn't we re-do the list? Start again?
 
-No. We should not. We're grooming. We're not disarming a nuclear missile. If this takes more than a few minutes we're spending too much time on it. Our goal here is to "gain agreement that enough has been described to create a failing test at some lower level." In other words, do we have enough to create an ordered list of behaviors we might want to test?[^20:26]
+No. We should not. We're grooming. We're not disarming a nuclear missile. If this takes more than a few minutes we're spending too much time on it. Our goal here is to "gain agreement that enough has been described to create a failing test at some lower level." In other words, do we have enough to create an ordered list of behaviors we might want to test?[^20-26]
 
-[^20:26]: We're also going to be doing this kind of thing over and over again.
+[^20-26]: We're also going to be doing this kind of thing over and over again.
 
 We do. "Assign possums to classes" both appears associated with our most important noun ("Teacher", for now) and with the most other nouns (4). Second place looks like "Create Flying Tests" which has 4 nouns total. Third place is "Create training material", which also impacts our most important noun and hits on 3 nouns total. 
 
@@ -142,9 +142,9 @@ We want a test. Analysis happens naturally. Sure, we're calling this thing a mee
 
 Since we haven't quite spent an hour yet at the hotel, and since we can use what we have in the model to make more tests, we sketch out a couple of screen wireframes (System Abstract Structure) to show to Pete tomorrow and get his feedback.
 
-Then we go back and add our new items to EasyAM, printing out the new diagrams. As we update the diagram, we realize we also forgot "Classroom", which is where a Teacher teaches a course during a training period to a bunch of possums, which we toss in there.[^20:30] And adding that, we realize we also have a "Schedule classes", which involves assigning teachers and courses to classrooms during a training period
+Then we go back and add our new items to EasyAM, printing out the new diagrams. As we update the diagram, we realize we also forgot "Classroom", which is where a Teacher teaches a course during a training period to a bunch of possums, which we toss in there.[^20-30] And adding that, we realize we also have a "Schedule classes", which involves assigning teachers and courses to classrooms during a training period
 
-[^20:30]: The behavior, not the possums.
+[^20-30]: The behavior, not the possums.
 
 ![](images/chapter20-ucm2.jpg)
 
@@ -194,9 +194,11 @@ Step 3 is cleaning up the backlog to make it manageable. Do we go back and do th
 
 Why? What would be the purpose of that? 
 
-We're always working towards tests. Our tests tomorrow will be showing Pete some programming for that top item, then going through wireframes for all of the behaviors. Are these tests the most important tests we can run? Yes. Would Analysis Affinity mapping help drive these tests out? No. So we don't do it.
+We're always working towards something to do with tests. Our tests tomorrow will be showing Pete some programming for that top item, then going through wireframes for all of the behaviors. We decided this by going through a few questions.
 
-Analysis Paralysis prevented in four sentences.
+What are we trying to build? A web application to help possum teachers. What's the most important thing we don't know? Exactly what kinds of things we're helping them do. Will these tests help us learn more about that? Yes. Would Analysis Affinity mapping help drive these tests out? No. So we don't do it.
+
+There you go. Analysis Paralysis prevented in six sentences.
 
 Step 4 for us is verifying that we're ready to create executable tests for upcoming pieces of work. 
 

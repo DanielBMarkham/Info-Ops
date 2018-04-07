@@ -62,17 +62,17 @@ Grooming is also what happened as we played with a physical model of the deck wh
 
 A bunch of stuff we did was wrong -- the chairs don't go over there by the hot tub. Great. A failing test means we change the model, either the deployed target system or a structural proxy. Either way is a win for us.
 
-In TDD, (mostly), our tests are never wrong but our code might be. In Structured, Test-Driven Analysis, when our tests fail it's because the model is somehow out of sync with the people we're trying to help.[^19:22] We added that new information into our mental model, we cross-checked what we could remember to see if it changed anything else, we made sure we weren't confused about what the heck was going on, then we came up with new questions about "just what will this entire thing do when it's done", "What's the most important thing to figure out right now?", and "How do we find that out?" We created or updated a structure, either in our deployed target system or one of our structural proxies. Then we started more conversations with the customer.
+In TDD, (mostly), our tests are never wrong but our code might be. In Structured, Test-Driven Analysis, when our tests fail it's because the model is somehow out of sync with the people we're trying to help.[^19-22] We added that new information into our mental model, we cross-checked what we could remember to see if it changed anything else, we made sure we weren't confused about what the heck was going on, then we came up with new questions about "just what will this entire thing do when it's done", "What's the most important thing to figure out right now?", and "How do we find that out?" We created or updated a structure, either in our deployed target system or one of our structural proxies. Then we started more conversations with the customer.
 
-[^19:22]: In this way, the Air France failure was an *analysis* test failure, the pilots flying and the engineers building the flight deck had a huge gap in their models. That's a horrible, horrible test to fail in a way that involves loss of life.
+[^19-22]: In this way, the Air France failure was an *analysis* test failure, the pilots flying and the engineers building the flight deck had a huge gap in their models. That's a horrible, horrible test to fail in a way that involves loss of life.
 
 That's grooming. Continuous grooming.
 
 Ideally grooming happens continuously. If you've only got one person you're making happy, stick them in the room with you all of the time. There's no reason it has to be a separate meeting or big formal event. But many times we don't have time to get organized and leave things in a mess. Stuff gets thrown in notes that should be master model items. Questions are stuck in the wrong place. There's a new supplemental that we haven't had time to talk about. 
 
-Most importantly, not everybody on the team is capable of cleaning up and getting organized, which means that keeping things neat ends up bottle-necking through the people who know how to do it. Since things get messy and you've created this bottleneck, you have to call out a special time for grooming. (This means that the ultimate goal of a formal grooming meeting is teaching the team how to groom informally and continuously. It's not that hard. You've figured it out by reading a book. When everybody can constantly help keep things clean and organized as you move along, everybody will be much happier and productive. As my mom used to say, instead of waiting until there's one big cleanup job, Daniel, clean just a little bit as you go along. Makes life much easier.)[^19:24]
+Most importantly, not everybody on the team is capable of cleaning up and getting organized, which means that keeping things neat ends up bottle-necking through the people who know how to do it. Since things get messy and you've created this bottleneck, you have to call out a special time for grooming. (This means that the ultimate goal of a formal grooming meeting is teaching the team how to groom informally and continuously. It's not that hard. You've figured it out by reading a book. When everybody can constantly help keep things clean and organized as you move along, everybody will be much happier and productive. As my mom used to say, instead of waiting until there's one big cleanup job, Daniel, clean just a little bit as you go along. Makes life much easier.)[^19-24]
 
-[^19:24]: I never listened to my mom.
+[^19-24]: I never listened to my mom.
 
 ### **Introduce new information**. 
 
@@ -107,14 +107,14 @@ We understand the dialectic and Structured Analysis. We know that all of these w
 No matter what, somehow we gotta effectively add information to the team from outside that are time-constrained in various ways. So in anything but a one-on-one situation, you gotta have some kind of meeting called "grooming", even if it's just 20 minutes every morning after the stand-up. There are just a few simple rules that have to be followed to add this information well. But they all have to be followed.
 
 * Nobody but nobody adds information to a team's backlog aside from the team. People have to go through the team to make new information appear there.
-* People who work physically near the team are the ones that can work with the team to add new information. If you aren't one of those people, you have to work through one of them. No "mailing it in" or using an online tool as some sort of project-manipulation device.[^19:26]
+* People who work physically near the team are the ones that can work with the team to add new information. If you aren't one of those people, you have to work through one of them. No "mailing it in" or using an online tool as some sort of project-manipulation device.[^19-26]
 * When you want to add information, you show up at a set time and have a conversation with everybody in the team. If you have formal grooming sessions, a good time for this is at the beginning of those sessions.
 * The team's job is to do the best it can to translate the universe you live in to the universe they live in. They may actually have to start modeling out your world, with Master Models and the rest of it, for it to make sense to both of you. (Remember, you should be able to do this quite quickly. Minutes, not hours.)
 * At the end of adding information, the team should be able to walk you through your world, how you came across this new information and why it's needed. They should know enough of your world to be able to change their model so that it meets the needs of your model. (Even if later they decide not to do the work.)
 * The conversation isn't over until the team can describe a test that everybody agrees on that would reflect the team understanding and correctly responding to the information you're providing.
 * There's no way that all of this can be guaranteed to be completed in a single conversation (although it certainly happens that way most of the time for an ongoing, established product), so you have to be available, somewhat fluidly for ad-hoc, in-person follow-up questions. Hence the co-location thing.
 
-[^19:26]: There's a special case for situations in which it is completely impossible to meet or talk to anybody that you're trying to help. We cover that in the startup section. (Warning: there are a lot of really unpleasant implications in this situation. There are good reasons most startups fail.)
+[^19-26]: There's a special case for situations in which it is completely impossible to meet or talk to anybody that you're trying to help. We cover that in the startup section. (Warning: there are a lot of really unpleasant implications in this situation. There are good reasons most startups fail.)
 
 For technology teams that use Scrum, the ideal situation for people with information to add is to wander down the hallway to their daily stand-up. Once that's over, raise your hand and tell them about what you'd like to talk about. At this point the team will self-scope and self-organize around the work instantly. Maybe they'll have to set up a meeting with experts and take a day to talk about it. Maybe you should just come down during the next grooming session. Maybe they're already doing that work and just need to tweak it a little bit to match what you're providing.
 
@@ -203,7 +203,7 @@ A lot of Agile folks call these backlog goal/test items "User Stories", They hav
 
 The trick here is that once you understand what User Stories are, the intersection of Behavior and Supplementals, you can easily break them out into smaller pieces based on the details of the items in each of those buckets that apply to this user story.[^19-30]
 
-[^19-30]: If you can't breakdown your user story, it's probably because you don't really have a user story in the first place.
+[^19-30]: If you can't breakdown your user story, most likely you don't have a user story in the first place.
 
 Many times the first time you split a story is the first time you figure out a lot of supplementals that were hidden until that point. You just never think of them.
 
