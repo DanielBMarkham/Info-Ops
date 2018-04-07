@@ -1,8 +1,8 @@
 # Chapter 22
 
-![The Test-Driven Analysis Wheel of Pain[^22-2]](images/Test-Driven-Analysis-Constellation.png)
+![The Test-Driven Analysis Wheel of Pain](images/Test-Driven-Analysis-Constellation.png)[^22-0]
 
-[^22-2]: I jokingly call this the "Wheel of Pain" because it was painful to come up with, I imagine it will be used in all sorts of inappropriate and painful ways to make people's lives more painful, and once you narrow in on exactly what the hell you're doing, the types of questions themselves tend to be painful, at least the important ones.
+[^22-0]: I jokingly call this the "Wheel of Pain" because it was painful to come up with, I imagine it will be used in all sorts of inappropriate and painful ways to make people's lives more painful, and once you narrow in on exactly what the hell you're doing, the types of questions themselves tend to be painful, at least the important ones.
 
 You would think that in a book like this, at some point there would be a diagram of things you haven't seen before, maybe some kind of circle or loop. Some cool new process. Something you can show the other nerds down at the water cooler.
 
