@@ -8,9 +8,9 @@ You would think that in a book like this, at some point there would be a diagram
 
 Process books love circles and loops, especially colored circles with little stick figures.
 
-I don't want to disappoint you guys, but we did not have the budget for colored circles. Instead, all we could afford were a few dots. Even then, all we could get was gray.[^22:2]
+I don't want to disappoint you guys, but we did not have the budget for colored circles. Instead, all we could afford were a few dots. Even then, all we could get was gray.[^22:1.5]
 
-[^22:2]: Sadly, we blew the budget on colored pyramids back in section one.
+[^22:1.5]: Sadly, we blew the budget on colored pyramids back in section one.
 
 We've generalized conversations in this book, explaining how good conversations happen and why you can't replace conversations with data feeds. We've shown how to capture and store the minimum amount of information that  "remembers" what's important to you and reminds you of where and how good conversations can take place.
 
