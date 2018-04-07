@@ -8,9 +8,9 @@ You would think that in a book like this, at some point there would be a diagram
 
 Process books love circles and loops, especially colored circles with little stick figures.
 
-I don't want to disappoint you guys, but we did not have the budget for colored circles. Instead, all we could afford were a few dots. Even then, all we could get was gray.[^22:1.5]
+I don't want to disappoint you guys, but we did not have the budget for colored circles. Instead, all we could afford were a few dots. Even then, all we could get was gray.[^22-3]
 
-[^22:1.5]: Sadly, we blew the budget on colored pyramids back in section one.
+[^22-3]: Sadly, we blew the budget on colored pyramids back in section one.
 
 We've generalized conversations in this book, explaining how good conversations happen and why you can't replace conversations with data feeds. We've shown how to capture and store the minimum amount of information that  "remembers" what's important to you and reminds you of where and how good conversations can take place.
 
@@ -46,9 +46,9 @@ After watching a lot of creative technical teams, it looks to me like there are 
 
 [^22-31]: For the record, they never did prove anything.
 
-So there is no loop. It's just a bunch of dots. I call it a wheel because wheels are cool. Who doesn't like wheels? It's my book. When you write your book, you can have cyclones, or roller-coasters, potato mashers, donut jugglers, or something else entirely. [^22:4]
+So there is no loop. It's just a bunch of dots. I call it a wheel because wheels are cool. Who doesn't like wheels? It's my book. When you write your book, you can have cyclones, or roller-coasters, potato mashers, donut jugglers, or something else entirely. [^22-4]
 
-[^22:4]: I advise against pyramids. Everybody does pyramids. Earthquakes and soup might be good if you could make it work. 
+[^22-4]: I advise against pyramids. Everybody does pyramids. Earthquakes and soup might be good if you could make it work. 
 
 ## Wheel Trivia
 

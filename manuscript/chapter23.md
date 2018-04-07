@@ -2,7 +2,9 @@
 
 ## Understanding Legacy Systems
 
-Michael Feathers calls "legacy code" code that doesn't have any tests. The description is apt for analysis model information also. Analysis information that's not driving towards and directly associated with tests is legacy information. It exists and perhaps is critically important. There's just no validation in place to show where it is important and why. 
+Michael Feathers calls "legacy code" code that doesn't have any tests.[^23-1] The description is apt for analysis model information also. Analysis information that's not driving towards and directly associated with tests is legacy information. It exists and perhaps is critically important. There's just no validation in place to show where it is important and why.
+
+[^23-1]: Michael's book "Working Effectively with Legacy Code" is the go-to book for people stuck with a bunch of software without tests that needs to be fixed. ![https://amzn.to/2HgsiBr](https://amzn.to/2HgsiBr)  
 
 If I see "Balance Checkbook" in the model and somebody assures me that the target system does this, without associated tests to look at their statement has no meaning. (Same goes for a fully-specified use case. Simply because the text exists and is marked done doesn't mean the system has actually changed, of it it has changed, whehter it has stayed changed.)
 
@@ -130,9 +132,9 @@ Finally, after several philosophical discussions (What do you mean by permission
 
 It was three weeks of confusion followed by one week of pair coding. It was an API with three methods and a stored procedure.
 
-We were done.[^22-2]
+We were done.[^23-2]
 
-[^22-2]: The interesting thing was that the customer was unhappy with the result! Based on past experience with programmers, they expected a lot more work and a huge codebase. It took some talking to them to show them that yes, everything they wanted was in there.
+[^23-2]: The interesting thing was that the customer was unhappy with the result! Based on past experience with programmers, they expected a lot more work and a huge codebase. It took some talking to them to show them that yes, everything they wanted was in there.
 
 A friend told me once he visited a team with eight-thousand items on their backlog. This seemed incredible to me. He told me the team was implementing a lot of business rules. Each rule had to be approved by an analyst, which was one story. Then it had to be entered -- yet another story. Finally it had to go through QA. They had about three thousand rules in all and they had been running for six months. Based on their past performance, everybody on the team was guaranteed work for the next four years or so.
 
@@ -140,9 +142,11 @@ Ouch.
 
 It's important to recognize when you're in a rules-based system. When you figure it out, build the system. After the system is built, there's another conversation to be had about loading and testing the rules.
 
-You have two separate projects, one of which needs to be finished before the other can start. For the rules-based system, develop it like you would anything else. For implementing the rules, you need to find out from the customer how they define done. Should you test each rule? Or should it just be an open system where people can edit and change on-the-fly? Should there be version control of the rules (Yes.) Even with freeform systems, should there be smoke tests that makes sure the system is in a usable state (Yes.)
+You have two separate projects, one of which needs to be finished before the other can start.[^23-31] For the rules-based system, develop it like you would anything else. For implementing the rules, you need to find out from the customer how they define done. Should you test each rule? Or should it just be an open system where people can edit and change on-the-fly? Should there be version control of the rules (Yes.) Even with freeform systems, should there be smoke tests that makes sure the system is in a usable state (Yes.)
 
-All of things in the second project are just tasks around using the system. It's not technology development. 
+[^23-31]: You'll certainly provide a bunch of rules as sample vectors to run through your code as you build the system, but that's different than actually configuring the thing once it's done with your initial ruleset. The thing about rules-based systems is that *you're never done*. You can provide the compiler and some sample code, you can even set it up initially, but really it's the people using it that are delivering all the value somewhere. They'll have to have their own Meta system for making that happen. (Most likely you're an expert in building the rules-based system, not an expert in what should go in the system or how it should act.) This can be very frustrating to clients if they're not prepared ahead of time for how things are going to turn out.
+
+All of things in the second project are just tasks around using the system. It's not technology development. Instead, they exist as tasks as part of some other value-producing effort, much the same as adding code to your compiler is a task as part of the value-producing effort of writing a computer program.
 
 Put another way, once you build a compiler, you're done. Other people may come along and use the compiler to write programs. If they do, then they should use Structured Analysis and test-first. But it's not the person who wrote the compiler's job to also write programs for it, at least not as part of the compiler effort.
 
@@ -150,7 +154,7 @@ Many times what happens is that the team creates a rule-based system -- then the
 
 ## Build Servers and Pipelines
 
-Once the analysis model is built in EasyAM and looks fairly stable, tag you work items in the source system with the behavior(s) and supplemental(s) they represent. This is usually done using custom fields, but it can also be done with notes or by using a mapping file.
+Once the analysis model is built in EasyAM and looks fairly stable, tag your work items in the source system with the behavior(s) and supplemental(s) they represent. This is usually done using custom fields, but it can also be done with notes or by using a mapping file.
 
 On a regular basis, export the information from the old system to a text file with the EasyAM tags in it, then copy it to your analysis directory. Make it a version-controlled part of your build just like any other notes. You can do this using a chron job and a batch file.
 

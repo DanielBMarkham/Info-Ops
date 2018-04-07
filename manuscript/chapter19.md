@@ -237,7 +237,7 @@ You've split a User Story into 73 small User Stories, but decided not to do them
 
 Heck no! If you're doing 12 of them and saving the other 61 for some future date, they don't go in the backlog. They don't go anywhere, since they are not tests that you currently plan to work on. I don't want to see them on your backlog. I don't want to see them on the wall. I don't want to see them anywhere. If you insist, stick them in the notes section of the appropriate Master Backlog Item. They'll be there for your consideration the next time you look at that item. Not before. Keep It Simple, Silly. (And I would be extremely cautious about putting them in your notes. Why would you want to pre-determine how some future version of yourself might want to deliver stuff? Insanity.)
 
-### **Tease out the best way the entire model might be delivered (Points, Estimation, and Other Games**
+### **Tease out the best way the entire model might be delivered (Points, Estimation, and Other Games)**
 
 Finally we come to estimation and other topics of this ilk. Estimation and commitment are subjects that have caused much wailing and gnashing of teeth for some in the technology community. It seems that some folks have bosses that are assholes, and to prevent them from being assholes, somebody came up with the bright idea to remove the word "commitment" from the list of things a team might do. Replace it with the word "forecast". 
 
@@ -267,7 +267,7 @@ I saw people do scheduling and commitment at the same time they did points. This
 
 I saw people take how much time they had for a project, then divide the number of time chunks they had, arriving at some weird number. Do we have ten sprints and 100 points in our backlog? Then we have to do ten points per sprint, dang it! This is a triple fail. First, it completely forgets the concept that the points for items will change over time. Second, it ignores any new items being added, and new items are always added. Finally it uses time to drive work. The work is the work. At the risk of being crude, if you change what the work is based on time (instead of what the users want), you don't know what you're doing. You know when you'll be done, but you have no idea what you're doing. In more ways than one.
 
-(Although it's perfectly acceptable to talk with users about what they actually want, of course. You just can't put the cart in front of the horse. It's also natural and expected to have deadlines. Life is full of them.)
+(Although it's perfectly acceptable to talk with users about what they actually want, of course. That's the entire purpose. You just can't put the cart in front of the horse. I'd like a pony for Christmas. Doesn't mean that it's possible for me to get one. It's also natural and expected to have deadlines. Life is full of them.)
 
 I saw people leaving the points from last time on the story from one game-playing-session to the next. Well heck, if you're going to do that, people aren't really guessing again, are they? They're just looking at what the old number was and asking if anything changed. That might be an interesting thing to do, but it's a different thing from the way the game is played. You, also, are doing it wrong.
 
@@ -298,5 +298,17 @@ If you like estimating, then estimate, using whatever method works for you. If y
 But whatever your decision around estimation, you need to engage the team mentally on a regular basis with thinking about the entire model and how it will be delivered, not just what items are in the formal, written model and how they connect.
 
 This book is not about Agile, Scrum, Story Points, or sprints. It's about what's going on behind-the-scenes in the minds of people who create new realities for folks. A hundred years from now maybe nobody does Story Point estimation anymore. They'll still need to be going through the entire backlog creating a shared mental model of items in the Meta genre. Story points are a tool for that. There are others.
+
+So we reach some odd conclusions about estimating. To be effective, the estimation process, whatever it is, must:
+
+- Be frequent
+- Be about delivering the entire system, not just parts of it
+- Be something that requires the team to form, re-form, and validate their shared mental model of how execution will play out 
+- Be something that looks believable/reasonable to those performing it
+- Be completely disconnected from scheduling or commitment discussions
+- Be fun, perhaps distractingly so
+- Generate some kind of numerical result that later can be used in scheduling and commitment discussions 
+
+If it has those qualities, it has a chance of being a great estimation process. It's a good process tool.
 
 Speaking of tools, let's dig in to see backlog grooming/refinement in action using EasyAM.

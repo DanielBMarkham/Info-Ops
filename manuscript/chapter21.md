@@ -4,9 +4,9 @@
 
 ![From simple things, complex things are formed](images/chapter21-makingupstories.png)
 
-We've done enough preliminary work to get a good Meta Model in place (how we work together to make a solution happen.) We've decided to use Scrum, which has a regular cadence of things you do. For our team, we're going to go through a week-long cycle, called a Sprint.[^21:21]
+We've done enough preliminary work to get a good Meta Model in place (how we work together to make a solution happen.) We've decided to use Scrum, which has a regular cadence of things you do. For our team, we're going to go through a week-long cycle, called a Sprint.[^21-21]
 
-[^21:21]: You can also use continuous flow and Kanban. Scrum is only being used here as a prop.
+[^21-21]: You can also use continuous flow and Kanban. Scrum is only being used here as a prop.
 
 ## Initial backlog 
 
@@ -24,9 +24,9 @@ Bingo. First story card done.
 
 We pick up the next one. It's "1. Schedule Classes" and "F2. Do something" Then the next, "1. Schedule Classes" and "F3. Do something and update the rest of the system."
 
-User stories are when behavior joins up with supplementals. Why these supplementals? Because while we don't know Pete or possum piloting schools, we know tech. It's still early in the game. We have a ton of Meta stuff to blow out. Plus we need to build out a DevOps pipeline. So let's do the things we know the most first, concentrating on developing a kick-ass working relationship (Meta) and our test-build-deliver pipeline (System Behavior/Structure Realized).[21:22]
+User stories are when behavior joins up with supplementals. Why these supplementals? Because while we don't know Pete or possum piloting schools, we know tech. It's still early in the game. We have a ton of Meta stuff to blow out. Plus we need to build out a DevOps pipeline. So let's do the things we know the most first, concentrating on developing a kick-ass working relationship (Meta) and our test-build-deliver pipeline (System Behavior/Structure Realized).[21-22]
 
-[21:22]: The old advice used to be to do the tricky/tough stuff first. Doing it that way addresses architectural risk as early as possible. Also one of those things that was true but for the wrong reasons. Even more importantly, doing the tough stuff first gives our working relationship, the Meta Model, a good once-over.
+[21-22]: The old advice used to be to do the tricky/tough stuff first. Doing it that way addresses architectural risk as early as possible. Also one of those things that was true but for the wrong reasons. Even more importantly, doing the tough stuff first gives our working relationship, the Meta Model, a good once-over.
 
 Finally, we'll do the rest of the supplementals, the *real* supplementals, all at once. We pick up another card and write "1. Schedule Classes", then list the other supplementals A-E.
 
@@ -98,9 +98,9 @@ There are a bunch of other games and processes you can use to get the team regul
 
 It's fine if our written notes end up reminding us of things we've forgotten. It's great if our written notes point us to things we might not have thought about. That's cool. But it's a huge FAIL if our written notes become inconsistent or too complex for the team to dive down to any spot and have a reasonable conversation about the things there. Estimation and other solution-envisioning games prevent this from happening.
 
-We add the points for each card into the file we have for our project backlog. We don't write anything down on the cards. We don't put anything on the wall. The pointing game happened and went away. But we'll record it in our notes, mainly because we like making and printing little colored charts.[^21:27] Now our project backlog notes look like this:
+We add the points for each card into the file we have for our project backlog. We don't write anything down on the cards. We don't put anything on the wall. The pointing game happened and went away. But we'll record it in our notes, mainly because we like making and printing little colored charts.[^21-27] Now our project backlog notes look like this:
 
-[^21:27]: I'm a big believer in estimation and the power of visualization. I'm also a big believer in the fact that we tech-weenie folks like generating cool-looking stuff whether it's useful or not.
+[^21-27]: I'm a big believer in estimation and the power of visualization. I'm also a big believer in the fact that we tech-weenie folks like generating cool-looking stuff whether it's useful or not.
 
 ![](images/chapter21-backlogwithpoints.png)
 
