@@ -1,6 +1,12 @@
 {backmatter}
 
-## About the Author
+# Coming Soon
+
+### Meta, Large Teams, and Teams of Teams
+
+### Lean Startup
+
+# About the Author
 
 ![Daniel B. Markham](images/daniel-perhaps-author.png)
 

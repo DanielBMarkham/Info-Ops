@@ -4,6 +4,8 @@
 
 Michael Feathers calls "legacy code" code that doesn't have any tests. The description is apt for analysis model information also. Analysis information that's not driving towards and directly associated with tests is legacy information. It exists and perhaps is critically important. There's just no validation in place to show where it is important and why. 
 
+If I see "Balance Checkbook" in the model and somebody assures me that the target system does this, without associated tests to look at their statement has no meaning. (Same goes for a fully-specified use case. Simply because the text exists and is marked done doesn't mean the system has actually changed, of it it has changed, whehter it has stayed changed.)
+
 Data is a stream of facts. Information is data that has some sort of useful context. If I were to throw down a list of various functions I would like the computer to perform ("lookup address", "verify customer account", "sort transactions by risk") it would be data. If I were to take those same functions and stick them in at the System Abstract level associated with a Master Model, they would be information. I could cross-check the model to see why they were used. I might find various ways I could determine whether they were working correctly or not.
 
 Because there are a lot of people who don't understand Structured Analysis, there are a million self-hatched ways of organizing stuff out there. Most of the time, people follow what I call the "book chapter" method of organization. They think of their work as a book, break it up into chapters, then decide on what goes in which chapter.

@@ -1,4 +1,2 @@
--# Meta, Large Teams, and Teams of Teams
-
-# Chapter 26
+# Appendix A: Creating the Analysis Canvas 
 
