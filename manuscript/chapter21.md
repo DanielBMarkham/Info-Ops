@@ -12,7 +12,7 @@ We've done enough preliminary work to get a good Meta Model in place (how we wor
 
 First we need a real backlog, not just a Master Backlog.
 
-What's on a backlog? Remember, there are only five things that can go on a backlog: tests we are currently working on, tests we will be working on next, tests we need to start seriously thinking about, and the Master Backlog.
+What's on a backlog? Remember, there are only four things that can go on a backlog: tests we are currently working on, tests we will be working on next, tests we need to start seriously thinking about, and the Master Backlog. (Tasks are a fifth type of item, but we're deliberately ignoring them.)
 
 Physically, we just want some cards.  Diagrams are for navigation, cards for manipulation. And we plan on manipulating the backlog in a lot of different ways.
 
@@ -24,9 +24,9 @@ Bingo. First story card done.
 
 We pick up the next one. It's "1. Schedule Classes" and "F2. Do something" Then the next, "1. Schedule Classes" and "F3. Do something and update the rest of the system."
 
-User stories are when behavior joins up with supplementals. Why these supplementals? Because while we don't know Pete or possum piloting schools, we know tech. It's still early in the game. We have a ton of Meta stuff to blow out. Plus we need to build out a DevOps pipeline. So let's do the things we know the most first, concentrating on developing a kick-ass working relationship (Meta) and our test-build-deliver pipeline (System Behavior/Structure Realized).[21-22]
+User stories are when behavior joins up with supplementals. Why these supplementals? Because while we don't know Pete or possum piloting schools, we know tech. It's still early in the game. We have a ton of Meta stuff to blow out. Plus we need to build out a DevOps pipeline. So let's do the things we know the most first, concentrating on developing a kick-ass working relationship (Meta) and our test-build-deliver pipeline (System Behavior/Structure Realized).[^21-22]
 
-[21-22]: The old advice used to be to do the tricky/tough stuff first. Doing it that way addresses architectural risk as early as possible. Also one of those things that was true but for the wrong reasons. Even more importantly, doing the tough stuff first gives our working relationship, the Meta Model, a good once-over.
+[^21-22]: The old advice used to be to do the tricky/tough stuff first. Doing it that way addresses architectural risk as early as possible. Also one of those things that was true but for the wrong reasons. Even more importantly, doing the tough stuff first gives our working relationship, the Meta Model, a good once-over.
 
 Finally, we'll do the rest of the supplementals, the *real* supplementals, all at once. We pick up another card and write "1. Schedule Classes", then list the other supplementals A-E.
 
@@ -68,13 +68,13 @@ Version control plays a role here. If you keep written analysis notes, you shoul
 
 One of the biggest anti-patterns I see in corporate work management systems is using them as some kind of weird requirements tool. People understand that nobody does Use Cases any more, so they try to stick all the stuff they might have stuck into a too-long Use Case into a too long User Story.
 
-You try to tell these folks that User Story titles are simply symbolic placeholders for future conversations, and you get blank stares. That's because they know there has to be sorts of important information that goes along with the user story, but you seem to be telling them to forget about it. It sounds like crazy talk. 
+You try to tell these folks that User Story titles are simply symbolic placeholders for future conversations, and you get blank stares. That's because they know there has to be all sorts of important information that goes along with the user story, but you seem to be telling them to forget about it. It sounds like crazy talk. 
 
-Once you understand Structured Analysis, however, you realized that yes, there is a bunch of stuff that goes along with any user story, but very little of it has to do with the user story itself. Instead it exists as part of the model up the pyramid somewhere. And it's always changing, maturing. It's the intersection where the detail comes out. The last thing in the world you want to do is somehow extract the entire analysis model from one person's head and stick it in the notes section for a user story three months before anybody starts work on it.
+Once you understand Structured Analysis, however, you realize that yes, there is a bunch of stuff that goes along with any user story, but very little of it has to do with the user story itself. Instead it exists as part of the model up the pyramid somewhere. And it's always changing, maturing. It's the intersection where the detail comes out. The last thing in the world you want to do is somehow extract the entire analysis model from one person's head and stick it in the notes section for a user story three months before anybody starts work on it.
 
 Yes, you have detail. You just don't have the right, current, relevant detail.
 
-What you want to do is just the opposite: keep your user stories in as simplistic a format as possible, pointing back to where they appear in the analysis. Then, just before you decide to work on one, snapshot what you know when you start just the same way you snapshot the codebase before you start coding. It's the same thing. The structure you create in terms of writing code or developing tech has to exist alongside of other behaviors and supplementals at the System Realized level. But it also has to exist alongside the behavior, structure, and supplementals of the analysis pyramid that begot it.
+What you want to do is just the opposite: keep your user stories in as simplistic a format as possible, pointing back to where they appear in the analysis. Then, just before you decide to work on one, snapshot what you know when you start just the same way you snapshot the codebase before you start coding. It's the same thing. The structure you create in terms of writing code or developing tech has to exist alongside other behaviors and supplementals at the System Realized level. But it also has to exist alongside the behavior, structure, and supplementals of the analysis pyramid that begot it.
 
 E-gads, the last thing you want is a backlog nobody can read or understand all at once, stuffed full of "user stories" whack-full of notes from all over the place, put in by who-knows-who nobody-knows-how long ago.
 
@@ -84,17 +84,17 @@ Now let's go through the complex and extremely difficult process of estimating, 
 
 We take a table. On it we put post-its every couple of feet or so. The post-its say 1,2,4,8,16,32, and 64. We put the backlog cards on the table.
 
-"Ok, guys. Let's take 15 minutes and organize these by how relatively complex you think they are to deliver. There are no right or wrong answers"
+"Ok, guys. Let's take 15 minutes and organize these by how relatively complex you think they are to deliver. There are no right or wrong answers."
 
 We all walk around, move some cards, chat a bit. Time's up.
 
 That's estimating. The important thing was the thinking and chatting. The rest of it was just props for our magic act. The audience looks in one direction, something interesting happens in the place they're not watching.
 
-This is not a book on process, or estimation. This is a book on how to organize and deliver information. Estimates are the type of information you might want to organize and deliver. More importantly, the process of thinking about what's involved with delivering all of this helps the team organize and align their mental model. They ask one another questions, they cross the check the answers with things they already know, they talk about the definition of terms. They think about strategies to deliver supplementals. 
+This is not a book on process, or estimation. This is a book on how to organize and deliver information. Estimates are the type of information you might want to organize and deliver. More importantly, the process of thinking about what's involved with delivering all of this helps the team organize and align their mental model. They ask one another questions, they cross-check the answers with things they already know, they talk about the definition of terms. They think about strategies to deliver supplementals. 
 
-It's analysis. **Our job is to come up with sneaky ways to get people think about the problem we're working in new ways.**
+It's analysis. **Our job is to come up with sneaky ways to get people to think about the problem we're working in new ways.**
 
-There are a bunch of other games and processes you can use to get the team regularly thinking through the entire model at once. I have a couple of friends that estimate using circus animals. Some of my friends refuse to estimate at all. Some estimate using man-days. Pick one and stick with it, or mix-and-match. But you have do something -- and regularly. At the very least once a week. Something that gets everybody thinking about everything and how it's all going to come together.
+There are a bunch of other games and processes you can use to get the team regularly thinking through the entire model at once. I have a couple of friends that estimate using circus animals. Some of my friends refuse to estimate at all. Some estimate using man-days. Pick one and stick with it, or mix-and-match. But you have do something -- and regularly. Once a week at least. Something that gets everybody thinking about everything and how it's all going to come together.
 
 It's fine if our written notes end up reminding us of things we've forgotten. It's great if our written notes point us to things we might not have thought about. That's cool. But it's a huge FAIL if our written notes become inconsistent or too complex for the team to dive down to any spot and have a reasonable conversation about the things there. Estimation and other solution-envisioning games prevent this from happening.
 
@@ -142,7 +142,7 @@ As stories from our project backlog are completed? We just delete them from the 
 
 Backlog grooming continues to happen as the project moves along, with new information being presented, the Analysis Model being synchronized, the backlog cleaned up, and stories prepped so that they're ready for work.
 
-There's really no difference in ongoing grooming as opposed to greenfield grooming. The topics of conversation change, and you may try all sorts of fun thing around Step 5, but grooming is grooming, whether you're just started or in the last week of a project.
+There's really no difference in ongoing grooming as opposed to greenfield grooming. The topics of conversation change, and you may try all sorts of fun things around Step 5, but grooming is grooming, whether you're just started or are in the last week of a project.
 
 ## About UI
 
@@ -159,7 +159,7 @@ Wireframes and other forms of UI mockups are *analysis* tools, not design tools.
 
 The trick is to understand that all structure is derivative of behavior and supplementals. It also drastically increases the rate and quality of analysis. Some structure is easier and quicker to use than others. Your goal is ultimately analysis in support of a solution. Use fast tools like clay or sketches to groom as quickly as possible until the group feels like there is alignment. Then go to slower, more permanent tools. (Structure always begats more structure. That's both good and bad.)
 
-Wireframes are another kind of game to have good conversations. They're fun and easy. They're not a specification tool, nor should they be used as one. What I'm looking for in wireframes is what I'm always looking for playing with structure. What sorts of abstract items are we talking about as we chat and manipulate these tangible things? That's their real value. Once you play with wireframes for a while, if you're doing it correctly, you come up with UI/UX rules that should be true no matter what the screens look like. Wireframes should create conditions where the model can facilitate *many* different solutions, not be just another way of mindlessly taking orders from customers.
+Wireframes are another kind of game to create good conversations. They're fun and easy. They're not a specification tool, nor should they be used as one. What I'm looking for in wireframes is what I'm always looking for playing with structure. What sorts of abstract items are we talking about as we chat and manipulate these tangible things? That's their real value. Once you play with wireframes for a while, if you're doing it correctly, you come up with UI/UX rules that should be true no matter what the screens look like. Wireframes should create conditions where the model can facilitate *many* different solutions, not be just another way of mindlessly taking orders from customers.
 
 ## Story Mapping
 
@@ -173,15 +173,15 @@ This has turned out to be a powerful tool in getting tech teams and businesses a
 
 If any of this is sounding familiar to you, it should! This is just a fun way of looking at the Master Backlog. Like estimating, User Story Maps are a wonderful game to look at the entire model at once. 
 
-Jeff has an entire book on this, and much more has been written about User Story Mapping. If I started a new project, I'd do User Story Mapping every week for the first few weeks or so, but I'm like that. I would rather err on the side of annoying the team with games and make sure we have model alignment than be polite and have everybody with a different idea in their heads of what we're doing.
+Jeff has an entire book on this, and much more has been written about User Story Mapping. If I started a new project, I'd do User Story Mapping every week for the first few weeks or so, but I'm like that. I would rather err on the side of annoying the team with games and making sure we have model alignment than be polite and have everybody with a different idea in their heads of what we're doing.
 
 ## ATDD 
 
-ATDD stands for Acceptance Test-Driven Development. It's what we've been talking about, except explicitly for technology work. It says that work does not start until a failing test or tests has been created that once those tests pass the work is considered complete. Sometimes those tests can be automated. Sometimes not. The "A" in ATDD stands for **Acceptance**, not automated. ATDD is a business workflow, not some technology.
+ATDD stands for Acceptance Test-Driven Development. It's what we've been talking about, except explicitly for technology work. It says that work does not start until a failing test or tests has been created and that once those tests pass the work is considered complete. Sometimes those tests can be automated. Sometimes not. The "A" in ATDD stands for **Acceptance**, not automated. ATDD is a business workflow, not some technology.
 
 When we talked about the backlog being an ordered list of tests or goals, this is what we meant. Instead of directly specifying the work, we directly specify a behavioral test that must pass in the target system for the work to be successfully concluded. So the analysis model, backlog and all of that? When we say that they're not a specification, we mean that you never, ever *do* a specification. You can get whatever you want without thinking in terms of a spec -- and thinking in terms of a spec always ends up designing a system far ahead of when it should be designed. It's a total time sink.
 
-We talked about the Analysis Model being a force multiplier. If there ever was the opposite of that, something that destroyed productivity far beyond what you think it would, it would be specification-driven development. You can totally destroy billions of dollars of effort and tens of thousands of lives with just a few well-placed (and good-sounding! Usually these are the types of things nobody would ever think to disagree with) sentences in a spec somewhere.
+We talked about the Analysis Model being a force multiplier. If there ever was the opposite of that, something that destroyed productivity far beyond what you think it would, it would be specification-driven development. You can totally destroy billions of dollars of effort and tens of thousands of lives with just a few well-placed (and good-sounding!) sentences in a spec somewhere. Usually these are the types of things that sound plain and banal, reasonable things nobody would ever think to disagree with.
 
 For us, the rule will be: we only work from tests, and we automate all the tests. (Yes, I can hear you in the back yelling about how it wouldn't work for you. You and I have had some problems before, haven't we? Email me. There is a lot of material out there covering the automated testing of just about everything. I would be surprised if you had an exceptional case.)
 
@@ -191,7 +191,7 @@ This isn't a book on gherkin or the various tools that can compile gherkin to di
 
 ![Auto-generated gherkin feature files](images/chapter21-gherkin-example.png)
 
-Since gherkin explains what you're doing in business language, it maps very closely to Business Behavior. When you run EasyAM, it creates a "features" folder and auto-generates a bunch of feature files for you, one for each Business Behavior Realized (Or Abstract, if you don't have anything at the Realized level) Then it goes out and finds all the supplementals that apply to that behavior and list them as comments. You'll need to know them when you're creating your acceptance criteria.
+Since gherkin explains what you're doing in business language, it maps very closely to Business Behavior. When you run EasyAM, it creates a "features" folder and auto-generates a bunch of feature files for you, one for each Business Behavior Realized (Or Abstract, if you don't have anything at the Realized level). Then it goes out and finds all the supplementals that apply to that behavior and lists them as comments. You'll need to know them when you're creating your acceptance criteria.
 
 ## Getting to your Tests
 
@@ -217,11 +217,11 @@ The system handles all of that for us now.
 
 ![When notes come in, they go to the right feature file. Automatically.](images/chapter21-supplementalinfeaturefile.png)
 
-As you can see, the three child supplementals are listed, along with the parent, "Check and monitor delivery stack" If we add a new note to the parent item, it'll appear in all the places the parent is referenced. It'll also appear in all the places any children or grandchildren are referenced. You could write up a very detailed description by what you mean by "Check and monitor delivery stack" and keep that in one place, version-controlled. It'll appear wherever it's needed because our links are in place. Then you never have to repeat yourself or worry whether or not you've included all the appropriate acceptance detail in your story.
+As you can see, the three child supplementals are listed, along with the parent, "Check and monitor delivery stack." If we add a new note to the parent item, it'll appear in all the places the parent is referenced. It'll also appear in all the places any children or grandchildren are referenced. You could write up a very detailed description of what you mean by "Check and monitor delivery stack" and keep that in one place, version-controlled. It'll appear wherever it's needed because our links are in place. Then you never have to repeat yourself or worry whether or not you've included all the appropriate acceptance detail in your story.
 
 Write once, use everywhere. Always stay current. Info-Ops. (Gee, I'm telling you, somebody needs to write a book about this stuff!)
 
-These feature files can make a great story-at-a-glance reference. There are two other keywords associated with behaviors that appear in the files, "SCENARIO" and "CODE"
+These feature files can make a great story-at-a-glance reference. There are two other keywords associated with behaviors that appear in the files, "SCENARIO" and "CODE".
 
 "SCENARIO" is a list of all the paths through the story that you've captured. "CODE" is computer code you want attached to the behavior to come out later. **EasyAM isn't a tool for translating models into code.** But if what you've captured is useful later on, there's no reason it can't create a report to help you code whenever you get around to it.
 

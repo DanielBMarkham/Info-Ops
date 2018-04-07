@@ -2,9 +2,9 @@
 
 ![](images/tda2.jpg)
 
-Just to get everybody caught up, a backlog is a series of partially-constructed tests. We make those tests by combining Behavior To-Be and various Supplementals To-Be. We don't develop the tests all at once, instead, we continue to mature the analysis model and then pick off pieces to make into tests once we get close to when we want to use them. 
+Just to get everybody caught up, a backlog is a series of partially-constructed tests. We make those tests by combining Behavior To-Be and various Supplementals To-Be. We don't develop the tests all at once, instead, we continue to mature the analysis model, and then pick off pieces to make into tests once we get close to when we want to use them. 
 
-Tasks are to-do items. They may be associated with tests -- or not. They may be just things we'd like to do one day. They may be tremendously valuable things that must happen right away! Or things we'd like to do one day. Tasks may be *associated* with tests, but they have no tests directly tied to them. They're just things we'd like to do one day. There's no test you perform to see if a task is done aside from just looking at something. Did you wash the car? I did! (Looks at car). I see that. Thanks!
+Tasks are to-do items. They may be associated with tests -- or not. They may be just things we'd like to do one day. They may be tremendously valuable things that must happen right away! Tasks may be *associated* with tests, but they have no tests directly tied to them. They're just things we'd like to do one day. There's no test you perform to see if a task is done aside from just looking at something. Did you wash the car? I did! (Looks at car). I see that. Thanks! Without a test, do the words "I washed the car" mean anything?
 
 You can't tie tasks to goals/tests without mentally defining what you want it to look like and how it's built. At that point, all creative work stops. Any analysis work is done. Goals/tests created from the analysis model define value. Tasks define *activity*, not *value*.
 
@@ -20,11 +20,11 @@ That's not true if you are breaking down big tasks into smaller tasks in a non-c
 
 **The backlog isn't about stuff you're going to do. It's about ways you're going to change the target system.** To-do stuffed backlogs are good for robots, not for people being paid to use their brains.
 
-Ideally you wouldn't do anything and and you'd still somehow change the target system to provide fabulous wealth and we're all living on tropical islands drinking those drinks with little umbrellas in them. Worst-case, you have some to-do list from hell that you call a backlog and everybody has far too much work than they ever could get done and the target system doesn't change at all.
+Ideally you wouldn't do anything and you'd still somehow change the target system to provide fabulous wealth. Then you'd be living on tropical islands drinking those drinks with little umbrellas in them. Worst-case, you have some to-do list from hell that you call a backlog and everybody has far too much work than they ever could get done and the target system doesn't change at all.
 
 ## How NOT to do Backlog Grooming
 
-Require a large group to attend. Only have it once a month or so, and make sure the group that is attending never see each other much during the day. (This will provide for an incredible amount of cross-talk and make it difficult to stay focused). Use a projector in a darkened room, especially after lunch, because who doesn't like projectors in a dark room after a big meal?
+Require a large group to attend. Only have it once a month or so, and make sure the group that is attending never sees each other much during the day. (This will provide for an incredible amount of cross-talk and make it difficult to stay focused). Use a projector in a darkened room, especially after lunch, because who doesn't like projectors in a dark room after a big meal?
 
 Once everybody is assembled, bring up a big list of items on an electronic tool, preferably all prefixed with some impenetrable code that you use as a moniker. "First up is CS743183 dash seven. Who can forget that one?"
 
@@ -56,7 +56,7 @@ You cogitate on the first question while bouncing the second questions against o
 
 It's all about that dialectic.
 
-Grooming is what we did in the deck example every time we went back home and got organized for another conversation. "What will it do when it's done? What's important right now? What's it have to start doing next?" might be a good slogan for grooming. We never, ever knew the complete answers to those questions, but by asking them we were able to come up with model items and props we could use to test out whether or not we were getting closer or not.
+Grooming is what we did in the deck example every time we went back home and got organized for another conversation. "What will it do when it's done? What's important right now? What does it have to start doing next?" might be a good slogan for grooming. We never, ever knew the complete answers to those questions, but by asking them we were able to come up with model items and props we could use to test out whether or not we were getting closer.
 
 Grooming is also what happened as we played with a physical model of the deck when we were with the customer, only it was informal grooming. (The best and fastest kind, by a couple orders of magnitude.) We didn't have some kind of special session or meeting we called "grooming". Instead, we just tested whatever model we had by giving a structural prop to the customer and walking through the behaviors with him. 
 
@@ -88,7 +88,7 @@ Sally entered the bug information. Two months later, when nothing was done, she 
 
 Joe is a Product Owner for a financial app that runs on three major platforms. His team works in a building 100 miles away. He has some new ideas for the app based on some conversations he had with UX experts this morning. 
 
-What does he do? Does he wait two months until some kind of program-level meeting? Does he set up an online meeting? Nope. He was told not to do that. He was told that all he had to do was enter stuff into this magic tool and it would be done by the team. So he whenever he thinks of new stuff, he enters it into the tool.
+What does he do? Does he wait two months until some kind of program-level meeting? Does he set up an online meeting? Nope. He was told not to do that. He was told that all he had to do was enter stuff into this magic tool and it would be done by the team. So whenever he thinks of new stuff, he enters it into the tool.
 
 Now the tool has over 200 items that Joe and other people have put in. The team doesn't understand what the items mean, and Joe and the other business owners are dickering over which items go ahead or behind which other items. For many of the items, even the people who entered them can't remember what they mean. When he points out how difficult it is to keep track of everything and remember exactly what things mean, he was told that every item he entered had to follow a formula -- a formula that once you are following creates several-hundred-word entries.
 
@@ -98,7 +98,7 @@ Joe gave up on the tool. Now when he needs something, he calls the developer dir
 
 Mary is a Senior Vice President at a manufacturing firm that's embedding software in their products.  When she wants something done across a complex system, she'll subtly ask several of the embedded teams to implement the same feature, knowing if just one team delivers it, her goals will be met. Months later, during a sidebar conversation at a management meeting, managers figure out that several teams are doing the same thing -- and they're all doing it different ways.
 
-Louis is a supervisor in a regional office of a large government agency. Most of the software he deals with is outdated and brittle. Over the years he's seen a dozen different efforts to improve things. He's seen consultants come by with surveys, he's attended national conferences with other supervisors and sat on committees, he's been asked to write up his experiences in reports. He has four different systems for requesting upgrades, bug fixes, and enhancements. Working with none of them seem to ever produce positive results.
+Louis is a supervisor in a regional office of a large government agency. Most of the software he deals with is outdated and brittle. Over the years he's seen a dozen different efforts to improve things. He's seen consultants come by with surveys, he's attended national conferences with other supervisors and sat on committees, he's been asked to write up his experiences in reports. He has four different systems for requesting upgrades, bug fixes, and enhancements. None of them seem to ever produce positive results.
 
 He tells his direct reports to use all of the systems religiously, but they all know that secretly Louis has given up on change. Now he's just biding his time until retirement.
 
@@ -126,7 +126,7 @@ You take the work to the people, let them organize it. You don't organize the wo
 
 (Of course it can work without following these rules, and most of the time does -- eventually. All I'm doing is relaying what I've seen as being necessary to move very quickly and effortlessly to adapt to new situations.) The absolute best grooming I've ever heard of -- I didn't get to see it -- was an Agile Coach who went to work as a developer for a financial trading firm. They worked as solo developers, and they did financial trading alongside a real trader. There was no wall at all between doing the work and automating the work.  Traders were expected to program and programmers were expected to trade. They worked in pairs. The shared mental analysis model was continuously groomed by writing code, using it, then talking about what was learned as they continued working (trading). I believe this is about as optimal as technology development can get. That's nirvana.
 
-But this example and some teams in the startup world, I've never seen it in the commercial sector. Everybody I've ever worked with had to set aside time somehow.
+Except for this example and some teams in the startup world, I've never seen it in the commercial sector. Everybody I've ever worked with had to set aside time somehow.
 
 ### **Synchronize the Model**
 
@@ -134,13 +134,13 @@ If there is some kind of grunt work involved with backlog grooming, it's synchro
 
 Behavior always seems to be the best way into scanning the entire Analysis Model.[^19-5] Go down the behaviors. Are we able to point to domain objects and talk about how they work together to make this behavior happen? For each behavior, are we able to point at the applicable supplementals and describe how they affect this behavior? Can we do it just by chatting with one another without relying on tools or docs? The real model exists in our heads, after all, and no matter what's in the EasyAM system, if it's not in our heads it doesn't exist. That's the model we need to be synchronizing.
 
-[^19-5]: If I get bored, I'll start with the Domain Model. Or the Supplementals. It's all the same thing, anyway. People just seem to relate more to behavior, and if doesn't relate to the behavior list, it's out of scope. So if you want to start somewhere else, it's a fun thing to do, just always be sure you're not accidentally increasing scope without realizing it. Watch that behavior list.
+[^19-5]: If I get bored, I'll start with the Domain Model. Or the Supplementals. It's all the same thing, anyway. People just seem to relate more to behavior, and it doesn't relate to the behavior list, it's out of scope. So if you want to start somewhere else, it's a fun thing to do, just always be sure you're not accidentally increasing scope without realizing it. Watch that behavior list.
 
 If that goes smoothly, go through each behavior and ask about actors. Who is the person/entity that initiates this behavior? Do they initiate other behaviors? Then triggers. What kicks off this behavior? Does it kick off other behavior? Finally outcomes. Do we know all the possible ways this behavior can end? Do these outcomes kick off yet more behaviors?
 
 You're trying to create a dialectic. If you're not getting a lot of action, pop around in the details a bit, if only verbally. You're trying to poke people into having important conversations they probably wouldn't normally have.
 
-Scope yourself to a certain amount of time and quit when the time is up. If you've done the first couple of items above without finding anything new, maybe next time start at the third item, then the fourth, and so on. You can also skip around. In many ways this is like painting a landscape. First you sketch out the general look, then you pay a little attention here, then you pay a little attention there. Each time you look at your landscape painting your goals is sketch out a few more details. (Not go on a death march. Remember -- fun. There's a good reason why you never hear about Klingons writing good software.)
+Scope yourself to a certain amount of time and quit when the time is up. If you've done the first couple of items above without finding anything new, maybe next time start at the third item, then the fourth, and so on. You can also skip around. In many ways this is like painting a landscape. First you sketch out the general look, then you pay a little attention here, then you pay a little attention there. Each time you look at your landscape painting your goal is to sketch out a few more details. (Not go on a death march. Remember -- fun. There's a reason why you never hear about Klingons writing good software.)
 
 You're not doing this to build a spec. You're doing this to do a cross-check between model items to see if there are important conversation areas you might have missed. Hint: there always are. Once the model gets sketched out past a hour or two, it starts suggesting conversation areas and reminding you of things you that you probably wouldn't have thought of before. That's another piece of the magic.
 
@@ -191,7 +191,7 @@ Of course, ideally you make a few lists to create a Master Model, talk about wha
 
 And it varies. For one story, maybe you need to work through some levels, add some details in. For another story, you jump right to writing the test in the code. It varies. It's supposed to vary.
 
-TDA means constantly walking through behaviors, supplementals, and domain items at any one level to see whether is agreement that enough detail has been provided to make a test at one of the lower levels. (Not necessarily the next one down.) Analysis only exists to create and modify target systems using tests that everybody agrees to, and so analysis is constantly driving towards defining those tests in good-enough detail. As you learn more from making tests pass, you learn more about tests you'd like to have pass. Analysis Drives Tests. Tests Drive Analysis.
+TDA means constantly walking through behaviors, supplementals, and domain items at any one level to see whether there is agreement that enough detail has been provided to make a test at one of the lower levels. (Not necessarily the next one down.) Analysis only exists to create and modify target systems using tests that everybody agrees to, and so analysis is constantly driving towards defining those tests in good-enough detail. As you learn more from making tests pass, you learn more about tests you'd like to have pass. Analysis Drives Tests. Tests Drive Analysis.
 
 It's the circle of life.
 
@@ -225,7 +225,7 @@ If I'm delivering the "foo" goal, what kinds of supplementals might I need relat
 * (Rest of supplementals go here)
 * Tweak the machine, ie. add performance supplementals as the system continues to mature
 
-[^19-32]: ZOMBIES was a term invented as far as I know by my friend James Grenning. It describes the various types of "paths" that should be considered when writing a function. You start writing the **Z**ero function, the one that does nothing. Then you handle **O**ne item, then **M**any items, then **B**oundaries, then **I**terfaces, then **E**xceptions, finally **S**cenarios. James wrote the book on writing quality software in embedded systems. You should check it out.
+[^19-32]: ZOMBIES was a term invented as far as I know by my friend, James Grenning. I believe he covers it in his book "Test-Driven Development For Embedded C", the best book for writing quality embedded code around. [https://amzn.to/2qffrYd](https://amzn.to/2qffrYd). It describes the various types of "paths" that should be considered when writing a function. You start writing the **Z**ero function, the one that does nothing. Then you handle **O**ne item, then **M**any items, then **B**oundaries, then **I**terfaces, then **E**xceptions, finally **S**cenarios. James wrote the book on writing quality software in embedded systems. You should check it out. There's also a good blog entry on it here: http://blog.wingman-sw.com/archives/677
 
 You've got six outcomes for your behavior. That's six different flows. For each flow, you've got these seven supplementals, plus whatever other ones your system has. If you wanted to have a status report that looked good, you could blow this out immediately into 6 times 7, or 42 small User Stories. 
 
@@ -261,7 +261,7 @@ As I continued to watch, I saw why my friends wanted to get rid of the word "est
 
 I saw people insist that these points had to map to some time period, like an hour or a day. This is a terrible fail. You might as well just estimate hours or days. The abstraction gets you nothing if you're really just talking about time. (Story points are a second-order abstraction. In the formula "y=2x+7", the story points are the "2" in that equation. They don't represent anything tangible until you plug an "x" in, that is, until you start actually delivering something. They don't represent the time period of things happening, they represent the *scale at which things happen*. Story points work with zooming teams and really slow teams the exact same way. It's second-order estimating.)
 
-I saw people do scheduling and commitment at the same time they did points. This is also a terrible fail. The entire point (ouch!) here is to separate the guess about how complicated it is to deliver stuff from the actual projection of when things will be done. They're separate events with separate participants, concerns, and interactions. To do a projected work duration (To figure out the total amount of work duration you're looking at, not involve dependencies or a bunch of other things. I'm not talking about release planning.) you don't even need the team in the room. It's simple math. If you try to do both points-guessing and scheduling at the same time, people are going to look at points as days or hours again. It's useless. Add commitment to the mix? Toxic. Might as well walk around the room and ask each person to swear an oath about when they'll be done.[^19-34]
+I saw people do scheduling and commitment at the same time they did points. This is also a terrible fail. The entire point (ouch!) here is to separate the guess about how complicated it is to deliver stuff from the actual projection of when things will be done. They're separate events with separate participants, concerns, and interactions. To do a projected work duration (to figure out the total amount of work duration you're looking at, not involve dependencies or a bunch of other things. I'm not talking about release planning) you don't even need the team in the room. It's simple math. If you try to do both points-guessing and scheduling at the same time, people are going to look at points as days or hours again. It's useless. Add commitment to the mix? Toxic. Might as well walk around the room and ask each person to swear an oath about when they'll be done.[^19-34]
 
 [^19-34]: I am firm believer that technology development in most cases is a business transaction. One person has money. One person can make stuff happen. Getting the two together in a mutually-beneficial relationship is business. It can and should be treated as such. "How much can you guys do for twenty-five bucks?" is a legitimate questions the team should be able to answer. Professionals make commitments, they negotiate uncertainties, they hedge their bets, use slack wisely, and so forth. For purposes of this discussion, I'm just explaining the failure modes. Professionals make commitments, but they don't do it like this. This is insane. (And used far too frequently by businesses. Doing it this way only makes everybody miserable and destroys trust.)
 
@@ -277,9 +277,9 @@ Now? Now I totally understand why people don't like the words estimations and co
 
 The point game does this: the entire team walks through the entire backlog working through a mental model of how each item might be delivered. They do that over and over again, and as they get better at delivery and understanding the entire project, they get pretty good at guessing how relatively difficult things might be.
 
-At least that the way it reads in the book.
+At least that's the way it reads in the book.
 
-Something else happens too. We know something now that the maybe the other book writers didn't: as the team walks through an imaginary delivery of all these goals, they're creating a shared Meta model of execution which gets more and more accurate with problem engagement and practice. 
+Something else happens too. We know something now that maybe the other book writers didn't: as the team walks through an imaginary delivery of all these goals, they're creating a shared Meta model of execution which gets more and more accurate with problem engagement and practice. 
 
 We're back to alignment and shared mental models again, only this time in the **Meta** genre, not Business or System. What we're doing as we deliver things and think about how we're going to deliver more things is come together on a system for how we deliver stuff. That's the real value of the point game, which has nothing to do with estimation. Over time it creates a shared Meta Abstract To-Be model.
 
@@ -287,17 +287,17 @@ In the deck example, we did the same kind of thing. As we continued playing with
 
 So much of what happens in analysis is invisible.
 
-There's also an aspect of this that's more social psychology than anything else. As the team keeps estimating, making stuff, then estimating some more, they end convincing themselves about what's possible and impossible That becomes their reality. And it becomes a reality for them simply by them all agreeing on it.
+There's also an aspect of this that's more social psychology than anything else. As the team keeps estimating, making stuff, then estimating some more, they end up convincing themselves about what's possible and impossible That becomes their reality. And it becomes a reality for them simply by them all agreeing on it.
 
 It's like placebos. It may be total crap *how* it works, but it works, so who cares?
 
-(By the way, this more than anything else should convince you that the team should estimate *all* the backlog, start from fresh each time, and only use points as a lagging indicator. This social bonding can be used for evil. If the team only estimates the first day the project kicks-off, then estimates new things as they are added? They are never challenging or changing their mental model of the entire project delivery. Just re-confirming it. You can end-up effectively "programming" the team to view the project as taking a longer and longer time instead of the other way around).
+(By the way, this more than anything else, should convince you that the team should estimate *all* the backlog, start fresh each time, and only use points as a lagging indicator. This social bonding can be used for evil. If the team only estimates the first day the project kicks-off, then estimates new things as they are added? They are never challenging or changing their mental model of the entire project delivery. Just re-confirming it. You can end-up effectively "programming" the team to view the project as taking a longer and longer time instead of the other way around).
 
-If you like estimating, then estimate, using whatever method works for you. If you don't like estimating, or your relationship with your customers and users don't require estimating? Don't estimate. Technology delivery is an art, an engineering practice, and a service business. All three. And all three of those are equally important.
+If you like estimating, then estimate, using whatever method works for you. If you don't like estimating, or your relationship with your customers and users doesn't require estimating? Don't estimate. Technology delivery is an art, an engineering practice, and a service business. All three. And all three of those are equally important.
 
 But whatever your decision around estimation, you need to engage the team mentally on a regular basis with thinking about the entire model and how it will be delivered, not just what items are in the formal, written model and how they connect.
 
-This book is not about Agile, Scrum, Story Points, or sprints. It's about what's going on behind-the-scenes in the minds of people who create new realities for folks. A hundred years from now maybe nobody does Story Point estimation anymore. They'll still need to be going through the entire backlog creating a shared mental model of items in the Meta genre. Story points are a tool for that. There are others.
+This book is not about Agile, Scrum, Story Points, or Sprints. It's about what's going on behind-the-scenes in the minds of people who create new realities for folks. A hundred years from now maybe nobody does Story Point estimation anymore. They'll still need to be going through the entire backlog creating a shared mental model of items in the Meta genre. Story points are a tool for that. There are others.
 
 So we reach some odd conclusions about estimating. To be effective, the estimation process, whatever it is, must:
 

@@ -6,7 +6,7 @@ Michael Feathers calls "legacy code" code that doesn't have any tests.[^23-1] Th
 
 [^23-1]: Michael's book "Working Effectively with Legacy Code" is the go-to book for people stuck with a bunch of software without tests that needs to be fixed. ![https://amzn.to/2HgsiBr](https://amzn.to/2HgsiBr)  
 
-If I see "Balance Checkbook" in the model and somebody assures me that the target system does this, without associated tests to look at their statement has no meaning. (Same goes for a fully-specified use case. Simply because the text exists and is marked done doesn't mean the system has actually changed, of it it has changed, whehter it has stayed changed.)
+If I see "Balance Checkbook" in the model and somebody assures me that the target system does this, without associated tests to look at their statement has no meaning. (Same goes for a fully-specified use case. Simply because the text exists and is marked done doesn't mean the system has actually changed, of it it has changed, whether it has stayed changed.) It's the passing tests, and nothing else, that defines the system.
 
 Data is a stream of facts. Information is data that has some sort of useful context. If I were to throw down a list of various functions I would like the computer to perform ("lookup address", "verify customer account", "sort transactions by risk") it would be data. If I were to take those same functions and stick them in at the System Abstract level associated with a Master Model, they would be information. I could cross-check the model to see why they were used. I might find various ways I could determine whether they were working correctly or not.
 
@@ -18,11 +18,11 @@ Sometimes they don't make sense to an outsider, but make sense to the people usi
 
 I gotta admit, "Cloud Operations" is a kick-ass title to put stuff under. I bet that team does a lot of cool stuff.
 
-As you work more and more with legacy information systems, you'll find that there is a deep and meaningful difference between organizing by Business Behavior Abstract, future system behavior we want to implement to help folks, and any other way of doing it.
+As you work more and more with legacy information systems, you'll find that there is a deep and meaningful difference between organizing by Business Behavior Abstract, the future system behavior we want to implement to help folks, and any other way of doing it. There's just no other way of doing it that scales well.
 
-The crux of the issue is that when I'm describing and organizing things by users and their goals, I am scoping the system. If you can't show me how something helps with any of my goals, it doesn't belong in the system.
+The crux of the issue is this: when I'm describing and organizing things by users and their goals, I am scoping the system. If you can't show me how something helps with any of my goals, it doesn't belong in the system.
 
-Structure is meaningless without the associated behavior and supplemental items. Show me a database and ask me if it's good? How would I know? If you told me what it was supposed to do and what rules it had to operate under, I could start figuring it out, but structure by itself is impossible to make decisions about.
+Structure is meaningless without the associated behavior and supplemental items. Show me a database and ask me if it's good. How would I know? If you told me what it was supposed to do and what rules it had to operate under, I could start figuring it out, but structure by itself is impossible to make decisions about.
 
 So if you group things by some structural concept, like "Back-end work", I have no idea what that means. "But it's talking about all the stuff we do on the back-end!"
 
