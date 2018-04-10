@@ -56,7 +56,9 @@ The way we talk about any Meta genre is starting with a view of what you're doin
 
 ## Master Backlog
 
-The Master Model in the Behavior genre is called a **Master Backlog**. It does a ton of cool stuff.
+The Master Model in the Behavior genre is called a **Master Backlog**. It does a ton of cool stuff.[^12-31]
+
+[^12-31]: The Master Models name and concept is something I've invented from thin air. There is a lot of material written around working at the Business Abstract level, but because you can't go any higher, that level has special significance. Master Models, Master Backlog, Master Supplementals, and Domain Model are easier to use and remember than continuing to always say something like "top-most items in the Behavior, Structure, and Supplemental Models tagged with Business Abstract To-Be". That's just way too much verbiage to keep repeating over and over again.
 
 **Master Backlogs control scope**. Master Backlogs are the highest-level list of "What's this thing supposed to do, anyway?" Because of that, whatever it is you're doing, it has to fit under that list somewhere. No exceptions. The Master Backlog list is your scope.
 
@@ -108,9 +110,11 @@ This happens in every industry already, right? They work together for a while, t
 
 This will happen to you if you doing it right. As your team wades into whatever world it finds itself in, as you apply the dialectic and Structured Analysis to orient yourself and get going? You're going to come up some new terms. Some things just get rather cumbersome to say over and over again and soon enough you've got a shortcut. Cool beans. Awesome possum.
 
-Sidebar: one of the things I've noticed as a software architect is that once I start drawing domain models, I keep wanting to apply software architecture concepts to them. Is this a Visitor Pattern? Are you using a Party Relationship here? These two things have a many-to-many relationship. Are you sure there's not some concept in the middle that joins those two up?
+Sidebar: one of the things I've noticed as a software architect is that once I start drawing domain models, I keep wanting to apply software architecture concepts to them. Is this a Visitor Pattern? Are you using a Party Relationship here? These two things have a many-to-many relationship. So these two things have a many-to-many relationship? Are you sure there's not some concept in the middle that joins those two up?
 
 There's nothing wrong with these instincts -- as long as you remember that the work takes place in people heads, not in the diagram. So the skills, ideas, and patterns you see in the diagram should provide new questions to use with the group to talk about their terms. Master Domain Models ain't database diagrams, but you don't have to throw away your skills either. Any skills regarding obtaining and organizing information are welcome and valuable. Because we're talking about information for *anything*, this book is process agnostic[^12-4]
+
+Using skills from other places is great, but the work is the people. Every time I've ever "cleaned up" a model on my own by using some sort of best practices or patterns? It's always created friction and waste. Changes that take seconds to make offline can take hours to un-frack once you're back with the group. Much danger here if you are not careful.
 
 [^12-4]: I'll have to use processes and terms from somewhere, especially as we get more detailed. I will concentrate on technology development, but terms, tools, and processes around technology development are just a prop so that you'll have real-world examples and working code.
 
@@ -120,7 +124,17 @@ Everything is connected. Changes in any of the models cascade over to the other 
 
 **Model Synchronization** for the win!
 
-Plenty of examples are coming up for using the Master Models. For now, however, you should have a good idea of how critical they are in understanding and coordinating work. And how you can stop reading right now and still get value from what you've read. (Look out for oxcarts!)
+## The Magic Act Explained
+
+Analysis almost entirely takes place inside of the brains of the people solving the problem. So you can set up various processes and rituals, but really the determining factor is what invisibly goes on in their heads. Even more interesting, it looks to me that your mind ends up in the best place to solve a problem when you focusing your attention somewhere else. Like a magician with a magic trick, as you're doing this other thing, the big problem you had initially begins to come into focus.
+
+Linkages across items creates this situation where you can be talking about one thing -- and affecting seven other things without knowing it. The links show you how that happens. You're working on behavior #7 and suddenly you have a critical insight about supplemental #12. Later on, when you go back and look at supplemental #12, you realize it tells you more about several other items in the Domain Model than you ever thought possible.
+
+The linkages not only identify where crucial conversations have happened, they identify where crucial conversations *might* happen -- and by keeping all of these crucial conversation points linked up, while you're focusing on one area you end up solving problems somewhere else. This is just like when a magician directs the audiences' attention to one spot while a bunch of other things happen right in front of them but they don't realize it at the time.
+
+We saw this first when we talked about buckets. Ask somebody about structure and they answer with behavior. Ask them about behavior and you're as likely to get supplementals, or structure. What we ask them, where we direct their attention, seems to never the place where the really useful work is happening. We'll see this pattern over and over again. Our attention will be in one spot while major accomplishments are happening off-stage. Of course it happens who have never read this book. A written Analysis Model, when done well, along with walking the model? They vastly accelerate this process.
+
+There are plenty of examples coming up for Master Models and everything else we've learned. We'll do a bunch of tagging. We'll see a lot more magic tricks. For now, however, you should have a good idea of how critical linkages are in understanding and coordinating work. And how you can stop reading right now and still get value from what you've read. (But look out for oxcarts!)
 
 You've got most all of the tagging system by now. You're beginning to understand how powerful it is and how many places it can be used.
 

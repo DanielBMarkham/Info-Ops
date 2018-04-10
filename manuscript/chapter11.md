@@ -10,9 +10,9 @@ I've been using these concepts for over twenty years, and the more I use them, t
 
 Pretty cool stuff.
 
-![You're buying an ice cream truck!](images/ice-cream-truck-master-model.png)
+![You're buying an ice cream truck business!](images/ice-cream-truck-master-model.png)
 
-## Cross-References: The Magic
+## Cross-References: The Magic Act Begins
 
 Back in school, we used to take sentences apart and draw pictures of them. This was called "sentence diagramming". It wasn't a lot of fun for me, but it was a good way to learn the parts of speech. There were a bunch of parts, but the main ones were nouns, verbs, adjectives, and adverbs.
 
@@ -136,11 +136,25 @@ You can play this game all day long. You pick one thing up. You talk about it. Y
 
 You can point to anything in the model and ask about how it fits into the rest of the model. Everything is connected to everything else, and you need to stay on top of all of those connections and keep it all up-to-date. By being a big roadmap of where all the important concepts in your project come together for critical conversations, the model is a huge web of discovered meaning.
 
+## Walking the Model 
+
+When go through the model looking at linkages like that, it's called "Walking the Model," since you can start at any one spot and move around depending on how things are connected.
+
+There's no right or wrong way to do it. In fact, it's best if you mix it up and do it different ways. Just pick a pattern and apply it over and over.
+
+You might pick a pattern like this: "For each behavior, go over the detail flow while pointing out which supplementals are applicable and how they apply." That's a good one. Or maybe it's "For each Domain Model Entity, talk about how they relate to each of the behaviors they participate in." That's another good one. Everything's connected, so it's up to you how you would like to walk it.
+
+You can even string together three or more items in your pattern. "For each behavior, talk about each supplemental that applies to it. As we look at that supplemental, talk about the other places it's being used."
+
+You'll walk the model over and over again. It's good that you can do it so many different ways.
+
 ## Synchronizing the model
 
-What this means is that every time we add something to the model, we need to cross check to see where else it might be used. It's not just one time. We also need to go through on a regular basis and make sure that everything is connected to everything else important.
+What all of this linkage means is that every time we add something to the model, we need to cross check to see where else it might be used. It's not just one time. We also need to go through on a regular basis and make sure that everything is connected to everything else important.
 
 You can call this "Analysis Model Grooming", or just "Backlog grooming". But since we're working at a higher level now, let's call it "Synchronizing the Model". It's the process where everything important in the model is explicitly connected to everything else.
+
+We **walk the model** making sure it is consistent: it's not missing things it should have to make sense, it doesn't have the same thing listed two different ways, things aren't in the wrong spots, new things that are added in one context are looked at to see what other contexts they apply to, and so on.
 
 Good diagramming tools can handle some of the work here. I did a lot of analysis work early on using UML tools. With the good tools, you could drag a noun into a Domain Model, give it a label like "customer", then "link" that class to Activity Diagrams and a bunch of other stuff -- where it was used. The tool kept track of all of the cross-linking.
 
