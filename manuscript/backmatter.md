@@ -2,7 +2,9 @@
 
 # Coming Soon
 
-Enjoyed the book? Interested in taking this to the next level, working with large groups and vague value propositions? Check out "Info-Ops 2: The Sequel"
+Enjoyed the book? Interested in taking this to the next level, working with large groups and vague value propositions? Check out "Info-Ops 2: The Sequel"[^bm-1]
+
+[^bm-1]: I had initially planned to include this material in this book. Feedback from alpha and beta readers, however, have shown me that 1) there are two different audiences, 2) people will skip ahead and not know what the hell is going on, then blame the author for being confused, and 3) once you really understand what's in this book you're ready for the rest of it -- but not until then. So I split it up into two parts.
 
 ### Meta, Large Teams, and Teams of Teams
 
