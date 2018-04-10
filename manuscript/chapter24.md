@@ -113,9 +113,15 @@ When I look for advice on how to evaluate and engage in situations, I look to st
 
 A famous saying in military circles is "Amateurs talk tactics. Professional talk logistics." That means that when you see the military, you think about guns, tanks, fighting and such. But like an iceberg, that's just what people *see*. The real trick of things is getting all of those guns, tanks, soldiers, and planes to the right place with food, fuel, ammo, training, and everything else they need. That's logistics, and it is just as critical, even moreso, than the fighting. If you can't eat and you have no bullets, you're not fighting. And even if you have the best army on the planet, if you can't keep them supplied and moving where they need to be, you've lost. If you doubt me, ask Napoleon.
 
-Likewise, when people begin analysis to create or modify some formal system, the most obvious thing they think about is the system itself. (Hopefully). But the professionals think about something else: how do you know if you're wrong? 
+Likewise, when people begin analysis to create or modify some formal system, the most obvious thing they think about is the system itself. (Hopefully). If they think about some super-influential-and-powerful application, like Facebook, they think of all the features of Facebook. (The tech people without a clue at want to talk about scaling applications to billions of users. They can't make a lemonade stand anybody would use, but they're eager to know to handle ten million operations per second.)
+
+But the professionals think about something else: how do you know if you're wrong? 
 
 After all, no matter what you're doing, if it's worth doing at all it's bound to be a bit tricky. Asking about whether you can test it or not determines whether it can be inspected, but the key question is whether or not you're set up to change course if you've made a mistake. 
+
+When I look at something like Facebook, I want to know how they gather information about what people want, how that information moves around and is absorbed by the company. How they manage to make decisions so quickly and anticipate what people want before they even know they want it. That's the important stuff.
+
+Contrast that to the way so many corporate and governmental systems are developed.
 
 I have seen billions of dollars spent on systems where there was neither effective testing nor any sort of feedback loop. That's mind-boggling to me. Eventually, however, systems are tested. They always are. And then what might have been a tiny, unimportant change years ago turns into an unmitigated disaster. All because there was no mechanism in place for observing the continuous tests and changing course accordingly.
 
@@ -129,9 +135,9 @@ Amateurs talk about features, delivery dates. Professional talk about feedback l
 
 ### Is it Creative?
 
-Is a fantasy novel something you could use Structured Analysis on? It certainly could be. Fantasy novels, more than any other novel, have strict rules that must always be followed. Otherwise the reader feels cheated. (Oddly enough, authors have much more freedom when writing straight fiction, although credibility always has it's limits.)
+Is a fantasy novel something you could use Structured Analysis on? Sure. Fantasy novels, more than any other novel, have strict rules that must always be followed. Otherwise the reader feels cheated. (Oddly enough, authors have much more freedom when writing straight fiction, although credibility always has it's limits.)
 
-It's probably a sucky way to write a book, but readers certainly use SA to think about books they're reading.
+It's probably a sucky way to write a book, but readers certainly use SA internally to think about books they're reading, no matter how they're created.
 
 ## Project Chartering/Vendor Management
 
