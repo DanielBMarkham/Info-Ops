@@ -46,29 +46,25 @@ Once there, you'll see a green button that says "Clone or Download". Click on th
 
 Once the zip file has been downloaded, extract it into a folder that you can remember. 
 
-![Your directories will look something like this](images/easyam-folders.png)
-
 You should have a bookprog folder. Inside of that you'll have a sample data folder. Inside of that there will be the samples we use.
 
-You will need to have the .NET CLR 4.0 libraries or later installed to run EasyAM. All Windows and most Linux installations already have these available. 
+You will need to have the .NET CLR 4.0 libraries or later installed to run EasyAM. All Windows and most Linux installations already have these available.
 
-Open a command-line prompt and go to the bookprog folder.
+Installation can get kind of tricky depending on what sort of computer you have -- and these kinds of things are always changing. Instead of my trying to write a book-inside-a-book on running .NET programs, if you can run .NET programs, you can run EasyAM. Most major computers can do this.
 
-In windows, to see what versions of .NET you have installed, from the command-line prompt type "dir /b /ad /o-n %systemroot%\Microsoft.NET\Framework\v?.*" (Wow, that's easy, right?) You should see lines for 4.0 or greater.
+If not? If you have a special situation or would like to help others, join the forum! Info-Ops was written using LeanPub. Not only can you buy the book and subscribe to automatic updates there, there's a forum where you can get the latest up-to-date tips and advice. [https://community.leanpub.com/t/easyam-installation-and-setup/340](https://community.leanpub.com/t/easyam-installation-and-setup/340)
 
-On Linux and a Mac, just install the latest version of .NET Core. You'll find instructions for installing .NET Core on your OS at [https://www.microsoft.com/net/core](https://www.microsoft.com/net/core) (Visit the site from the computer you are installing to, since Microsoft determines your computer and routes you to the appropriate place depending on your OS).
+(You'll have to sign-up first if you've never visited LeanPub before.)
 
-I coded EasyAM and compiled it with Mono, which is the old open-source .NET runtime for Linux. (It's a great tool, by the way). That's [here:](http://www.mono-project.com/)
-
-(NOTE TO BETA READERS: In Windows, you'll need to just use the bin/Debug folder for now. In Linux, clone the project, then use Mono to compile it to a single run-time file, eg "mkbundle -o easyam --deps --static easyam.exe". This will make a file named "easyam" that you can run from the command-line e.g. "./easyam --help")
+Go there and join the Info-Ops gang. Not only is there help for EasyAM installation, there are all kinds of other cool stuff there too.
 
 Once you've got .NET and EasyAM installed, from a command line in the bookprog folder, type "easyam --help". 
 
 You should be looking at help text which includes some sample easyam code.
 
-[](images/easyam-help-text.png)
+![](images/easyam-help-text.png)
 
-If you want to use EasyAM in a lot of places, and you probably will, you'll also need to add it to your PATH, so that it will run no matter what directory you are in.
+If you want to use EasyAM in a lot of places, and you probably will, you'll also need to add it to your PATH, so that it will run no matter what directory you are in. Or if you're lazy, you can just copy it and its DLLs around to whatever directory you want to play in.
 
 ## How Does EasyAM Work?
 
