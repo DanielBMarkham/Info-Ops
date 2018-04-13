@@ -2,11 +2,11 @@
 
 ## Understanding Legacy Systems
 
-Michael Feathers calls "legacy code" code that doesn't have any tests.[^23-1] The description is apt for analysis model information also. Analysis information that's not driving towards and directly associated with tests is legacy information. It exists and perhaps is critically important. There's just no validation in place to show where it is important and why.
+Michael Feathers calls "legacy code" code that doesn't have any tests.[^23-1] That description is apt for analysis model information too. Analysis information that's not driving towards and directly associated with tests is legacy information. It exists and perhaps is critically important. There's just no validation in place to show where it is important and why.
 
 [^23-1]: Michael's book "Working Effectively with Legacy Code" is the go-to book for people stuck with a bunch of software without tests that needs to be fixed. ![https://amzn.to/2HgsiBr](https://amzn.to/2HgsiBr)  
 
-If I see "Balance Checkbook" in the model and somebody assures me that the target system does this, without associated tests to look at their statement has no meaning. (Same goes for a fully-specified use case. Simply because the text exists and is marked done doesn't mean the system has actually changed, of it it has changed, whether it has stayed changed.) It's the passing tests, and nothing else, that defines the system.
+If I see "Balance Checkbook" in the model and somebody assures me that the target system does this, without associated tests to look at their statement has no meaning. (Same goes for a fully-specified use case. Simply because the text exists and is marked done doesn't mean the system has actually changed, or if it has changed, whether it has stayed changed.) It's the passing tests, and nothing else, that defines the system.
 
 Data is a stream of facts. Information is data that has some sort of useful context. If I were to throw down a list of various functions I would like the computer to perform ("lookup address", "verify customer account", "sort transactions by risk") it would be data. If I were to take those same functions and stick them in at the System Abstract level associated with a Master Model, they would be information. I could cross-check the model to see why they were used. I might find various ways I could determine whether they were working correctly or not.
 
@@ -14,7 +14,7 @@ Because there are a lot of people who don't understand Structured Analysis, ther
 
 Sometimes these chapters kind of make sense. They're grouped around System Abstract functional areas in people's heads. You might see "Customer Transactions" or "Governance Auditing". People grab together a lot of things they talk about and make chapter headings.
 
-Sometimes they don't make sense to an outsider, but make sense to the people using them. This happens when the chapter titles are more about Structure. You'll see "Back-end" as a grouping, or "Cloud Operations"
+Sometimes they don't make sense to an outsider, but make sense to the people using them. This happens when the chapter titles are more about Structure. You'll see "Back-end" as a grouping, or "Cloud Operations".
 
 I gotta admit, "Cloud Operations" is a kick-ass title to put stuff under. I bet that team does a lot of cool stuff.
 
@@ -36,13 +36,13 @@ Likewise when you organize by business function without goals? It's doing the sa
 
 This is one example of the difference between "business talk" and "system talk". Nobody is a robot, so nobody can manage an entire analysis model on their own. (Although many try.) Fortunately, you don't really have to. At a business meeting, if I tell Srini to take care of the Account Reconciliation operations next month, we don't have to know exactly what it means. The words come out, Srini nods his head, and we continue the meeting.
 
-Thank goodness it works this way. Otherwise we'd never get anything done, spending all of our time fully specifying anything we were talking about. Business works in vagaries and ambiguities. Later on, as-needed, informal analysis happens to the degree that the work can be completed.
+Thank goodness it works this way. Otherwise we'd never get anything done, we'd be spending all of our time fully specifying anything we were talking about. Business works in vagaries and ambiguities. Later on, as-needed, informal analysis happens to the degree that the work can be completed.
 
 But it's not necessarily consistent or logical. If next month I ask Medhi to handle Account Reconciliation, and he doesn't know what it is, he and I might have a completely different conversation around what I want. That's fine. As long as we reach the goals we have, the inconsistencies don't matter.
 
 Where it becomes a problem is when it needs to translate to a formal system, like a computer program. I can't tell Srini that Account Reconciliation is one thing one month and Medhi that it's something else another month if they're both trying to write computer systems to make Account Reconciliation happen. Worse yet, if they're trying to organize people to write computer systems to make it happen.
 
-What usually happens -- and I've seen this on at least a dozen occasions -- is that some manager somewhere ends up with a somewhat-complete list of System Realized functions that they try to map up with the business titles. Does the "MapSysExReg4" help with Account Reconciliation? That's the one we used for the RepRo project, right?
+What usually happens -- and I've seen this on at least a dozen occasions -- is that some manager somewhere ends up with a somewhat complete list of System Realized functions that they try to map up with the business titles. Does the "MapSysExReg4" help with Account Reconciliation? That's the one we used for the RepRo project, right?
 
 To an outsider it sounds like a bunch of gobbledygook, but it makes perfect sense to Joe Former-Tech-Guy Manager. So he sorts up all the existing functions as either being in-scope or out-of-scope. He also makes a note of new functions that might be needed.
 
@@ -52,7 +52,7 @@ How do they know if they're done?
 
 If there's no goal, there's no test. You give me a bunch of functions to work on under the business category Account Reconciliation and two years later you might have a lot of nothing -- except bills. That doesn't mean I haven't been working. It means my work isn't connected to anything of value. It's just work under a category. We have a term for expenses that fall under particular categories but aren't directly associated with value: the term is "overhead".
 
-The usual response is no, no. It doesn't work that way. Instead, we have a team of four-thousand QA people, all top-notch, who are double and triple-checking to make sure we're doing a good job and getting our money's worth.
+The usual response is no, no, no. It doesn't work that way. Instead, we have a team of four-thousand QA people, all top-notch, who are double and triple-checking to make sure we're doing a good job and getting our money's worth.
 
 Double and triple-checking what, exactly? They've got the same problem the developers have, only worse. The developers can say they're "done" with whatever they're doing at any time. The QA folks are always trying to play catch-up to figure out exactly what the heck the system is supposed to be doing. Sometimes they never figure it out.
 
@@ -84,7 +84,7 @@ In the background, however, there's no reason you can't get organized and use th
 
 This works exactly the same as it does in greenfield: sketch out a Master Model, sketch it out again and again as you groom, then organize everything under it. The only difference is that "everything" under it might include a bunch of stuff out of your control. You'll just need to provide automated linkages.
 
-Day 1 you sketch out a master model, focusing on behavior. Then you take a break, come back and start over sketching one out again. Before lunch you walk through a dozen or two of your existing backlog items, seeing if they fit in the model somewhere. After lunch you start over and sketch the Master Model out a third time. Do some Story Mapping if you'd like a break. Then you take a couple of hours and go through the top 100-200 items asking yourself: which behavior items do these fit under?
+Day 1: you sketch out a master model, focusing on behavior. Then you take a break, come back and start over sketching one out again. Before lunch you walk through a dozen or two of your existing backlog items, seeing if they fit in the model somewhere. After lunch you start over and sketch the Master Model out a third time. Do some Story Mapping if you'd like a break. Then you take a couple of hours and go through the top 100-200 items asking yourself: which behavior items do these fit under?
 
 This should nail about 70-80% of you Master Backlog items. (Although probably not the details. Save those for later once the rest of the buckets start filling up. Remember to strive to keep your buckets even!) You'll also be picking up Supplementals and Domain Model items. All of that conversation is bound to include important nouns.
 
@@ -92,7 +92,7 @@ There are several things that sometimes throw teams for a loop.
 
 ### Legacy Bugs and Defects
 
-You can't have a bug unless something that's supposed to be working is broken. What's the thing that's supposed to be working and how does it fit into users using your target system to reach their goals? So often bugs and defects are associated with structural items (This button is broken on a screen) when in fact they have to be translated to behaviors (Given that the user is balancing inventory, when they go to reconcile, the system is crashing)
+You can't have a bug unless something that's supposed to be working is broken. What's the thing that's supposed to be working and how does it fit into users using your target system to reach their goals? So often bugs and defects are associated with structural items, "This button is broken on a screen", when in fact they have to be translated to behaviors: "Given that the user is balancing inventory, when they go to reconcile, the system is crashing".
 
 Remember you can have any structural item you want. You just have to translate it into behaviors and supplementals.
 
@@ -100,7 +100,7 @@ Remember you can have any structural item you want. You just have to translate i
 
 Tasks are big in malformed backlogs. A lot of people don't know what the heck they want, but they sure know what they want you to do. Most tasks are in support of some future behavior happening, so that's an easy match. Some tasks are structural and end up supporting all behaviors, like "fix security on DMZ". This is one of the reasons I always put an "ALL" card in my Master Model.
 
-Then there's the nuclear bomb of tasks: a task to change a supplemental. "Make the system able to handle cloud center crashes without user intervention", or "Make all user screens respond within 50ms of input". These are extremely simple to say, extremely difficult to do. Anything that changes a supplemental pull aside for now. We'll talk about them under "System Migration", below.
+Then there's the nuclear bomb of tasks: a task to change a supplemental. "Make the system able to handle cloud center crashes without user intervention", or "Make all user screens respond within 50ms of input". These are extremely simple to say, extremely difficult to do. Anything that changes a supplemental put aside for now. We'll talk about them under "System Migration", below.
 
 ### Legacy Huge Hunks Of Structure
 
@@ -128,7 +128,7 @@ The more questions I asked, the more parameters there were. In fact, within a we
 
 It was a system without a Domain Model. 
 
-Finally, after several philosophical discussions (What do you mean by permissions, anyway?) I realized that really there was no system to be built. What needed to be built was a big rules-matching engine that could then be loaded and configured any way client liked.
+Finally, after several philosophical discussions (What do you mean by permissions, anyway?) I realized that really there was no system to be built. What needed to be built was a big rules-matching engine that could then be loaded and configured any way the client liked.
 
 It was three weeks of confusion followed by one week of pair coding. It was an API with three methods and a stored procedure.
 
@@ -142,7 +142,7 @@ Ouch.
 
 It's important to recognize when you're in a rules-based system. When you figure it out, build the system. After the system is built, there's another conversation to be had about loading and testing the rules.
 
-You have two separate projects, one of which needs to be finished before the other can start.[^23-31] For the rules-based system, develop it like you would anything else. For implementing the rules, you need to find out from the customer how they define done. Should you test each rule? Or should it just be an open system where people can edit and change on-the-fly? Should there be version control of the rules (Yes.) Even with freeform systems, should there be smoke tests that makes sure the system is in a usable state (Yes.)
+You have two separate projects, one of which needs to be finished before the other can start.[^23-31] For the rules-based system, develop it like you would anything else. For implementing the rules, you need to find out from the customer how they define done. Should you test each rule? Or should it just be an open system where people can edit and change on-the-fly? Should there be version control of the rules? (Yes.) Even with freeform systems, should there be smoke tests that makes sure the system is in a usable state? (Yes.)
 
 [^23-31]: You'll certainly provide a bunch of rules as sample vectors to run through your code as you build the system, but that's different than actually configuring the thing once it's done with your initial ruleset. The thing about rules-based systems is that *you're never done*. You can provide the compiler and some sample code, you can even set it up initially, but really it's the people using it that are delivering all the value somewhere. They'll have to have their own Meta system for making that happen. (Most likely you're an expert in building the rules-based system, not an expert in what should go in the system or how it should act.) This can be very frustrating to clients if they're not prepared ahead of time for how things are going to turn out.
 

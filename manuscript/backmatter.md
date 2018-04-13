@@ -24,11 +24,11 @@ Enjoyed the book? Interested in taking this to the next level, working with larg
 - Startup planning: inflection points 
 - The Valley of Death and Scaling
 - Focus vs. Values
-- The automation cycle
+- The Automation Cycle
 
 # About the Author
 
 ![Daniel B. Markham](images/daniel-perhaps-author.png)
 
-A self-taught polymath, Daniel has spent his life helping really smart people solve really tough problems -- and trying to figure out why some of them succeed while others fail. Daniel has assisted organizations in creating a better future in size from 4 to 40,000 people. He has four children, three boys and a girl. He lives with his wife Melissa in the backwoods of South-Central Virginia with his dogs, pickup truck, and a lot of trees. All he ever wanted to be was a writer.
+A self-taught polymath, Daniel has spent his life helping really smart people solve really tough problems -- and trying to figure out why some of them succeed while others fail. Daniel has assisted organizations in creating a better future in size from 4 to 40,000 people. He has four children, three boys and a girl. He lives with his wife, Melissa, in the backwoods of South-Central Virginia with his dogs, pickup truck, and a lot of trees. All he ever wanted to be was a writer.
 

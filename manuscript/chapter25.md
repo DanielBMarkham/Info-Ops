@@ -22,7 +22,7 @@ Now you add the command-line parameters to EasyAM to output only the sprint back
 
 You can even add lanes to this system if you want to. Just make a tag "Lane=In-Progress" or something like that. The spreadsheet does the rest.
 
-Or, if this sounds a bit too hacky for you, use some free online tool like Trello. Then write a script to load new cards into Trello and another script to take the status in Trello and add it to the tags in EasyAM. Now you can use Trello to do your card-moving or Kanban-style work.[^25-1] EasyAM will keep the data for you and send it to other places as-needed.
+Or, if this sounds a bit too hacky for you, use some free online tool like Trello. Then write a script to load new cards into Trello and another script to take the status in Trello and add it to the tags in EasyAM. Now you can use Trello to do your card-moving or Kanban-style work.[^25-1] EasyAM will keep the data for you and send it to other places as needed.
 
 [^25-1]: I know that Trello isn't a Kanban system. No lanes, no policies, no pull-based work flow. Of course, you can still use it as a Kanban system as long as you do those things yourself. Or use another, *real* online Kanban system. Just be sure to pick something you can pipe stuff in and out of.
 
@@ -30,13 +30,15 @@ Or, if this sounds a bit too hacky for you, use some free online tool like Trell
 
 ![Are people finding and using your app the way the Analysis Model thought they were going to?](images/chapter24-googleanalytics-hooking.png)
 
-If you're creating anything where you can't physically interact with all of the users, you're going to have to instrument code.  Instrument it immediately. It should never be an afterthought. (If anything, set up page and app metrics before you even content or functionality in there.)
+If you're creating anything where you can't physically interact with all of the users, you're going to have to instrument code.  Instrument it immediately. It should never be an afterthought. (If anything, set up page and app metrics before you even place content or functionality in there.)
 
 Why? Because you don't know what's going on. You *think* people do A, B, and then C, but maybe they just do A, then leave. Or A and C, without ever doing B. Anytime you're dealing with users not in the room, somebody has been doing a lot of guessing and making a lot of assumptions about things. There's nothing wrong with that. You just have to keep checking the actual usage data against the Analysis Model.
 
 The best way to do that is to set up your instrumentation architecture around your Master Business Model and Master Supplementals. Then, on a regular schedule, deliver the usage telemetry from your various tools into the DATA sections of the appropriate model items in EasyAM.
 
 This way, next time you look at behaviors A, B, and C? You'll have the appropriate information you need right there alongside everything else in the model, where it should be.
+
+A big place to get value is checking on your supplementals. Is your app truly "easy to use"? Does it really keep people engaged? Analytics can tie those vague phrases (or more likely, one of their grand-children) to real tests that are ran every time somebody visits.
 
 ### Continuous User Manual Creation
 
@@ -58,7 +60,7 @@ The easy way is to create a feed from your EasyAM model to another owned by peop
 
 ### Forum Round-Tripping
 
-This same kind of disconnect can happen in forums. User ask questions, report problems, and generally provide excellent feedback -- but it's not directly connected to the team's shared model.
+This same kind of disconnect can happen in forums. Users ask questions, report problems, and generally provide excellent feedback -- but it's not directly connected to the team's shared model.
 
 Just like you did with Trello, code-up a round-trip system between your forum software and your model. An easy way of doing this is simply adding tags for all your behavior and supplementals, then manually tagging stuff as it comes into the forum. Every so often, have a script go out and grab the tagged stuff and add it as notes to a model feed in a separate directory (You don't want all those forum comments in your model every time you do anything with it.)
 
@@ -66,7 +68,7 @@ Just like you did with Trello, code-up a round-trip system between your forum so
 
 The same pattern can be used with Slack, setting up round-tripping and piping things both in and out.
 
-Slack gets a little weird because people want to use it as some sort of oddball requirements system. It never really works that way. Physical conversations still happens. The dialectic and analysis models continue to grow -- they're just spread out everywhere and never aligned or synchronized. 
+Slack gets a little weird because people want to use it as some sort of oddball requirements system. It never really works that way. Physical conversations still happen. The dialectic and analysis models continue to grow -- they're just spread out everywhere and never aligned or synchronized. 
 
 If you want a company chat program, something like Slack is awesome. In this way it's just a fancy telephone. If you want to use a program like that for other things, you need to go back and read this book again.
 
@@ -116,7 +118,7 @@ We talked about oddball teams, teams that don't make things you can touch and in
 
 Finally, we took our free EasyAM tool and played around with it some. Since everything you're doing can be tagged, and since EasyAM can keep track of all the tags for you, you can use it to interact with and manage a lot of the project-tracking and corporate stuff that might be driving you nuts. You manage a build server, don't you? Isn't your analysis information more important than your code?
 
-In a big way, what we've learned isn't that much more difficult than many of the other things we've had to learn to do our jobs. The hardest part about it is having to *unlearn* stuff we already thought we knew. When I say "Isn't your analysis information more important than your code?", most people would disagree. That's because most people, if they know anything about analysis at all, would think of it as some kind paper tiger exercise where it ends by giving a bunch of documents to the developers. In that world? No, the analysis isn't more important than the code.
+In a big way, what we've learned isn't that much more difficult than many of the other things we've had to learn to do our jobs. The hardest part about it is having to *unlearn* stuff we already thought we knew. When I ask "Isn't your analysis information more important than your code?", most people would disagree. That's because most people, if they know anything about analysis at all, would think of it as some kind paper tiger exercise where it ends by giving a bunch of documents to the developers. In that world? No, the analysis isn't more important than the code.
 
 But you know better now. You know what real analysis is, you know how it keeps happening whether or not we want it to, and you know that the alignment around questions, conversations, and tests is far more important than a bunch of bits somewhere. With enough of the right tests, I could build a hundred systems that would all make you happy. But with a system with no tests, I'm not even sure what it does right now, much less how to change it for the better.
 

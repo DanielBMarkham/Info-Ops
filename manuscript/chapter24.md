@@ -2,7 +2,7 @@
 
 ## Managing Intangibles
 
-We've spent a lot of time in this section talking about using Structured Analysis to create technology solutions: programs, websites, robots, space stations, mars colonies, decks, things like that. Things that you can touch or see. Things where you create your own reality as you go. Things that require creative work to make happen.
+We've spent a lot of time in this section talking about using Structured Analysis to create technology solutions: programs, websites, robots, space stations, Mars colonies, decks, things like that. Things that you can touch or see. Things where you create your own reality as you go. Things that require creative work to make happen.
 
 The book started with an introduction to questions, the dialectic, analysis, and Structured Analysis. No matter what information you have, it's going to fit somewhere in an Analysis model, even if it's only in your head. Then we moved to working by yourself, using Structured Analysis to have better conversations with people you're trying to help. Finally we moved out to teams, talking about how teams operate to gather and move information around as they create things people want.
 
@@ -14,7 +14,7 @@ To help sort it all out, here are the questions I go through when somebody asks 
 
 ### What is the Target System?
 
-While analysis is always in the same three buckets and abstraction levels, work is in the form of To-Be System Reazlied Behavior and Supplementals. All work is to change some target system so that it exhibits new behavior and follows new rules.
+While analysis is always in the same three buckets and abstraction levels, work is in the form of To-Be System Realized Behavior and Supplementals. All work is to change some target system so that it exhibits new behavior and follows new rules.
 
 What is the target system? It seems like kind of a trivial question, don't people realize what they're working on?
 
@@ -28,25 +28,25 @@ So you still have work items, Behaviors joined up with Suppelmentals to make goa
 
 There's a discussion to be had around the Meta genre and managing/leading people, but that's not your target system.
 
-Let's say you're managing a political campaign. You've built enough doghouses in your career that you're finally going to run for dog-catchter.
+Let's say you're managing a political campaign. You've built enough doghouses in your career that you're finally going to run for dog-catcher.
 
 What's your target system?
 
 If you're like a lot of people, you might start off asking questions and mentally-modeling political campaigns. Let's see, there are are various forms of media, there are different ways to interact....
 
-Pretty soon you could have an entire model built around "running a campaign". It would show the world of politcal campaigns.
+Pretty soon you could have an entire model built around "running a campaign". It would show the world of political campaigns.
 
 It would be wrong.
 
 Looking at the Analysis Survey, the top row is all about how our model touches the outside world. It's no coincidence that the first thing you see are Actors. Determining your target system begins with asking "Who are the people I am trying to help?"
 
-What you've done is assume that you are the actor. You are modeling and creating a system for you to use. But that's not what you're doing at all. Yes, you'll have to use/create/invent some kind of system, but what you're doing is changing the behavior of voters. Voters and people who might vote are the actors. They're the people who want stuff that you're striving to help. What do they want? How can you help them? Beats me. That's the work.
+What you've done is assume that you are the actor. You are modeling and creating a system for you to use. But that's not what you're doing at all. Yes, you'll have to use/create/invent some kind of system, but what you're doing is changing the behavior of voters. Voters and people who might vote are the actors. They're the people that you're striving to help. What do they want? How can you help them? Beats me. That's the work.
 
-If you think you're the actor of the target system, you end up creating stuff that you think you *should* want, if you knew what you were doing. It's kind of a dysfunctional game of play-pretend. You think "If I were some super succesful political guy, I would need all kinds of cool tools to run my campaign"
+If you think you're the actor of the target system, you end up creating stuff that you think you *should* want, if you knew what you were doing. It's kind of a dysfunctional game of play pretend. You think "If I were some super successful political guy, I would need all kinds of cool tools to run my campaign"
 
-There are times where you are the Actor. The system is about you: finding out what you do, finding out how you'd like things done, and so on. But in the political campaign scenario, if you're happy but you're not elected? You're not happy. So you can't be the actor. Instead, just like before, you and the things you do are tools.
+There are times where you are the Actor. The system is about you: finding out what you do, finding out how you'd like things done, and so on. But in the political campaign scenario, if you're happy but you're not elected? You've not met your goal. So you can't be the actor. Instead, just like before, you and the things you do are tools.
 
-This is an interesting example because not only are you trying to provide benefits to the average voter, your ultimate goal isn't to help them do thing they already do but start doing things they currently don't. This is a special type of work where you're both observing and trying to change actor behaviors. That comes under Lean Startup at the end of the book.
+This is an interesting example because not only are you trying to provide benefits to the average voter, your ultimate goal isn't to help them do thing they already do but to start doing things they currently don't. This is a special type of work where you're both observing and trying to change actor behaviors. That comes under Lean Startup at the end of the book.
 
 ### Is the Target System a Formal System?
 
@@ -54,17 +54,17 @@ There's a lot of really nerdy stuff here out of my league. The important point i
 
 You cannot engage in a productive dialectic with a crazy person because they're under no obligation to have a logical and consistent view of the universe. 
 
-In general, whatever the target system, it should have at least these properties:
+In general, whatever the target system, it should have at least these properties. It is...
 
-- Consists of primitives that are put together in various ways according to a set of rules
+- Consisting of primitives that are put together in various ways according to a set of rules.
 - Recursively decidable. You should be able to determine whether or not something is true or false given the rest of the system. This might involve drilling down through other parts of the system. You couldn't model the art of singing because singing has attributes that are undecidable. As much as I might try, I can't take math and become a better karaoke singer.
 - Isomorphic to a formal language. With technology, this is fairly easy, since technology runs on various computer languages, which are a type of formal language.
-- Logical. It is consistent. If something is one way in one place, it's the same way in another
+- Logical. It is consistent. If something is one way in one place, it's the same way in another.
 - Deductive. Given that certain things are true, it follows (you can deduce) that other things must be true also.
 
 A deck follows these rules. So does a Mars Colony project. A computer program certainly does. A children's book about donkeys from the edge of space probably does not. (Depending on the donkeys)
 
-You can certainly use Analysis, Structured or otherwise, to try to make sense of such systems. After all, there's nothing else available to you. But trying to gain traction to change the future behavior of the target system when the target system is not a formal one is mostly an exercise in frustration. You can't write accounting software with jello.
+You can certainly use Analysis, Structured or otherwise, to try to make sense of such systems. After all, there's nothing else available to you. But trying to gain traction to change the future behavior of the target system when the target system is not a formal one is mostly an exercise in frustration. You can't write accounting software with Jello.
 
 ### What kind of World does the Target System exist in?
 
@@ -74,7 +74,7 @@ Every system that you build or modify must interact with the outside world. For 
 
 In 1999 Dave Snowden began work on a model to help manage intellectual capital at IBM. That's what Wikipedia says. What that means is that IBM had a lot of really smart people who knew a lot of smart stuff. Could IBM take an inventory of all the smart people and smart stuff they knew? Put it into some kind database or library? That way if you wanted to find somebody who was able to speak French and could juggle cats, you'd just enter stuff on a screen somewhere.
 
-Dave dove into this and ended up with a question. (Everything good in life begins with a question). How do you sort out the types of things people know and can do? You'd think that you might organize kind of like a libraray, maybe alphabetically. But actually didn't help when folks went to look up stuff. 
+Dave dove into this and ended up with a question. (Everything good in life begins with a question.) How do you sort out the types of things people know and can do? You'd think that you might organize kind of like a library, maybe alphabetically. But actually that didn't help when folks went to look up stuff. 
 
 Instead, Snowden took a look at Epistemology, squinted his eyes a bit and condensed a hundreds of years of smart people thinking about stuff into a list of four kinds of environments you might find yourself in. Once you knew what kind of environment you're in, then you could start looking up folks who knew or were able to do stuff.
 
@@ -82,7 +82,7 @@ Here are the four "Domains"
 
 - Simple/Obvious/Clear. This is when you are in a "known knowns" situation. There are rules. The relationship between cause and effect is clear. Do X, Y happens. Every time. Anybody can move around and make sense in this domain.
 - Complicated. This is when you are in a "known unknowns" situation. Given X, you can make Y happen, but it takes intellectual work and expertise. Building software is an example of a complex domain.
-- Complex. This is the "unknown unknowns" situation. Things happen for a logical reason, but you're never exactly sure what that reason is. Much of like occurs in the Complex Domain, although our brains keep cheating and pretending that we're actually in one of easier ones. Usually we deal with this domain by watching, doing stuff, then looking backwards to try to find patterns. Patterns may only be guesses, but they're the best we've got. If we get a pattern of doing stuff and having other stuff happen, it's progress.
+- Complex. This is the "unknown unknowns" situation. Things happen for a logical reason, but you're never exactly sure what that reason is. Much of like what occurs in the Complex Domain, although our brains keep cheating and pretending that we're actually in one of easier ones. Usually we deal with this domain by watching, doing stuff, then looking backwards to try to find patterns. Patterns may only be guesses, but they're the best we've got. If we get a pattern of doing stuff and having other stuff happen, it's progress.
 - Chaotic. Intractable. Things happen. We do things. Other things happen. Cause and effect are unclear and maybe non-existent given our current knowledge. Chaotic environments are environments you can't make sense of. You end up relying on intuition, imagination, and luck. When you're in a Chaotic environment, your main goal is to try to do something, anything, to reduce it to a Complex one. Complicated or Simple would be even better.
 
 If you're writing a program to balance checking accounts, the larger domain that the target system is operating in is math and accounting. It's a Simple Domain. You add, you subtract. It can be no simpler.
@@ -91,7 +91,7 @@ If you're writing a program to assess the accounting practices of a multinationa
 
 If you're writing a program to manage stock portfolios, you're helping your Actors operate in a Complex Domain. 
 
-You can't write any software for chaotic systems. People are receiving information they can't process or understand. There's certainly nothing you could do to help folks in a place like this. "Use the Force, Luke" is as good advice as any.
+You can't write any software for chaotic systems. People are receiving information they can't process or understand. There's certainly nothing you could do to help folks in a place like this. "Use the Force, Luke," is as good advice as any.
 
 Even if the Target System you're creating or changing is a formal system, if it exists in a chaotic environment, or if it's built assuming the environment is one way when it's another, it's not going to be useful.
 
@@ -111,9 +111,9 @@ Easily reproducible: you'd think that testing should be as easy as pushing a but
 
 When I look for advice on how to evaluate and engage in situations, I look to startups and the military, for the same reason. They either get it right or they die. There tends to be a much more practical aspect of wisdom in those areas than in other places.
 
-A famous saying in military circles is "Amateurs talk tactics. Professional talk logistics." That means that when you see the military, you think about guns, tanks, fighting and such. But like an iceberg, that's just what people *see*. The real trick of things is getting all of those guns, tanks, soldiers, and planes to the right place with food, fuel, ammo, training, and everything else they need. That's logistics, and it is just as critical, even moreso, than the fighting. If you can't eat and you have no bullets, you're not fighting. And even if you have the best army on the planet, if you can't keep them supplied and moving where they need to be, you've lost. If you doubt me, ask Napoleon.
+A famous saying in military circles is "Amateurs talk tactics. Professional talk logistics." That means that when you see the military, you think about guns, tanks, fighting and such. But like an iceberg, that's just what people *see*. The real trick of things is getting all of those guns, tanks, soldiers, and planes to the right place with food, fuel, ammo, training, and everything else they need. That's logistics, and it is just as critical, even more so, than the fighting. If you can't eat and you have no bullets, you're not fighting. And even if you have the best army on the planet, if you can't keep them supplied and moving where they need to be, you've lost. If you doubt me, ask Napoleon.
 
-Likewise, when people begin analysis to create or modify some formal system, the most obvious thing they think about is the system itself. (Hopefully). If they think about some super-influential-and-powerful application, like Facebook, they think of all the features of Facebook. (The tech people without a clue at want to talk about scaling applications to billions of users. They can't make a lemonade stand anybody would use, but they're eager to know to handle ten million operations per second.)
+Likewise, when people begin analysis to create or modify some formal system, the most obvious thing they think about is the system itself. (Hopefully.) If they think about some super-influential-and-powerful application, like Facebook, they think of all the features of Facebook. (The tech people without a clue want to talk about scaling applications to billions of users. They can't make a lemonade stand anybody would use, but they're eager to know how to handle ten million operations per second.)
 
 But the professionals think about something else: how do you know if you're wrong? 
 
@@ -125,13 +125,13 @@ Contrast that to the way so many corporate and governmental systems are develope
 
 I have seen billions of dollars spent on systems where there was neither effective testing nor any sort of feedback loop. That's mind-boggling to me. Eventually, however, systems are tested. They always are. And then what might have been a tiny, unimportant change years ago turns into an unmitigated disaster. All because there was no mechanism in place for observing the continuous tests and changing course accordingly.
 
-There is an incredibly vast amount of money spent each year by organizations that know they have a problem but can't seem to be able to intelligently talk about it amongst themselves. So they get out the checkbook and buy a tool. On the box, the tool says that it is useful for organizations in their situation with their kinds of needs.
+There is an incredibly vast amount of money spent each year by organizations that know they have a problem but don't seem to be able to intelligently talk about it amongst themselves. So they get out the checkbook and buy a tool. On the box, the tool says that it is useful for organizations in their situation with their kinds of needs.
 
 They come home from the Super-X with the box, install the software.......and nothing. Here are people that understand they have a need, are willing to spend handsomely to have that need met. But there's no reasonable or effective conversation loop where backlog refinement, (Sorry. Learning.) takes place. You can get everything else right with SA, but if there's no feedback loop, it's wrong. It's broken.
 
 One of the worst places this happens is with corporate programming teams. They have money, they have somebody pretending to be a customer, what else could they need? Perhaps some idea if anybody is using or finding value in the work they're doing?
 
-Amateurs talk about features, delivery dates. Professional talk about feedback loops. If you don't have a feedback loop, go home.
+Amateurs talk about features, delivery dates. Professionals talk about feedback loops. If you don't have a feedback loop, go home.
 
 ### Is it Creative?
 
@@ -161,7 +161,7 @@ Before this century is out, these people will no longer exist. You'd no more fin
 
 It used to be only certain people wrote. Now everybody writes. Only certain people specialize in difficult or performance writing, and it's a notoriously ill-paying job. It used to be only certain people coded. Now everybody codes for items in the Simple Domain. The specialists are moving up to the other, more tricky Domains.
 
-Programming is following the same path as writing. If you're hiring somebody or a team of people to simply codify and automate something your team is already doing, in most all cases you'd be better off doing it yourself, even if none of you program. That's because the technology part of the equation, if you know what you're doing, shouldn't be a factor in getting the system created. Instead, most all of difficult work will revolve around using Analysis to create a shared mental model.
+Programming is following the same path as writing. If you're hiring somebody or a team of somebodies to simply codify and automate something your team is already doing, in most all cases you'd be better off doing it yourself, even if none of you program. That's because the technology part of the equation, if you know what you're doing, shouldn't be a factor in getting the system created. Instead, most all of difficult work will revolve around using Analysis to create a shared mental model.
 
 You've read this book. Do you really want and need to take the time to get aligned with an outside group? For most work, you could probably spend the same amount of time learning how to overcome whatever technical gaps you have to making it happen. Then, when you're done, not only do you have an exact solution for a problem you all agree on, you have the ability to create more solutions as new situations arise.
 
@@ -175,11 +175,11 @@ But let's assume that you're in the Complicated or Complex Domain, you're part o
 
 We're smart now, let's start with pro-level questions. What's the feedback loop? Forget talking about what it does, or how we're going to test it. How are we going to know that we're headed down the wrong road and need to change? How is the project team or vendor going to be able to tell us that we're wrong?
 
-I don't think anybody ever really asks this. Instead, they usually wonder about how they're going to *tell* the external team what to do. Nobody seems to wander about how they're going to *listen* to the experts they're paying to create so perhaps they can learn something.
+I don't think anybody ever really asks this. Instead, they usually wonder about how they're going to *tell* the external team what to do. Nobody seems to wonder about how they're going to *listen* to the experts they're paying to create so perhaps they can learn something.
 
 Yet if there were nothing to learn, if it were truly simple? There wouldn't be a need for an external team to begin with.
 
-In reality, once you send a non-trivial problem to an outside group to solve and automate, you're signed-on for a lot of learning and difficult discussions. Not only do you have to listen to learn and adapt, you have to be willing to engage in dialectics to create completely new and perhaps uncomfortable models as the team gets into alignment.
+In reality, once you send a non-trivial problem to an outside group to solve and automate, you're signed on for a lot of learning and difficult discussions. Not only do you have to listen to learn and adapt, you have to be willing to engage in dialectics to create completely new and perhaps uncomfortable models as the team gets into alignment.
 
 What you're really doing is paying somebody else to learn something and then take the time to un-learn you and bring you up to speed on what they're finding.
 
@@ -191,9 +191,9 @@ So be aggressive and go with daily feedback loops.[^23-10] Weekly if you're a su
 
 The next decision to make is how you are going to observe the system. The gold standard for any successful effort is automated continuous testing and reporting. Whatever you choose to test or observe, it should happen without anybody setting it up or starting it, and the results should be easily available to anybody either in the management or delivery team. I suggest wall displays.
 
-Next you have to establish in cynefin terms what sort of universe the target system exists in. If it's simple, you should be doing it. If it's chaotic, it's probably a waste of time and energy (although there are some AI and Bayesian approaches to chaotic system that in some cases might be fruitful)
+Next you have to establish in cynefin terms what sort of universe the target system exists in. If it's simple, you should be doing it. If it's chaotic, it's probably a waste of time and energy (although there are some AI and Bayesian approaches to chaotic system that in some cases might be fruitful).
 
-That means that either you'll be assisting experts in making sense of stuff or you'll be you'll be helping people determine what kinds of stuff they're trying make sense of. C.S. Peirce called these "abduction" and "deduction". We'll be talking more about Peirce later.
+That means that either you'll be assisting experts in making sense of stuff or you'll be you'll be helping people determine what kinds of stuff they're trying make sense of. C.S. Peirce called these "abduction" and "deduction". We'll be talking more about Peirce in the second book.
 
 Are you working to create or change a formal system? For anything involving technology, the answer is usually yes.
 
