@@ -78,7 +78,7 @@ And one of the immediate impacts the Allegory of the Cave had was in religion. A
 
 Once people understood and started talking and thinking with Plato about how concepts worked like they did in the cave, they started asking questions and demanding answers about whether or not the things they believed in were representations of reality in its purest form. It even shows up in the Christian Bible in the beginning of the book of John.[^4-5]
 
-[^4-5]: When the Christian New Testament's Gospel of John begins with "ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος." - "In the beginning was the Word, and the Word was with God, and the Word was God."? This is a philosophical, Platonic statement about truth and purity. Being able to talk about what we believe like this is, in pure, abstract forms, is something we owe to the Greeks. One of the catchphrases to use if you love learning history is "Athens, Rome, and Jerusalem", the point being that most all of modern western thought is a result of the intersection of important things that happened in those cities.
+[^4-5]: The Christian New Testament's Gospel of John begins with "ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος." - "In the beginning was the Word, and the Word was with God, and the Word was God." This is a philosophical, Platonic statement about truth and purity. Being able to talk about what we believe like this is, in pure, abstract forms, is something we owe to the Greeks. One of the catchphrases to use if you love learning history is "Athens, Rome, and Jerusalem", the point being that most all of modern western thought is a result of the intersection of important things that happened in those cities.
 
 Another of the things that occured to people reading Plato was that there was something we might best call *levels of abstraction*. The shadow of a duck is a duck in some way. The stuffed duck? Also a duck in some way. Outside, the live duck? We might call it the "real duck" Then there's our idea of what a duck is. It exists only in our mind. For Plato, that would be the "true duck." The most ducky of ducks. The ultimate reality. Any kind of duck you could ever experience is simply a poor version of the True Duck.
 
@@ -94,7 +94,9 @@ No matter how tightly we scope our conversation by using tags, there are always 
 
 Let's take a problem in the Business Genre and walk through how abstraction levels work.
 
-You've decided to become a weasel farmer! Yay you! Now your long journey to succesful weasel farming has begun. To start off on the right foot, you'd like to know as much as you can about the business of weasel farming.
+You've decided to become a weasel farmer! Yay you! Now your long journey to succesful weasel farming has begun. To start off on the right foot[^4-5.541], you'd like to know as much as you can about the business of weasel farming.
+
+[^4-5.541]: As alert reader Russ points out, most weasel farmers are left-handed.
 
 At first you don't need to know the mechanics of it. You don't care whether you need to buy a Hinderslot F-4000 weasel-picker or how a tractor-propelled weasel juggler works in sub-freezing weather with angry weasels. That's all implementation stuff. **System Genre**. What you want to know is how the people part of weasel farming works. Who do you have to know? What sorts of things are you required to do? How do you schedule out your time? That kind of thing.
 
@@ -176,7 +178,7 @@ In fact, it's still too early. Next up would be trying to go work on a weasel fa
 
 Most weasel farmers will not allow you to do that, however. Weasel farmers can be a vicious, selfish bunch, sadly.
 
-(Note to all you guys out there wanting to form your own startup: these are mostly the steps you would go through to do that as well. Find somebody you'd like to help, then learn as much as you can at the **Business Abstract** level. Once you've exhausted that book work, get out in the field and connect yourself at the hip to people who are actually living in that world. During this time you will learn as much as you can at the **Business Realized** level, directly from the real people doing it. Most of what you learn will be non-verbal. Finally, when you feel you've exhausted that level, you're ready to move to the **System** genre and begin thinking about what you might want to build to help the people you've been attached to.)
+(Note to all you guys out there wanting to form your own startup: these are mostly the steps you would go through to do that as well. Find somebody you'd like to help, then learn as much as you can at the **Business Abstract** level. Once you've exhausted that book work, get out in the field and connect yourself at the hip to people who are actually living in that world. During this time you will learn as much as you can at the **Business Realized** level, directly from the real people doing it. Most of what you learn will be **non-verbal**. Finally, when you feel you've exhausted that level, you're ready to move to the **System** genre and begin thinking about what you might want to build to help the people you've been attached to.)
 
 Sadly, since no weasel farmers will help you, you go back to the college. What sorts of tools do weasel farmers use? You don't want the brand names or feature lists. You just want to know what sorts of tools you'll need. Do you need a tractor? A weasel catapult?
 

@@ -8,7 +8,7 @@ This book is about making things people want.
 
 Specifically, this book is about organizing all the information that's generated when you're not directly, physically engaged with creating something. Conversations that happen when you're not actually building the product: user notes, questions, diagrams, workshops, website data, backlogs, CRC cards, user stories, character maps, wireframes, and so on.
 
-This book is useful anytime you have 2 or more people attempting to create something that's never been done before, whether it's a spaceship, fantasy world, TV game show, web application, startup, or undersea farming community.
+This book is useful anytime you have two or more people attempting to create something that's never been done before, whether it's a spaceship, fantasy world, TV game show, web application, startup, or undersea farming community.
 
 This book is not about process, although various processes are used as examples. A hundred years from now everybody may using WhizBangOMatic Process 7.0. The principles in this book will still apply and be useful. It is about how various processes work, and why. When you finish you should be able to improve whatever your existing processes are and look at proposed new processes with a critical eye.
 

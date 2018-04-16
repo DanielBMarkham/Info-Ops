@@ -50,7 +50,9 @@ The plane has the autopilot on. The copilot helps by fixing the tilt.
 
 Now they're back in the storm. Hail or ice begins hitting the front of the plane. The junior copilot slows the plane to the correct speed for entering areas of turbulence. 
 
-An alarm sounds. The alarm is the plane announcing that it is switching modes. Both of its pitot tubes have iced up. Pitot tubes provide direct information on how fast the airplane is flying by measuring how much pressure the incoming air has. Without the pitot tubes, the plane's autopilot is unable to directly determine the speed of the plane through the air.
+An alarm sounds. The alarm is the plane announcing that it is switching modes. Both of its pitot tubes have iced up. Pitot tubes provide direct information on how fast the airplane is flying by measuring how much pressure the incoming air has. 
+
+Without the pitot tubes, the plane's autopilot is unable to directly determine the speed of the plane through the air.
 
 Things like this happen all the time in aviation. Pilots train for it. The autopilot switches off. The plane's computer system switches from "normal law" to "Alternate Law 2". This means that the copilot is now flying the plane by hand -- and the plane's controls are responding in a different way than they used to. The electronics of the cockpit are working slightly differently.[^1-4]
 
@@ -180,8 +182,8 @@ I've worked with technology teams in many different industries and in organizati
 
 Some small teams and large companies take this information and consistently make quality things people want. Some small teams and companies take this information and consistently under-perform, creating wonderful reports and presentations, but failing to deliver where it really matters. When the bad news finally hits, like the copilot, they're left saying "But what's happening?"
 
-We live in a world awash in digitized information but we're very bad at knowing what to do with all of it.
+**We live in a world awash in digitized information but we're very bad at knowing what to do with all of it.**
 
-And I'm not going to tell you. It's an unsolved problem and there are tons of management theories and books out there that will do a much better job than I ever could. I'm going to tell you how to categorize and manage your information flow so that the people that produce and consume the information get the maximum value for the minimum amount of work. Then you can concentrate on your job instead of wondering whether or not you know what's going on around you.
+This is an unsolved problem and there are tons of management theories and books out there that will do a much better job than I ever could, so I'm not going to tell you. I'm going to tell you how to categorize and manage your information flow so that the people that produce and consume the information get the maximum value for the minimum amount of work. Then you can concentrate on your job instead of wondering whether or not you know what's going on around you.
 
 "Moving information around so you can do your job." That's this book.

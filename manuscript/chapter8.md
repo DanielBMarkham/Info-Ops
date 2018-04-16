@@ -63,7 +63,9 @@ Actors tell us who runs the tests that make sure we've done our work. They're th
 
 ### Behavior Titles: Outcomes 
 
-We have a test, which is a verb-noun phrase. We have a one or more actors which want this behavior to happen. Once we're done, if we brought together the actors and had them use the system, performing the tests, and the tests pass? We're done, right?
+We have a test, which is a verb-noun phrase.[^8-21] We have a one or more actors which want this behavior to happen. Once we're done, if we brought together the actors and had them use the system, performing the tests, and the tests pass? We're done, right?
+
+[^8-21]: But a verb-noun phrase isn't a test! A test is a lot more than that! Yes, it is, *but none of it may need to be written down anywhere*. That's a different issue entirely. For our purposes, the verb-noun phrase gives us a big, broad title that we will develop into a test, either just by sitting down and doing the work or some other process, perhaps involving a bunch of stuff. Right now we have the minimum amount we need, which is all we're ever going to do.
 
 Yes. But that's not all of the story. Systems fail. Things don't always work out the way they should. Most of the time the test describes one happy ending[^8-3], "Land on Mars", but there could be a dozen different contingency plans if things don't work out the way they should. The Mars spaceship could fail and they could return to Earth. The habitats might leak and cut short the mission.
 
@@ -75,7 +77,9 @@ All of the possible endings to the test are called "Outcomes".[^8-4]
 
 [^8-4]: I used to call them "Goals", but "Outcomes" describes things better, especially for certain types of functional decomposition.
 
-Once an actor starts using the target system to do something, if you're responsible for that system, you have to understand and plan all the possible endings that could occur.
+Once an actor starts using the target system to do something, if you're responsible for that system, you have to understand and plan all the possible endings that could occur.[^8-441]
+
+[^8-441]: You don't have to write them all down. I'm not saying that your job is to draw a big diagram of everything that could possibly happen. I'm simply saying that you're responsible for all of it. What you write down and what you develop or not is a different thing entirely. Most folks just do a one or a few outcomes at a time, but it varies depending on what you're doing.
 
 If we were writing a computer program, after we decided what the test was that the actor performed -- "I need to push a button and watch the world burn, dang it!" -- we would then sit down with the user, fire up the IDE, and start talking through all of the possible paths we could take. "What if the button wasn't there? What if you pushed it and the world didn't burn? What if you didn't have fingers?" and so on. 
 

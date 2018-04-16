@@ -118,7 +118,9 @@ This is one of those things which sounds completely facile. Why of course they w
 
 Well, if they argued, instead of asking honest, humble, and probing questions, they would continue to have different models. They might even get quite emotional about it. If they met in smaller groups, each group would have the same model but the overall group would be split. In fact, if they had different sub-groups, the different sub-groups would coalesce more or less depending on how good their questions were of each other.
 
-This process held true no matter what the topic. It was magic. You could pick anything you could express in words, put a group of people together, and they would form a common mental model around those things. Simply by using good questioning of one another.
+This process held true no matter what the topic. It was magic. You could pick anything you could express in words, put a group of people together, and they would form a common mental model around those things. Simply by using good questioning of one another.[^2-541]
+
+[^2-541]: Good argumentation also plays a role here, of course. I am simplifying on purpose. If you take the rhetoric out of argumentation, you end up with thesis, defense, antithesis, defense, then proof, disproof, or synthesis. I'm shortening this to "questioning". In the next book we'll return here and pick up some of the parts we've skipped.
 
 People had been accidentally doing this for thousands of years before the Greeks, of course, but it was Socrates and his buds that figured out that this was a generic process you could apply to anything.
 
@@ -142,7 +144,7 @@ Aside from being a lovable old coot, why am I telling you long-winded stories ab
 
 ***All information exists either as the result or the input to a dialectic***
 
-So that's our end-state. When we talk about optimizing information flow, what we mean is that we want to use the minimum amount of effort to get the maximum result from the dialectics that accomplish our mission. 
+**So that's our end-state. When we talk about optimizing information flow, what we mean is that we want to use the minimum amount of effort to get the maximum result from the dialectics that accomplish our mission.** 
 
 Let's say this a little differently: *We want to make sure people have as much and only as much information needed to form theses and antitheses in their group and ask the questions necessary to get their job done.* No extra information. No digging around for information that's hard to get. No missing information. No waiting around. No misleading information. Just enough and exactly at the right time for productive dialectics to occur. And when dialectics occur, the results of those dialectics should go back into the system to help other people.
 

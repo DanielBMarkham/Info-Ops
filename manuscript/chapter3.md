@@ -68,7 +68,7 @@ In "Arrival", analysis was all of the conversations aside from the aliens actual
 
 So now we have a second big word that I expect you to use from here on out! Woo hoo! **Analysis** *Analysis is the use of the dialectic -- asking humble, pointed, direct, and honest questions back and forth among friends seeking a common understanding, probing out thesis and antithesis -- in order to provide the foundation needed to solve a particular problem.*
 
-Information flow optimization is providing the right amount of information at the right time to support effective analysis by the people doing the work.
+**Information flow optimization is providing the right amount of information at the right time to support effective analysis by the people doing the work.**
 
 You need to learn how to do analysis well with the people you work with. Quality information is a key component of that.
 

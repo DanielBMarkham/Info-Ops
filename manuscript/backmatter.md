@@ -22,7 +22,7 @@ Enjoyed the book? Interested in taking this to the next level, working with larg
 - The true meaning of MVP
 - Business Model Canvas 
 - Startup planning: inflection points 
-- The Valley of Death and Scaling
+- The Valley of Death aboxnd Scaling
 - Focus vs. Values
 - The Automation Cycle
 

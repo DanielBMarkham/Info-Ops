@@ -22,7 +22,7 @@ Aristotle.[^5-1]
 
 [^5-1]:Of course there have been tons of different ways of organizing the universe around us. Aristotle's was just the one that eventually stuck for scientists, as I point out later in the chapter.
 
-Aristotle was Plato's student. Plato was Socrates's student. From Scorates we have no written record. Plato gave us some text. We know a lot about the things he taught. Aristotle took that even further, generating a ton of texts, establishing a high-quality royal academy, teaching all the great leaders of his day.
+Aristotle was Plato's student. Plato was Socrates's student. From Socrates we have no written record. Plato gave us some text. We know a lot about the things he taught. Aristotle took that even further, generating a ton of texts, establishing a high-quality royal academy, teaching all the great leaders of his day.
 
 Remember Alexander the Great, played by Colin Farrell in the 2004 movie "Alexander"?[^5-2] Alexander conquered over 90% of the known world, devouring entire empires and ending up in India years later. His men had fought so long and hard that they basically decided they weren't going to fight anymore. (Especially with the elephants. Fighting elephants ain't no fun.) Ever wonder why over 20 cities are named in some way around "Alexander"? That's Alexander the Great.
 

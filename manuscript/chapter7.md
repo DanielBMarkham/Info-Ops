@@ -89,9 +89,13 @@ After a bit we came up with a couple. It must always be true that:
 
 Wait! Forgot the most important one! 4. Must look like a giant wooden badger.
 
+Cool. Some new Business Abstract Supplementals.
+
 That got kind of vague at the end, but it's better than nothing. Ten, twenty minutes later, you've finished kicking around questions with one another (Anybody remember the dialectic? Nailed it.) and you're ready to play with some models. Yay!
 
-The gang spends the next few days making sketches, throwing some pieces together to make something to look at. During that time, you'll probably refine the items in your three lists. (If not, you're probably doing something wrong.) You'll have a lot more conversations/dialectics. (Sorry, I meant you'll be performing a lot more analysis.) During all of those conversations and playing around with models, while it looks like nothing is happening but fun modeling stuff, you're doing something much more important: *You're creating a shared mental model* Analysis For The Win!
+The gang spends the next few days making sketches of ships and guns and people doing dramatic things, throwing some pieces together to make something to look at. During that time, you'll probably refine the items in your three lists. (If not, you're probably doing something wrong.) You'll have a lot more conversations/dialectics. (Sorry, I meant you'll be performing a lot more analysis.)[^7-51] During all of those conversations and playing around with models, while it looks like nothing is happening but fun modeling stuff, you're doing something much more important: *You're creating a shared mental model* Analysis For The Win!
+
+[^7-51]: Remember, I'm not talking about meetings! Analysis and the dialectic happens all the time, whether we want it to or not. It's our natural way of organizing things in our heads.
 
 The director's not in the room, however, so you're probably far away from what he wants (and heading farther away with each passing day.) so you call him back to show him what you've got. As you get out the sketches and hand him the prototypes, you read the items on the behavior list "Check this out. We thought it would walk like a camel, crouching and jumping over stuff" you say as you play with the model.
 
@@ -115,7 +119,9 @@ But it's work; you gotta do it, and here you are. You're working at BigCorp and 
 
 Books, presentations, teachers, students. What the heck does that have to do with our tags? I thought the tags were about building stuff, right?
 
-Well, that's why I picked this example. The tags are about creating shared mental models. You can use those models to build stuff -- or to do other things. Remember Socrates! Everything we talk about in life goes back to those old Greek guys. Including planning training.
+Well, that's why I picked this example. The tags are about creating shared mental models.[^7-61] You can use those models to build stuff -- or to do other things. Remember Socrates! Everything we talk about in life goes back to those old Greek guys. Including planning training.
+
+[^7-61]: Just to be Mr. Pedantic Man, you don't have to have the tags to create a shared mental model, of course. People have been doing it for thousands of years without tags. The tags are just a tool to make it all happen faster. As we do more and more examples, you'll see how the tags continue to pay off.
 
 So the first question is this: what do we need a shared mental model about? That is, what target system are we changing?
 

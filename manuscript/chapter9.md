@@ -75,7 +75,7 @@ You'll thank me later. Meanwhile, if you're following along at home, you should 
 
 Heck, that sounds like a bunch of people in that room got advanced degrees! Maybe they all wear lab coats. Probably drive around in fancy cars. Sure beats "We met the guy at a Seven-11 and wrote 'cat', 'horse', 'pig', and 'turnip' on the back of the napkin we used for our Giant Jumbo Dog. The frickin' slurpee machine was still out of order. Bozos." 
 
-Trust me, you need these big words if you're going to impress dates and customers. I do this all the time. Oh boy, yeah. It's scary the kind of popularity you get with the right terms. (Looks sadly around an empty room. Continues writing.)
+Trust me, you need these big words if you're going to impress dates and customers. I do this all the time. Oh boy, yeah. It's scary the kind of popularity you get with the right terms. 
 
 ## A Word About Domain Model Ambiguity
 

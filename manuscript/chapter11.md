@@ -35,21 +35,21 @@ Point at a behavior in the domain model. What does this behavior mean to us? *It
 
 Everybody walks into a project with different ideas of what things mean. If I worked on a Customer Resource Management system last year, I might have my own ideas of what the noun "Customer" means. If I worked on a retail sales application, I might have a different idea of "Customer". If I've never worked on an app at all, something completely different. If I am the user of the app, something completely different still.
 
-You could put all of these people in a room and have them chat informally about the application and what it does. During that chat, they would all use the noun "Customer"
+You could put all of these people in a room and have them chat informally about the application and what it does. During that chat, they would all use the noun "Customer".
 
 To each person, however, they would be thinking about something slightly or completely different from the other person. And nobody would realize it.
 
 We used to throw paperwork and process at this problem to fix it. With enough docs, we thought, we could have the exact same understanding.
 
-This did not work. Docs help to a degree, but they quickly become unmanageable, unread, and unproductive. And you still have ambiguities.
+This did not work. Docs help to a degree, but they quickly become unmanageable, unread, and unproductive. And you still have ambiguities. Even when they do partially work, they only partially work to those who were part of the dialectics/conversations. They are a reminder of the analysis, not the results of it.
 
 Then we switched to "conversations". Good product development is about good conversations.
 
 This is true, but incomplete. Yes, a small team in a room with the person to be helped, using good technique can deliver value. Every time. But real-world development is rarely like that. (Startups and small-team consulting/IT? A different story entirely.)
 
-So we ended up with a hodge-podge that didn't work for anybody. Lot of conversations, but not with the right people in the room, lots of tools and docs, but nothing that facilitated higher quality and more precisely-targeted work. Things wouldn't work. We wasted a lot of time and energy. On one side teams asked for better conversations with the right people. But the right people didn't scale the way it should. On the other side, organizations asked for better chartering and tracking tool usage. But that always ended up looking like it should help without actually helping.
+So we ended up with a hodge-podge that didn't work for anybody. Lot of conversations, but not with the right people in the room, lots of tools and docs, but nothing that facilitated higher quality and more precisely-targeted work. Things wouldn't work. We wasted a lot of time and energy. On one side teams asked for better conversations with the right people. But "having the right people" didn't scale the way it should. On the other side, organizations asked for better chartering and tracking tool usage. But that always ended up looking like it should help without actually helping.
 
-In many cases, doing the "right" thing led to more dysfunction. Teams wanted more conversations but the people weren't available. So we minted up some new folks, gave them a badge that said "Product Owner". and stuck them in the room with the team. Now they technically have somebody, but in actuality just have more inertia and waste. Organizations asked for better tool usage, so tons of data was collected and disseminated, but all that accomplished was becoming awash in reports, graphs, and useless meetings instead getting things done.
+In many cases, doing the "right" thing led to more dysfunction. Teams wanted more conversations but the people weren't available. So we minted up some new folks, gave them a badge that said "Product Owner" and stuck them in the room with the team. Now they technically have somebody, but in actuality just have more inertia and waste. Organizations asked for better tool usage, so tons of data was collected and disseminated, but all that accomplished was becoming awash in reports, graphs, and useless meetings instead getting things done.
 
 Both sides were right. Both sides were wrong. They wanted the right thing. They just didn't know how to go about it. By pushing so hard, they ended up 
 *looking like* they were doing the right thing -- without actually **doing the right thing**.
