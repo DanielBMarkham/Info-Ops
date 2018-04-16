@@ -170,7 +170,9 @@ We've separated the note-taking from the drawing. If you like drawing things out
 
 If you want some output, like story cards, reports, or diagrams? That's just another output in the tool-chain. There could be dozens of different outputs. Because everything is tagged, and because we know how to handle the tags, we can connect up various tools in a chain to collect and disseminate analysis-related information.
 
-![Now that we've added Has A relationships, we can automatically create a domain model](images/ict-dm2.png)
+![Now that we've added Has A relationships, we can automatically create a domain model](images/ict-dm2.png)[^13-41]
+
+[^13-41]: This is just a sample to show what types of things you can do. We'll cover each of the EasyAM features as we need them.
 
 Perhaps there's a stream of data the team wants to capture that needs to be used as input to future conversations around the analysis model. Great. Take the model -- as detailed or vague as you've made it -- and stick in the information you'd like to view later on during Model Synchronization.
 

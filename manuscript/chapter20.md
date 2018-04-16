@@ -43,7 +43,7 @@ We all go back to the hotel. Time for some grooming!
 
 The first thing we do is compare notes, agree on what we understand, then run the final version through EasyAM. The meeting with Pete was step 1 of the grooming agenda we're using, **Introduce new information**. 
 
-![](images/chapter20-initialnotes.png)
+![When you use an IDE, you get nice color-coding, like different colors for items in different buckets](images/chapter20-initialnotes.png)
 
 Our agreed-upon notes covers all of the top and most of the second section of the Analysis Survey. Those sections set the stage for whatever activity is going to happen.
 
@@ -188,7 +188,7 @@ Instead of getting into a bunch of diagramming, we just captured what we know us
 
 Here are our day 2 notes:
 
-![](images/chapter20-day2amin.jpg)
+![](images/chapter20-day2amin.png)
 
 Step 3 is cleaning up the backlog to make it manageable. Do we go back and do that Analysis Affinity Mapping thing to get a new prioritized list?
 
@@ -210,9 +210,9 @@ Finally, before we quit for the day, we start chatting about the Meta genre agai
 
 What are our Meta goals for tomorrow? Let's see if we can get Pete to start joining us for grooming sessions, maybe set aside 3 hours every morning for working together. If we can get that, that'll kick things into high gear. Let's also talk about incremental delivery, where when we have really tough things, we do the blank screen first, then dummy data, and so forth. We can go ahead and add the Supplementals for that. Yay! More stuff to fail -- and meta stuff failing is always the best.
 
-We update our Day 2 notes. The bottom half now looks like this.
+We update our Day 2 notes. They now look like this.
 
-![](images/chapter20-day2amin-2.jpg)
+![](images/chapter20-day2amin-2.png)
 
 But wait! That's a System Abstract Supplemental! I thought we were working with Master Models?
 

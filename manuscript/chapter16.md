@@ -197,7 +197,7 @@ MASTER BACKLOG
       Handle up to five people
     USES Family, Friend, Chair
     DEFECT Outside security light prevents good stargazing
-    WORKS Spent six hours on the phone with an astronomer from Hershey.
+    WORKS Spent 6 hrs. on the phone with an astronomer from Hershey.
     // There's no fixing the light problem
     TODOS Call the city to see if the light can be moved  
 ```

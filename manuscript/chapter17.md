@@ -2,7 +2,7 @@
 
 Since we're going to be talking a lot about reports, diagrams, exercises, flows, and all sorts of things that can exist in various forms, I'm going to suggest a heuristic that we apply to the rest of our discussion.
 
-![](images/diagrams-for-navigationsmaller.png)
+![You may want to put this on the wall](images/diagrams-for-navigationsmaller.png)
 
 That is, if it's a picture of something, whether it's a UML diagram, the Analysis Survey, a sketch of a new porch, a database model, or a snapshot you made with your phone of a wireframe workshop you had this morning? It's only purpose is for navigation, to find your way back to where you were before. It's a map. If it's a physical item -- and we use the word "cards" here liberally, it could be almost any physical item -- it's for working together to validate and update our mental model.
 
@@ -102,7 +102,9 @@ TDA says that all analysis work, initial customer conversations, screen discussi
 
 Another way of stating the "easy answer" above is that the Behavior Bucket, as it is continues to develop, describes a test of future system behavior that represents our values (as expressed in the supplementals and behavior flows). Making those tests pass, either manually or through creating some kind of automated system, is the goal of any effort.
 
-Doesn't that sound much better than the alternative title of the book, "Git 'er done"?
+Doesn't that sound much better than the alternative title of the book, "Git 'er done"?[^17-421]
+
+[^17-421]: I hear that title may already be taken. When it's a good topic, everybody wants to horn in.
 
 We'll be expanding on the TDA concept from here on out. It's the core of all practical application of what you've been learning.
 
