@@ -22,7 +22,9 @@ All information participates as part of one or more question-response loops. Tha
 
 They killed Socrates[^2-2] for asking too many questions. There are a lot of things we can say about Socrates. If you're looking for the shortest version, that's it.
 
-[^2-2]:I'm writing all of the Socrates, Plato, and Aristotle stuff from memory after consuming a dozen or more different books over the years, using Wikipedia as a reminder of various dates and terms I might have forgotten along the way. If you're interested in the great thinkers of the western tradition that we talk about in this book, there's a great "The Great Courses" audio lecture series that's a great place to start. Google it.
+[^2-2]:I'm writing all of the Socrates, Plato, and Aristotle stuff from memory after consuming a dozen or more different books over the years, using Wikipedia as a reminder of various dates and terms I might have forgotten along the way. If you're interested in the great thinkers of the western tradition that we talk about in this book, there's a great "The Great Courses" audio lecture series that's a great place to start. Google it.[^2-231]
+
+[^2-231]: Dr. Louisa Moon, professor of philosophy at MiraCosta college, was kind enough to review the material I have on Socrates. It's great background material. I have added to the book's forum on the LeanPub site. https://community.leanpub.com/c/info-ops
 
 There are three people in western history that form the basis for just about our entire modern life: Socrates, Plato, and Aristotle. They're like a grandfather, father, and son. Socrates taught Plato. Plato taught Aristotle.
 
