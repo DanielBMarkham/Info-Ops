@@ -154,7 +154,9 @@ It's the origami complexification factor, put to good use.
 
 ![Taking analysis notes and sketches the easy way. Much easier to read than Beethoven!](images/ict-amim.png)
 
-By breaking things down to the smallest pieces and using a tagging system, we can enter however much we want. Maybe those notes are enough. Great! We're done.
+By breaking things down to the smallest pieces and using a tagging system, we can enter however much we want. Maybe those notes are enough. Great! We're done.[^13-941]
+
+[^13-941]: These tags should be very familiar to you. If not, you may have been skipping ahead or missed something the first time around. Go back to chapters 3-6 for the basic tags. Chapters 8-10 cover the detail tags. Chapter 7 is necessary to see some examples before diving in here. Chapter 11 tells you about cross-referencing. Chapter 12 is necessary to understand what the heck a Master Model is and to understand why the linkages and relations end up saving so much time. All of what you're seeing now is the culmination of the first half. If you're lost, the answers are back there.
 
 The notes above took five minutes to enter for a new team and create user story cards for that team to use in project planning. Spending another five or ten minutes makes the cards even better. Or not.
 
@@ -172,7 +174,7 @@ If you want some output, like story cards, reports, or diagrams? That's just ano
 
 ![Now that we've added Has A relationships, we can automatically create a domain model](images/ict-dm2.png)[^13-41]
 
-[^13-41]: This is just a sample to show what types of things you can do. We'll cover each of the EasyAM features as we need them.
+[^13-41]: This is just a sample to show what types of things you can do. We'll cover each of the EasyAM features as we need them. If you're wondering what kind of diagram this is, we covered that in chapter 9.
 
 Perhaps there's a stream of data the team wants to capture that needs to be used as input to future conversations around the analysis model. Great. Take the model -- as detailed or vague as you've made it -- and stick in the information you'd like to view later on during Model Synchronization.
 
