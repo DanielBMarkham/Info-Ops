@@ -1,4 +1,7 @@
-# Chapter 24
+# What To Do When You're Not Directly Creating Something
+
+![](images/chapter24-begin.png)
+
 
 ## Managing Intangibles
 

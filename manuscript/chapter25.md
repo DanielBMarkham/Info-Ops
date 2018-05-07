@@ -1,4 +1,6 @@
-# Chapter 25
+# Slicing And Dicing: Scripting, Automation, Importing And Exporting
+
+![](images/chapter25-begin.png)
 
 ![Backlog Refinement, The Model](images/BacklogRefinementDFD.jpg)
 

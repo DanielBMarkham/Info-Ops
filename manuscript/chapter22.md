@@ -1,4 +1,11 @@
-# Chapter 22
+# Info-Ops With Other Agile/Scrum Meetings
+
+![](images/chapter22-begin.png)
+
+
+Yes, you'll need to use tools -- a bunch of them. Yes, you'll have to have some kind of process. Yes, you'll have to something that looks like meetings. And yes, you have immediate tactical things you have to do.
+
+But all of that is just table stakes. Good Info-Ops keeps your focus where it needs to be.
 
 ![The Test-Driven Analysis Wheel of Pain](images/Test-Driven-Analysis-Constellation.png)[^22-0]
 
@@ -14,7 +21,9 @@ I don't want to disappoint you guys, but we did not have the budget for colored 
 
 We've generalized conversations in this book, explaining how good conversations happen and why you can't replace conversations with data feeds. We've shown how to capture and store the minimum amount of information that  "remembers" what's important to you and reminds you of where and how good conversations can take place.
 
-We've walked though a bunch of different scenarios, and as we finish out small team activities and move later to large teams, team-of-teams, programs, and the Meta genre -- we're found ourselves talking more and more about *action*, not information. Process. Meetings. That's because in order for you to learn important things about information (Structured Analysis), I have to walk you through a lot of action that generates and uses information, even if it's just pretend action.
+We've walked though a bunch of different scenarios, and as we finish out small team activities and move later to large teams, team-of-teams, programs, and the Meta genre[^22-51] -- we've found ourselves talking more and more about *action*, not information. Process. Meetings. That's because in order for you to learn important things about information (Structured Analysis), I have to walk you through a lot of action that generates and uses information, even if it's just pretend action.
+
+[^22-51]: The second book will cover Info-Ops with large groups of people and startups.
 
 What can we apply? What's best? What do all processes have in common? What's the best process for me? I'm looking at an A-7 scenario in this Nakatomi Tower project, dang it. Where's the little chart where I can take the A-7 scenario I have and cross-check it to find the step-by-step best process?
 

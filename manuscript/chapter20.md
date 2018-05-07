@@ -1,4 +1,7 @@
-# Chapter 20
+# Backlog Management Walk-Through
+
+![](images/chapter20-begin.png)
+
 
 Congratulations! You've just received a large grant from a well-known charity to write software in support of flying schools for opossums! Flying squirrels get all the good press. You never hear anything in the news about possums that want to fly. The radical fringe group "Opossums United Curriculum Help (OUCH!)" wants somebody to develop a computer program to help those brave folks around the world who are teaching opossums to fly. Too often these kind and generous warriors are forgotten. Ever seen a fundraiser for opossum trainers? Ever see a flying opossum? See?
 

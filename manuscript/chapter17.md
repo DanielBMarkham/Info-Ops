@@ -1,4 +1,7 @@
-# Chapter 17
+# Beginning The Process Discussion
+
+![Don't get lost in tools, processes, and rituals. Focus.](images/chapter17-begin.png)
+
 
 Since we're going to be talking a lot about reports, diagrams, exercises, flows, and all sorts of things that can exist in various forms, I'm going to suggest a heuristic that we apply to the rest of our discussion.
 

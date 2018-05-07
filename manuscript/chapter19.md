@@ -1,6 +1,7 @@
-# Chapter 19
+# Backlog Refinement (Grooming)
 
-![](images/tda2.jpg)
+![](images/chapter19-begin.png)
+
 
 Just to get everybody caught up, a backlog is a series of partially-constructed tests. We make those tests by combining Behavior To-Be and various Supplementals To-Be. We don't develop the tests all at once, instead, we continue to mature the analysis model, and then pick off pieces to make into tests once we get close to when we want to use them. 
 
@@ -21,6 +22,8 @@ That's not true if you are breaking down big tasks into smaller tasks in a non-c
 **The backlog isn't about stuff you're going to do. It's about ways you're going to change the target system.** To-do stuffed backlogs are good for robots, not for people being paid to use their brains.
 
 Ideally you wouldn't do anything and you'd still somehow change the target system to provide fabulous wealth. Then you'd be living on tropical islands drinking those drinks with little umbrellas in them. Worst-case, you have some to-do list from hell that you call a backlog and everybody has far too much work than they ever could get done and the target system doesn't change at all.
+
+![](images/tda2.jpg)
 
 ## How NOT to do Backlog Grooming
 

@@ -1,4 +1,7 @@
-# Chapter 23
+# Legacy Systems And Build Pipelines 
+
+![](images/chapter23-begin.png)
+
 
 ## Understanding Legacy Systems
 

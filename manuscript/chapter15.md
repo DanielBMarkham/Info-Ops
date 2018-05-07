@@ -1,5 +1,7 @@
-# Chapter 15
-![Your new business awaits!](images/deck-design-from-wiki.png)
+# Beginning A Project Using EasyAM 
+
+![Now we start learning some serious kung-fu](images/chapter15-begin.png)
+
 
 After trying your hand at dog houses, dental franchises, Mars colonies, and several other jobs, you've decided that the best time you had was back when you were building stuff. You've also decided that dog houses suck. What to do? Build backyard decks, that's what!
 
@@ -8,6 +10,8 @@ After reading this book, you're determined to do this the right way, maybe even 
 On your first meeting, you tell him that you're doing this a new way, and that he should expect a half-dozen small conversations before you settle on a deck design and begin work. There's no charge for these small conversations, and you've found that people love it when you do it this way.
 
 What does the world of backyard decks look like in this guy's mind? After 15 minutes of chatting, here's your Master Model sketch.
+
+![Your new business awaits!](images/deck-design-from-wiki.png)
 
 **MASTER BACKLOG**
 

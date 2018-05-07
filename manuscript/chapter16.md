@@ -1,6 +1,7 @@
-# Chapter 16
+# Finishing A Project Using EasyAM
 
-![The MQL puts all of our questions in one spot](images/chapter16-easyam-1.png)
+![](images/chapter16-begin.png)
+
 
 Ok, here we go! Off to work now!
 
@@ -9,6 +10,8 @@ Ok, here we go! Off to work now!
 So how does any of this Structured Analysis, EasyAM stuff do anything useful? Can we push a button and a deck come out of the printer?
 
 Yes, actually you can. Just keep pushing the button. It'll come out eventually. Hang in there!
+
+![The MQL puts all of our questions in one spot](images/chapter16-easyam-1.png)
 
 The work of analysis is creating a shared mental model. The good stuff is in our heads, not in a drawing in a tool somewhere. You could throw away everything we've done so far and probably do a good job of building a deck. Likewise, you could run away to Paris in the Springtime, a new contractor could come in, and botch the whole thing up -- even if he had all of these notes. (Yes, I'm going to keep pointing that out because some folks will dive right into the "real" part of the book without knowing what the heck they're doing.)
 
@@ -272,7 +275,9 @@ Over the past couple of years, as I have taught Structured Analysis to teams all
 
 ![Behold, the **Analysis Canvas!**](images/AnalysisCanvasInfoGraphic.png)
 
-Eventually this will all be standard EasyAM output, once the industry has banged it around enough that we know it makes sense. For now, if you're interested in creating your own Analysis Survey, there are instructions in the appendix. (It's not that hard to do, but it takes a few hours).
+Eventually this will all be standard EasyAM output, once the industry has banged it around enough that we know it makes sense. For now, if you're interested in creating your own Analysis Survey[^16-521], there are instructions in the appendix. (It's not that hard to do, but it takes a few hours).
+
+[^16-521]: Sometimes I call it the Analysis Survey, sometimes the Analysis Canvas. Everybody's doing canvases nowadays. It's gotten so bad that one wag created a way to make canvases. He called it the Canvas Canvas.....So maybe suvey is better. (grin)
 
 There are some key things that the Analysis Survey does. No matter what it eventually looks like, you have to be able to quickly spot several things. These are all called out in the boxes. 
 
