@@ -1,5 +1,6 @@
 # Stating The Goal Clearly
 
+![](images/chapter2-begin.png)
 
 
 "Explaining a joke is like dissecting a frog. You understand it better but the frog dies in the process." - E.B. White[^2-1]

@@ -1,4 +1,4 @@
-#Chapter 4
+# Harnessing The Power Of Generalization
 
 Now that we've convered genres, the universe of either the people we're helping, the thing we're building, or the way we're doing our work, we're moving to **Abstraction Levels**.
 

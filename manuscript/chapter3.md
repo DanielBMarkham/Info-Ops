@@ -1,4 +1,7 @@
-# Chapter 3
+# Making Our Plan
+
+![Wherever you're going, you have to have some way of getting there](images/chapter3-begin.png)
+
 
 Information flow optimization is providing the right amount of information at the right time to support effective analysis by the people doing the work.
 
@@ -117,4 +120,3 @@ Let's recap. Good information flow and management supports analysis (dialectics)
 We only have about a dozen tags we need to learn in four different sets: genre (which we just did), abstraction levels, buckets, and temporal indicators. This is what we'll go over in the next chapters. Once we have our tagging system,  we'll move to application.
 
 This process, having a fixed way of organizing information in order to make it more useful so that everything goes into one and only one spot is called **Structured Analysis**. Once you understand Structured Analysis, you'll find that a bunch of things that used to be difficult suddenly become very easy.
-
