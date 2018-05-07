@@ -1,4 +1,6 @@
-# Chapter 2
+# Stating The Goal Clearly
+
+
 
 "Explaining a joke is like dissecting a frog. You understand it better but the frog dies in the process." - E.B. White[^2-1]
 
@@ -150,7 +152,7 @@ Aside from being a lovable old coot, why am I telling you long-winded stories ab
 
 Let's say this a little differently: *We want to make sure people have as much and only as much information needed to form theses and antitheses in their group and ask the questions necessary to get their job done.* No extra information. No digging around for information that's hard to get. No missing information. No waiting around. No misleading information. Just enough and exactly at the right time for productive dialectics to occur. And when dialectics occur, the results of those dialectics should go back into the system to help other people.
 
-I know this sounds fuzzy. Bear with me.
+I know this sounds fuzzy. It is not. By the end of the book you'll understand why.
 
 On Air France 447, the key, simple question was this: which way is the plane's nose pointed? The pilots in that cockpit did not have the information they needed to know that this was the critical question. [Sadder still, the people who designed, built, and trained the pilots did not have a shared mental model with the pilots in the cockpit that night, enough to understand that what the pilots thought was going on was not what the plane was telling them.]
 
