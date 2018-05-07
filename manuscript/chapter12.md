@@ -1,4 +1,7 @@
-# Chapter 12
+# Master Models
+
+![Master Models make your life easy while still keeping track of needed detail](images/chapter12-begin.png)
+
 
 If you've been following along with our examples, you noticed something common whether the job was building doghouses or planning a Martian Colony: we started with three lists, one for each bucket, at the **Business Abstract** level.
 

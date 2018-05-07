@@ -1,6 +1,7 @@
-# Chapter 6
+# Temporal Indicators
 
-![](images/bomb-icon.png)
+![](images/chapter6-begin.png)
+
 
 In 2004 I worked on a secret bom for the Department of Defense.
 

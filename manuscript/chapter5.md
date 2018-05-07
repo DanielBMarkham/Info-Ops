@@ -1,4 +1,7 @@
-#Chapter 5
+# Moving From General To Specific In The Fewest Steps Possible
+
+![](images/chapter5-begin.png)
+
 
 Do you own a chicken or a duck? If so, how do you know what kind of chicken or duck it is? Is it a Plymouth Rock chicken? An Orpington chicken? A Mallard? A Black-Bellied Whistling Duck?
 

@@ -1,6 +1,9 @@
 -#Details
 
-# Chapter 8
+# Capturing Minimal Behavior Details
+
+![](images/chapter8-begin.png)
+
 
 Before we start talking about adding more details to things we've tagged, a fair question is to ask: do we really need to do this? Do we really need to add detail simply because we can?
 

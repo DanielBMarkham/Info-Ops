@@ -1,4 +1,7 @@
-# Chapter 7
+# Rapid-Fire Examples
+
+![You just have to get running fast enough](images/chapter7-begin.png)
+
 
 ## Application
 

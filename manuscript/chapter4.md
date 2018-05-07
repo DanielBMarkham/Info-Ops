@@ -1,5 +1,8 @@
 # Harnessing The Power Of Generalization
 
+![](images/chapter4-begin.png)
+
+
 Now that we've convered genres, the universe of either the people we're helping, the thing we're building, or the way we're doing our work, we're moving to **Abstraction Levels**.
 
 Early in the movie "Arrival"[^4-1], once they've narrowed down things to talk about to just the physical items in the spaceship, Amy Adams' character, the linguist Louise, points to herself and says "Louise", indicating that this was her name.

@@ -1,4 +1,7 @@
-# Chapter 11
+# Lots Of Value With Just A Little Work: Combination And Synchronization 
+
+![](images/chapter11-begin.png)
+
 
 We've done our time, suffered through a bunch of technical terms in the abstract. Most of our foundational work is complete. Now it's just a couple of more organization/clean-up concepts and we're ready for the road.
 

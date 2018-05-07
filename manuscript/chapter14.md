@@ -1,4 +1,7 @@
-# Chapter 14
+# Using EasyAM To Capture Analysis Like Beethoven Captured Sounds
+
+![](images/chapter14-begin.png)
+
 
 If you've ever worked with databases, there's a thing called "database normalization". This basically means for any set of data you are collecting about a problem, there's a way to store and use it getting the maximum amount of value using the least amount of space and effort.[^14-1]
 

@@ -1,4 +1,7 @@
-# Chapter 9
+# Capturing Minimal Structure Details 
+
+![](images/chapter9-begin.png)
+
 
 We diagram things differently depending on which bucket they're in. Behaviors are all about doing things, so we diagram behaviors using Activity Diagrams. Supplementals are all about general, abstract statements. We haven't gotten to those yet. Structure is all about how little pieces fit into bigger pieces.
 
@@ -113,7 +116,9 @@ When I'm using sketches and models for analysis, I'm looking at people in the ro
 
 This gets us to another rule about analysis: Analysis is completely dependent on the people doing the analysis. **You can't take analysis models created by one group and "plug them into" another group.** The entire point is shared mental models. Unless you've mastered mind control, it takes dozens and dozens of dialectics to get that model, not a book report or long email (Of course they might help. Anything might help prompt good conversations, right? It's not that written stuff is useless. It's that it does something different from what we expect it to do. Good documentation can provide an excellent foundation for analysis. It is not a replacement for the analysis itself.)
 
-Ambiguity is a necessary part of analysis. All of the things we do in analysis are to identify ambiguity and resolve it somehow among ourselves. Domain Models are a funny duck. They are so simple-looking that people think they're trivial. Some of the teams I teach learn domain modeling and then never use them because they don't get it. It doesn't feel connected to the work as much as the Behavior Models (Activity Diagrams) do. Asking a team member to construct a Domain Model while seeing if the rest of the team agrees with him is actually one of the quickest ways to see how far out of alignment the team is.
+Ambiguity is a necessary part of analysis. All of the things we do in analysis are to identify ambiguity and resolve it somehow among ourselves. Domain Models are a funny duck. They are so simple-looking that people think they're trivial. Some of the teams I teach learn domain modeling and then never use them because they don't get it. It doesn't feel connected to the work as much as the Behavior Models (Activity Diagrams) do. Asking a team member to construct a Domain Model while seeing if the rest of the team agrees with him is actually one of the quickest ways to see how far out of alignment the team is. [^9-51]
+
+[^9-51]: There is deep, dark black magic in doing this exercise that's not immediately apparent. We will learn later that *all structure is derivative*, that is, you don't create/record structure and structural details in the same way that you do things in the other bucket. Instead, the information in the other buckets **forces** the structural information to appear. So when you're doing a domain model, you're not deciding what the important words are, you're capturing the words that are already important in the team's mind. That's a completely different way of looking at it than intuition would suggest.
 
 Fortunately you're reading this book, so as we move from theory to application, you're going to see a bunch of different ways domain models can help you plan and understand what the work is.
 

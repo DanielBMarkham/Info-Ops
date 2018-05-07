@@ -1,4 +1,7 @@
-# Chapter 10
+# Capturing Minimal Supplemental Detail
+
+![Sophocles always hated dynamic typing. How come nobody told us?](images/chapter10-begin.png)
+
 
 Supplementals will get you every time.
 
