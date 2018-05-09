@@ -160,3 +160,10 @@ On Air France 447, the key, simple question was this: which way is the plane's n
 Many times we *build things right* -- they have quality, they conform to specs, they're rugged, they're easy-to-use and own. We just don't *build the right things*. The people making stuff and the people using stuff don't live in the same world. The information flow is inadequate. The dialectics are faulty or missing. The models are different.
 
 Information doesn't get to the right people at the right time. People die.
+
+{aside}
+# Did you get it?
+
+Teams build the wrong thing because of failures to ask enough questions to figure out what the right thing is. We're going to have to learn some strategies for figuring out which questions to ask and asking them the right way.
+
+{/aside}
