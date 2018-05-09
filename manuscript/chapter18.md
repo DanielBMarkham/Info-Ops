@@ -157,3 +157,11 @@ As they used to say when I went to school, it's turtles all the way down, folks.
 Whatever level we're talking about, we have questions. We ask them. We get new information. Then our shared mental model changes, and that could have all kinds of repercussions. Whatever questions we ask, and however it changes our ideas about things, we have to keep cranking out value. What's important to us? Are we ready for our next tests?
 
 And that takes us to Backlog Grooming.
+
+{blurb, class: information}
+
+### Did you get it?
+
+When it comes to backlogs and user stories, if we're not using the tagging system we've learned, we're doing it wrong. In fact, the more we rely on our natural instincts of how to organize this stuff instead of the tagging, the worse it'll be.
+
+{/blurb}

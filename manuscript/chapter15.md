@@ -297,3 +297,11 @@ Over the next couple of days, we meet a few times and complete adding all the de
 Ok, so we've spent ten hours or so, we've gotten to know our customer much better and we've added a bunch of stuff to EasyAM. Now get to work, dang it! We're not paying you folks just to sit around printin' out cards.
 
 ![Now we have cards with full titles, questions, and notes](images/chapter15-easyam-9.png)
+
+{blurb, class: information}
+
+### Did you get it?
+
+Now we're starting to learn how taking apart information by tagging it up and then reassembling it can: let us be more professional, ask better questions, and find ways to make the customer happy that they haven't even thought of yet.
+
+{/blurb}

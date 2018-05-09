@@ -167,3 +167,10 @@ Don't do that. Resist that urge.
 
 In technology, we call getting organized around upcoming work and new information "Backlog Refinement" (or "Backlog Grooming"), and backlogs and backlog refinement is the topic of our next two chapters.
 
+{blurb, class: information}
+
+### Did you get it?
+
+The only thing we should be talking about is creating and executing important tests. This both limits the amount of useless conversations and demands that we stop what we're doing if critical conversations can't happen.
+
+{/blurb}

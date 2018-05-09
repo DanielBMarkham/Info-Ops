@@ -294,3 +294,11 @@ This book is about capturing and moving information around so that the right peo
 To do that, we spent some time learning a tagging system. Then we talked about where details go. Then we talked about how pieces of information link to one another to form intersections where critical conversations occur. We walked through several projects where those conversations happened. Entering this section, we learned how to automate capturing and processing that information. Now we've just learned how to use those automation tools to make something people want.
 
 We have built a deck and our customer loves it. Next let's talk about lessons learned and how we can take the analysis work we've done so far on the deck and continue to use it. Then we'll move on to using what we've learned in a small team situation. Learning to use the tools to optimize work in a small team environment is our goal for this section.
+
+{blurb, class: information}
+
+### Did you get it?
+
+Once things get rolling, we can refer back to our Master Models to talk about how the work is going, whether or not we're building the right thing, critical conversations in the past and future --- and other stuff we haven't learned yet.
+
+{/blurb}

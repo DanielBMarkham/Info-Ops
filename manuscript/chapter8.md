@@ -209,3 +209,10 @@ Just to be clear, the "real" Activity Diagrams that are part of the Unified Mode
 
 If you need these parts of UML's Activity Diagrams, use them, but never make a diagram that can't easily support analysis. Once the diagram becomes the work instead of the analysis, you are officially wasting time and are most likely creating a lot more problems for your team than your are solving. It's far, far too easy to go off by yourself and spend a lot of time building a master model of the universe using diagramming tools. Don't be that guy. In fact, **don't ever diagram or sketch by yourself. Always do it with the team**. (You can clean up diagrams and sketches on your own, but never add or change anything)
 
+{blurb, class: information}
+
+### Did you get it?
+
+Sometimes somebody is talking about a behavior and it's too much for the team to remember the next time they talk about it. We learned a way to record behavior titles and behavior details in a standard format if we need to.
+
+{/blurb}

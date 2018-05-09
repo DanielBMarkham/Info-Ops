@@ -63,8 +63,10 @@ I was working for the Defense Commissary Agency. They run a series of grocery st
 
 Yep. That's right. I worked on a secret bom for the Defense Department. The bom I worked on involved green beans.
 
+{blurb, class: information}
+
 ### Did you get it?
 
-Temporal indicators finish up our tagging system. Now we can take any bit of information from anywhere and tag and sort it to use in making good conversations happen.
+Temporal indicators finish up our tagging system. Now we can take any bit of information from anywhere and tag and sort it to use in making good conversations happen so that we can build the right things.
 
 {/blurb}

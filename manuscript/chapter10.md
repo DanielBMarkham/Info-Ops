@@ -174,3 +174,11 @@ We just started talking about how the fact that the buckets are so connected is 
 To finish this out, we need to talk about two more things: how the buckets relate to one another, and **Master Models**. That will close out the section. Then we'll know all the pieces and how they relate. Once we know that, the rest of the book will show you how to collect and deliver those pieces in real-time to the folks who need them.
 
 ![](images/supplemental-model-overview.png)
+
+{blurb, class: information}
+
+### Did you get it?
+
+Supplementals are naturally vague at first, so it was important to learn how to format their titles and add details to them. 
+
+{/blurb}

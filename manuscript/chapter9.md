@@ -122,3 +122,10 @@ Ambiguity is a necessary part of analysis. All of the things we do in analysis a
 
 Fortunately you're reading this book, so as we move from theory to application, you're going to see a bunch of different ways domain models can help you plan and understand what the work is.
 
+{blurb, class: information}
+
+### Did you get it?
+
+We learned how to add titles and details to structural items if we need to. The most critical structural items on any project are the words we use in our conversations.
+
+{/blurb}

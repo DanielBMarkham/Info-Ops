@@ -236,3 +236,11 @@ Pete's not so bad. We might even keep him.
 Also we've done some wireframe and analysis model stuff. We could toss all that crap out the window tomorrow, though. It's the progress we've made in the Meta Behavior Realized that will make the difference between a success or failure.
 
 Next let's set up a real-live backlog and talk about how small team grooming works while you're chugging through the work.
+
+{blurb, class: information}
+
+### Did you get it?
+
+Another silly example gave us a chance to use everything we've learned all at once; keeping overhead to a bare minimum while focusing on building the right thing.
+
+{/blurb}

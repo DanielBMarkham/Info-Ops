@@ -317,3 +317,11 @@ So we reach some odd conclusions about estimating. To be effective, the estimati
 If it has those qualities, it has a chance of being a great estimation process. It's a good process tool.
 
 Speaking of tools, let's dig in to see backlog grooming/refinement in action using EasyAM.
+
+{blurb, class: information}
+
+### Did you get it?
+
+Using backlog refinement as an example, processes look totally different when looked at through the lens of information management. Now we know the deeper meanings and how to improve things like estimation, refinement, and other Agile practices (Although we haven't talked about them yet).
+
+{/blurb}

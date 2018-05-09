@@ -148,3 +148,11 @@ Every kick-ass project I've ever been associated with had several instances wher
 I don't know if anything's  missing. I don't know if this has to be a meeting. I don't think so. But being able to rework and simplify what you're doing is a critical part of intellectually owning the problem. I wouldn't trust a team that didn't do it. Like all of the dots on the wheel of pain, it's important stuff that happens all the time while people are thinking. Not a meeting. You are restating your backlog as you go along, right? You're not creating some electronic system set in stone that nobody can change the structure of, are you?
 
 I always worry about whether we're building the right thing and keep bringing it up until I see others start worrying about it too. Are we doing this the smart way? But most likely not a meeting. I'm thinking that "Do smart stuff" wouldn't look so good on the team calendar. Plus we'd all have to save all of our intelligent remarks for just that one meeting, since you don't use them early in the week and then run out.
+
+{blurb, class: information}
+
+### Did you get it?
+
+Although there are a lot types of things we can ask questions about (our tagging system covered that), there are really only five types of questions. Knowing that allowed us to take a look at the other Scrum processes and talk about their role in Info-Ops so that we can build the right thing without wasting a lot of time and money.
+
+{/blurb}

@@ -88,6 +88,8 @@ This idea, of taking written analysis information, mixing and matching as necess
 
 ## Info-Ops Wrap-Up
 
+![Do these values make sense to you now? Are you able to use them in whatever project you're in?](images/info-ops-values.png)
+
 Look at you. You've finished up the Info-Ops book and are now ready to go make the world a better place. I can't wait to see what you accomplish.
 
 Together, we have truly accomplished feats of a brobnagagian nature. (Brobnagagian means "big". Thank me later.) There's a huge distance between average folks struggling through projects and people who know and use these skills effectively. Now you're a member of an elite group.
@@ -129,3 +131,11 @@ Thank you for coming along. I hope to see you in future books!
 *Ceterum autem censeo Carthaginem delendam esse*[^25-31]
 
 [^25-31]: You have to have some kind of cool catch-phrase to end your book. Leave people happy. Don't end the book on an unhappy or dour phrase. Your last words should be pithy and memorable. They should make you sound intelligent and sensitive. Back in Roman days, Cato the Elder really didn't like the city of Carthage. He just couldn't stop talking about how much he hated it. So no matter what else he was talking about, he always ended it with that phrase. Loosely translated, it means something like "And finally, I conclude by saying Carthage must be destroyed!" Carthage *was* eventually destroyed, but I think there's probably nothing wrong with destroying it again. Nobody has used the phrase in a long time; it's due to become cool again. Plus Latin, right? How cool is that? Huh? Dang Carthagenians. Never met one I liked. (Ever hear about a Carthagenian building an orphanage? Feeding the poor? See?) Last words are important. Mean little bastards.
+
+{blurb, class: information}
+
+### Did you get it?
+
+We had a lot of fun with scripting and programming in this chapter. There's a lot more we can do now that we know what we're doing.
+
+{/blurb}

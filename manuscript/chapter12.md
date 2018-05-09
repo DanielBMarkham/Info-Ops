@@ -146,3 +146,11 @@ You've got most all of the tagging system by now. You're beginning to understand
 Now let's go use it.
 
 You've nailed it. Let's go scale it!
+
+{blurb, class: information}
+
+### Did you get it?
+
+There's some information we should keep track of no matter what. They're called Master Models.
+
+{/blurb}

@@ -210,3 +210,10 @@ In this section we've described how small teams collect, use, modify, and delive
 
 Next we'll talk about various automated scenarios where the Analysis Model plays more of an active role in being the switchboard for information flow.
 
+{blurb, class: information}
+
+### Did you get it?
+
+We learned how to use Info-Ops values to manage a project where you're not directly creating something. The values, tagging system, and the tools give you a lot more options than you had before -- but they also tell you about what's possible and what's impossible.
+
+{/blurb}

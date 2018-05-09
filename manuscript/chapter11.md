@@ -168,3 +168,11 @@ The easy answer is just to keep everything simple. For a lot of small team work,
 In the next section I'll introduce a free tool and we'll start talking about managing all of this in our day-to-day work. But for a lot of situations, Keep It Simple, Silly! Socrates wasn't a dork. Don't be a dork.
 
 But first we need to know and use Master Models.
+
+{blurb, class: information}
+
+### Did you get it?
+
+We're done learning how to take apart conversations and data into their little pieces. Keeping track of how the pieces relate to one another will let us take a small number of pieces and put them back together in new ways to ask questions we would have never thought of otherwise.
+
+{/blurb}

@@ -1,6 +1,6 @@
 -#Test-Driven Analysis
 
-# Beethoven Changed Music Like Structured Analysis Changes Projects
+# Beethoven
 
 ![Not the easiest sheet music to read](images/beethoven-sheet-music.jpg)
 
@@ -183,3 +183,11 @@ Perhaps there's a stream of data the team wants to capture that needs to be used
 This section will be about downloading, installing, and using the tool in various small-team scenarios. Scaling up we'll also start creating an information pipeline to handle things like bug reports, user interviews, field notes, statistical process control data, and more.
 
 As we work through the rest of the book, our simple tagging system will either stay simple and easy -- or become as intricate and detailed as we need to continue Analysis. The old way was all about structure, filling out forms, handling document flow. The new way is about taking small pieces of important conversations, tagging them, then creating a map as detailed as required to support the work in front of us.
+
+{blurb, class: information}
+
+### Did you get it?
+
+By knowing how to capture sound in small pieces and then reassemble the pieces into something beautiful, Beethoven changed music the same way learning this material is going to change how you make stuff for people.
+
+{/blurb}

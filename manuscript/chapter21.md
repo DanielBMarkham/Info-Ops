@@ -247,3 +247,11 @@ But you didn't get him anything, you schmuck.
 Don't you feel bad? Some times I don't know why I put up with you.
 
 Next let's generalize a little bit based on what we've learned before we attack some more advanced single-team topics at the end of this section.
+
+{blurb, class: information}
+
+### Did you get it?
+
+We continued our example by putting it in a Scrum environment and doing all the work to start cranking out stuff. We even learned how we can take any information we have to write down for analysis and use it in other places without having to re-type things.
+
+{/blurb}

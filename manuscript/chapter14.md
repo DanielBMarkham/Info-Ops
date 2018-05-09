@@ -1,4 +1,4 @@
-# Using EasyAM To Capture Analysis Like Beethoven Captured Sounds
+# Introducing EasyAM
 
 ![](images/chapter14-begin.png)
 
@@ -145,3 +145,11 @@ To keep current with the progress of EasyAM, which is open source and free, simp
 To get assistance or report a bug, send an email to help@easyam.org
 
 Now let's organize some stuff!
+
+{blurb, class: information}
+
+### Did you get it?
+
+Remember all that tagging stuff we learned back in the first section? There's a free tool where we can just use the tags we learned and the tool will do the work of organizing everything. Yay! No duplicate work!
+
+{/blurb}
