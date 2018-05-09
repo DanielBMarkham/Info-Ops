@@ -161,9 +161,8 @@ Many times we *build things right* -- they have quality, they conform to specs, 
 
 Information doesn't get to the right people at the right time. People die.
 
-{aside}
-# Did you get it?
+{blurb}
 
-Teams build the wrong thing because of failures to ask enough questions to figure out what the right thing is. We're going to have to learn some strategies for figuring out which questions to ask and asking them the right way.
+**Did you get it?** Teams build the wrong thing because of failures to ask enough questions to figure out what the right thing is. We're going to have to learn some strategies for figuring out which questions to ask and asking them the right way.
 
-{/aside}
+{/blurb}

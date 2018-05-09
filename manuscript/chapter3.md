@@ -120,3 +120,11 @@ Let's recap. Good information flow and management supports analysis (dialectics)
 We only have about a dozen tags we need to learn in four different sets: genre (which we just did), abstraction levels, buckets, and temporal indicators. This is what we'll go over in the next chapters. Once we have our tagging system,  we'll move to application.
 
 This process, having a fixed way of organizing information in order to make it more useful so that everything goes into one and only one spot is called **Structured Analysis**. Once you understand Structured Analysis, you'll find that a bunch of things that used to be difficult suddenly become very easy.
+
+{blurb}
+
+### Did you get it?
+
+To ask good questions, we're going to have to learn how to take apart any piece of conversation or information in our project. Only by figuring out what we currently have are we going to be able to figure out what we're missing.
+
+{/blurb}
