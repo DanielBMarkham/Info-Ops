@@ -240,3 +240,11 @@ The four things to learn in this chapter are:
 4. Just the five tags we have so far, along with the parent-child thing, and we can already create a zillion different categories. Whoa horsey! Remember that the entire purpose of this tagging system is to minimize work. Never think that you need to fill out the pyramid. You'll end up spending all your time drawing little diagrams instead of getting any work done.
 
 The next set we'll talk about contains three different tags that connect up what we've been talking about with whatever your job is. There's one more set after them, but they're the real last important set of tags.
+
+{blurb, class: information}
+
+### Did you get it?
+
+We've got to understand and sort things out by abstraction level because depending on which level things are on, we do different things to them. We don't want to waste our time asking a hundred questions at a low level if we can get away with asking only one at a higher level. 
+
+{/blurb}

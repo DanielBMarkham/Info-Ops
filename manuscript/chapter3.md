@@ -121,7 +121,7 @@ We only have about a dozen tags we need to learn in four different sets: genre (
 
 This process, having a fixed way of organizing information in order to make it more useful so that everything goes into one and only one spot is called **Structured Analysis**. Once you understand Structured Analysis, you'll find that a bunch of things that used to be difficult suddenly become very easy.
 
-{blurb}
+{blurb, class: information}
 
 ### Did you get it?
 

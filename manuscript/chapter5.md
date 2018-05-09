@@ -141,9 +141,16 @@ Did I just say that everything in your organization, all of the information it g
 
 I did. And it does. One of the reasons we've spent time meeting all these old Greek dudes is because I don't want you thinking that these categories are arbitrary. They are not. They're not just something I made up. They're the result of hundreds of years of really smart people thinking really smart thoughts. (I was not one of those people) If you want a different categorization system you'll need to go back and reinvent western thought. I'll wait here.
 
-There are a couple more curve balls that we'll go over in this first section of the book, but these tags are at the heart of any effective information stream. And there isn't a lot of them.
+There are a couple more curve balls that we'll go over in this first section of the book, but these tags are at the heart of any effective information stream. And there aren't a lot of them.
 
 **There's Genre (Business, System, Meta), Abstraction Level (Abstract, Realized), and Bucket (Behavior, Structure, Supplemental). For any piece of information, pick one tag from each of these groups.**
 
 There's one more group that's rarely used, but we need to go over it. We also need to know how to add detail to items in the buckets (Behavior, Structure, Supplemental) and how all of your information is connected together. Then our foundation journey will be complete.
 
+{blurb, class: information}
+
+### Did you get it?
+
+Abstraction levels are a good start, but we're need more than that to sort out and keep track of all the information floating around in the average project. Buckets not only do that, they do a bunch of other cool stuff that we'll learn about later.
+
+{/blurb}

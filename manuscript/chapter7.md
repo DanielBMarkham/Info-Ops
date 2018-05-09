@@ -298,3 +298,8 @@ Now that we have our lists, what next? You can't build a Mars Colony using a few
 
 What we do is develop out the detail in our lists until we're ready to spin off some **Business Realized** chunks of work to other groups. This is called modularization. And to do that, we have to talk about adding and working with details in our three buckets: Behavior, Structure, and Supplementals.
 
+### Did you get it?
+
+We took a whirlwind tour of a slew of oddball projects, hopefully enough that you realize that whatever project you have, the tags we've learned about will work with it.
+
+{/blurb}
