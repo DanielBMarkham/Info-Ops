@@ -165,6 +165,6 @@ Information doesn't get to the right people at the right time. People die.
 
 ### Did you get it?
 
-Teams build the wrong thing because of failures to ask enough questions to figure out what the right thing is. We're going to have to learn some strategies for figuring out which questions to ask and asking them the right way.
+You learned why teams build the wrong thing. You learned how to fix that, beginning with learning some strategies for figuring out which questions to ask and asking them the right way.
 
 {/blurb}
