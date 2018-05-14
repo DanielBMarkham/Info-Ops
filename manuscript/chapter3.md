@@ -125,6 +125,6 @@ This process, having a fixed way of organizing information in order to make it m
 
 ### Did you get it?
 
-To ask good questions, we're going to have to learn how to take apart any piece of conversation or information in our project. Only by figuring out what we currently have are we going to be able to figure out what we're missing.
+You learned why being able to take apart any kind of information is key to asking good, precise questions. You learned how the effective use of Structure Analysis and tags promises to easily and quickly do that, whether on a new or pre-existing project. You also learned how genres are the most important set of tags we have. Only by figuring out what we currently have are we going to be able to figure out what we're missing.
 
 {/blurb}

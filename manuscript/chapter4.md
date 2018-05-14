@@ -245,6 +245,6 @@ The next set we'll talk about contains three different tags that connect up what
 
 ### Did you get it?
 
-We've got to understand and sort things out by abstraction level because depending on which level things are on, we do different things to them. We don't want to waste our time asking a hundred questions at a low level if we can get away with asking only one at a higher level. 
+You learned why sorting information by abstraction level saves us time and money. We don't want to waste our time asking a hundred questions at a low level if we can get away with asking only one at a higher level. You learned how you can use the parent-child relationship along with the genres and abstraction levels to construct an incredibly-detailed hierarchical tagging system if you need to.
 
 {/blurb}

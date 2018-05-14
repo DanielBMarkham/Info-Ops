@@ -1,4 +1,4 @@
-# Moving From General To Specific In The Fewest Steps Possible
+# Easily Moving From General To Specific
 
 ![](images/chapter5-begin.png)
 
@@ -151,6 +151,6 @@ There's one more group that's rarely used, but we need to go over it. We also ne
 
 ### Did you get it?
 
-Abstraction levels are a good start, but we're need more than that to sort out and keep track of all the information floating around in the average project. Buckets not only do that, they do a bunch of other cool stuff that we'll learn about later.
+You learned why abstraction levels and genres, are a good start, but we need more than that to sort out and keep track of all the information floating around in the average project. You learned how to use buckets to do that. (They'll do a bunch of other cool stuff that you'll learn about later).
 
 {/blurb}
