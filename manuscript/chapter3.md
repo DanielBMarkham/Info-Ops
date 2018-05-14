@@ -17,7 +17,7 @@ And it's not math. Instead you end up using ideas kicked around by some guys nam
 
 [^3-1]: Friends who are linguists, I understand that I'm painting with a really broad brush here. It's an effort to keep the narrative simple and moving along. Sapir-Whorf never proposed their "hypothesis" Chomsky's ideas are being butchered and he wasn't the first to propose the structuralism of a universal grammar. I am very sorry about having to skim over many of these important details.
 
-Sapir, Whorf, and Chomsky were linguists. These are people who study languages. It's a relatively new science. The general study of languages, of course, has been going on forver. Studying how all the different languages have similarities and differences started happening only in the last 150 years or so. 
+Sapir, Whorf, and Chomsky were linguists. These are people who study languages. It's a relatively new science. The general study of languages, of course, has been going on forever. Studying how all the different languages have similarities and differences started happening only in the last 150 years or so. 
 
 There are a ton of interesting debates going on in linguistics, but the big one in the movie concerns the Sapir-Whorf hypothesis and linguistic structuralism, probably best-expressed in Chomsky's "Syntactic Structures"[^3-2]
 
@@ -27,7 +27,7 @@ Don't worry! There won't be a test.
 
 This is really about one question: is language mostly determined by the culture we live in? Our world, our values, our feelings, and so forth? Or is language simply a formal construct with various pieces, like a building being made out of bricks?
 
-On one hand, the Sapir-Whorf guys felt that your life and values, the way you think, was tied hand-in-hand with the way you expressed things. The Intuit have a bunch of different words for snow and ice. We do not. That's because it's not part of our way of life. There are certain thoughts of an individual in one language that cannot be understood by those who live in another language. Your universe is your language.
+On one hand, the Sapir-Whorf guys felt that your life and values, the way you think, was tied hand-in-hand with the way you expressed things. The Inuit have a bunch of different words for snow and ice. We do not. That's because it's not part of our way of life. There are certain thoughts of an individual in one language that cannot be understood by those who live in another language. Your universe is your language.
 
 On the other hand, the Chomsky/structural guys felt that language is simply a type of program that runs on human hardware. Chomsky was able to create a system where he could take any known language and break it up into tiny pieces and rules. Brains are operating systems that use languages in the same way Microsoft Windows is an operating system that uses programs. The actual language was just one of perhaps many language apps running on the operating system of our brain.
 

@@ -97,9 +97,9 @@ No matter how tightly we scope our conversation by using tags, there are always 
 
 Let's take a problem in the Business Genre and walk through how abstraction levels work.
 
-You've decided to become a weasel farmer! Yay you! Now your long journey to succesful weasel farming has begun. To start off on the right foot[^4-5.541], you'd like to know as much as you can about the business of weasel farming.
+You've decided to become a weasel farmer! Yay you! Now your long journey to succesful weasel farming has begun. To start off on the right foot[^4-5541], you'd like to know as much as you can about the business of weasel farming.
 
-[^4-5.541]: As alert reader Russ points out, most weasel farmers are left-handed.
+[^4-5541]: As alert reader Russ points out, most weasel farmers are left-handed.
 
 At first you don't need to know the mechanics of it. You don't care whether you need to buy a Hinderslot F-4000 weasel-picker or how a tractor-propelled weasel juggler works in sub-freezing weather with angry weasels. That's all implementation stuff. **System Genre**. What you want to know is how the people part of weasel farming works. Who do you have to know? What sorts of things are you required to do? How do you schedule out your time? That kind of thing.
 
@@ -127,7 +127,7 @@ While you can have as many parent-child relationships that makes sense to you, a
 
 **Abstract** items are all those items that exist only in pure form. They're ideas. They don't have correspondence in the real world. All those reports you asked the college to do? They're all abstract reports, about how things happen *in general*.
 
-There is no generic farm. It's an abstract concept. There are tons of real farms, but there's no such thing as an abstract farm. Every farm has to farm something. Likewise there's no such thing as a mammal farm. Or a weasel farm. We talk about these things in the abstract because in most cases that's we need.
+There is no generic farm. It's an abstract concept. There are tons of real farms, but there's no such thing as an abstract farm. Every farm has to farm something. Likewise there's no such thing as a mammal farm. Or a weasel farm. We talk about these things in the abstract because in most cases that's what we need.
 
 **We always work at the highest abstraction level possible unless we are absolutely forced to work at a lower level**. This is the first secret about how to get a lot done with little effort.
 
@@ -147,7 +147,7 @@ The first report is a study of several different farms in your area. It talks ab
 
 The second report is a study of mammal farming in the last ten years. It is real-world examples of the business practices of successful mammal farms.
 
-The third report is a set of interviews with weasel farmers. (No, not weasels who farm. People who farm weasels.) For each farmer, you learn what their life is like: what's important, what they worry about, how they think of their job. It's the stories of actually how each one lives his life.
+The third report is a set of interviews with weasel farmers. (No, not weasels who farm. People who farm weasels.) For each farmer, you learn what their life is like: what's important, what they worry about, how they think of their job. It's the stories of how each one actually lives his life.
 
 This is a completely different kind of information, although there's still a parent-child relationship between the three. This is how the **abstract** idea of weasel farming is **realized** by real people, in the real world. They're all weasel farmers, but each one does it a different way.
 

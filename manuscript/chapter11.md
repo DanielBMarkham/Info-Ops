@@ -9,7 +9,7 @@ This is the most abstract part of the book, and also the most important. Everyth
 
 I've been using these concepts for over twenty years, and the more I use them, the more useful they become. Although we'll pivot and do a lot of talking about technology development in the chapters to come, I have yet to run into a field of study where what we've learned so far isn't applicable. The more you play with them, the more usefulness you get from them. Anytime you're trying to understand a system[^11-0], whether in the past, present, or future, from pyramid-building to ice-cream trucks, this works.
 
-[^11-0]: Technically a formal, consistent system, like a machine, business, mathematical transform, or computer program. It doesn't work with squishy, inconsistent systems, like trying to decide with your spouse on where to go to eat tonight. (Sadly -- although it might not hurt trying!)
+[^11-0]: Technically a formal, consistent system, like a machine, business, mathematical transform, or computer program. It doesn't work for creating and changing squishy, inconsistent systems, like trying to decide with your spouse on where to go to eat tonight. (Sadly -- although it might not hurt trying!) But it's still useful in understanding those systems.
 
 Pretty cool stuff.
 
@@ -173,6 +173,6 @@ But first we need to know and use Master Models.
 
 ### Did you get it?
 
-We're done learning how to take apart conversations and data into their little pieces. Keeping track of how the pieces relate to one another will let us take a small number of pieces and put them back together in new ways to ask questions we would have never thought of otherwise.
+You learned one of the reasons why we've been taking things apart: to discover links between things that hadn't thought of before. You learned how to take a small number of linked pieces and put them back together in new ways to ask questions we would have never thought of otherwise. "Building the right thing" means having some way of exploring and asking questions to find out important things we may have overlooked otherwise. Structured Analysis is that way.
 
 {/blurb}

@@ -151,6 +151,6 @@ You've nailed it. Let's go scale it!
 
 ### Did you get it?
 
-There's some information we should keep track of no matter what. They're called Master Models.
+You learned why there's some information you should keep track of no matter what. You learned how to capture Master Models. More importantly, you learned how master models and professional conversations go together to provide a map for all important conversations in a project. When trying to build something, it's easy to lose track of what's important. Now you know how to use the minimum amount of work to not lose sight of what's important.
 
 {/blurb}

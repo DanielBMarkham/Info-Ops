@@ -104,7 +104,7 @@ Which brings us to our last Behavior title part.
 
 The **Trigger** tells us why the actor(s) need to do this thing that our target system is helping them with. The magic prefix here is "When"
 
-**When** a person comes into our office for dental work, **As a** receptionist, **I need to** validate their insurance **So that** we know we'll get paid before we start the work. **Alternate outcomes are** customers paying cash up front if they don't have insurance but can afford it, customers being referred to other dental offices if their insurance coverage doesn't apply here, or customers getting a new appointment to allow time for the insurance paperwork to process if the qualify but can't get the approval right away.
+**When** a person comes into our office for dental work, **As a** receptionist, **I need to** validate their insurance **So that** we know we'll get paid before we start the work. **Alternate outcomes are** customers paying cash up front if they don't have insurance but can afford it, customers being referred to other dental offices if their insurance coverage doesn't apply here, or customers getting a new appointment to allow time for the insurance paperwork to process if they qualify but can't get the approval right away.
 
 The trigger is the thing that kicks all the action off. If the trigger occurs, then rest of this behavior has to occur as well.
 
@@ -179,7 +179,7 @@ All of that media you consumed, no matter what it was or at what level of detail
 
 [^8-9]: There is a long rant I could provide here about the proper nature of a university education. (Including the importance of a strong liberal arts foundation.) I will not do that.
 
-Same goes for diagrams and other forms of permanent writing. These tools exist so that groups of us in separate locations can create huge mock-up models of how things might look and work before we get together for the actual work. They're critical and required, but they're not the work itself. The work itself happens when the dialectics begins. Good permanent information has the sole purpose of supporting analysis. (Really good books can support various kinds of analysis the you'll use the rest of your life. Poor books may take up your time and never be used to actually understand anything. Note that fiction can also be a great form of written record, as it teaches us how we might act in imaginary situations -- allows us to sort out our feelings and values without being engaged in "real work" at all. For that reason, good fiction, in fact, can be more useful than a lot of textbooks that teach things you'll never use.)
+Same goes for diagrams and other forms of permanent writing. These tools exist so that groups of us in separate locations can create huge mock-up models of how things might look and work before we get together for the actual work. They're critical and required, but they're not the work itself. The work itself happens when the dialectics begins. Good permanent information has the sole purpose of supporting analysis. (Really good books can support various kinds of analysis that you'll use the rest of your life. Poor books may take up your time and never be used to actually understand anything. Note that fiction can also be a great form of written record, as it teaches us how we might act in imaginary situations -- allows us to sort out our feelings and values without being engaged in "real work" at all. For that reason, good fiction, in fact, can be more useful than a lot of textbooks that teach things you'll never use.)
 
 If you want to use diagramming or some other formal system of permanent recording, be sure you use the minimal amount for the job in front of you. To continue our previous example, great fiction prepares you for life, the universe, and everything. It can be long and extended. Good textbooks give you templates for hundreds of different work/life situations in your future. They can be quite big. If you're building a doghouse, you do not need to write "War and Peace" or begin constructing an architectural diagram for the Sistine Chapel. You might need a sketch or two so you don't forget stuff and agree about end-state, but that's about it.
 
@@ -213,6 +213,6 @@ If you need these parts of UML's Activity Diagrams, use them, but never make a d
 
 ### Did you get it?
 
-Sometimes somebody is talking about a behavior and it's too much for the team to remember the next time they talk about it. We learned a way to record behavior titles and behavior details in a standard format if we need to.
+You learned why it might be important to sometimes take some of the tagged information and dig down deeper into what it might mean. You learned how to do that for behavior in a way that's easy to remember later. 
 
 {/blurb}

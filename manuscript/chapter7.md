@@ -155,7 +155,7 @@ So back to our three lists, just like last time. What kinds of behaviors in gene
 3.  Make a list of different things they can do to change habits 
 4.  Try some things 
 5.  See which ones work and which ones don't work 
-6.  Try to guess a pattern in what works and don't work
+6.  Try to guess a pattern in what works and what doesn't work 
 7.  Continue experimenting to see if the pattern was correct or not 
 
 That's our first-pass at **Business Abstract Behavior**. It's interesting to me how scientific it all is. It sounds just like the things scientists would do to train rats or something.
@@ -168,7 +168,7 @@ How about pieces of stuff? What general pieces of stuff do we have to implement 
 4. Lectures
 5. Brown Bags
 
-No. Wait. No. Some of that is stuff we'd use to actually get the job done. Some of that is stuff we'd use to understand the job. We've mixed up Business Abstract and System Abstract. These are all types of applied solutions, that is, a survey is a type of thing to measure what habits people have. It's a tool. "Habit measurement", on the other hand, is a piece of something we need, whether it's done by survey, interview, hidden cameras, installed tools, or whatever. We've jumped down from Business Abstract to System Abstract, just like last time, but we're not in a hurry to prototype. This thing is going to take years to work through. Surely we should stay absract longer. We don't have to order classes tomorrow. (Even then we could spend a few hours at the Business Abstract level. It's not going to do anything but help us.)
+No. Wait. No. Some of that is stuff we'd use to actually get the job done. Some of that is stuff we'd use to understand the job. We've mixed up Business Abstract and System Abstract. These are all types of applied solutions, that is, a survey is a type of thing to measure what habits people have. It's a tool. "Habit measurement", on the other hand, is a piece of something we need, whether it's done by survey, interview, hidden cameras, installed tools, or whatever. We've jumped down from Business Abstract to System Abstract, just like last time, but we're not in a hurry to prototype. This thing is going to take years to work through. Surely we should stay abstract longer. We don't have to order classes tomorrow. (Even then we could spend a few hours at the Business Abstract level. It's not going to do anything but help us.)
 
 Let's try this again. What high-level pieces of stuff do we need to talk about changing people's habits? We have:
 
@@ -302,6 +302,6 @@ What we do is develop out the detail in our lists until we're ready to spin off 
 
 ### Did you get it?
 
-We took a whirlwind tour of a slew of oddball projects, hopefully enough that you realize that whatever project you have, the tags we've learned about will work with it.
+You learned why the tagging system works for all sorts of projects by taking a whirlwind tour of using it in some oddball project situations. You learned how to start off any new project by using the tagging system from the very first conversation you have. (Either with the customer or among yourselves).
 
 {/blurb}

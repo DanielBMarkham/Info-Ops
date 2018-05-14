@@ -67,6 +67,6 @@ Yep. That's right. I worked on a secret bom for the Defense Department. The bom 
 
 ### Did you get it?
 
-Temporal indicators finish up our tagging system. Now we can take any bit of information from anywhere and tag and sort it to use in making good conversations happen so that we can build the right things.
+You learned why temporal indicators were the last tags for our tagging system and how to use them. Now that we've finished, you've learned how to take any bit of information from anywhere and tag and sort it. Knowing precisely what type of information you're talking about leads to being able to ask precise questions; that drives the kinds of good conversations that end up building the right thing.
 
 {/blurb}

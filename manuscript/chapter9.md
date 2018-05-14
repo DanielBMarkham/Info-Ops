@@ -126,6 +126,6 @@ Fortunately you're reading this book, so as we move from theory to application, 
 
 ### Did you get it?
 
-We learned how to add titles and details to structural items if we need to. The most critical structural items on any project are the words we use in our conversations.
+You learned why the words we use commonly in everyday conversation are the most important structural information we have. You learned how to add titles and details to structural items if you need to.
 
 {/blurb}

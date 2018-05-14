@@ -1,6 +1,6 @@
 # Capturing Minimal Supplemental Detail
 
-![Sophocles always hated dynamic typing. How come nobody told us?](images/chapter10-begin.png)
+![That's right: Sophocles is an old C++ guy. Didn't you notice the beard and sandals?](images/chapter10-begin.png)
 
 
 Supplementals will get you every time.
@@ -179,6 +179,6 @@ To finish this out, we need to talk about two more things: how the buckets relat
 
 ### Did you get it?
 
-Supplementals are naturally vague at first, so it was important to learn how to format their titles and add details to them. 
+You learned why supplementals are the trickiest and potentially most powerful items you can capture. You learned how to be okay with supplementals being quite vague and squishy at first, then how you can add detail as-needed (at the last responsible moment) to make them as concrete as you need them to be.
 
 {/blurb}
