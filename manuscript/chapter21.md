@@ -252,6 +252,6 @@ Next let's generalize a little bit based on what we've learned before we attack 
 
 ### Did you get it?
 
-We continued our example by putting it in a Scrum environment and doing all the work to start cranking out stuff. We even learned how we can take any information we have to write down for analysis and use it in other places without having to re-type things.
+You learned why Story Mapping and UI/UX workshops are such powerful analysis tools and how to use them correctly. You learned how to estimate quickly, how to use EasyAM to easily keep track of user story information like remaining hours or points (if you do that kind of thing). You learned why ATDD is the technology, System Realized version of what we've been talking about all along, and how to use EasyAM to automatically generate gherkin feature files that provide you with all the acceptance criteria information you need to know.
 
 {/blurb}

@@ -241,6 +241,6 @@ Next let's set up a real-live backlog and talk about how small team grooming wor
 
 ### Did you get it?
 
-Another silly example gave us a chance to use everything we've learned all at once; keeping overhead to a bare minimum while focusing on building the right thing.
+You learned why Meta is the thing you should most focus on once you understand Structured Analysis. You learned how to use EasyAM to take notes in detail while you're talking uinsg notepad or another text editor. You learned why ranking the backlog isn't as important as selectively decomposing it. You learned how to "automatically" order the backlog using Analysis Affinity Mapping.
 
 {/blurb}

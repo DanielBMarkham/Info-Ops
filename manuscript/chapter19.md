@@ -23,7 +23,7 @@ That's not true if you are breaking down big tasks into smaller tasks in a non-c
 
 Ideally you wouldn't do anything and you'd still somehow change the target system to provide fabulous wealth. Then you'd be living on tropical islands drinking those drinks with little umbrellas in them. Worst-case, you have some to-do list from hell that you call a backlog and everybody has far too much work than they ever could get done and the target system doesn't change at all.
 
-![](images/tda2.jpg)
+![](images/Rules-Of-Test-Driven-Analysis.png)
 
 ## How NOT to do Backlog Grooming
 
@@ -274,7 +274,7 @@ I saw people take how much time they had for a project, then divide the number o
 
 I saw people leaving the points from last time on the story from one game-playing-session to the next. Well heck, if you're going to do that, people aren't really guessing again, are they?[^19-344] They're just looking at what the old number was and asking if anything changed. That might be an interesting thing to do, but it's a different thing from the way the game is played. You, also, are doing it wrong.
 
-[^19-344]: Wait a minute. Am I saying we shouldn't use "yesterday's weather", we shouldn't use the points from the last sprint to figure out what we can do this sprint? That's exactly what I'm saying. Using points from the previous sprint to drive what goes in the next sprint -- also called "Yesterday's Weather" -- is a hack. It's a hack teams have to use because they don't know how to manage their information stream. We had to have something because who had time to look at the entire backlog again? That thing was a mess! But now we know how to keep the backlog simple, right? We keep simple so we can think about it, the entire thing, at one time, right? We want to think about the whole thing. We have to think about the whole thing. Everything in your project should be changing. The difficulty to deliver should be going down, your understanding of the nature should get a lot better, your teamwork should be getting better. So how in heck could you use points in that fashion? The teams I see using points that way are teams in which _nothing_ is changing. Don't be that team. If you are that team, I will come and beat you with a wet noodle. 
+[^19-344]: Wait a minute. Am I saying we shouldn't use "yesterday's weather", we shouldn't use the points from the last sprint to figure out what we can do this sprint? That's exactly what I'm saying. Using points from the previous sprint to drive what goes in the next sprint -- also called "Yesterday's Weather" -- is a hack. It's a hack teams have to use because they don't know how to manage their information stream. We had to have something because who had time to look at the entire backlog again? That thing was a mess! But now we know how to keep the backlog simple, right? We keep it simple so we can think about it, the entire thing, at one time, right? We want to think about the whole thing. We have to think about the whole thing. Everything in your project should be changing. The difficulty to deliver should be going down, your understanding of the nature should get a lot better, your teamwork should be getting better. So how in heck could you use points in that fashion? The teams I see using points that way are teams in which _nothing_ is changing. Don't be that team. If you are that team, I will come and beat you with a wet noodle. 
 
 I saw people taking the points from one time period and then using that number to determine the next time period. Did ten points last time? Pick ten points of stuff for next time and do that. After all you did ten points last time, right? The failure here is that points are a lagging indicator, not a leading one. That is, you do what you can do. Points got nothing to do with it. Until you do something, you really don't know how hard it is to do or not. I've gotten to erasing points as soon as the game is finished to prevent this kind of nonsense. Do the points. Forget them. Do the work. Then, if you want, offline, use the points to guess how much work is left. 
 
@@ -322,6 +322,6 @@ Speaking of tools, let's dig in to see backlog grooming/refinement in action usi
 
 ### Did you get it?
 
-Using backlog refinement as an example, processes look totally different when looked at through the lens of information management. Now we know the deeper meanings and how to improve things like estimation, refinement, and other Agile practices (Although we haven't talked about them yet).
+You learned why backlog refinement in many cases is a terribly misunderstood process that everybody hates and doesn't do it right. You also learned why good backlogs are never more than 50 or 60 items and how to create and manage them so they stay that way. You learned what makes for good backlog refinement. You also learned  about easy story splitting and the secrets of estimation. This chapter was a big payoff from all the foundation work you've put in earlier. Good job!
 
 {/blurb}

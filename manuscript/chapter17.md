@@ -5,7 +5,7 @@
 
 Since we're going to be talking a lot about reports, diagrams, exercises, flows, and all sorts of things that can exist in various forms, I'm going to suggest a heuristic that we apply to the rest of our discussion.
 
-![You may want to put this on the wall](images/diagrams-for-navigationsmaller.png)
+![You may want to put this on the wall](images/diagrams-for-navigation-cards-for-manipulation.png)
 
 That is, if it's a picture of something, whether it's a UML diagram, the Analysis Survey, a sketch of a new porch, a database model, or a snapshot you made with your phone of a wireframe workshop you had this morning? It's only purpose is for navigation, to find your way back to where you were before. It's a map. If it's a physical item -- and we use the word "cards" here liberally, it could be almost any physical item -- it's for working together to validate and update our mental model.
 
@@ -97,7 +97,7 @@ Turns out, "make something people want" along with regular accountability and te
 
 ## Test-Driven Analysis (TDA)
 
-![Sometimes you just need a list of rules](images/tda2.jpg)
+![Yes, this is a hack. But sometimes folks just need a list of rules](images/Rules-Of-Test-Driven-Analysis.png)
 
 But I have been falling down on my job! We've been several dozen pages and you don't have any new complicated-sounding terms or buzzwords to put on your status reports. So here's one: **Test-Driven Analysis**.
 
@@ -171,6 +171,6 @@ In technology, we call getting organized around upcoming work and new informatio
 
 ### Did you get it?
 
-The only thing we should be talking about is creating and executing important tests. This both limits the amount of useless conversations and demands that we stop what we're doing if critical conversations can't happen.
+You learned why if you're building the right thing, the only thing you should be talking about is creating and executing important tests. You learned how his both limits the amount of useless conversations and demands that we stop what we're doing if critical conversations can't happen. You learned the proper role of project information tools and more about all the detail you can add in your notes, if needed, using EasyAM.
 
 {/blurb}

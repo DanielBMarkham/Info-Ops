@@ -162,6 +162,6 @@ And that takes us to Backlog Grooming.
 
 ### Did you get it?
 
-When it comes to backlogs and user stories, if we're not using the tagging system we've learned, we're doing it wrong. In fact, the more we rely on our natural instincts of how to organize this stuff instead of the tagging, the worse it'll be.
+You learned why backlogs go off-the-rails, and why using our natural intuition is a good way to screw them up. You learned how Test-Driven Analysis and Structured Analysis leads to good backlogs which leads to building the right thing.
 
 {/blurb}

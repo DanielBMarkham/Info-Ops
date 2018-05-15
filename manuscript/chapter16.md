@@ -1,6 +1,6 @@
 # Finishing A Project Using EasyAM
 
-![Better listening ain't going to cut it](images/chapter16-begin.png)
+![Better listening alone ain't going to cut it](images/chapter16-begin.png)
 
 
 Ok, here we go! Off to work now!
