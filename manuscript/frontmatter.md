@@ -24,6 +24,8 @@ It doesn't work like that.
 
 In order to prevent this from happening, and in order to help you get your head out of your current work and thinking about the big picture, I've done my best to come up with various ludicrous scenarios. Once you learn the skills, there are limitless ways you can apply what you've learned here. But you have to do the work here first. In the field of analysis, without the knowledge and skills, no amount of "how-to" instructions is going to amount to anything. In fact it's more likely to hurt you than help. My career has been full of people doing a lot of really bad analysis because they just wanted simple instructions and quick fix. Don't be that person.
 
+Early in the book concepts are tightly sourced to historical events, figures, books, and fields of study. Later in the book, as we move into practical application, I have created several handouts and posters by synthesizing a lifetime of reading and hands-on experience in organizations and delivery groups of many different sizes and configurations. I will clearly identify those areas and attempt to source out the roots of these creative materials to the best of my ability.
+
 Finally, if you've already been exposed to some of the concepts here, you may find problems with the way I am presenting things. Why didn't he include X? How can he talk about B without mentioning A first?
 
 I've found with most all of these concerns, within five or ten pages it works itself out and makes sense. There are a few major topics I purposely skip and hold off addressing until later. All of these are marked with footnotes.

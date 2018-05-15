@@ -214,6 +214,6 @@ Next we'll talk about various automated scenarios where the Analysis Model plays
 
 ### Did you get it?
 
-We learned how to use Info-Ops values to manage a project where you're not directly creating something. The values, tagging system, and the tools give you a lot more options than you had before -- but they also tell you about what's possible and what's impossible.
+You learned why Structured Analysis works great in some situations and not-so-great in others. You learned how to identify those situations and what to do if you're in a situation where it doesn't work that well. You learned why teams that run teams are most at risk for self-deception -- and you learned strategies to help avoid that happening.
 
 {/blurb}

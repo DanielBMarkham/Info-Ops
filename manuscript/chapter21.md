@@ -252,6 +252,6 @@ Next let's generalize a little bit based on what we've learned before we attack 
 
 ### Did you get it?
 
-You learned why Story Mapping and UI/UX workshops are such powerful analysis tools and how to use them correctly. You learned how to estimate quickly, how to use EasyAM to easily keep track of user story information like remaining hours or points (if you do that kind of thing). You learned why ATDD is the technology, System Realized version of what we've been talking about all along, and how to use EasyAM to automatically generate gherkin feature files that provide you with all the acceptance criteria information you need to know.
+You learned why Story Mapping and UI/UX workshops are such powerful analysis tools and how to use them correctly. You learned how to estimate quickly, how to use EasyAM to easily keep track of user story information like remaining hours or points (if you do that kind of thing). You learned why ATDD is the technology, System Realized version of what we've been talking about all along, and how to use EasyAM to automatically generate gherkin feature files that provide you with all the acceptance criteria information you need to know for a particular user story.
 
 {/blurb}

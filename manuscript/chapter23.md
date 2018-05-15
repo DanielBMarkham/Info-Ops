@@ -1,6 +1,6 @@
 # Legacy Systems And Build Pipelines 
 
-![](images/chapter23-begin.png)
+![Woo-eeeeee! Now I glow in the dark!](images/chapter23-begin.png)
 
 
 ## Understanding Legacy Systems
@@ -169,6 +169,6 @@ Gee, what a cool idea! Somebody should write a book about that. If it were me, I
 
 ### Did you get it?
 
-We learned how to deal with already established information system and all the duplication, paperwork, and overhead they require. Good thing we have a tool to help us out here!
+You learned why legacy systems can make doing any amount of work much more complicated and arduous than it has to be. You learned why everything you've learned so far is just as applicable in a legacy system as it is a greenfield project. You learned why tying bugs back to the Master Model drastically decreases work. You learned how to walk into a preexisting project and begin organizing even if you don't have control over the tools you are required to use. 
 
 {/blurb}

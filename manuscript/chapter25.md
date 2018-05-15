@@ -131,11 +131,3 @@ Thank you for coming along. I hope to see you in future books!
 *Ceterum autem censeo Carthaginem delendam esse*[^25-31]
 
 [^25-31]: You have to have some kind of cool catch-phrase to end your book. Leave people happy. Don't end the book on an unhappy or dour phrase. Your last words should be pithy and memorable. They should make you sound intelligent and sensitive. Back in Roman days, Cato the Elder really didn't like the city of Carthage. He just couldn't stop talking about how much he hated it. So no matter what else he was talking about, he always ended it with that phrase. Loosely translated, it means something like "And finally, I conclude by saying Carthage must be destroyed!" Carthage *was* eventually destroyed, but I think there's probably nothing wrong with destroying it again. Nobody has used the phrase in a long time; it's due to become cool again. Plus Latin, right? How cool is that? Huh? Dang Carthagenians. Never met one I liked. (Ever hear about a Carthagenian building an orphanage? Feeding the poor? See?) Last words are important. Mean little bastards.
-
-{blurb, class: information}
-
-### Did you get it?
-
-We had a lot of fun with scripting and programming in this chapter. There's a lot more we can do now that we know what we're doing.
-
-{/blurb}

@@ -9,7 +9,7 @@ But all of that is just table stakes. Good Info-Ops keeps your focus where it ne
 
 ![The Test-Driven Analysis Wheel of Pain](images/TDA-Wheel.png)[^22-0]
 
-[^22-0]: I jokingly call this the "Wheel of Pain" because it was painful to come up with. I imagine it will be misused in all sorts of inappropriate and painful ways by people who didn't read the rest of the book, and once you narrow in on exactly what the hell you're actually doing in your project, these types of questions themselves tend to guide you to painful places. My rule on project pain is this: every project has a certain amount of emotional pain. You either go for the tough questions as soon as possible, getting the pain out of the way -- or it sits and festers, becoming ten or twenty times as big when you finally get around to it. Early project work is all around finding the biggest pain =and figuring out what to do with it.
+[^22-0]: I jokingly call this the "Wheel of Pain" because it was painful to come up with. I imagine it will be misused in all sorts of inappropriate and painful ways by people who didn't read the rest of the book, and once you narrow in on exactly what the hell you're actually doing in your project, these types of questions themselves tend to guide you to painful places. My rule on project pain is this: every project has a certain amount of emotional pain. You either go for the tough questions as soon as possible, getting the pain out of the way -- or it sits and festers, becoming ten or twenty times as big when you finally get around to it. Early project work is all around finding the biggest emotional pain and figuring out what to do with it.
 
 You would think that in a book like this, at some point there would be a diagram of things you haven't seen before, maybe some kind of circle or loop. Some cool new process. Something you can show the other nerds down at the water cooler.
 
@@ -153,6 +153,7 @@ I always worry about whether we're building the right thing and keep bringing it
 
 ### Did you get it?
 
-Although there are a lot types of things we can ask questions about (our tagging system covered that), there are really only five types of questions. Knowing that allowed us to take a look at the other Scrum processes and talk about their role in Info-Ops so that we can build the right thing without wasting a lot of time and money.
+You learned why there are only five categories of important questions. You learned how you can use that to take a look at the other Scrum/Agile meetings. You learned why Info-Ops exists outside of processes, rituals, and meetings and how that allows you adapt quicker, building the right thing without spending a lot of unnecessary time and money. (Cool quote: "The information about what you're doing isn't anywhere nearly as important as what you're doing about your information.")
+
 
 {/blurb}
