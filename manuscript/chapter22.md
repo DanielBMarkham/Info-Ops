@@ -7,7 +7,7 @@ Yes, you'll need to use tools -- a bunch of them. Yes, you'll have to have some 
 
 But all of that is just table stakes. Good Info-Ops keeps your focus where it needs to be.
 
-![The Test-Driven Analysis Wheel of Pain](images/Test-Driven-Analysis-Constellation.png)[^22-0]
+![The Test-Driven Analysis Wheel of Pain](images/TDA-Wheel.png)[^22-0]
 
 [^22-0]: I jokingly call this the "Wheel of Pain" because it was painful to come up with. I imagine it will be misused in all sorts of inappropriate and painful ways by people who didn't read the rest of the book, and once you narrow in on exactly what the hell you're actually doing in your project, these types of questions themselves tend to guide you to painful places. My rule on project pain is this: every project has a certain amount of emotional pain. You either go for the tough questions as soon as possible, getting the pain out of the way -- or it sits and festers, becoming ten or twenty times as big when you finally get around to it. Early project work is all around finding the biggest pain =and figuring out what to do with it.
 

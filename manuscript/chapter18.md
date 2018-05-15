@@ -11,7 +11,7 @@ People really love this stuff.
 
 I am not one of those people.
 
-![Coming up in a couple of chapters, the Test-Driven Analysis Wheel](images/Test-Driven-Analysis-Constellation.png)
+![Coming up in a couple of chapters, the Test-Driven Analysis Wheel](images/TDA-Wheel.png)
 
 I believe that having a mission comes ahead of everything else. A mission translates to values + habits and that leads to success. That is, you get further by creating habits and a lifestyle that reflect your values and advances your mission than you do by trying to complete some kind of top-down masterplan of where you want to be in five years. You have no idea what things are going to be like in five years, and you have no concept of what things might be feasible or impossible. So how could you break things down?[^18-2]
 

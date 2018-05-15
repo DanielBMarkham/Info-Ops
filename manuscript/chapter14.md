@@ -150,6 +150,6 @@ Now let's organize some stuff!
 
 ### Did you get it?
 
-You learned why it's easier to use a tool to slice and dice the tagged information instead of trying to do it all by hand. You learned how to download the free tool that comes with the book and in general how it works. Yay! No duplicate work!
+You learned why it's easier to use a tool to slice and dice the tagged information instead of trying to do it all by hand. You learned how to download the free tool that comes with the book and in general how it works. Yay! No duplicate work! Enter only the minimum amount necessary!
 
 {/blurb}

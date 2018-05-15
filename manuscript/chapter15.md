@@ -302,6 +302,6 @@ Ok, so we've spent ten hours or so, we've gotten to know our customer much bette
 
 ### Did you get it?
 
-Now we're starting to learn how taking apart information by tagging it up and then reassembling it can: let us be more professional, ask better questions, and find ways to make the customer happy that they haven't even thought of yet.
+You learned why shared physical activity during the dialtectic can speed the process. You learned how to leverage what you've learned so far to move between levels and buckets quickly, providing the customer with things they wanted before they knew they wanted them. Good Info-Ops means building what people want, not building what they don't want -- and finding things that will make them really happy without a lot of additional work on anybody's part.
 
 {/blurb}

@@ -1,6 +1,6 @@
 # Finishing A Project Using EasyAM
 
-![](images/chapter16-begin.png)
+![Better listening ain't going to cut it](images/chapter16-begin.png)
 
 
 Ok, here we go! Off to work now!
@@ -299,6 +299,6 @@ We have built a deck and our customer loves it. Next let's talk about lessons le
 
 ### Did you get it?
 
-Once things get rolling, we can refer back to our Master Models to talk about how the work is going, whether or not we're building the right thing, critical conversations in the past and future --- and other stuff we haven't learned yet.
+You learned why when you're talking about important project work -- whether or not we're building the right thing, critical conversations in the past and future, and a lot of other things we haven't talked about -- referring back to your Analysis Model helps orient everybody and quickly identify the next things that need to be discussed and why they're important. You learned how to use what you've learned to verbally walk through acceptance and handle disagreements.
 
 {/blurb}
