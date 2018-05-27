@@ -16,7 +16,7 @@ This book is not about process, although various processes are used as examples.
 
 This book is not about theory and fuzzy concepts, it is solely dedicated to making things people want. But you have to crawl before you can walk, and new concepts always sound fuzzy until you realize how they're put to use. The first part of the book is solely about understanding theory and the basics along with examples. Once we've finished that, only then will we be able to learn to apply the theory in small teams, teams-of-teams (programs/PMOs), and startups.
 
-![These values are shown by example, along with plenty of practical application](images/info-ops-values.png)
+![These values are shown by example, along with plenty of practical applications](images/info-ops-values.png)
 
 
 This book has programming in it. The nature of most all project work is that you collect far more information than you hang on to in your head. It has to go somewhere. To be practical you have to learn how to store and shuffle potentially large amounts of information around. After Section 1, for everything we learn and do, we'll also talk about how to automate it.
