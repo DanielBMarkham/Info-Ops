@@ -1,0 +1,48 @@
+Hi there! 
+
+We're having some fun chatting about the book Info-Ops. I'm giving you the highlights so that you can either take what I'm giving you for free and run with it -- or decide to buy the book. Either outcome is a win for both of us, right?
+
+We've covered a lot of ground and now we're doing a lot of applied stuff really quickly. That's by design: Info-Ops is not an instruction book. It's a book that teaches you how to think about gathering and organizing your project information. If you know that, then you can use dozens of instruction books. If you don't know that? Any kind of instructions aren't going to help you.
+
+Today we're going to look at evaluating your processes. Are they working to support clean backlogs and good information discipline?
+
+Not so much in the email series, but in the book through all of our examples, we've demonstrated six values over and over again. These values are the core of what you've been learning
+
+[[VALUES]]
+
+As you can see, looking at technology projects "sideways" from information's standpoint, we end up with some new values to add to those from other places, like the Agile Manifesto. Values lead to principles which lead to practices, so if you're going to optimize your processes, you have to start with a solid foundation of values.
+
+As an example process to look at, let's take backlog refinement. Did you know that your backlog shouldn't be more than 60-80 items? How can that be? Through good Info-Ops, of course. When you sit down to do refinement, if you're doing it right, you're usually looking at five things:
+
+Introduce new information
+Synchronize the model
+Clean up the backlog
+Verify we're ready for the next bit of work
+Tease out the best way the entire model might be delivered
+
+There are a lot of ways to do anything. One of the reasons I didn't dive deep into process, aside from not wanting to get into yet another religious process war, was that it doesn't matter: good Info-Ops is the same no matter which processes you use. It's above process. But it can tell us a lot about whether or not our processes are working. 
+
+For instance, no matter what you're doing, all conversations come down to combinations around questions in five areas. I call this the Test-Driven Analysis Wheel. It's not really a wheel, but I didn't know what other word to use.
+
+[[WHEEL]]
+
+It's not sequential, it's just "categories of important questions". Sometimes the questions all happen at once. Sometimes you concentrate on just one area. Backlog refinement is the process of moving from the top node "Deciding what to Learn" clockwise to the "Creating Failing Tests" node. Lots of important processes involve moving from one node to another. TDD is moving from "Creating Failing Tests" to "Making All The Tests Pass" with refactoring thrown in for good measure. (After all, when else would be the time to refactor?) It is almost always a mistake to focus on one area and try to work it alone.
+Draw a vertical line down the middle, splitting it in half. This splits internal versus external interaction. On the right-hand side, we have all of the external questions that have to do with how we are changing the target system: what we're doing, how we know if we're done, whether or not we've been successful or not. On the left, we have all of the internal questions that have to do with whether we really understand what we're doing or not; our internal mental models: are we only making the solution as complex as it needs to be and no more, are we solving the right problem instead of the problem we thought we had, are we reconsidering what we've learned as we go along.
+
+You can do the same thing with a horizontal line. Drawing a horizontal line splitting the wheel in half separates thinking from doing. The top half is all about thinking: what do we think the problem is, what do we think the best way to learn more about it is, what do we think would help us do that? The bottom half is all about doing: what do we do to see if we're done, what do we do to get to done, what do we do to keep things simple, what do we do to organize our thoughts.
+
+While there are no processes here, between any two dots there's a common form of activity that occurs no matter what kind of analysis model you're working with. We've already talked about Refinement. There's also Development, Refactoring, Restating, and Synchronizing. There are a plethora of books on those first three areas. For many people, this book is an introduction to the last two.
+
+There are a ton of things we did not have time to go over: Analysis Affinity Mapping, Splitting User Stories, The Analysis Survey, handling details for bucket items, Rule of Test-Driven Analysis, and so on. But these are the highlights.
+
+Remember that this book is an introduction to a new area. The goal of an introduction like this is to get you thinking about working with concepts you hadn't before. For example, if you want to look at any of the processes you have, ask which of the question categories are being addressed. Ask if the values are being respected. Finally ask if you have the information at your fingertips to do the work. All of these are equally-important.
+
+Thanks for hanging out! I'm really pleased that you hung in there for the entire series -- I know the tag stuff at the beginning can be a huge pain. I really want you to continue your journey, really nail this. That's because I think it will make a huge difference in your professional career. The better you understand Info-Ops, the easier technology project work becomes.
+
+I can't give you the book for free -- it would worthless. You wouldn't read it. That's just human psychology. But I can show you the highlights. And I can give you a discount. I've created a coupon so that if you act soon, you can click below and save ten bucks.
+
+Hopefully these emails, just like the book, are the beginning of a fun, productive journey for you. Best of luck on in your travels! I've really enjoyed our time together. I hope you have too.
+
+Daniel
+
+leanpub.com/info-ops/c/HiVEcY7Ev5a4

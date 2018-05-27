@@ -4,7 +4,7 @@
 
 ## What to Expect in this Book
 
-![This book will explain and show you how to use these values](images/info-ops-values.png)
+![Info-Ops will teach you how to organize your information and conversations for maximum value with minimum overhead](images/boxed-info-ops-overview.png)
 
 This book is about making things people want.
 
@@ -15,6 +15,9 @@ This book is useful anytime you have two or more people attempting to create som
 This book is not about process, although various processes are used as examples. A hundred years from now everybody may using WhizBangOMatic Process 7.0. The principles in this book will still apply and be useful. It is about how various processes work, and why. When you finish you should be able to improve whatever your existing processes are and look at proposed new processes with a critical eye.
 
 This book is not about theory and fuzzy concepts, it is solely dedicated to making things people want. But you have to crawl before you can walk, and new concepts always sound fuzzy until you realize how they're put to use. The first part of the book is solely about understanding theory and the basics along with examples. Once we've finished that, only then will we be able to learn to apply the theory in small teams, teams-of-teams (programs/PMOs), and startups.
+
+![These values are shown by example, along with plenty of practical application](images/info-ops-values.png)
+
 
 This book has programming in it. The nature of most all project work is that you collect far more information than you hang on to in your head. It has to go somewhere. To be practical you have to learn how to store and shuffle potentially large amounts of information around. After Section 1, for everything we learn and do, we'll also talk about how to automate it.
 
