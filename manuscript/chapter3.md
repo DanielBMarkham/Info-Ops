@@ -7,7 +7,7 @@ Information flow optimization is providing the right amount of information at th
 
 How would you communicate with aliens?
 
-The usual answer from sci-fi and science is that we'd use some sort of mathematical substrate. In Carl Sagan's book "Contact" humans receive a signal full of prime numbers. In "Close Encounters of the Third Kind" they use the math of music. SETI scientists have attempted to communicate with aliens by monitoring radio signals around the wavelength of hydrogen, which makes a ton of assumptions: comnmunication would be by radio, atomic wavelengths hold some sort of curious pull on species wanting to talk, and other species actually want to communicate, among others.
+The usual answer from sci-fi and science is that we'd use some sort of mathematical substrate. In Carl Sagan's book "Contact" humans receive a signal full of prime numbers. In "Close Encounters of the Third Kind" they use the math of music. SETI scientists have attempted to communicate with aliens by monitoring radio signals around the wavelength of hydrogen, which makes a ton of assumptions: communication would be by radio, atomic wavelengths hold some sort of curious pull on species wanting to talk, and other species actually want to communicate, among others.
 
 As an example of how difficult the language problem can be, in the excellent book "Three Body Problem" the issue of communication is almost hand-waved away by author Liu Cixin. That's a good thing, because most of the time this topic is done poorly.
 
@@ -101,7 +101,7 @@ Some of the worst business books I see are books that immerse the reader in one 
 
 I see management books and classes that act as if you can be a manager (which is all about how we're going to solve things) without regard for the actual problem you're solving or what you're actually making. To them, management is supposed to exist as a sort of abstract world on its own, disconnected from life. I see programming books and classes that act as if by somehow learning the tiny intricacies of a programming language you'll know anything about how to organize the overall work, or what kinds of lives the people you're trying to help live. 
 
-We love these genres and many us would, if given the chance, spend all of our time living and interacting in this one genre/universe of our choice. But it takes living and interacting in all three genres to get anything useful done.
+We love these genres and many of us would, if given the chance, spend all of our time living and interacting in this one genre/universe of our choice. But it takes living and interacting in all three genres to get anything useful done.
 
 Don't get me wrong. Each of these genres are extremely important. But they're only important because we move between all three everyday. You have to learn about all three of these genres. But we don't teach people that way. It's like training people to be excellent taxi drivers by sending them to four years of learning about how cars work.
 
