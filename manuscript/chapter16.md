@@ -165,7 +165,9 @@ Now you're looking at all of the touch-points regarding this supplemental, right
 
 "Yeah, ok. We talked about this last Thursday, right? When we talked about taking naps in the summer, you mentioned that you wanted your two family members to be able to use the hammocks. We talked again about them using the hot tub and telescope. Remember I showed you these notes about how ten feet would be enough?"
 
-Notice how this is a collaborative, not confrontational, discussion. 
+Notice how this is a collaborative, not confrontational, discussion.[^16-4995]
+
+[^16-4995]: A great book to read to help you with these kinds of conversations is Douglas Stone's ["Difficult Conversations"](https://amzn.to/2y5EJzf). For the tl;dr, Stone says to always be wanting to learn first. He also says there are three categories of conversations that all happen somehwat simultaneously. It's important to sort that out. There's the "What Happened?" conversation, the "How I feel about it" conversation, and the "How does this affect my identify, my self-worth" conversation. There's a bunch more in the book. Highly recommended. I've only briefly covered the "What Happened" part of the conversation in the book for brevity's sake.
 
 Whatever happens now is fine. Maybe we missed something. Maybe we didn't. In either case, we're able to pick up a model card, look at what's joined to it, then read those notes and questions, reminding everybody about all the great times we had back in the day. The written model has done its job.
 
