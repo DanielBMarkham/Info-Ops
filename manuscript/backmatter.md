@@ -4,6 +4,10 @@
 
 Enjoyed the book? Interested in taking this to the next level, working with large groups and vague value propositions? Check out "Info-Ops 2: The Sequel"[^bm-1]
 
+If we take a rusty saw and saw the Product Owner into pieces, which I do not recommend doing, Info-Ops 1 is all about how, once you know what you want, getting it built with the minimum amount of waste, overhead, and friction.
+
+Info-Ops 2 is the other side of the Product Owner: figuring out what to build. It promises to be even more fun than this book. There are dozens of neat processes, tips, and tactics I'm looking forward to introducing you to.
+
 [^bm-1]: I had initially planned to include this material in this book. Feedback from alpha and beta readers, however, have shown me that 1) there are two different audiences, 2) people will skip ahead and not know what the hell is going on, then blame the author for being confused, and 3) once you really understand what's in this book you're ready for the rest of it -- but not until then. So I split it up into two parts.
 
 ### Meta, Large Teams, and Teams of Teams
@@ -26,9 +30,10 @@ Enjoyed the book? Interested in taking this to the next level, working with larg
 - Focus vs. Values
 - The Automation Cycle
 
+All of this is subject to revision once the book gets going. Stay tuned!
+
 # About the Author
 
 ![Daniel B. Markham](images/daniel-perhaps-author.png)
 
 A self-taught polymath, Daniel has spent his life helping really smart people solve really tough problems -- and trying to figure out why some of them succeed while others fail. Daniel has assisted organizations in creating a better future in size from 4 to 40,000 people. He has four children, three boys and a girl. He lives with his wife, Melissa, in the backwoods of South-Central Virginia with his dogs, pickup truck, and a lot of trees. All he ever wanted to be was a writer.
-

@@ -46,7 +46,6 @@ What's really cool is that you learned enough that we could start talking about 
 
 Information doesn't get to where it needs to go. People die. Now you know why that happens. More importantly you know how to keep it from happening again.
 
-
 I think you'll find the hardest part about it is having to *unlearn* stuff we already thought you knew. If you ask somebody, "Isn't your analysis information more important than your code?", most people would disagree. That's because most people want to focus on what they're doing instead of who they're trying to help. Enough about you, let's talk about me some more!
 
 But you know better now. 
