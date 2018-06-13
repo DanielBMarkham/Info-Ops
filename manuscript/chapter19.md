@@ -176,7 +176,7 @@ Note that I am **not** saying you won't end up with various large lists of thing
 
 [^19-30]: Many of you will have lots of questions around other ways of manipulating the analysis model: release plans, roadmaps, bug triage, and so forth. We'll handle these as we get to them. Right now it's grooming. 
 
-![](images/Backlog-Sizing.jpg)
+![](images/How-To-Keep-Your-Backlog-Small.png)
 
 ### Verifies that we're ready to create executable tests for upcoming pieces of work
 

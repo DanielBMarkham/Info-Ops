@@ -65,7 +65,7 @@ In general, whatever the target system, it should have at least these properties
 - Logical. It is consistent. If something is one way in one place, it's the same way in another.
 - Deductive. Given that certain things are true, it follows (you can deduce) that other things must be true also.
 
-A deck follows these rules. So does a Mars Colony project. A computer program certainly does. A children's book about donkeys from the edge of space probably does not. (Depending on the donkeys)
+A deck follows these rules. So does a Mars Colony project. A computer program certainly does. A children's book about donkeys from the edge of space probably does not. (Depending on the donkeys. As you well know, some species of alien space donkeys are notoriously formal.)
 
 You can certainly use Analysis, Structured or otherwise, to try to make sense of such systems. After all, there's nothing else available to you. But trying to gain traction to change the future behavior of the target system when the target system is not a formal one is mostly an exercise in frustration. You can't write accounting software with Jello.
 
