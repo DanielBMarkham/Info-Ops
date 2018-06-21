@@ -69,6 +69,8 @@ If our job were to dig holes, analysis would be dialectical conversations around
 
 In "Arrival", analysis was all of the conversations aside from the aliens actually talking to the linguist. It was the planning, talk about how to do decontamination, the discussion of what topics were next, the discussion about who was in charge, the coordination with the other groups, the lecturing on how to communicate with aliens. All of the conversations "around" actually talking to the aliens was analysis. Analysis sets the stage for doing the work.
 
+![People do analysis in all kinds of ways. And it works well enough every now and then, just well enough and just often enough to prevent most folks from wondering about or figuring out how it works](images/boxed-why-analysis-is-so-hard.png)
+
 So now we have a second big word that I expect you to use from here on out! Woo hoo! **Analysis** *Analysis is the use of the dialectic -- asking humble, pointed, direct, and honest questions back and forth among friends seeking a common understanding, probing out thesis and antithesis -- in order to provide the foundation needed to solve a particular problem.*
 
 **Information flow optimization is providing the right amount of information at the right time to support effective analysis by the people doing the work.**

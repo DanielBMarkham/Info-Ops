@@ -77,7 +77,21 @@ For purposes of our shared mental model, there's only one "Customer" that exists
 
 ***There is no meaning for any term or phrase for the team for that work outside of the Analysis Model. This is true whether the model is written-down or not.***
 
-That's not saying that you have to write everything down. Far from it. 90% or more of all Analysis Models exists unspoken in the minds of the people doing the work. But the parts you *do* decide to write down? They become "stepping stones", a way three months from now to forget about your beach vacation and get back to talking about making custom hamburgers using flying robots. You could do it without writing any of the model down. Happens all the time. It's just a heckuva lot harder. And you forget stuff. So don't do that.
+When we first introduced analysis, we talked about how difficult it was, and all the ways it could go wrong. With linkages between important concepts in place, we now have a wonderful roadmap where all the really good conversations are going to happen.
+
+## We just discovered User Stories
+
+All kinds of magic happens because of the linkages.
+
+Take User Stories. If you've worked on a technology project, you've probably seen user stories, which are testable chunks of stuff you're implementing in some target system. But dang that's a big mouthful of words. How about "You join a behavior item to some items to make a test. Once the test is made, you do the work to make the test pass"?
+
+To me that's a heck of a lot easier.
+
+![Whoa horsey! Linking stuff together creates everything I need to do my work! Without a bunch of docs!](images/web-story-of-a-user-story.png)
+
+Suddenly all of these pyramids and layers are coming together to explain User Stories and make them easier. Now that we're finishing up our foundation work, we'll be talking more and more about the models and links and how they make a bunch of tough things easy.
+
+I'm not saying that you have to write everything down. Far from it. 90% or more of all Analysis Models exists unspoken in the minds of the people doing the work. But the parts you *do* decide to write down? They become "stepping stones", a way three months from now to forget about your beach vacation and get back to talking about making custom hamburgers using flying robots. You could do it without writing any of the model down. Happens all the time. It's just a heckuva lot harder. And you forget stuff. So don't do that.
 
 So how does this "The Analysis Model is love, happiness, goodness, and the universe! It's all connected with itself! It is meaning!" work in practice?
 
